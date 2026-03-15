@@ -1,0 +1,92 @@
+attribute_label_en|attribute_id|attribute_label_es|attribute_context_class_id|attribute_context_class_code|attribute_attr_class_id|attribute_attr_class_code|attribute_title_en|attribute_title_es|attribute_formula|attribute_explanation_en|attribute_explanation_es|attribute_reference
+Agent-Based Model Analysis|2001|Analisis de modelos basados en agentes|5001|MMSS|4001|Metodo|Agent-Based Model Analysis|Análisis de modelos basados en agentes||||
+Archival Analysis|2002|Analisis de Archivo|5001|MMSS|4001|Metodo|Archival Analysis|Análisis de Archivo||||
+Bibliometrics and Scientometrics|2003|Bibliometria y cienciometria|5001|MMSS|4001|Metodo|Bibliometrics and Scientometrics|Bibliometría y cienciometría||||
+Bioinformatics Tools|2004|Herramientas bioinformaticas|5001|MMSS|4001|Metodo|Bioinformatics Tools|Herramientas bioinformáticas||||
+Cluster Analysis|2005|Analisis de Conglomerados|5001|MMSS|4001|Metodo|Cluster Analysis, k-Means Clustering|Análisis de Conglomerados, Clusterización con k-medias||||
+Computational Qualitative Analysis|2006|Analisis Cualitativo Computacional|5001|MMSS|4001|Metodo|Computational Qualitative Analysis|Análisis Cualitativo Computacional||||
+Correspondence Analysis|2007|Analisis de Correspondencia|5001|MMSS|4001|Metodo|Correspondence Analysis|Análisis de Correspondencia||||
+Digital Source Mining|2008|Mineria de Fuentes Digitales|5001|MMSS|4001|Metodo|Digital Source Mining|Minería de Fuentes Digitales||||
+Direct Observation of Behavior|2009|Observacion directa|5001|MMSS|4001|Metodo|Direct Observation of Behavior|Observación directa del comportamiento||||
+Document Analysis|2010|Analisis documental|5001|MMSS|4001|Metodo|Document Analysis|Análisis Documental||||
+Ethnography|2011|Etnografia|5001|MMSS|4001|Metodo|Ethnography|Etnografía||||
+Formal Concept Analysis|2012|Analisis de conceptos formales|5001|MMSS|4001|Metodo|Formal Concept Analysis|Análisis de Conceptos Formales||||
+Genetic Analysis|2013|Analisis genetico|5001|MMSS|4001|Metodo|Genetic Analysis|Análisis Genético||||
+Inductive Game Theory|2014|Teoria de juegos inductiva|5001|MMSS|4001|Metodo|Inductive Game Theory|Teoría de juegos inductiva||||
+Interviews|2015|Entrevistas|5001|MMSS|4001|Metodo|Interviews|Entrevistas||||
+Linear Regression|2016|Regresiones lineales|5001|MMSS|4001|Metodo|Linear and Logistic Regression, Event Analysis|Regresiones lineales, logísticas y análisis de eventos||||
+Literature Review|2017|Revision bibliografica|5001|MMSS|4001|Metodo|Literature Review|Revisión Bibliográfica||||
+Machine Learning|2018|Aprendizaje de maquina|5001|MMSS|4001|Metodo|Machine Learning and Fundamental Analysis|Aprendizaje de máquina y análisis fundamental||||
+Multiplex Network Analysis|2019|Analisis multiplex|5001|MMSS|4001|Metodo|Monoplex, Multiplex, or Multilayer Network Analysis|Análisis Monoplex,  multiplex o multicapa||||
+Network Visualization|2020|Visualizacion de redes|5001|MMSS|4001|Metodo|Network Analysis and Visualization|Análisis y Visualización de redes||||
+Pattern Recognition|2021|Reconocimiento de patrones|5001|MMSS|4001|Metodo|Pattern Recognition for Distant Reading|Reconocimiento de patrones para lectura distante||||
+Reconstruction of Genealogies and Trajectories|2022|Reconstrucccion de genealogias y trayectorias|5001|MMSS|4001|Metodo|Reconstruction of Genealogies and Trajectories|Reconstruccción de genealogías y trayectorias||||
+Sentiment Analysis|2023|Analisis de sentimientos|5001|MMSS|4001|Metodo|Sentiment Analysis|Análisis de sentimientos||||
+Software Engineering|2024|Ingenieria de software|5001|MMSS|4001|Metodo|Software Engineering|Ingeniería de Software||||
+Social Networks Analysis|2025|Analisis de redes sociales|5001|MMSS|4001|Metodo|Study and Analysis of Social Networks|Estudio y Análisis de redes sociales||||
+Surveys|2026|Encuestas|5001|MMSS|4001|Metodo|Surveys|Encuestas||||
+Technical Analysis|2027|Analisis Tecnico|5001|MMSS|4001|Metodo|Technical Analysis|Análisis Técnico||||
+Topic Modeling Analysis|2028|Analisis de Modelos tematicos|5001|MMSS|4001|Metodo|Topic Modeling Analysis|Análisis de Modelos temáticos||||
+Academic networks|2029|Redes academicas|5001|MMSS|4002|Linea|Academic networks|Redes académicas||||
+CT indicators|2030|Indicadores de CyT|5001|MMSS|4004|Tema|CT indicators|Indicadores de CyT||||
+Enviromental and climate change|2031|Cambio ambiental y climatico|5001|MMSS|4004|Tema|Enviromental and Climate change|Cambio ambiental y climático||||
+Collective processing of information|2032|Procesamiento colectivo de informacion|5001|MMSS|4004|Tema|Collective processing of information|Procesamiento colectivo de información||||
+Complex social systems|2033|Sistemas Sociales Complejos y Dinamicas Sociales|5001|MMSS|4004|Tema|Complex social systems|Sistemas Sociales Complejos y Dinámicas Sociales||||
+Computational analysis|2034|Analisis Computacional|5001|MMSS|4001|Metodo|Computational analysis|Análisis Computacional||||
+Computational thinking|2035|Pensamiento Computacional|5001|MMSS|4004|Tema|Computational Thinking|Pensamiento Computacional||||
+Gender studies|2036|Estudios de Genero|5001|MMSS|4004|Tema|Gender studies|Estudios de Género||||
+Genealogy of Academic Entities|2037|Genealogia de las entidades y los espacios academicos|5001|MMSS|4004|Tema|Genealogy of Academic Entities and Spaces| Genealogía de las entidades y los espacios académicos||||
+General theory of social systems|2038|Teoria general de Sistemas Sociales|5001|MMSS|4004|Tema|General theory of social systems|Teoría general de Sistemas Sociales||||
+Geographies of science|2039|Geografias de la ciencia|5001|MMSS|4004|Tema|Geographies of Science|Geografías de la ciencia||||
+History of knowledge circulation|2040|Historia de la circulacion del conocimiento|5001|MMSS|4004|Tema|History of Knowledge Circulation|Historia de la circulación del conocimiento||||
+History of probability|2041|Historia de la probabilidad|5001|MMSS|4004|Tema|History of Probability|Historia de la probabilidad||||
+History of statistics|2042|Historia de la Estadistica|5001|MMSS|4004|Tema|History of Statistics|Historia de la Estadística||||
+Institutionalization of statistics|2043|Institucionalizacion de la estadistica|5001|MMSS|4004|Tema|Institutionalization of Statistics|Institucionalización de la estadística||||
+Knowledge representations|2044|Representaciones del Conocimiento|5001|MMSS|4004|Tema|Knowledge representations|Representaciones del Conocimiento||||
+Maps of science|2045|Mapas de la ciencia|5001|MMSS|4004|Tema|Maps of science|Mapas de la ciencia||||
+Mathematical modeling|2046|Modelizacion Matematica|5001|MMSS|4002|Linea|Mathematical modeling and knowledge representation|Modelización matemática y representacción del conocimiento científico||||
+Quantitative History|2047|Historia cuantitativa|5001|MMSS|4004|Tema|Quantitative History|Historia cuantitativa||||
+Reproduction of Academic Spaces|2048|Reproduccion de espacios academicos|5001|MMSS|4004|Tema|Reproduction of Academic Spaces|Reproducción de espacios académicos||||
+Social Behavior|2049|Conducta social|5001|MMSS|4004|Tema|Social Behavior|Conducta social||||
+Social categories and classifications|2050|Categorias y Clasificaciones sociales|5001|MMSS|4004|Tema|Social Categories and Classifications|Categorías y Clasificaciones sociales||||
+Social complexity|2051|Complejidad social|5001|MMSS|4002|Linea|Social Complexity|Complejidad social||||
+Social frontiers|2052|Fronteras sociales|5001|MMSS|4004|Tema|Social frontiers|Fronteras sociales||||
+Social studies of CTS|2053|Estudios CTS|5001|MMSS|4007|Campo|Social studies of CTS|Estudios Sociales  y Filosóficos de la Ciencia y la Tecnología||||
+Socio-ecology|2054|Socioecologia|5001|MMSS|4004|Tema|Socio-ecology|Socioecología||||
+Socio-history of quantification|2055|Socio-historia de la cuantificacion|5001|MMSS|4002|Linea|Socio-history of quantification|Socio-historia de la cuantificación||||
+Sociology of professions|2056|Sociologia de las profesiones|5001|MMSS|4004|Tema|Sociology of Professions|Sociología de las profesiones||||
+Concept networks|2057|Redes conceptuales|5001|MMSS|4004|Tema|Concept networks|Redes conceptuales|||Epistemología estructural del conocimiento|
+Study of News|2058|Estudio de Noticias y Mercados Financieros|5001|MMSS|4004|Tema|Study of News and Financial Markets|Estudio de Noticias y Mercados Financieros||||
+University s sociocultural history|2059|Historia sociocultural universitaria|5001|MMSS|4002|Linea|University’s sociocultural history|Historia sociocultural universitaria||||
+Resilience|2060|Resilencia|5001|MMSS|4004|Tema|Resilience|Resilencia||||
+Academic entities|2061|Entidades Academicas|5001|MMSS|4003|Objeto|Academic Entities, Spaces, and Networks|Entidades, Espacios y Redes Académicas||||
+Agri-food networks|2062|Redes agroalimentarias|5001|MMSS|4003|Objeto|Agri-food Networks|Redes agroalimentarias||||
+Artificial intelligence|2063|Inteligencia artificial|5001|MMSS|4003|Objeto|Artificial Intelligence|Inteligencia artificial||||
+Physical Theories|2064|Teorias fisicas|5001|MMSS|4003|Objeto|Astronomy, Cosmology, and Gravitation Theories|Astronomía, Cosmología y Gravitación||||
+Social Measurement|2065|Medicion social|5001|MMSS|4003|Objeto|Categories and Classifications of Social Measurement|Las categorías y clasificaciones de medición social||||
+Cetaceans|2066|Cetaceos|5001|MMSS|4003|Objeto|Cetaceans|Cetáceos||||
+Climate Change|2067|Cambio climatico|5001|MMSS|4003|Objeto|Climate Change|Cambio climático||||
+Information Sources|2068|Cotejos de Documentos|5001|MMSS|4003|Objeto|Comparison of Documents and Information Sources|Cotejos de Documentos y fuentes de información||||
+COVID-19|2069|COVID 19|5001|MMSS|4003|Objeto|COVID-19|COVID 19||||
+Trajectories of Science|2070|Trayectorias en CyT|5001|MMSS|4003|Objeto|Development and Trajectories of Science and Technology|Desarrollo y trayectorias de C y T||||
+Digital News|2071|Noticias digitales|5001|MMSS|4003|Objeto|Digital News and Journalism|Noticias digitales, periodismo||||
+Digital Technologies|2072|Tecnologias digitales|5001|MMSS|4003|Objeto|Digital Technologies|Tecnologías digitales||||
+Economic System|2073|Sistema Economico|5001|MMSS|4003|Objeto|Economic System and Financial Markets|Sistema Económico y Mercados Financieros ||||
+Collective Tasks|2074|Tareas colectivas|5001|MMSS|4003|Objeto|Groups of People Working on Collective Tasks|Grupos de personas trabajando en tareas colectivas||||
+Human Vocal Interactions|2075|Interacciones vocales humanas|5001|MMSS|4003|Objeto|Human Vocal Interactions|Interacciones vocales humanas||||
+Statistical Practices|2076|Institucionalizacion de la estadistica|5001|MMSS|4003|Objeto|Institutionalization Processes of Statistical Practice|Procesos de institucionalización de la práctica de la estadística ||||
+Nanotechnology|2077|Nano-tecnologia|5001|MMSS|4003|Objeto|Nanotechnology|Nano-tecnología||||
+Socio-ecosystems in Yucatan|2078|Socio-ecosistemas en Yucatan|5001|MMSS|4003|Objeto|Socio-ecosystems in Yucatan|Socio-ecosistemas en Yucatán||||
+Socio-scientific Systems|2079|Sistemas socio-cientificos|5001|MMSS|4003|Objeto|Socio-technical and Socio-scientific Systems|Sistemas socio-técnicos y socio-científicos||||
+Spider Monkeys|2080|Monos araña|5001|MMSS|4003|Objeto|Spider Monkeys|Monos araña||||
+Studies of Scientists|2081|Estudios sobre cientificos|5001|MMSS|4003|Objeto|Studies and Biographies of Scientists|Estudios y biografías sobre científicos||||
+Tourism|2082|Turismo|5001|MMSS|4003|Objeto|Tourism Promotion and Advertising|La promoción y publicidad turística||||
+1st period|2083|Periodo 1|5001|MMSS|4005|Periodo|1st period|Periodo 1||1988-1995|1988-1995|
+2nd period|2084|Periodo 2|5001|MMSS|4005|Periodo|2nd period|Periodo 2||1996-2010|1996-2010|
+3rd period|2085|Periodo 3|5001|MMSS|4005|Periodo|3rd period|Periodo 3||2011-2025|2011-2025|
+Postdoctoral|2086|Posdoctorales|5001|MMSS|4006|Comision|Postdoctoral|Posdoctorales||||
+Researcher|2087|Investigadores|5001|MMSS|4006|Comision|Researcher|Investigadores||||
+Technician|2088|Tecnicos|5001|MMSS|4006|Comision|Technician|Técnicos||||
+Short stay|2089|Estancia corta|5001|MMSS|4005|Periodo|Short visit|Estancia corta||Sabatical stays, short visits, short posdoctorates|Estancias sabáticas, visitas, posdoctorados de uno o dos años.|
+Socio History|2090|Socio-historia|5001|MMSS|4007|Campo|Socio-history|Socio-historia||||
+Studies of technitians|2091|Estudios sobre tecnologos|5001|MMSS|4003|Objeto|Studies of technicians|Estudios sobre tecnólogos||||

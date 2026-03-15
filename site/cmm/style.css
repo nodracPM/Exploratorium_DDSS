@@ -1,0 +1,102 @@
+@media only screen and (min-width: 768px) {
+  .marcaAgua{
+    top: -20px;
+  }
+}
+
+@media only screen and (min-width: 0px) {
+	.content, footer {
+		background-color: #fff;
+	}
+
+  #info {
+    background: rgba(255,255,255,0.7);
+    margin: 0 auto;
+  }
+
+  .right li, .right span {
+    width: auto;
+    float: left;
+    position: relative;
+    padding: 10px 15px;
+    line-height: 20px;
+  }
+
+  .right li:hover {
+    text-decoration: none;
+    background-color: #eee;
+    cursor:pointer;
+  }
+
+  .right {
+    list-style: none;
+    right: 0;
+    float: right;
+  }
+
+  .logos img {
+    max-width: 100px;
+    max-height: 100px;
+    padding: 15px 0;
+    vertical-align: baseline;
+  }
+
+  .logos img:first-child {
+    max-width: 115px;
+    padding-right: 15px;
+  }
+
+  .title {
+    float: left;
+    position: relative;
+		width: 100%;
+  }
+
+  .intro {
+    float: left;
+    position: relative;
+		width: 100%;
+  }
+
+  .intro p {
+    margin: 5px 30px;
+  }
+
+  .marcaAgua {
+    background: url('../images/mapa.png');
+    background-size: cover;
+    height: 100%;
+    width: 150%;
+    top: -20px;
+    left: -60px;
+    position: absolute;
+    z-index: -1;
+    filter: grayscale(50);
+    opacity: .5;
+  }
+
+	.ligas {
+    max-width: 200px;
+    z-index: 10;
+    position: relative;
+    margin: 0 auto;
+    display: table;
+    font-family: 'Open Sans', sans-serif;
+	}
+
+	.ligas a {
+		width: 100%;
+		background-image: url("../images/pasto.svg");
+    background-position: bottom left;
+		color: white;
+		margin-top: 1ex;
+	}
+
+  .ligas a:hover {
+    color: #8DC07E;
+  }
+
+	.ligas a:first-child {
+		margin-top: 0;
+	}
+}

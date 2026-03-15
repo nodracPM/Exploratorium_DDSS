@@ -1,0 +1,2162 @@
+{
+   "concepts" : [
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Aline_Saldaña",
+            "Ana_Medeles",
+            "Carlos_Rodriguez",
+            "Cristina_Jasso",
+            "Eduardo_Robles",
+            "Gabriel_Ramos",
+            "Gabriela_Sued",
+            "Gerardo_Lopez",
+            "Israel_Garcia",
+            "Israel_Sandoval",
+            "Juan_Escalante",
+            "Leticia_Mayer",
+            "Liliana_Ramirez",
+            "Mariana_Espinosa",
+            "Nestor_Paredes",
+            "Pilar_Galarza",
+            "Sandra_Smith",
+            "Susana_Garcia",
+            "Teresa_de_Leon"
+         ],
+         "intent" : [],
+         "md5" : "f364422fb3165b5d2a0714a8c086b78d"
+      },
+      {
+         "extent" : [],
+         "intent" : [
+            "Academic networks",
+            "Collective processing of information",
+            "Complex social systems",
+            "Computational thinking",
+            "Concept networks",
+            "CT indicators",
+            "Enviromental and climate change",
+            "Gender studies",
+            "Genealogy of Academic Entities",
+            "General theory of social systems",
+            "Geographies of science",
+            "History of knowledge circulation",
+            "History of probability",
+            "History of statistics",
+            "Institutionalization of statistics",
+            "Maps of science",
+            "Mathematical modeling",
+            "Quantitative History",
+            "Reproduction of Academic Spaces",
+            "Resilience",
+            "Social Behavior",
+            "Social categories and classifications",
+            "Social complexity",
+            "Social frontiers",
+            "Social studies of CTS",
+            "Socio History",
+            "Socio-ecology",
+            "Socio-history of quantification",
+            "Sociology of professions",
+            "Study of News",
+            "University’s sociocultural history"
+         ],
+         "md5" : "2b0ccae82c551d206cce7cbb2638c1a0"
+      },
+      {
+         "extent" : [
+            "Ana_Medeles",
+            "Israel_Garcia",
+            "Israel_Sandoval",
+            "Leticia_Mayer",
+            "Nestor_Paredes",
+            "Pilar_Galarza",
+            "Susana_Garcia"
+         ],
+         "intent" : [
+            "Socio History"
+         ],
+         "md5" : "6e56d81347eebda9edd9aa73b5fa145e"
+      },
+      {
+         "extent" : [
+            "Israel_Garcia",
+            "Israel_Sandoval",
+            "Pilar_Galarza",
+            "Susana_Garcia"
+         ],
+         "intent" : [
+            "Socio History",
+            "University’s sociocultural history"
+         ],
+         "md5" : "09c87e19be0895ab054d8e16d6c8764b"
+      },
+      {
+         "extent" : [
+            "Israel_Garcia"
+         ],
+         "intent" : [
+            "Quantitative History",
+            "Socio History",
+            "Socio-history of quantification",
+            "University’s sociocultural history"
+         ],
+         "md5" : "f2f7e33875785e91c29193b26791ec42"
+      },
+      {
+         "extent" : [
+            "Israel_Sandoval",
+            "Susana_Garcia"
+         ],
+         "intent" : [
+            "Genealogy of Academic Entities",
+            "Socio History",
+            "University’s sociocultural history"
+         ],
+         "md5" : "aeaf93d789052d41e18e6e1523c73bf8"
+      },
+      {
+         "extent" : [
+            "Israel_Sandoval"
+         ],
+         "intent" : [
+            "Computational thinking",
+            "Genealogy of Academic Entities",
+            "Socio History",
+            "University’s sociocultural history"
+         ],
+         "md5" : "b0f6e724b767aa9f4e32185b5d8441cc"
+      },
+      {
+         "extent" : [
+            "Ana_Medeles",
+            "Israel_Garcia",
+            "Leticia_Mayer"
+         ],
+         "intent" : [
+            "Socio History",
+            "Socio-history of quantification"
+         ],
+         "md5" : "48a84ee81813e3cac242e7a198a49d5a"
+      },
+      {
+         "extent" : [
+            "Ana_Medeles",
+            "Leticia_Mayer"
+         ],
+         "intent" : [
+            "History of statistics",
+            "Socio History",
+            "Socio-history of quantification"
+         ],
+         "md5" : "eedd48edeefe083efdef12abacc54004"
+      },
+      {
+         "extent" : [
+            "Ana_Medeles"
+         ],
+         "intent" : [
+            "History of statistics",
+            "Institutionalization of statistics",
+            "Social categories and classifications",
+            "Socio History",
+            "Socio-history of quantification"
+         ],
+         "md5" : "f5dd87dd1bd6e19acedc3b44de17f5ec"
+      },
+      {
+         "extent" : [
+            "Leticia_Mayer"
+         ],
+         "intent" : [
+            "History of knowledge circulation",
+            "History of probability",
+            "History of statistics",
+            "Socio History",
+            "Socio-history of quantification"
+         ],
+         "md5" : "04958697f3c7e2cdb2be85f8aeaf616c"
+      },
+      {
+         "extent" : [
+            "Ana_Medeles",
+            "Nestor_Paredes"
+         ],
+         "intent" : [
+            "Social categories and classifications",
+            "Socio History"
+         ],
+         "md5" : "889044a0774321d44d61074d8699a752"
+      },
+      {
+         "extent" : [
+            "Nestor_Paredes"
+         ],
+         "intent" : [
+            "Reproduction of Academic Spaces",
+            "Social categories and classifications",
+            "Social frontiers",
+            "Socio History",
+            "Sociology of professions"
+         ],
+         "md5" : "804b3644e198724af9e1c8cc77c8324a"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Eduardo_Robles",
+            "Gabriela_Sued",
+            "Juan_Escalante",
+            "Liliana_Ramirez",
+            "Teresa_de_Leon"
+         ],
+         "intent" : [
+            "Social studies of CTS"
+         ],
+         "md5" : "b5b1843a33a9187f579606c6922ebb9c"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Gabriela_Sued"
+         ],
+         "intent" : [
+            "Mathematical modeling",
+            "Social studies of CTS"
+         ],
+         "md5" : "268425ea76ed8e16ad3f0a24333a6c1a"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz"
+         ],
+         "intent" : [
+            "Academic networks",
+            "CT indicators",
+            "Maps of science",
+            "Mathematical modeling",
+            "Social studies of CTS"
+         ],
+         "md5" : "9f34f6475469f8aa273b3b92ff92fca7"
+      },
+      {
+         "extent" : [
+            "Gabriela_Sued"
+         ],
+         "intent" : [
+            "Collective processing of information",
+            "Gender studies",
+            "Mathematical modeling",
+            "Social studies of CTS"
+         ],
+         "md5" : "3c2814b8b05dbb832f17bcc849a9a501"
+      },
+      {
+         "extent" : [
+            "Juan_Escalante",
+            "Liliana_Ramirez"
+         ],
+         "intent" : [
+            "General theory of social systems",
+            "Social studies of CTS"
+         ],
+         "md5" : "1c0488b9533b1e5aa7491a3e3ee8215e"
+      },
+      {
+         "extent" : [
+            "Juan_Escalante"
+         ],
+         "intent" : [
+            "Academic networks",
+            "General theory of social systems",
+            "Reproduction of Academic Spaces",
+            "Social studies of CTS"
+         ],
+         "md5" : "5c13d894e1cab2dc68e8289b734a2b50"
+      },
+      {
+         "extent" : [
+            "Liliana_Ramirez"
+         ],
+         "intent" : [
+            "Gender studies",
+            "General theory of social systems",
+            "Social studies of CTS"
+         ],
+         "md5" : "cf45d48cdef828618cec1d63242f8a6e"
+      },
+      {
+         "extent" : [
+            "Gabriela_Sued",
+            "Liliana_Ramirez"
+         ],
+         "intent" : [
+            "Gender studies",
+            "Social studies of CTS"
+         ],
+         "md5" : "f17b4969c5da0a618e20f5b84f8c3c05"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Eduardo_Robles",
+            "Teresa_de_Leon"
+         ],
+         "intent" : [
+            "CT indicators",
+            "Social studies of CTS"
+         ],
+         "md5" : "49bd40e352df89d576b3ea44a6864e21"
+      },
+      {
+         "extent" : [
+            "Teresa_de_Leon"
+         ],
+         "intent" : [
+            "CT indicators",
+            "Enviromental and climate change",
+            "Geographies of science",
+            "Social studies of CTS"
+         ],
+         "md5" : "5fb13cc1bc143da0960c764f9689ab1e"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Juan_Escalante"
+         ],
+         "intent" : [
+            "Academic networks",
+            "Social studies of CTS"
+         ],
+         "md5" : "68f639805638438a3b24129b0dd475dd"
+      },
+      {
+         "extent" : [
+            "Aline_Saldaña",
+            "Cristina_Jasso",
+            "Gabriel_Ramos",
+            "Gerardo_Lopez",
+            "Sandra_Smith"
+         ],
+         "intent" : [
+            "Complex social systems",
+            "Social complexity"
+         ],
+         "md5" : "88df8b6ad41b9a818fd1d56d76446c57"
+      },
+      {
+         "extent" : [
+            "Cristina_Jasso",
+            "Sandra_Smith"
+         ],
+         "intent" : [
+            "Complex social systems",
+            "Social complexity",
+            "Socio-ecology"
+         ],
+         "md5" : "71b03971e73bde7812d6906603b9822a"
+      },
+      {
+         "extent" : [
+            "Cristina_Jasso"
+         ],
+         "intent" : [
+            "Complex social systems",
+            "Social Behavior",
+            "Social complexity",
+            "Socio-ecology"
+         ],
+         "md5" : "05263d9410a4ad278851667259ba7cc6"
+      },
+      {
+         "extent" : [
+            "Sandra_Smith"
+         ],
+         "intent" : [
+            "Complex social systems",
+            "Resilience",
+            "Social complexity",
+            "Socio-ecology"
+         ],
+         "md5" : "2a848585e494b97e09b01bc33ecde6a3"
+      },
+      {
+         "extent" : [
+            "Aline_Saldaña",
+            "Cristina_Jasso"
+         ],
+         "intent" : [
+            "Complex social systems",
+            "Social Behavior",
+            "Social complexity"
+         ],
+         "md5" : "c494428249b75081ee115798ad609adc"
+      },
+      {
+         "extent" : [
+            "Aline_Saldaña"
+         ],
+         "intent" : [
+            "Complex social systems",
+            "Resilience",
+            "Social Behavior",
+            "Social complexity"
+         ],
+         "md5" : "67ff83e089a7d178834349e369b895a4"
+      },
+      {
+         "extent" : [
+            "Aline_Saldaña",
+            "Sandra_Smith"
+         ],
+         "intent" : [
+            "Complex social systems",
+            "Resilience",
+            "Social complexity"
+         ],
+         "md5" : "61f9bb497977b8d027b6fb01cdd2ae10"
+      },
+      {
+         "extent" : [
+            "Gerardo_Lopez"
+         ],
+         "intent" : [
+            "Complex social systems",
+            "Mathematical modeling",
+            "Social complexity"
+         ],
+         "md5" : "553a9106c8b5f1c3ffc67a8d6c75e1ed"
+      },
+      {
+         "extent" : [
+            "Gabriel_Ramos"
+         ],
+         "intent" : [
+            "Collective processing of information",
+            "Complex social systems",
+            "Social complexity"
+         ],
+         "md5" : "ba93633719d6df40064c0bb0b73eb0dc"
+      },
+      {
+         "extent" : [
+            "Juan_Escalante",
+            "Nestor_Paredes"
+         ],
+         "intent" : [
+            "Reproduction of Academic Spaces"
+         ],
+         "md5" : "4ee3c23b11cf165c46ea8be1b02a13af"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Carlos_Rodriguez",
+            "Gabriela_Sued",
+            "Gerardo_Lopez",
+            "Mariana_Espinosa"
+         ],
+         "intent" : [
+            "Mathematical modeling"
+         ],
+         "md5" : "cfdf27e9226a89092d28c51243731ca9"
+      },
+      {
+         "extent" : [
+            "Carlos_Rodriguez"
+         ],
+         "intent" : [
+            "Mathematical modeling",
+            "Study of News"
+         ],
+         "md5" : "bfceaa89bbeaae19ded40d0d689d734d"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Mariana_Espinosa"
+         ],
+         "intent" : [
+            "Maps of science",
+            "Mathematical modeling"
+         ],
+         "md5" : "87547d5ce29502e830ad870475a7e64e"
+      },
+      {
+         "extent" : [
+            "Mariana_Espinosa"
+         ],
+         "intent" : [
+            "Concept networks",
+            "Maps of science",
+            "Mathematical modeling"
+         ],
+         "md5" : "7138b823b9c2f9c346aa1ab6dc792684"
+      },
+      {
+         "extent" : [
+            "Gabriel_Ramos",
+            "Gabriela_Sued"
+         ],
+         "intent" : [
+            "Collective processing of information"
+         ],
+         "md5" : "ee253e066ab137528e8340a04bd1e5a8"
+      }
+   ],
+   "context" : {
+      "Alejandro_Ruiz" : {
+         "attributes" : [
+            "Academic networks",
+            "CT indicators",
+            "Maps of science",
+            "Mathematical modeling",
+            "Social studies of CTS"
+         ],
+         "id" : "Alejandro_Ruiz",
+         "name" : "Alejandro Ruiz"
+      },
+      "Aline_Saldaña" : {
+         "attributes" : [
+            "Complex social systems",
+            "Resilience",
+            "Social Behavior",
+            "Social complexity"
+         ],
+         "id" : "Aline_Saldaña",
+         "name" : "Aline Saldaña"
+      },
+      "Ana_Medeles" : {
+         "attributes" : [
+            "History of statistics",
+            "Institutionalization of statistics",
+            "Social categories and classifications",
+            "Socio History",
+            "Socio-history of quantification"
+         ],
+         "id" : "Ana_Medeles",
+         "name" : "Ana Medeles"
+      },
+      "Carlos_Rodriguez" : {
+         "attributes" : [
+            "Mathematical modeling",
+            "Study of News"
+         ],
+         "id" : "Carlos_Rodriguez",
+         "name" : "Carlos Rodriguez"
+      },
+      "Cristina_Jasso" : {
+         "attributes" : [
+            "Complex social systems",
+            "Social Behavior",
+            "Social complexity",
+            "Socio-ecology"
+         ],
+         "id" : "Cristina_Jasso",
+         "name" : "Cristina Jasso"
+      },
+      "Eduardo_Robles" : {
+         "attributes" : [
+            "CT indicators",
+            "Social studies of CTS"
+         ],
+         "id" : "Eduardo_Robles",
+         "name" : "Eduardo Robles"
+      },
+      "Gabriel_Ramos" : {
+         "attributes" : [
+            "Collective processing of information",
+            "Complex social systems",
+            "Social complexity"
+         ],
+         "id" : "Gabriel_Ramos",
+         "name" : "Gabriel Ramos"
+      },
+      "Gabriela_Sued" : {
+         "attributes" : [
+            "Collective processing of information",
+            "Gender studies",
+            "Mathematical modeling",
+            "Social studies of CTS"
+         ],
+         "id" : "Gabriela_Sued",
+         "name" : "Gabriela Sued"
+      },
+      "Gerardo_Lopez" : {
+         "attributes" : [
+            "Complex social systems",
+            "Mathematical modeling",
+            "Social complexity"
+         ],
+         "id" : "Gerardo_Lopez",
+         "name" : "Gerardo López"
+      },
+      "Israel_Garcia" : {
+         "attributes" : [
+            "Quantitative History",
+            "Socio History",
+            "Socio-history of quantification",
+            "University’s sociocultural history"
+         ],
+         "id" : "Israel_Garcia",
+         "name" : "Israel Garcia"
+      },
+      "Israel_Sandoval" : {
+         "attributes" : [
+            "Computational thinking",
+            "Genealogy of Academic Entities",
+            "Socio History",
+            "University’s sociocultural history"
+         ],
+         "id" : "Israel_Sandoval",
+         "name" : "Israel Sandoval"
+      },
+      "Juan_Escalante" : {
+         "attributes" : [
+            "Academic networks",
+            "General theory of social systems",
+            "Reproduction of Academic Spaces",
+            "Social studies of CTS"
+         ],
+         "id" : "Juan_Escalante",
+         "name" : "Juan Escalante"
+      },
+      "Leticia_Mayer" : {
+         "attributes" : [
+            "History of knowledge circulation",
+            "History of probability",
+            "History of statistics",
+            "Socio History",
+            "Socio-history of quantification"
+         ],
+         "id" : "Leticia_Mayer",
+         "name" : "Leticia Mayer"
+      },
+      "Liliana_Ramirez" : {
+         "attributes" : [
+            "Gender studies",
+            "General theory of social systems",
+            "Social studies of CTS"
+         ],
+         "id" : "Liliana_Ramirez",
+         "name" : "Liliana Ramírez"
+      },
+      "Mariana_Espinosa" : {
+         "attributes" : [
+            "Concept networks",
+            "Maps of science",
+            "Mathematical modeling"
+         ],
+         "id" : "Mariana_Espinosa",
+         "name" : "Mariana Espinosa"
+      },
+      "Nestor_Paredes" : {
+         "attributes" : [
+            "Reproduction of Academic Spaces",
+            "Social categories and classifications",
+            "Social frontiers",
+            "Socio History",
+            "Sociology of professions"
+         ],
+         "id" : "Nestor_Paredes",
+         "name" : "Nestor Paredes"
+      },
+      "Pilar_Galarza" : {
+         "attributes" : [
+            "Socio History",
+            "University’s sociocultural history"
+         ],
+         "id" : "Pilar_Galarza",
+         "name" : "Pilar Galarza"
+      },
+      "Sandra_Smith" : {
+         "attributes" : [
+            "Complex social systems",
+            "Resilience",
+            "Social complexity",
+            "Socio-ecology"
+         ],
+         "id" : "Sandra_Smith",
+         "name" : "Sandra Smith"
+      },
+      "Susana_Garcia" : {
+         "attributes" : [
+            "Genealogy of Academic Entities",
+            "Socio History",
+            "University’s sociocultural history"
+         ],
+         "id" : "Susana_Garcia",
+         "name" : "Susana Garcia"
+      },
+      "Teresa_de_Leon" : {
+         "attributes" : [
+            "CT indicators",
+            "Enviromental and climate change",
+            "Geographies of science",
+            "Social studies of CTS"
+         ],
+         "id" : "Teresa_de_Leon",
+         "name" : "Teresa de Leon"
+      }
+   },
+   "links" : [
+      {
+         "source" : 0,
+         "target" : 2
+      },
+      {
+         "source" : 0,
+         "target" : 13
+      },
+      {
+         "source" : 0,
+         "target" : 24
+      },
+      {
+         "source" : 0,
+         "target" : 33
+      },
+      {
+         "source" : 0,
+         "target" : 34
+      },
+      {
+         "source" : 0,
+         "target" : 38
+      },
+      {
+         "source" : 2,
+         "target" : 3
+      },
+      {
+         "source" : 2,
+         "target" : 7
+      },
+      {
+         "source" : 2,
+         "target" : 11
+      },
+      {
+         "source" : 3,
+         "target" : 4
+      },
+      {
+         "source" : 3,
+         "target" : 5
+      },
+      {
+         "source" : 4,
+         "target" : 1
+      },
+      {
+         "source" : 5,
+         "target" : 6
+      },
+      {
+         "source" : 6,
+         "target" : 1
+      },
+      {
+         "source" : 7,
+         "target" : 4
+      },
+      {
+         "source" : 7,
+         "target" : 8
+      },
+      {
+         "source" : 8,
+         "target" : 9
+      },
+      {
+         "source" : 8,
+         "target" : 10
+      },
+      {
+         "source" : 9,
+         "target" : 1
+      },
+      {
+         "source" : 10,
+         "target" : 1
+      },
+      {
+         "source" : 11,
+         "target" : 12
+      },
+      {
+         "source" : 11,
+         "target" : 9
+      },
+      {
+         "source" : 12,
+         "target" : 1
+      },
+      {
+         "source" : 13,
+         "target" : 14
+      },
+      {
+         "source" : 13,
+         "target" : 17
+      },
+      {
+         "source" : 13,
+         "target" : 20
+      },
+      {
+         "source" : 13,
+         "target" : 21
+      },
+      {
+         "source" : 13,
+         "target" : 23
+      },
+      {
+         "source" : 14,
+         "target" : 15
+      },
+      {
+         "source" : 14,
+         "target" : 16
+      },
+      {
+         "source" : 15,
+         "target" : 1
+      },
+      {
+         "source" : 16,
+         "target" : 1
+      },
+      {
+         "source" : 17,
+         "target" : 18
+      },
+      {
+         "source" : 17,
+         "target" : 19
+      },
+      {
+         "source" : 18,
+         "target" : 1
+      },
+      {
+         "source" : 19,
+         "target" : 1
+      },
+      {
+         "source" : 20,
+         "target" : 16
+      },
+      {
+         "source" : 20,
+         "target" : 19
+      },
+      {
+         "source" : 21,
+         "target" : 15
+      },
+      {
+         "source" : 21,
+         "target" : 22
+      },
+      {
+         "source" : 22,
+         "target" : 1
+      },
+      {
+         "source" : 23,
+         "target" : 18
+      },
+      {
+         "source" : 23,
+         "target" : 15
+      },
+      {
+         "source" : 24,
+         "target" : 25
+      },
+      {
+         "source" : 24,
+         "target" : 28
+      },
+      {
+         "source" : 24,
+         "target" : 30
+      },
+      {
+         "source" : 24,
+         "target" : 31
+      },
+      {
+         "source" : 24,
+         "target" : 32
+      },
+      {
+         "source" : 25,
+         "target" : 26
+      },
+      {
+         "source" : 25,
+         "target" : 27
+      },
+      {
+         "source" : 26,
+         "target" : 1
+      },
+      {
+         "source" : 27,
+         "target" : 1
+      },
+      {
+         "source" : 28,
+         "target" : 26
+      },
+      {
+         "source" : 28,
+         "target" : 29
+      },
+      {
+         "source" : 29,
+         "target" : 1
+      },
+      {
+         "source" : 30,
+         "target" : 27
+      },
+      {
+         "source" : 30,
+         "target" : 29
+      },
+      {
+         "source" : 31,
+         "target" : 1
+      },
+      {
+         "source" : 32,
+         "target" : 1
+      },
+      {
+         "source" : 33,
+         "target" : 12
+      },
+      {
+         "source" : 33,
+         "target" : 18
+      },
+      {
+         "source" : 34,
+         "target" : 35
+      },
+      {
+         "source" : 34,
+         "target" : 14
+      },
+      {
+         "source" : 34,
+         "target" : 31
+      },
+      {
+         "source" : 34,
+         "target" : 36
+      },
+      {
+         "source" : 35,
+         "target" : 1
+      },
+      {
+         "source" : 36,
+         "target" : 15
+      },
+      {
+         "source" : 36,
+         "target" : 37
+      },
+      {
+         "source" : 37,
+         "target" : 1
+      },
+      {
+         "source" : 38,
+         "target" : 16
+      },
+      {
+         "source" : 38,
+         "target" : 32
+      }
+   ],
+   "nodes" : [
+      {
+         "children" : [
+            "855848536",
+            "898725418",
+            "741693601",
+            "85757049",
+            "789039988",
+            "295295128"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Aline_Saldaña",
+               "Ana_Medeles",
+               "Carlos_Rodriguez",
+               "Cristina_Jasso",
+               "Eduardo_Robles",
+               "Gabriel_Ramos",
+               "Gabriela_Sued",
+               "Gerardo_Lopez",
+               "Israel_Garcia",
+               "Israel_Sandoval",
+               "Juan_Escalante",
+               "Leticia_Mayer",
+               "Liliana_Ramirez",
+               "Mariana_Espinosa",
+               "Nestor_Paredes",
+               "Pilar_Galarza",
+               "Sandra_Smith",
+               "Susana_Garcia",
+               "Teresa_de_Leon"
+            ],
+            "intent" : [],
+            "md5" : "f364422fb3165b5d2a0714a8c086b78d"
+         },
+         "hash" : "401570394",
+         "idx" : 0,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "5",
+         "parents" : []
+      },
+      {
+         "children" : [],
+         "concept" : {
+            "extent" : [],
+            "intent" : [
+               "Academic networks",
+               "Collective processing of information",
+               "Complex social systems",
+               "Computational thinking",
+               "Concept networks",
+               "CT indicators",
+               "Enviromental and climate change",
+               "Gender studies",
+               "Genealogy of Academic Entities",
+               "General theory of social systems",
+               "Geographies of science",
+               "History of knowledge circulation",
+               "History of probability",
+               "History of statistics",
+               "Institutionalization of statistics",
+               "Maps of science",
+               "Mathematical modeling",
+               "Quantitative History",
+               "Reproduction of Academic Spaces",
+               "Resilience",
+               "Social Behavior",
+               "Social categories and classifications",
+               "Social complexity",
+               "Social frontiers",
+               "Social studies of CTS",
+               "Socio History",
+               "Socio-ecology",
+               "Socio-history of quantification",
+               "Sociology of professions",
+               "Study of News",
+               "University’s sociocultural history"
+            ],
+            "md5" : "2b0ccae82c551d206cce7cbb2638c1a0"
+         },
+         "hash" : "422286864",
+         "idx" : 1,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "0",
+         "parents" : [
+            "687789903",
+            "739511849",
+            "1702526788",
+            "1277323739",
+            "314084287",
+            "508672647",
+            "686253654",
+            "2010431008",
+            "565653745",
+            "1933623129",
+            "1796174001",
+            "1349318706",
+            "1212447350",
+            "1049149008",
+            "1920226781",
+            "1745524347",
+            "939584538"
+         ]
+      },
+      {
+         "children" : [
+            "651792892",
+            "450650642",
+            "629353839"
+         ],
+         "concept" : {
+            "extent" : [
+               "Ana_Medeles",
+               "Israel_Garcia",
+               "Israel_Sandoval",
+               "Leticia_Mayer",
+               "Nestor_Paredes",
+               "Pilar_Galarza",
+               "Susana_Garcia"
+            ],
+            "intent" : [
+               "Socio History"
+            ],
+            "md5" : "6e56d81347eebda9edd9aa73b5fa145e"
+         },
+         "hash" : "855848536",
+         "idx" : 2,
+         "labelAttributes" : [
+            "Socio History"
+         ],
+         "labelObjects" : [],
+         "level" : "4",
+         "parents" : [
+            "401570394"
+         ]
+      },
+      {
+         "children" : [
+            "687789903",
+            "1333793699"
+         ],
+         "concept" : {
+            "extent" : [
+               "Israel_Garcia",
+               "Israel_Sandoval",
+               "Pilar_Galarza",
+               "Susana_Garcia"
+            ],
+            "intent" : [
+               "Socio History",
+               "University’s sociocultural history"
+            ],
+            "md5" : "09c87e19be0895ab054d8e16d6c8764b"
+         },
+         "hash" : "651792892",
+         "idx" : 3,
+         "labelAttributes" : [
+            "University’s sociocultural history"
+         ],
+         "labelObjects" : [
+            "Pilar_Galarza"
+         ],
+         "level" : "3",
+         "parents" : [
+            "855848536"
+         ]
+      },
+      {
+         "children" : [
+            "422286864"
+         ],
+         "concept" : {
+            "extent" : [
+               "Israel_Garcia"
+            ],
+            "intent" : [
+               "Quantitative History",
+               "Socio History",
+               "Socio-history of quantification",
+               "University’s sociocultural history"
+            ],
+            "md5" : "f2f7e33875785e91c29193b26791ec42"
+         },
+         "hash" : "687789903",
+         "idx" : 4,
+         "labelAttributes" : [
+            "Quantitative History"
+         ],
+         "labelObjects" : [
+            "Israel_Garcia"
+         ],
+         "level" : "1",
+         "parents" : [
+            "651792892",
+            "450650642"
+         ]
+      },
+      {
+         "children" : [
+            "739511849"
+         ],
+         "concept" : {
+            "extent" : [
+               "Israel_Sandoval",
+               "Susana_Garcia"
+            ],
+            "intent" : [
+               "Genealogy of Academic Entities",
+               "Socio History",
+               "University’s sociocultural history"
+            ],
+            "md5" : "aeaf93d789052d41e18e6e1523c73bf8"
+         },
+         "hash" : "1333793699",
+         "idx" : 5,
+         "labelAttributes" : [
+            "Genealogy of Academic Entities"
+         ],
+         "labelObjects" : [
+            "Susana_Garcia"
+         ],
+         "level" : "2",
+         "parents" : [
+            "651792892"
+         ]
+      },
+      {
+         "children" : [
+            "422286864"
+         ],
+         "concept" : {
+            "extent" : [
+               "Israel_Sandoval"
+            ],
+            "intent" : [
+               "Computational thinking",
+               "Genealogy of Academic Entities",
+               "Socio History",
+               "University’s sociocultural history"
+            ],
+            "md5" : "b0f6e724b767aa9f4e32185b5d8441cc"
+         },
+         "hash" : "739511849",
+         "idx" : 6,
+         "labelAttributes" : [
+            "Computational thinking"
+         ],
+         "labelObjects" : [
+            "Israel_Sandoval"
+         ],
+         "level" : "1",
+         "parents" : [
+            "1333793699"
+         ]
+      },
+      {
+         "children" : [
+            "687789903",
+            "1446378045"
+         ],
+         "concept" : {
+            "extent" : [
+               "Ana_Medeles",
+               "Israel_Garcia",
+               "Leticia_Mayer"
+            ],
+            "intent" : [
+               "Socio History",
+               "Socio-history of quantification"
+            ],
+            "md5" : "48a84ee81813e3cac242e7a198a49d5a"
+         },
+         "hash" : "450650642",
+         "idx" : 7,
+         "labelAttributes" : [
+            "Socio-history of quantification"
+         ],
+         "labelObjects" : [],
+         "level" : "3",
+         "parents" : [
+            "855848536"
+         ]
+      },
+      {
+         "children" : [
+            "1702526788",
+            "1277323739"
+         ],
+         "concept" : {
+            "extent" : [
+               "Ana_Medeles",
+               "Leticia_Mayer"
+            ],
+            "intent" : [
+               "History of statistics",
+               "Socio History",
+               "Socio-history of quantification"
+            ],
+            "md5" : "eedd48edeefe083efdef12abacc54004"
+         },
+         "hash" : "1446378045",
+         "idx" : 8,
+         "labelAttributes" : [
+            "History of statistics"
+         ],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "450650642"
+         ]
+      },
+      {
+         "children" : [
+            "422286864"
+         ],
+         "concept" : {
+            "extent" : [
+               "Ana_Medeles"
+            ],
+            "intent" : [
+               "History of statistics",
+               "Institutionalization of statistics",
+               "Social categories and classifications",
+               "Socio History",
+               "Socio-history of quantification"
+            ],
+            "md5" : "f5dd87dd1bd6e19acedc3b44de17f5ec"
+         },
+         "hash" : "1702526788",
+         "idx" : 9,
+         "labelAttributes" : [
+            "Institutionalization of statistics"
+         ],
+         "labelObjects" : [
+            "Ana_Medeles"
+         ],
+         "level" : "1",
+         "parents" : [
+            "1446378045",
+            "629353839"
+         ]
+      },
+      {
+         "children" : [
+            "422286864"
+         ],
+         "concept" : {
+            "extent" : [
+               "Leticia_Mayer"
+            ],
+            "intent" : [
+               "History of knowledge circulation",
+               "History of probability",
+               "History of statistics",
+               "Socio History",
+               "Socio-history of quantification"
+            ],
+            "md5" : "04958697f3c7e2cdb2be85f8aeaf616c"
+         },
+         "hash" : "1277323739",
+         "idx" : 10,
+         "labelAttributes" : [
+            "History of probability",
+            "History of knowledge circulation"
+         ],
+         "labelObjects" : [
+            "Leticia_Mayer"
+         ],
+         "level" : "1",
+         "parents" : [
+            "1446378045"
+         ]
+      },
+      {
+         "children" : [
+            "314084287",
+            "1702526788"
+         ],
+         "concept" : {
+            "extent" : [
+               "Ana_Medeles",
+               "Nestor_Paredes"
+            ],
+            "intent" : [
+               "Social categories and classifications",
+               "Socio History"
+            ],
+            "md5" : "889044a0774321d44d61074d8699a752"
+         },
+         "hash" : "629353839",
+         "idx" : 11,
+         "labelAttributes" : [
+            "Social categories and classifications"
+         ],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "855848536"
+         ]
+      },
+      {
+         "children" : [
+            "422286864"
+         ],
+         "concept" : {
+            "extent" : [
+               "Nestor_Paredes"
+            ],
+            "intent" : [
+               "Reproduction of Academic Spaces",
+               "Social categories and classifications",
+               "Social frontiers",
+               "Socio History",
+               "Sociology of professions"
+            ],
+            "md5" : "804b3644e198724af9e1c8cc77c8324a"
+         },
+         "hash" : "314084287",
+         "idx" : 12,
+         "labelAttributes" : [
+            "Sociology of professions",
+            "Social frontiers"
+         ],
+         "labelObjects" : [
+            "Nestor_Paredes"
+         ],
+         "level" : "1",
+         "parents" : [
+            "629353839",
+            "85757049"
+         ]
+      },
+      {
+         "children" : [
+            "318286419",
+            "1810193955",
+            "228366298",
+            "562760703",
+            "1995872175"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Eduardo_Robles",
+               "Gabriela_Sued",
+               "Juan_Escalante",
+               "Liliana_Ramirez",
+               "Teresa_de_Leon"
+            ],
+            "intent" : [
+               "Social studies of CTS"
+            ],
+            "md5" : "b5b1843a33a9187f579606c6922ebb9c"
+         },
+         "hash" : "898725418",
+         "idx" : 13,
+         "labelAttributes" : [
+            "Social studies of CTS"
+         ],
+         "labelObjects" : [],
+         "level" : "3",
+         "parents" : [
+            "401570394"
+         ]
+      },
+      {
+         "children" : [
+            "508672647",
+            "686253654"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Gabriela_Sued"
+            ],
+            "intent" : [
+               "Mathematical modeling",
+               "Social studies of CTS"
+            ],
+            "md5" : "268425ea76ed8e16ad3f0a24333a6c1a"
+         },
+         "hash" : "318286419",
+         "idx" : 14,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "898725418",
+            "789039988"
+         ]
+      },
+      {
+         "children" : [
+            "422286864"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz"
+            ],
+            "intent" : [
+               "Academic networks",
+               "CT indicators",
+               "Maps of science",
+               "Mathematical modeling",
+               "Social studies of CTS"
+            ],
+            "md5" : "9f34f6475469f8aa273b3b92ff92fca7"
+         },
+         "hash" : "508672647",
+         "idx" : 15,
+         "labelAttributes" : [],
+         "labelObjects" : [
+            "Alejandro_Ruiz"
+         ],
+         "level" : "1",
+         "parents" : [
+            "318286419",
+            "562760703",
+            "1995872175",
+            "658867388"
+         ]
+      },
+      {
+         "children" : [
+            "422286864"
+         ],
+         "concept" : {
+            "extent" : [
+               "Gabriela_Sued"
+            ],
+            "intent" : [
+               "Collective processing of information",
+               "Gender studies",
+               "Mathematical modeling",
+               "Social studies of CTS"
+            ],
+            "md5" : "3c2814b8b05dbb832f17bcc849a9a501"
+         },
+         "hash" : "686253654",
+         "idx" : 16,
+         "labelAttributes" : [],
+         "labelObjects" : [
+            "Gabriela_Sued"
+         ],
+         "level" : "1",
+         "parents" : [
+            "318286419",
+            "228366298",
+            "295295128"
+         ]
+      },
+      {
+         "children" : [
+            "2010431008",
+            "565653745"
+         ],
+         "concept" : {
+            "extent" : [
+               "Juan_Escalante",
+               "Liliana_Ramirez"
+            ],
+            "intent" : [
+               "General theory of social systems",
+               "Social studies of CTS"
+            ],
+            "md5" : "1c0488b9533b1e5aa7491a3e3ee8215e"
+         },
+         "hash" : "1810193955",
+         "idx" : 17,
+         "labelAttributes" : [
+            "General theory of social systems"
+         ],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "898725418"
+         ]
+      },
+      {
+         "children" : [
+            "422286864"
+         ],
+         "concept" : {
+            "extent" : [
+               "Juan_Escalante"
+            ],
+            "intent" : [
+               "Academic networks",
+               "General theory of social systems",
+               "Reproduction of Academic Spaces",
+               "Social studies of CTS"
+            ],
+            "md5" : "5c13d894e1cab2dc68e8289b734a2b50"
+         },
+         "hash" : "2010431008",
+         "idx" : 18,
+         "labelAttributes" : [],
+         "labelObjects" : [
+            "Juan_Escalante"
+         ],
+         "level" : "1",
+         "parents" : [
+            "1810193955",
+            "1995872175",
+            "85757049"
+         ]
+      },
+      {
+         "children" : [
+            "422286864"
+         ],
+         "concept" : {
+            "extent" : [
+               "Liliana_Ramirez"
+            ],
+            "intent" : [
+               "Gender studies",
+               "General theory of social systems",
+               "Social studies of CTS"
+            ],
+            "md5" : "cf45d48cdef828618cec1d63242f8a6e"
+         },
+         "hash" : "565653745",
+         "idx" : 19,
+         "labelAttributes" : [],
+         "labelObjects" : [
+            "Liliana_Ramirez"
+         ],
+         "level" : "1",
+         "parents" : [
+            "1810193955",
+            "228366298"
+         ]
+      },
+      {
+         "children" : [
+            "686253654",
+            "565653745"
+         ],
+         "concept" : {
+            "extent" : [
+               "Gabriela_Sued",
+               "Liliana_Ramirez"
+            ],
+            "intent" : [
+               "Gender studies",
+               "Social studies of CTS"
+            ],
+            "md5" : "f17b4969c5da0a618e20f5b84f8c3c05"
+         },
+         "hash" : "228366298",
+         "idx" : 20,
+         "labelAttributes" : [
+            "Gender studies"
+         ],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "898725418"
+         ]
+      },
+      {
+         "children" : [
+            "508672647",
+            "1933623129"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Eduardo_Robles",
+               "Teresa_de_Leon"
+            ],
+            "intent" : [
+               "CT indicators",
+               "Social studies of CTS"
+            ],
+            "md5" : "49bd40e352df89d576b3ea44a6864e21"
+         },
+         "hash" : "562760703",
+         "idx" : 21,
+         "labelAttributes" : [
+            "CT indicators"
+         ],
+         "labelObjects" : [
+            "Eduardo_Robles"
+         ],
+         "level" : "2",
+         "parents" : [
+            "898725418"
+         ]
+      },
+      {
+         "children" : [
+            "422286864"
+         ],
+         "concept" : {
+            "extent" : [
+               "Teresa_de_Leon"
+            ],
+            "intent" : [
+               "CT indicators",
+               "Enviromental and climate change",
+               "Geographies of science",
+               "Social studies of CTS"
+            ],
+            "md5" : "5fb13cc1bc143da0960c764f9689ab1e"
+         },
+         "hash" : "1933623129",
+         "idx" : 22,
+         "labelAttributes" : [
+            "Geographies of science",
+            "Enviromental and climate change"
+         ],
+         "labelObjects" : [
+            "Teresa_de_Leon"
+         ],
+         "level" : "1",
+         "parents" : [
+            "562760703"
+         ]
+      },
+      {
+         "children" : [
+            "2010431008",
+            "508672647"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Juan_Escalante"
+            ],
+            "intent" : [
+               "Academic networks",
+               "Social studies of CTS"
+            ],
+            "md5" : "68f639805638438a3b24129b0dd475dd"
+         },
+         "hash" : "1995872175",
+         "idx" : 23,
+         "labelAttributes" : [
+            "Academic networks"
+         ],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "898725418"
+         ]
+      },
+      {
+         "children" : [
+            "61333024",
+            "76357518",
+            "1086545565",
+            "1049149008",
+            "1920226781"
+         ],
+         "concept" : {
+            "extent" : [
+               "Aline_Saldaña",
+               "Cristina_Jasso",
+               "Gabriel_Ramos",
+               "Gerardo_Lopez",
+               "Sandra_Smith"
+            ],
+            "intent" : [
+               "Complex social systems",
+               "Social complexity"
+            ],
+            "md5" : "88df8b6ad41b9a818fd1d56d76446c57"
+         },
+         "hash" : "741693601",
+         "idx" : 24,
+         "labelAttributes" : [
+            "Social complexity",
+            "Complex social systems"
+         ],
+         "labelObjects" : [],
+         "level" : "3",
+         "parents" : [
+            "401570394"
+         ]
+      },
+      {
+         "children" : [
+            "1796174001",
+            "1349318706"
+         ],
+         "concept" : {
+            "extent" : [
+               "Cristina_Jasso",
+               "Sandra_Smith"
+            ],
+            "intent" : [
+               "Complex social systems",
+               "Social complexity",
+               "Socio-ecology"
+            ],
+            "md5" : "71b03971e73bde7812d6906603b9822a"
+         },
+         "hash" : "61333024",
+         "idx" : 25,
+         "labelAttributes" : [
+            "Socio-ecology"
+         ],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "741693601"
+         ]
+      },
+      {
+         "children" : [
+            "422286864"
+         ],
+         "concept" : {
+            "extent" : [
+               "Cristina_Jasso"
+            ],
+            "intent" : [
+               "Complex social systems",
+               "Social Behavior",
+               "Social complexity",
+               "Socio-ecology"
+            ],
+            "md5" : "05263d9410a4ad278851667259ba7cc6"
+         },
+         "hash" : "1796174001",
+         "idx" : 26,
+         "labelAttributes" : [],
+         "labelObjects" : [
+            "Cristina_Jasso"
+         ],
+         "level" : "1",
+         "parents" : [
+            "61333024",
+            "76357518"
+         ]
+      },
+      {
+         "children" : [
+            "422286864"
+         ],
+         "concept" : {
+            "extent" : [
+               "Sandra_Smith"
+            ],
+            "intent" : [
+               "Complex social systems",
+               "Resilience",
+               "Social complexity",
+               "Socio-ecology"
+            ],
+            "md5" : "2a848585e494b97e09b01bc33ecde6a3"
+         },
+         "hash" : "1349318706",
+         "idx" : 27,
+         "labelAttributes" : [],
+         "labelObjects" : [
+            "Sandra_Smith"
+         ],
+         "level" : "1",
+         "parents" : [
+            "61333024",
+            "1086545565"
+         ]
+      },
+      {
+         "children" : [
+            "1796174001",
+            "1212447350"
+         ],
+         "concept" : {
+            "extent" : [
+               "Aline_Saldaña",
+               "Cristina_Jasso"
+            ],
+            "intent" : [
+               "Complex social systems",
+               "Social Behavior",
+               "Social complexity"
+            ],
+            "md5" : "c494428249b75081ee115798ad609adc"
+         },
+         "hash" : "76357518",
+         "idx" : 28,
+         "labelAttributes" : [
+            "Social Behavior"
+         ],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "741693601"
+         ]
+      },
+      {
+         "children" : [
+            "422286864"
+         ],
+         "concept" : {
+            "extent" : [
+               "Aline_Saldaña"
+            ],
+            "intent" : [
+               "Complex social systems",
+               "Resilience",
+               "Social Behavior",
+               "Social complexity"
+            ],
+            "md5" : "67ff83e089a7d178834349e369b895a4"
+         },
+         "hash" : "1212447350",
+         "idx" : 29,
+         "labelAttributes" : [],
+         "labelObjects" : [
+            "Aline_Saldaña"
+         ],
+         "level" : "1",
+         "parents" : [
+            "76357518",
+            "1086545565"
+         ]
+      },
+      {
+         "children" : [
+            "1349318706",
+            "1212447350"
+         ],
+         "concept" : {
+            "extent" : [
+               "Aline_Saldaña",
+               "Sandra_Smith"
+            ],
+            "intent" : [
+               "Complex social systems",
+               "Resilience",
+               "Social complexity"
+            ],
+            "md5" : "61f9bb497977b8d027b6fb01cdd2ae10"
+         },
+         "hash" : "1086545565",
+         "idx" : 30,
+         "labelAttributes" : [
+            "Resilience"
+         ],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "741693601"
+         ]
+      },
+      {
+         "children" : [
+            "422286864"
+         ],
+         "concept" : {
+            "extent" : [
+               "Gerardo_Lopez"
+            ],
+            "intent" : [
+               "Complex social systems",
+               "Mathematical modeling",
+               "Social complexity"
+            ],
+            "md5" : "553a9106c8b5f1c3ffc67a8d6c75e1ed"
+         },
+         "hash" : "1049149008",
+         "idx" : 31,
+         "labelAttributes" : [],
+         "labelObjects" : [
+            "Gerardo_Lopez"
+         ],
+         "level" : "1",
+         "parents" : [
+            "741693601",
+            "789039988"
+         ]
+      },
+      {
+         "children" : [
+            "422286864"
+         ],
+         "concept" : {
+            "extent" : [
+               "Gabriel_Ramos"
+            ],
+            "intent" : [
+               "Collective processing of information",
+               "Complex social systems",
+               "Social complexity"
+            ],
+            "md5" : "ba93633719d6df40064c0bb0b73eb0dc"
+         },
+         "hash" : "1920226781",
+         "idx" : 32,
+         "labelAttributes" : [],
+         "labelObjects" : [
+            "Gabriel_Ramos"
+         ],
+         "level" : "1",
+         "parents" : [
+            "741693601",
+            "295295128"
+         ]
+      },
+      {
+         "children" : [
+            "314084287",
+            "2010431008"
+         ],
+         "concept" : {
+            "extent" : [
+               "Juan_Escalante",
+               "Nestor_Paredes"
+            ],
+            "intent" : [
+               "Reproduction of Academic Spaces"
+            ],
+            "md5" : "4ee3c23b11cf165c46ea8be1b02a13af"
+         },
+         "hash" : "85757049",
+         "idx" : 33,
+         "labelAttributes" : [
+            "Reproduction of Academic Spaces"
+         ],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "401570394"
+         ]
+      },
+      {
+         "children" : [
+            "1745524347",
+            "318286419",
+            "1049149008",
+            "658867388"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Carlos_Rodriguez",
+               "Gabriela_Sued",
+               "Gerardo_Lopez",
+               "Mariana_Espinosa"
+            ],
+            "intent" : [
+               "Mathematical modeling"
+            ],
+            "md5" : "cfdf27e9226a89092d28c51243731ca9"
+         },
+         "hash" : "789039988",
+         "idx" : 34,
+         "labelAttributes" : [
+            "Mathematical modeling"
+         ],
+         "labelObjects" : [],
+         "level" : "3",
+         "parents" : [
+            "401570394"
+         ]
+      },
+      {
+         "children" : [
+            "422286864"
+         ],
+         "concept" : {
+            "extent" : [
+               "Carlos_Rodriguez"
+            ],
+            "intent" : [
+               "Mathematical modeling",
+               "Study of News"
+            ],
+            "md5" : "bfceaa89bbeaae19ded40d0d689d734d"
+         },
+         "hash" : "1745524347",
+         "idx" : 35,
+         "labelAttributes" : [
+            "Study of News"
+         ],
+         "labelObjects" : [
+            "Carlos_Rodriguez"
+         ],
+         "level" : "1",
+         "parents" : [
+            "789039988"
+         ]
+      },
+      {
+         "children" : [
+            "508672647",
+            "939584538"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Mariana_Espinosa"
+            ],
+            "intent" : [
+               "Maps of science",
+               "Mathematical modeling"
+            ],
+            "md5" : "87547d5ce29502e830ad870475a7e64e"
+         },
+         "hash" : "658867388",
+         "idx" : 36,
+         "labelAttributes" : [
+            "Maps of science"
+         ],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "789039988"
+         ]
+      },
+      {
+         "children" : [
+            "422286864"
+         ],
+         "concept" : {
+            "extent" : [
+               "Mariana_Espinosa"
+            ],
+            "intent" : [
+               "Concept networks",
+               "Maps of science",
+               "Mathematical modeling"
+            ],
+            "md5" : "7138b823b9c2f9c346aa1ab6dc792684"
+         },
+         "hash" : "939584538",
+         "idx" : 37,
+         "labelAttributes" : [
+            "Concept networks"
+         ],
+         "labelObjects" : [
+            "Mariana_Espinosa"
+         ],
+         "level" : "1",
+         "parents" : [
+            "658867388"
+         ]
+      },
+      {
+         "children" : [
+            "686253654",
+            "1920226781"
+         ],
+         "concept" : {
+            "extent" : [
+               "Gabriel_Ramos",
+               "Gabriela_Sued"
+            ],
+            "intent" : [
+               "Collective processing of information"
+            ],
+            "md5" : "ee253e066ab137528e8340a04bd1e5a8"
+         },
+         "hash" : "295295128",
+         "idx" : 38,
+         "labelAttributes" : [
+            "Collective processing of information"
+         ],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "401570394"
+         ]
+      }
+   ]
+}

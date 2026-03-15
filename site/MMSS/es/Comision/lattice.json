@@ -1,0 +1,3027 @@
+{
+   "concepts" : [
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Alexia_Gil",
+            "Aline_Saldaña",
+            "Ana_Hernandez",
+            "Ana_Medeles",
+            "Arodi_Farrera",
+            "Arturo_Lopez",
+            "Carlos_Rodriguez",
+            "Carmen_Hernandez",
+            "Cecilia_Lopez",
+            "Cristina_Jasso",
+            "Diana_Sheinbaum",
+            "Eduardo_Robles",
+            "Eloina_Pelaez",
+            "Enrique_Perez",
+            "Frida_Gorbach",
+            "Gabriel_Ramos",
+            "Gabriela_Sued",
+            "Gerardo_Iniguez",
+            "Gerardo_Lopez",
+            "Gibran_Barrera",
+            "Gregory_Sandstrom",
+            "Guillermina_Castro",
+            "Guillermo_Espinosa",
+            "Ilya_Adler",
+            "Israel_Garcia",
+            "Israel_Sandoval",
+            "Jaime_Jimenez",
+            "Jazmin_Flores",
+            "Jesus_Siqueiros",
+            "Jorge_Castro",
+            "Jorge_Gil",
+            "Jose_Aguirre",
+            "Jose_Aranda",
+            "Juan_Escalante",
+            "Judith_Zubieta",
+            "Larissa_Adler",
+            "Laura_Chazaro",
+            "Leticia_Mayer",
+            "Lilia_Ponce",
+            "Liliana_Ramirez",
+            "Magdalena_Bayona",
+            "Marco_Polo",
+            "Mariana_Espinosa",
+            "Miguel_Campos",
+            "Miguel_Rossano",
+            "Narda_Alcantara",
+            "Nestor_Paredes",
+            "Nina_Jung",
+            "Norma_Uribe",
+            "Philip_Sinclair",
+            "Pilar_Galarza",
+            "Raul_Carbajal",
+            "Ricardo_Lopez",
+            "Sandra_Smith",
+            "Sara_Medina",
+            "Silvia_Casasola",
+            "Susana_Fernandez",
+            "Susana_Garcia",
+            "Teresa_de_Leon"
+         ],
+         "intent" : [],
+         "md5" : "ef7ed486baa286a721f69ea5177ffeac"
+      },
+      {
+         "extent" : [],
+         "intent" : [
+            "Estancia corta",
+            "Investigadores",
+            "Periodo 1",
+            "Periodo 2",
+            "Periodo 3",
+            "Posdoctorales",
+            "Tecnicos"
+         ],
+         "md5" : "c335a23be40b53a94812adaaa20fe9be"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Alexia_Gil",
+            "Arturo_Lopez",
+            "Carlos_Rodriguez",
+            "Carmen_Hernandez",
+            "Cecilia_Lopez",
+            "Diana_Sheinbaum",
+            "Enrique_Perez",
+            "Frida_Gorbach",
+            "Gerardo_Lopez",
+            "Gibran_Barrera",
+            "Guillermina_Castro",
+            "Israel_Sandoval",
+            "Jorge_Castro",
+            "Jose_Aguirre",
+            "Jose_Aranda",
+            "Juan_Escalante",
+            "Laura_Chazaro",
+            "Lilia_Ponce",
+            "Magdalena_Bayona",
+            "Marco_Polo",
+            "Miguel_Rossano",
+            "Narda_Alcantara",
+            "Nina_Jung",
+            "Norma_Uribe",
+            "Pilar_Galarza",
+            "Ricardo_Lopez",
+            "Sara_Medina",
+            "Susana_Fernandez"
+         ],
+         "intent" : [
+            "Tecnicos"
+         ],
+         "md5" : "1860aea7e8719bb9d448fcc959ae59ff"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Carlos_Rodriguez",
+            "Gerardo_Lopez",
+            "Gibran_Barrera",
+            "Israel_Sandoval",
+            "Jose_Aranda",
+            "Juan_Escalante",
+            "Nina_Jung",
+            "Pilar_Galarza"
+         ],
+         "intent" : [
+            "Periodo 3",
+            "Tecnicos"
+         ],
+         "md5" : "31d8b9b641dd217d799f9e8cac012167"
+      },
+      {
+         "extent" : [
+            "Juan_Escalante",
+            "Pilar_Galarza"
+         ],
+         "intent" : [
+            "Periodo 2",
+            "Periodo 3",
+            "Tecnicos"
+         ],
+         "md5" : "df69bc6731df0f0229b74580fc81d744"
+      },
+      {
+         "extent" : [
+            "Juan_Escalante"
+         ],
+         "intent" : [
+            "Periodo 1",
+            "Periodo 2",
+            "Periodo 3",
+            "Tecnicos"
+         ],
+         "md5" : "85f01b23eb578451b0ec0d16d0b24666"
+      },
+      {
+         "extent" : [
+            "Nina_Jung"
+         ],
+         "intent" : [
+            "Estancia corta",
+            "Periodo 3",
+            "Tecnicos"
+         ],
+         "md5" : "8e33076c5b2861838c1f40914020a124"
+      },
+      {
+         "extent" : [
+            "Alexia_Gil",
+            "Cecilia_Lopez",
+            "Enrique_Perez",
+            "Jorge_Castro",
+            "Juan_Escalante",
+            "Laura_Chazaro",
+            "Miguel_Rossano",
+            "Narda_Alcantara",
+            "Pilar_Galarza"
+         ],
+         "intent" : [
+            "Periodo 2",
+            "Tecnicos"
+         ],
+         "md5" : "e07157c348e21e6600751fff2bea2174"
+      },
+      {
+         "extent" : [
+            "Cecilia_Lopez",
+            "Juan_Escalante",
+            "Laura_Chazaro",
+            "Miguel_Rossano",
+            "Narda_Alcantara"
+         ],
+         "intent" : [
+            "Periodo 1",
+            "Periodo 2",
+            "Tecnicos"
+         ],
+         "md5" : "6187bf75b2ed21697ab82da5e6c7e7b0"
+      },
+      {
+         "extent" : [
+            "Alexia_Gil"
+         ],
+         "intent" : [
+            "Estancia corta",
+            "Periodo 2",
+            "Tecnicos"
+         ],
+         "md5" : "19bc3c5bcce63383380ee478bf0ba2f3"
+      },
+      {
+         "extent" : [
+            "Arturo_Lopez",
+            "Carmen_Hernandez",
+            "Cecilia_Lopez",
+            "Frida_Gorbach",
+            "Guillermina_Castro",
+            "Jose_Aguirre",
+            "Juan_Escalante",
+            "Laura_Chazaro",
+            "Lilia_Ponce",
+            "Magdalena_Bayona",
+            "Marco_Polo",
+            "Miguel_Rossano",
+            "Narda_Alcantara",
+            "Norma_Uribe",
+            "Ricardo_Lopez",
+            "Sara_Medina",
+            "Susana_Fernandez"
+         ],
+         "intent" : [
+            "Periodo 1",
+            "Tecnicos"
+         ],
+         "md5" : "3519c071e8d319e2048b7b0169b5b7b7"
+      },
+      {
+         "extent" : [
+            "Arturo_Lopez",
+            "Guillermina_Castro",
+            "Jose_Aguirre",
+            "Marco_Polo",
+            "Norma_Uribe",
+            "Sara_Medina",
+            "Susana_Fernandez"
+         ],
+         "intent" : [
+            "Estancia corta",
+            "Periodo 1",
+            "Tecnicos"
+         ],
+         "md5" : "0310ce7e470dddd6b98d3b8ff3070957"
+      },
+      {
+         "extent" : [
+            "Alexia_Gil",
+            "Arturo_Lopez",
+            "Guillermina_Castro",
+            "Jose_Aguirre",
+            "Marco_Polo",
+            "Nina_Jung",
+            "Norma_Uribe",
+            "Sara_Medina",
+            "Susana_Fernandez"
+         ],
+         "intent" : [
+            "Estancia corta",
+            "Tecnicos"
+         ],
+         "md5" : "32b1cd57e74025491682e2682fe65492"
+      },
+      {
+         "extent" : [
+            "Aline_Saldaña",
+            "Ana_Medeles",
+            "Arodi_Farrera",
+            "Cristina_Jasso",
+            "Gabriela_Sued",
+            "Jazmin_Flores",
+            "Liliana_Ramirez",
+            "Mariana_Espinosa",
+            "Nestor_Paredes",
+            "Sandra_Smith",
+            "Silvia_Casasola"
+         ],
+         "intent" : [
+            "Posdoctorales"
+         ],
+         "md5" : "568f394ce246a4cdc9b56c89050c45cc"
+      },
+      {
+         "extent" : [
+            "Aline_Saldaña",
+            "Ana_Medeles",
+            "Arodi_Farrera",
+            "Cristina_Jasso",
+            "Gabriela_Sued",
+            "Jazmin_Flores",
+            "Liliana_Ramirez",
+            "Mariana_Espinosa",
+            "Nestor_Paredes",
+            "Sandra_Smith"
+         ],
+         "intent" : [
+            "Periodo 3",
+            "Posdoctorales"
+         ],
+         "md5" : "561635a3bafe763b7148c1e803317d87"
+      },
+      {
+         "extent" : [
+            "Arodi_Farrera",
+            "Jazmin_Flores",
+            "Liliana_Ramirez",
+            "Nestor_Paredes"
+         ],
+         "intent" : [
+            "Estancia corta",
+            "Periodo 3",
+            "Posdoctorales"
+         ],
+         "md5" : "973ce70f3f4cbca2403eab1f85fcf39c"
+      },
+      {
+         "extent" : [
+            "Arodi_Farrera",
+            "Jazmin_Flores",
+            "Liliana_Ramirez",
+            "Nestor_Paredes",
+            "Silvia_Casasola"
+         ],
+         "intent" : [
+            "Estancia corta",
+            "Posdoctorales"
+         ],
+         "md5" : "80da833b99825c833afc6a1b2b7f90bb"
+      },
+      {
+         "extent" : [
+            "Silvia_Casasola"
+         ],
+         "intent" : [
+            "Estancia corta",
+            "Periodo 2",
+            "Posdoctorales"
+         ],
+         "md5" : "a6e2410824cd65c8cf2d54f917d97e69"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Aline_Saldaña",
+            "Ana_Hernandez",
+            "Ana_Medeles",
+            "Arodi_Farrera",
+            "Carlos_Rodriguez",
+            "Cristina_Jasso",
+            "Eduardo_Robles",
+            "Gabriel_Ramos",
+            "Gabriela_Sued",
+            "Gerardo_Iniguez",
+            "Gerardo_Lopez",
+            "Gibran_Barrera",
+            "Gregory_Sandstrom",
+            "Israel_Garcia",
+            "Israel_Sandoval",
+            "Jaime_Jimenez",
+            "Jazmin_Flores",
+            "Jesus_Siqueiros",
+            "Jose_Aranda",
+            "Juan_Escalante",
+            "Larissa_Adler",
+            "Leticia_Mayer",
+            "Liliana_Ramirez",
+            "Mariana_Espinosa",
+            "Nestor_Paredes",
+            "Nina_Jung",
+            "Pilar_Galarza",
+            "Sandra_Smith",
+            "Susana_Garcia",
+            "Teresa_de_Leon"
+         ],
+         "intent" : [
+            "Periodo 3"
+         ],
+         "md5" : "6ea8a58cfda39dcbe24cb0ff7f2f5be5"
+      },
+      {
+         "extent" : [
+            "Jaime_Jimenez",
+            "Juan_Escalante",
+            "Larissa_Adler",
+            "Leticia_Mayer",
+            "Pilar_Galarza",
+            "Susana_Garcia"
+         ],
+         "intent" : [
+            "Periodo 2",
+            "Periodo 3"
+         ],
+         "md5" : "3d577e2f9bc13596b3b518da71fe3894"
+      },
+      {
+         "extent" : [
+            "Jaime_Jimenez",
+            "Juan_Escalante",
+            "Larissa_Adler",
+            "Leticia_Mayer",
+            "Susana_Garcia"
+         ],
+         "intent" : [
+            "Periodo 1",
+            "Periodo 2",
+            "Periodo 3"
+         ],
+         "md5" : "1779373cf1f7c9d47702bdf796384fae"
+      },
+      {
+         "extent" : [
+            "Jaime_Jimenez",
+            "Larissa_Adler",
+            "Leticia_Mayer",
+            "Susana_Garcia"
+         ],
+         "intent" : [
+            "Investigadores",
+            "Periodo 1",
+            "Periodo 2",
+            "Periodo 3"
+         ],
+         "md5" : "d7c6b9ea4ca14262d55222837276ffcd"
+      },
+      {
+         "extent" : [
+            "Ana_Hernandez",
+            "Eduardo_Robles",
+            "Gabriel_Ramos",
+            "Gerardo_Iniguez",
+            "Gregory_Sandstrom",
+            "Israel_Garcia",
+            "Jaime_Jimenez",
+            "Jesus_Siqueiros",
+            "Larissa_Adler",
+            "Leticia_Mayer",
+            "Susana_Garcia",
+            "Teresa_de_Leon"
+         ],
+         "intent" : [
+            "Investigadores",
+            "Periodo 3"
+         ],
+         "md5" : "468523d7accb7cae948d5a6d0563688d"
+      },
+      {
+         "extent" : [
+            "Ana_Hernandez",
+            "Gerardo_Iniguez",
+            "Gregory_Sandstrom"
+         ],
+         "intent" : [
+            "Estancia corta",
+            "Investigadores",
+            "Periodo 3"
+         ],
+         "md5" : "4506ecde7039fd04fafef733b35dfb32"
+      },
+      {
+         "extent" : [
+            "Ana_Hernandez",
+            "Arodi_Farrera",
+            "Gerardo_Iniguez",
+            "Gregory_Sandstrom",
+            "Jazmin_Flores",
+            "Liliana_Ramirez",
+            "Nestor_Paredes",
+            "Nina_Jung"
+         ],
+         "intent" : [
+            "Estancia corta",
+            "Periodo 3"
+         ],
+         "md5" : "19fecd7d3a9a9139612efd36a478d806"
+      },
+      {
+         "extent" : [
+            "Alexia_Gil",
+            "Cecilia_Lopez",
+            "Enrique_Perez",
+            "Guillermo_Espinosa",
+            "Jaime_Jimenez",
+            "Jorge_Castro",
+            "Jorge_Gil",
+            "Juan_Escalante",
+            "Larissa_Adler",
+            "Laura_Chazaro",
+            "Leticia_Mayer",
+            "Miguel_Campos",
+            "Miguel_Rossano",
+            "Narda_Alcantara",
+            "Philip_Sinclair",
+            "Pilar_Galarza",
+            "Silvia_Casasola",
+            "Susana_Garcia"
+         ],
+         "intent" : [
+            "Periodo 2"
+         ],
+         "md5" : "cb1cf18b69a2d455c09c171cfceaa853"
+      },
+      {
+         "extent" : [
+            "Cecilia_Lopez",
+            "Jaime_Jimenez",
+            "Juan_Escalante",
+            "Larissa_Adler",
+            "Laura_Chazaro",
+            "Leticia_Mayer",
+            "Miguel_Campos",
+            "Miguel_Rossano",
+            "Narda_Alcantara",
+            "Susana_Garcia"
+         ],
+         "intent" : [
+            "Periodo 1",
+            "Periodo 2"
+         ],
+         "md5" : "ac739d6ae7578f6d1b71efbd35957222"
+      },
+      {
+         "extent" : [
+            "Jaime_Jimenez",
+            "Larissa_Adler",
+            "Leticia_Mayer",
+            "Miguel_Campos",
+            "Susana_Garcia"
+         ],
+         "intent" : [
+            "Investigadores",
+            "Periodo 1",
+            "Periodo 2"
+         ],
+         "md5" : "990a6145c4ea93bc841fb85b5a5caac3"
+      },
+      {
+         "extent" : [
+            "Guillermo_Espinosa",
+            "Jaime_Jimenez",
+            "Jorge_Gil",
+            "Larissa_Adler",
+            "Leticia_Mayer",
+            "Miguel_Campos",
+            "Philip_Sinclair",
+            "Susana_Garcia"
+         ],
+         "intent" : [
+            "Investigadores",
+            "Periodo 2"
+         ],
+         "md5" : "2880ecd796ab8f59d73a482a86971a18"
+      },
+      {
+         "extent" : [
+            "Philip_Sinclair"
+         ],
+         "intent" : [
+            "Estancia corta",
+            "Investigadores",
+            "Periodo 2"
+         ],
+         "md5" : "b1249cd0ae44be9dc57533c5adeaa029"
+      },
+      {
+         "extent" : [
+            "Alexia_Gil",
+            "Philip_Sinclair",
+            "Silvia_Casasola"
+         ],
+         "intent" : [
+            "Estancia corta",
+            "Periodo 2"
+         ],
+         "md5" : "805bf9726df99807d008d142b3c7a1cf"
+      },
+      {
+         "extent" : [
+            "Arturo_Lopez",
+            "Carmen_Hernandez",
+            "Cecilia_Lopez",
+            "Eloina_Pelaez",
+            "Frida_Gorbach",
+            "Guillermina_Castro",
+            "Ilya_Adler",
+            "Jaime_Jimenez",
+            "Jose_Aguirre",
+            "Juan_Escalante",
+            "Judith_Zubieta",
+            "Larissa_Adler",
+            "Laura_Chazaro",
+            "Leticia_Mayer",
+            "Lilia_Ponce",
+            "Magdalena_Bayona",
+            "Marco_Polo",
+            "Miguel_Campos",
+            "Miguel_Rossano",
+            "Narda_Alcantara",
+            "Norma_Uribe",
+            "Raul_Carbajal",
+            "Ricardo_Lopez",
+            "Sara_Medina",
+            "Susana_Fernandez",
+            "Susana_Garcia"
+         ],
+         "intent" : [
+            "Periodo 1"
+         ],
+         "md5" : "2150f9e2e7d2ed77a8629cf9bf592195"
+      },
+      {
+         "extent" : [
+            "Eloina_Pelaez",
+            "Ilya_Adler",
+            "Jaime_Jimenez",
+            "Judith_Zubieta",
+            "Larissa_Adler",
+            "Leticia_Mayer",
+            "Miguel_Campos",
+            "Raul_Carbajal",
+            "Susana_Garcia"
+         ],
+         "intent" : [
+            "Investigadores",
+            "Periodo 1"
+         ],
+         "md5" : "1fff6f7e4b2276e9ccff3b6c824d4ca7"
+      },
+      {
+         "extent" : [
+            "Ilya_Adler"
+         ],
+         "intent" : [
+            "Estancia corta",
+            "Investigadores",
+            "Periodo 1"
+         ],
+         "md5" : "fb9acd56b88cc88e23615d087aa732ea"
+      },
+      {
+         "extent" : [
+            "Arturo_Lopez",
+            "Guillermina_Castro",
+            "Ilya_Adler",
+            "Jose_Aguirre",
+            "Marco_Polo",
+            "Norma_Uribe",
+            "Sara_Medina",
+            "Susana_Fernandez"
+         ],
+         "intent" : [
+            "Estancia corta",
+            "Periodo 1"
+         ],
+         "md5" : "fb5797a4603f5d05ff6763f07644b92f"
+      },
+      {
+         "extent" : [
+            "Ana_Hernandez",
+            "Eduardo_Robles",
+            "Eloina_Pelaez",
+            "Gabriel_Ramos",
+            "Gerardo_Iniguez",
+            "Gregory_Sandstrom",
+            "Guillermo_Espinosa",
+            "Ilya_Adler",
+            "Israel_Garcia",
+            "Jaime_Jimenez",
+            "Jesus_Siqueiros",
+            "Jorge_Gil",
+            "Judith_Zubieta",
+            "Larissa_Adler",
+            "Leticia_Mayer",
+            "Miguel_Campos",
+            "Philip_Sinclair",
+            "Raul_Carbajal",
+            "Susana_Garcia",
+            "Teresa_de_Leon"
+         ],
+         "intent" : [
+            "Investigadores"
+         ],
+         "md5" : "922353991b862b4c65264d37ad0bc1ef"
+      },
+      {
+         "extent" : [
+            "Ana_Hernandez",
+            "Gerardo_Iniguez",
+            "Gregory_Sandstrom",
+            "Ilya_Adler",
+            "Philip_Sinclair"
+         ],
+         "intent" : [
+            "Estancia corta",
+            "Investigadores"
+         ],
+         "md5" : "2002d7e903b7197ff2971fb76aa3bfc4"
+      },
+      {
+         "extent" : [
+            "Alexia_Gil",
+            "Ana_Hernandez",
+            "Arodi_Farrera",
+            "Arturo_Lopez",
+            "Gerardo_Iniguez",
+            "Gregory_Sandstrom",
+            "Guillermina_Castro",
+            "Ilya_Adler",
+            "Jazmin_Flores",
+            "Jose_Aguirre",
+            "Liliana_Ramirez",
+            "Marco_Polo",
+            "Nestor_Paredes",
+            "Nina_Jung",
+            "Norma_Uribe",
+            "Philip_Sinclair",
+            "Sara_Medina",
+            "Silvia_Casasola",
+            "Susana_Fernandez"
+         ],
+         "intent" : [
+            "Estancia corta"
+         ],
+         "md5" : "5fb8b2b34764da3ca1e37079a21c12c3"
+      }
+   ],
+   "context" : {
+      "Alejandro_Ruiz" : {
+         "attributes" : [
+            "Periodo 3",
+            "Tecnicos"
+         ],
+         "id" : "Alejandro_Ruiz",
+         "name" : "Alejandro Ruiz"
+      },
+      "Alexia_Gil" : {
+         "attributes" : [
+            "Estancia corta",
+            "Periodo 2",
+            "Tecnicos"
+         ],
+         "id" : "Alexia_Gil",
+         "name" : "Alexia Gil"
+      },
+      "Aline_Saldaña" : {
+         "attributes" : [
+            "Periodo 3",
+            "Posdoctorales"
+         ],
+         "id" : "Aline_Saldaña",
+         "name" : "Aline Saldaña"
+      },
+      "Ana_Hernandez" : {
+         "attributes" : [
+            "Estancia corta",
+            "Investigadores",
+            "Periodo 3"
+         ],
+         "id" : "Ana_Hernandez",
+         "name" : "Ana Maria Hernandez"
+      },
+      "Ana_Medeles" : {
+         "attributes" : [
+            "Periodo 3",
+            "Posdoctorales"
+         ],
+         "id" : "Ana_Medeles",
+         "name" : "Ana Medeles"
+      },
+      "Arodi_Farrera" : {
+         "attributes" : [
+            "Estancia corta",
+            "Periodo 3",
+            "Posdoctorales"
+         ],
+         "id" : "Arodi_Farrera",
+         "name" : "Arodi Farrera"
+      },
+      "Arturo_Lopez" : {
+         "attributes" : [
+            "Estancia corta",
+            "Periodo 1",
+            "Tecnicos"
+         ],
+         "id" : "Arturo_Lopez",
+         "name" : "Arturo López"
+      },
+      "Carlos_Rodriguez" : {
+         "attributes" : [
+            "Periodo 3",
+            "Tecnicos"
+         ],
+         "id" : "Carlos_Rodriguez",
+         "name" : "Carlos Rodriguez"
+      },
+      "Carmen_Hernandez" : {
+         "attributes" : [
+            "Periodo 1",
+            "Tecnicos"
+         ],
+         "id" : "Carmen_Hernandez",
+         "name" : "Carmen Hernandez"
+      },
+      "Cecilia_Lopez" : {
+         "attributes" : [
+            "Periodo 1",
+            "Periodo 2",
+            "Tecnicos"
+         ],
+         "id" : "Cecilia_Lopez",
+         "name" : "Cecilia Lopez"
+      },
+      "Cristina_Jasso" : {
+         "attributes" : [
+            "Periodo 3",
+            "Posdoctorales"
+         ],
+         "id" : "Cristina_Jasso",
+         "name" : "Cristina Jasso"
+      },
+      "Diana_Sheinbaum" : {
+         "attributes" : [
+            "Tecnicos"
+         ],
+         "id" : "Diana_Sheinbaum",
+         "name" : "Diana Sheinbaum"
+      },
+      "Eduardo_Robles" : {
+         "attributes" : [
+            "Investigadores",
+            "Periodo 3"
+         ],
+         "id" : "Eduardo_Robles",
+         "name" : "Eduardo Robles"
+      },
+      "Eloina_Pelaez" : {
+         "attributes" : [
+            "Investigadores",
+            "Periodo 1"
+         ],
+         "id" : "Eloina_Pelaez",
+         "name" : "Eloína Pelaez"
+      },
+      "Enrique_Perez" : {
+         "attributes" : [
+            "Periodo 2",
+            "Tecnicos"
+         ],
+         "id" : "Enrique_Perez",
+         "name" : "Enrique Perez"
+      },
+      "Frida_Gorbach" : {
+         "attributes" : [
+            "Periodo 1",
+            "Tecnicos"
+         ],
+         "id" : "Frida_Gorbach",
+         "name" : "Frida Gorbach"
+      },
+      "Gabriel_Ramos" : {
+         "attributes" : [
+            "Investigadores",
+            "Periodo 3"
+         ],
+         "id" : "Gabriel_Ramos",
+         "name" : "Gabriel Ramos"
+      },
+      "Gabriela_Sued" : {
+         "attributes" : [
+            "Periodo 3",
+            "Posdoctorales"
+         ],
+         "id" : "Gabriela_Sued",
+         "name" : "Gabriela Sued"
+      },
+      "Gerardo_Iniguez" : {
+         "attributes" : [
+            "Estancia corta",
+            "Investigadores",
+            "Periodo 3"
+         ],
+         "id" : "Gerardo_Iniguez",
+         "name" : "Gerardo Iñiguez"
+      },
+      "Gerardo_Lopez" : {
+         "attributes" : [
+            "Periodo 3",
+            "Tecnicos"
+         ],
+         "id" : "Gerardo_Lopez",
+         "name" : "Gerardo López"
+      },
+      "Gibran_Barrera" : {
+         "attributes" : [
+            "Periodo 3",
+            "Tecnicos"
+         ],
+         "id" : "Gibran_Barrera",
+         "name" : "Gibran Barrera"
+      },
+      "Gregory_Sandstrom" : {
+         "attributes" : [
+            "Estancia corta",
+            "Investigadores",
+            "Periodo 3"
+         ],
+         "id" : "Gregory_Sandstrom",
+         "name" : "Gregory Sandstrom"
+      },
+      "Guillermina_Castro" : {
+         "attributes" : [
+            "Estancia corta",
+            "Periodo 1",
+            "Tecnicos"
+         ],
+         "id" : "Guillermina_Castro",
+         "name" : "Guillermina Castro"
+      },
+      "Guillermo_Espinosa" : {
+         "attributes" : [
+            "Investigadores",
+            "Periodo 2"
+         ],
+         "id" : "Guillermo_Espinosa",
+         "name" : "Guillermo Espinosa"
+      },
+      "Ilya_Adler" : {
+         "attributes" : [
+            "Estancia corta",
+            "Investigadores",
+            "Periodo 1"
+         ],
+         "id" : "Ilya_Adler",
+         "name" : "Ilya Adler"
+      },
+      "Israel_Garcia" : {
+         "attributes" : [
+            "Investigadores",
+            "Periodo 3"
+         ],
+         "id" : "Israel_Garcia",
+         "name" : "Israel García"
+      },
+      "Israel_Sandoval" : {
+         "attributes" : [
+            "Periodo 3",
+            "Tecnicos"
+         ],
+         "id" : "Israel_Sandoval",
+         "name" : "Israel Sandoval"
+      },
+      "Jaime_Jimenez" : {
+         "attributes" : [
+            "Investigadores",
+            "Periodo 1",
+            "Periodo 2",
+            "Periodo 3"
+         ],
+         "id" : "Jaime_Jimenez",
+         "name" : "Jaime Jiménez"
+      },
+      "Jazmin_Flores" : {
+         "attributes" : [
+            "Estancia corta",
+            "Periodo 3",
+            "Posdoctorales"
+         ],
+         "id" : "Jazmin_Flores",
+         "name" : "Jazmin Flores"
+      },
+      "Jesus_Siqueiros" : {
+         "attributes" : [
+            "Investigadores",
+            "Periodo 3"
+         ],
+         "id" : "Jesus_Siqueiros",
+         "name" : "Jesus Siqueiros"
+      },
+      "Jorge_Castro" : {
+         "attributes" : [
+            "Periodo 2",
+            "Tecnicos"
+         ],
+         "id" : "Jorge_Castro",
+         "name" : "Jorge Castro"
+      },
+      "Jorge_Gil" : {
+         "attributes" : [
+            "Investigadores",
+            "Periodo 2"
+         ],
+         "id" : "Jorge_Gil",
+         "name" : "Jorge Gil"
+      },
+      "Jose_Aguirre" : {
+         "attributes" : [
+            "Estancia corta",
+            "Periodo 1",
+            "Tecnicos"
+         ],
+         "id" : "Jose_Aguirre",
+         "name" : "Jose Aguirre"
+      },
+      "Jose_Aranda" : {
+         "attributes" : [
+            "Periodo 3",
+            "Tecnicos"
+         ],
+         "id" : "Jose_Aranda",
+         "name" : "Jose Aranda"
+      },
+      "Juan_Escalante" : {
+         "attributes" : [
+            "Periodo 1",
+            "Periodo 2",
+            "Periodo 3",
+            "Tecnicos"
+         ],
+         "id" : "Juan_Escalante",
+         "name" : "Juan Escalante"
+      },
+      "Judith_Zubieta" : {
+         "attributes" : [
+            "Investigadores",
+            "Periodo 1"
+         ],
+         "id" : "Judith_Zubieta",
+         "name" : "Judith Zubieta"
+      },
+      "Larissa_Adler" : {
+         "attributes" : [
+            "Investigadores",
+            "Periodo 1",
+            "Periodo 2",
+            "Periodo 3"
+         ],
+         "id" : "Larissa_Adler",
+         "name" : "Larissa Adler"
+      },
+      "Laura_Chazaro" : {
+         "attributes" : [
+            "Periodo 1",
+            "Periodo 2",
+            "Tecnicos"
+         ],
+         "id" : "Laura_Chazaro",
+         "name" : "Laura Cházaro"
+      },
+      "Leticia_Mayer" : {
+         "attributes" : [
+            "Investigadores",
+            "Periodo 1",
+            "Periodo 2",
+            "Periodo 3"
+         ],
+         "id" : "Leticia_Mayer",
+         "name" : "Leticia Mayer"
+      },
+      "Lilia_Ponce" : {
+         "attributes" : [
+            "Periodo 1",
+            "Tecnicos"
+         ],
+         "id" : "Lilia_Ponce",
+         "name" : "Lilia Ponce de Leon"
+      },
+      "Liliana_Ramirez" : {
+         "attributes" : [
+            "Estancia corta",
+            "Periodo 3",
+            "Posdoctorales"
+         ],
+         "id" : "Liliana_Ramirez",
+         "name" : "Liliana Ramírez"
+      },
+      "Magdalena_Bayona" : {
+         "attributes" : [
+            "Periodo 1",
+            "Tecnicos"
+         ],
+         "id" : "Magdalena_Bayona",
+         "name" : "Magdalena Bayona"
+      },
+      "Marco_Polo" : {
+         "attributes" : [
+            "Estancia corta",
+            "Periodo 1",
+            "Tecnicos"
+         ],
+         "id" : "Marco_Polo",
+         "name" : "Marco Polo"
+      },
+      "Mariana_Espinosa" : {
+         "attributes" : [
+            "Periodo 3",
+            "Posdoctorales"
+         ],
+         "id" : "Mariana_Espinosa",
+         "name" : "Mariana Espinosa"
+      },
+      "Miguel_Campos" : {
+         "attributes" : [
+            "Investigadores",
+            "Periodo 1",
+            "Periodo 2"
+         ],
+         "id" : "Miguel_Campos",
+         "name" : "Miguel Campos"
+      },
+      "Miguel_Rossano" : {
+         "attributes" : [
+            "Periodo 1",
+            "Periodo 2",
+            "Tecnicos"
+         ],
+         "id" : "Miguel_Rossano",
+         "name" : "Miguel Rossano"
+      },
+      "Narda_Alcantara" : {
+         "attributes" : [
+            "Periodo 1",
+            "Periodo 2",
+            "Tecnicos"
+         ],
+         "id" : "Narda_Alcantara",
+         "name" : "Narda Alcantara"
+      },
+      "Nestor_Paredes" : {
+         "attributes" : [
+            "Estancia corta",
+            "Periodo 3",
+            "Posdoctorales"
+         ],
+         "id" : "Nestor_Paredes",
+         "name" : "Nestor Paredes"
+      },
+      "Nina_Jung" : {
+         "attributes" : [
+            "Estancia corta",
+            "Periodo 3",
+            "Tecnicos"
+         ],
+         "id" : "Nina_Jung",
+         "name" : "Ninga Jung"
+      },
+      "Norma_Uribe" : {
+         "attributes" : [
+            "Estancia corta",
+            "Periodo 1",
+            "Tecnicos"
+         ],
+         "id" : "Norma_Uribe",
+         "name" : "Norma Uribe"
+      },
+      "Philip_Sinclair" : {
+         "attributes" : [
+            "Estancia corta",
+            "Investigadores",
+            "Periodo 2"
+         ],
+         "id" : "Philip_Sinclair",
+         "name" : "Philip Sinclair"
+      },
+      "Pilar_Galarza" : {
+         "attributes" : [
+            "Periodo 2",
+            "Periodo 3",
+            "Tecnicos"
+         ],
+         "id" : "Pilar_Galarza",
+         "name" : "Pilar Galarza"
+      },
+      "Raul_Carbajal" : {
+         "attributes" : [
+            "Investigadores",
+            "Periodo 1"
+         ],
+         "id" : "Raul_Carbajal",
+         "name" : "Raul Carbajal"
+      },
+      "Ricardo_Lopez" : {
+         "attributes" : [
+            "Periodo 1",
+            "Tecnicos"
+         ],
+         "id" : "Ricardo_Lopez",
+         "name" : "Ricardo Lopez"
+      },
+      "Sandra_Smith" : {
+         "attributes" : [
+            "Periodo 3",
+            "Posdoctorales"
+         ],
+         "id" : "Sandra_Smith",
+         "name" : "Sandra Smith"
+      },
+      "Sara_Medina" : {
+         "attributes" : [
+            "Estancia corta",
+            "Periodo 1",
+            "Tecnicos"
+         ],
+         "id" : "Sara_Medina",
+         "name" : "Sara Medina"
+      },
+      "Silvia_Casasola" : {
+         "attributes" : [
+            "Estancia corta",
+            "Periodo 2",
+            "Posdoctorales"
+         ],
+         "id" : "Silvia_Casasola",
+         "name" : "Silvia Casasola"
+      },
+      "Susana_Fernandez" : {
+         "attributes" : [
+            "Estancia corta",
+            "Periodo 1",
+            "Tecnicos"
+         ],
+         "id" : "Susana_Fernandez",
+         "name" : "Susana Fernandez"
+      },
+      "Susana_Garcia" : {
+         "attributes" : [
+            "Investigadores",
+            "Periodo 1",
+            "Periodo 2",
+            "Periodo 3"
+         ],
+         "id" : "Susana_Garcia",
+         "name" : "Susana García"
+      },
+      "Teresa_de_Leon" : {
+         "attributes" : [
+            "Investigadores",
+            "Periodo 3"
+         ],
+         "id" : "Teresa_de_Leon",
+         "name" : "Teresa de Leon"
+      }
+   },
+   "links" : [
+      {
+         "source" : 0,
+         "target" : 2
+      },
+      {
+         "source" : 0,
+         "target" : 13
+      },
+      {
+         "source" : 0,
+         "target" : 18
+      },
+      {
+         "source" : 0,
+         "target" : 25
+      },
+      {
+         "source" : 0,
+         "target" : 31
+      },
+      {
+         "source" : 0,
+         "target" : 35
+      },
+      {
+         "source" : 0,
+         "target" : 37
+      },
+      {
+         "source" : 2,
+         "target" : 3
+      },
+      {
+         "source" : 2,
+         "target" : 7
+      },
+      {
+         "source" : 2,
+         "target" : 10
+      },
+      {
+         "source" : 2,
+         "target" : 12
+      },
+      {
+         "source" : 3,
+         "target" : 4
+      },
+      {
+         "source" : 3,
+         "target" : 6
+      },
+      {
+         "source" : 4,
+         "target" : 5
+      },
+      {
+         "source" : 5,
+         "target" : 1
+      },
+      {
+         "source" : 6,
+         "target" : 1
+      },
+      {
+         "source" : 7,
+         "target" : 4
+      },
+      {
+         "source" : 7,
+         "target" : 8
+      },
+      {
+         "source" : 7,
+         "target" : 9
+      },
+      {
+         "source" : 8,
+         "target" : 5
+      },
+      {
+         "source" : 9,
+         "target" : 1
+      },
+      {
+         "source" : 10,
+         "target" : 8
+      },
+      {
+         "source" : 10,
+         "target" : 11
+      },
+      {
+         "source" : 11,
+         "target" : 1
+      },
+      {
+         "source" : 12,
+         "target" : 6
+      },
+      {
+         "source" : 12,
+         "target" : 9
+      },
+      {
+         "source" : 12,
+         "target" : 11
+      },
+      {
+         "source" : 13,
+         "target" : 14
+      },
+      {
+         "source" : 13,
+         "target" : 16
+      },
+      {
+         "source" : 14,
+         "target" : 15
+      },
+      {
+         "source" : 15,
+         "target" : 1
+      },
+      {
+         "source" : 16,
+         "target" : 15
+      },
+      {
+         "source" : 16,
+         "target" : 17
+      },
+      {
+         "source" : 17,
+         "target" : 1
+      },
+      {
+         "source" : 18,
+         "target" : 3
+      },
+      {
+         "source" : 18,
+         "target" : 14
+      },
+      {
+         "source" : 18,
+         "target" : 19
+      },
+      {
+         "source" : 18,
+         "target" : 22
+      },
+      {
+         "source" : 18,
+         "target" : 24
+      },
+      {
+         "source" : 19,
+         "target" : 4
+      },
+      {
+         "source" : 19,
+         "target" : 20
+      },
+      {
+         "source" : 20,
+         "target" : 5
+      },
+      {
+         "source" : 20,
+         "target" : 21
+      },
+      {
+         "source" : 21,
+         "target" : 1
+      },
+      {
+         "source" : 22,
+         "target" : 21
+      },
+      {
+         "source" : 22,
+         "target" : 23
+      },
+      {
+         "source" : 23,
+         "target" : 1
+      },
+      {
+         "source" : 24,
+         "target" : 6
+      },
+      {
+         "source" : 24,
+         "target" : 15
+      },
+      {
+         "source" : 24,
+         "target" : 23
+      },
+      {
+         "source" : 25,
+         "target" : 7
+      },
+      {
+         "source" : 25,
+         "target" : 19
+      },
+      {
+         "source" : 25,
+         "target" : 26
+      },
+      {
+         "source" : 25,
+         "target" : 28
+      },
+      {
+         "source" : 25,
+         "target" : 30
+      },
+      {
+         "source" : 26,
+         "target" : 8
+      },
+      {
+         "source" : 26,
+         "target" : 20
+      },
+      {
+         "source" : 26,
+         "target" : 27
+      },
+      {
+         "source" : 27,
+         "target" : 21
+      },
+      {
+         "source" : 28,
+         "target" : 27
+      },
+      {
+         "source" : 28,
+         "target" : 29
+      },
+      {
+         "source" : 29,
+         "target" : 1
+      },
+      {
+         "source" : 30,
+         "target" : 9
+      },
+      {
+         "source" : 30,
+         "target" : 17
+      },
+      {
+         "source" : 30,
+         "target" : 29
+      },
+      {
+         "source" : 31,
+         "target" : 10
+      },
+      {
+         "source" : 31,
+         "target" : 26
+      },
+      {
+         "source" : 31,
+         "target" : 32
+      },
+      {
+         "source" : 31,
+         "target" : 34
+      },
+      {
+         "source" : 32,
+         "target" : 27
+      },
+      {
+         "source" : 32,
+         "target" : 33
+      },
+      {
+         "source" : 33,
+         "target" : 1
+      },
+      {
+         "source" : 34,
+         "target" : 11
+      },
+      {
+         "source" : 34,
+         "target" : 33
+      },
+      {
+         "source" : 35,
+         "target" : 22
+      },
+      {
+         "source" : 35,
+         "target" : 28
+      },
+      {
+         "source" : 35,
+         "target" : 32
+      },
+      {
+         "source" : 35,
+         "target" : 36
+      },
+      {
+         "source" : 36,
+         "target" : 23
+      },
+      {
+         "source" : 36,
+         "target" : 29
+      },
+      {
+         "source" : 36,
+         "target" : 33
+      },
+      {
+         "source" : 37,
+         "target" : 12
+      },
+      {
+         "source" : 37,
+         "target" : 16
+      },
+      {
+         "source" : 37,
+         "target" : 24
+      },
+      {
+         "source" : 37,
+         "target" : 30
+      },
+      {
+         "source" : 37,
+         "target" : 34
+      },
+      {
+         "source" : 37,
+         "target" : 36
+      }
+   ],
+   "nodes" : [
+      {
+         "children" : [
+            "789039988",
+            "295295128",
+            "401570394",
+            "1987138458",
+            "1740401227",
+            "943600444",
+            "1424991179"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Alexia_Gil",
+               "Aline_Saldaña",
+               "Ana_Hernandez",
+               "Ana_Medeles",
+               "Arodi_Farrera",
+               "Arturo_Lopez",
+               "Carlos_Rodriguez",
+               "Carmen_Hernandez",
+               "Cecilia_Lopez",
+               "Cristina_Jasso",
+               "Diana_Sheinbaum",
+               "Eduardo_Robles",
+               "Eloina_Pelaez",
+               "Enrique_Perez",
+               "Frida_Gorbach",
+               "Gabriel_Ramos",
+               "Gabriela_Sued",
+               "Gerardo_Iniguez",
+               "Gerardo_Lopez",
+               "Gibran_Barrera",
+               "Gregory_Sandstrom",
+               "Guillermina_Castro",
+               "Guillermo_Espinosa",
+               "Ilya_Adler",
+               "Israel_Garcia",
+               "Israel_Sandoval",
+               "Jaime_Jimenez",
+               "Jazmin_Flores",
+               "Jesus_Siqueiros",
+               "Jorge_Castro",
+               "Jorge_Gil",
+               "Jose_Aguirre",
+               "Jose_Aranda",
+               "Juan_Escalante",
+               "Judith_Zubieta",
+               "Larissa_Adler",
+               "Laura_Chazaro",
+               "Leticia_Mayer",
+               "Lilia_Ponce",
+               "Liliana_Ramirez",
+               "Magdalena_Bayona",
+               "Marco_Polo",
+               "Mariana_Espinosa",
+               "Miguel_Campos",
+               "Miguel_Rossano",
+               "Narda_Alcantara",
+               "Nestor_Paredes",
+               "Nina_Jung",
+               "Norma_Uribe",
+               "Philip_Sinclair",
+               "Pilar_Galarza",
+               "Raul_Carbajal",
+               "Ricardo_Lopez",
+               "Sandra_Smith",
+               "Sara_Medina",
+               "Silvia_Casasola",
+               "Susana_Fernandez",
+               "Susana_Garcia",
+               "Teresa_de_Leon"
+            ],
+            "intent" : [],
+            "md5" : "ef7ed486baa286a721f69ea5177ffeac"
+         },
+         "hash" : "687789903",
+         "idx" : 0,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "5",
+         "parents" : []
+      },
+      {
+         "children" : [],
+         "concept" : {
+            "extent" : [],
+            "intent" : [
+               "Estancia corta",
+               "Investigadores",
+               "Periodo 1",
+               "Periodo 2",
+               "Periodo 3",
+               "Posdoctorales",
+               "Tecnicos"
+            ],
+            "md5" : "c335a23be40b53a94812adaaa20fe9be"
+         },
+         "hash" : "428346192",
+         "idx" : 1,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "0",
+         "parents" : [
+            "508672647",
+            "686253654",
+            "2010431008",
+            "560408086",
+            "846275903",
+            "565653745",
+            "1933623129",
+            "1212447350",
+            "1049149008",
+            "772983752"
+         ]
+      },
+      {
+         "children" : [
+            "1920226781",
+            "158670845",
+            "830593424",
+            "1745524347"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Alexia_Gil",
+               "Arturo_Lopez",
+               "Carlos_Rodriguez",
+               "Carmen_Hernandez",
+               "Cecilia_Lopez",
+               "Diana_Sheinbaum",
+               "Enrique_Perez",
+               "Frida_Gorbach",
+               "Gerardo_Lopez",
+               "Gibran_Barrera",
+               "Guillermina_Castro",
+               "Israel_Sandoval",
+               "Jorge_Castro",
+               "Jose_Aguirre",
+               "Jose_Aranda",
+               "Juan_Escalante",
+               "Laura_Chazaro",
+               "Lilia_Ponce",
+               "Magdalena_Bayona",
+               "Marco_Polo",
+               "Miguel_Rossano",
+               "Narda_Alcantara",
+               "Nina_Jung",
+               "Norma_Uribe",
+               "Pilar_Galarza",
+               "Ricardo_Lopez",
+               "Sara_Medina",
+               "Susana_Fernandez"
+            ],
+            "intent" : [
+               "Tecnicos"
+            ],
+            "md5" : "1860aea7e8719bb9d448fcc959ae59ff"
+         },
+         "hash" : "789039988",
+         "idx" : 2,
+         "labelAttributes" : [
+            "Tecnicos"
+         ],
+         "labelObjects" : [
+            "Diana_Sheinbaum"
+         ],
+         "level" : "4",
+         "parents" : [
+            "687789903"
+         ]
+      },
+      {
+         "children" : [
+            "1625142489",
+            "686253654"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Carlos_Rodriguez",
+               "Gerardo_Lopez",
+               "Gibran_Barrera",
+               "Israel_Sandoval",
+               "Jose_Aranda",
+               "Juan_Escalante",
+               "Nina_Jung",
+               "Pilar_Galarza"
+            ],
+            "intent" : [
+               "Periodo 3",
+               "Tecnicos"
+            ],
+            "md5" : "31d8b9b641dd217d799f9e8cac012167"
+         },
+         "hash" : "1920226781",
+         "idx" : 3,
+         "labelAttributes" : [],
+         "labelObjects" : [
+            "Jose_Aranda",
+            "Israel_Sandoval",
+            "Gibran_Barrera",
+            "Gerardo_Lopez",
+            "Carlos_Rodriguez",
+            "Alejandro_Ruiz"
+         ],
+         "level" : "3",
+         "parents" : [
+            "789039988",
+            "401570394"
+         ]
+      },
+      {
+         "children" : [
+            "508672647"
+         ],
+         "concept" : {
+            "extent" : [
+               "Juan_Escalante",
+               "Pilar_Galarza"
+            ],
+            "intent" : [
+               "Periodo 2",
+               "Periodo 3",
+               "Tecnicos"
+            ],
+            "md5" : "df69bc6731df0f0229b74580fc81d744"
+         },
+         "hash" : "1625142489",
+         "idx" : 4,
+         "labelAttributes" : [],
+         "labelObjects" : [
+            "Pilar_Galarza"
+         ],
+         "level" : "2",
+         "parents" : [
+            "1920226781",
+            "158670845",
+            "1147894032"
+         ]
+      },
+      {
+         "children" : [
+            "428346192"
+         ],
+         "concept" : {
+            "extent" : [
+               "Juan_Escalante"
+            ],
+            "intent" : [
+               "Periodo 1",
+               "Periodo 2",
+               "Periodo 3",
+               "Tecnicos"
+            ],
+            "md5" : "85f01b23eb578451b0ec0d16d0b24666"
+         },
+         "hash" : "508672647",
+         "idx" : 5,
+         "labelAttributes" : [],
+         "labelObjects" : [
+            "Juan_Escalante"
+         ],
+         "level" : "1",
+         "parents" : [
+            "1625142489",
+            "309234390",
+            "1564253747"
+         ]
+      },
+      {
+         "children" : [
+            "428346192"
+         ],
+         "concept" : {
+            "extent" : [
+               "Nina_Jung"
+            ],
+            "intent" : [
+               "Estancia corta",
+               "Periodo 3",
+               "Tecnicos"
+            ],
+            "md5" : "8e33076c5b2861838c1f40914020a124"
+         },
+         "hash" : "686253654",
+         "idx" : 6,
+         "labelAttributes" : [],
+         "labelObjects" : [
+            "Nina_Jung"
+         ],
+         "level" : "1",
+         "parents" : [
+            "1920226781",
+            "1745524347",
+            "802660815"
+         ]
+      },
+      {
+         "children" : [
+            "1625142489",
+            "309234390",
+            "2010431008"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alexia_Gil",
+               "Cecilia_Lopez",
+               "Enrique_Perez",
+               "Jorge_Castro",
+               "Juan_Escalante",
+               "Laura_Chazaro",
+               "Miguel_Rossano",
+               "Narda_Alcantara",
+               "Pilar_Galarza"
+            ],
+            "intent" : [
+               "Periodo 2",
+               "Tecnicos"
+            ],
+            "md5" : "e07157c348e21e6600751fff2bea2174"
+         },
+         "hash" : "158670845",
+         "idx" : 7,
+         "labelAttributes" : [],
+         "labelObjects" : [
+            "Jorge_Castro",
+            "Enrique_Perez"
+         ],
+         "level" : "3",
+         "parents" : [
+            "789039988",
+            "1987138458"
+         ]
+      },
+      {
+         "children" : [
+            "508672647"
+         ],
+         "concept" : {
+            "extent" : [
+               "Cecilia_Lopez",
+               "Juan_Escalante",
+               "Laura_Chazaro",
+               "Miguel_Rossano",
+               "Narda_Alcantara"
+            ],
+            "intent" : [
+               "Periodo 1",
+               "Periodo 2",
+               "Tecnicos"
+            ],
+            "md5" : "6187bf75b2ed21697ab82da5e6c7e7b0"
+         },
+         "hash" : "309234390",
+         "idx" : 8,
+         "labelAttributes" : [],
+         "labelObjects" : [
+            "Narda_Alcantara",
+            "Miguel_Rossano",
+            "Laura_Chazaro",
+            "Cecilia_Lopez"
+         ],
+         "level" : "2",
+         "parents" : [
+            "158670845",
+            "830593424",
+            "318286419"
+         ]
+      },
+      {
+         "children" : [
+            "428346192"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alexia_Gil"
+            ],
+            "intent" : [
+               "Estancia corta",
+               "Periodo 2",
+               "Tecnicos"
+            ],
+            "md5" : "19bc3c5bcce63383380ee478bf0ba2f3"
+         },
+         "hash" : "2010431008",
+         "idx" : 9,
+         "labelAttributes" : [],
+         "labelObjects" : [
+            "Alexia_Gil"
+         ],
+         "level" : "1",
+         "parents" : [
+            "158670845",
+            "1745524347",
+            "562760703"
+         ]
+      },
+      {
+         "children" : [
+            "309234390",
+            "560408086"
+         ],
+         "concept" : {
+            "extent" : [
+               "Arturo_Lopez",
+               "Carmen_Hernandez",
+               "Cecilia_Lopez",
+               "Frida_Gorbach",
+               "Guillermina_Castro",
+               "Jose_Aguirre",
+               "Juan_Escalante",
+               "Laura_Chazaro",
+               "Lilia_Ponce",
+               "Magdalena_Bayona",
+               "Marco_Polo",
+               "Miguel_Rossano",
+               "Narda_Alcantara",
+               "Norma_Uribe",
+               "Ricardo_Lopez",
+               "Sara_Medina",
+               "Susana_Fernandez"
+            ],
+            "intent" : [
+               "Periodo 1",
+               "Tecnicos"
+            ],
+            "md5" : "3519c071e8d319e2048b7b0169b5b7b7"
+         },
+         "hash" : "830593424",
+         "idx" : 10,
+         "labelAttributes" : [],
+         "labelObjects" : [
+            "Ricardo_Lopez",
+            "Magdalena_Bayona",
+            "Lilia_Ponce",
+            "Frida_Gorbach",
+            "Carmen_Hernandez"
+         ],
+         "level" : "3",
+         "parents" : [
+            "789039988",
+            "1740401227"
+         ]
+      },
+      {
+         "children" : [
+            "428346192"
+         ],
+         "concept" : {
+            "extent" : [
+               "Arturo_Lopez",
+               "Guillermina_Castro",
+               "Jose_Aguirre",
+               "Marco_Polo",
+               "Norma_Uribe",
+               "Sara_Medina",
+               "Susana_Fernandez"
+            ],
+            "intent" : [
+               "Estancia corta",
+               "Periodo 1",
+               "Tecnicos"
+            ],
+            "md5" : "0310ce7e470dddd6b98d3b8ff3070957"
+         },
+         "hash" : "560408086",
+         "idx" : 11,
+         "labelAttributes" : [],
+         "labelObjects" : [
+            "Susana_Fernandez",
+            "Sara_Medina",
+            "Norma_Uribe",
+            "Marco_Polo",
+            "Jose_Aguirre",
+            "Guillermina_Castro",
+            "Arturo_Lopez"
+         ],
+         "level" : "1",
+         "parents" : [
+            "830593424",
+            "1745524347",
+            "1995872175"
+         ]
+      },
+      {
+         "children" : [
+            "686253654",
+            "2010431008",
+            "560408086"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alexia_Gil",
+               "Arturo_Lopez",
+               "Guillermina_Castro",
+               "Jose_Aguirre",
+               "Marco_Polo",
+               "Nina_Jung",
+               "Norma_Uribe",
+               "Sara_Medina",
+               "Susana_Fernandez"
+            ],
+            "intent" : [
+               "Estancia corta",
+               "Tecnicos"
+            ],
+            "md5" : "32b1cd57e74025491682e2682fe65492"
+         },
+         "hash" : "1745524347",
+         "idx" : 12,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "789039988",
+            "1424991179"
+         ]
+      },
+      {
+         "children" : [
+            "925096724",
+            "1592309869"
+         ],
+         "concept" : {
+            "extent" : [
+               "Aline_Saldaña",
+               "Ana_Medeles",
+               "Arodi_Farrera",
+               "Cristina_Jasso",
+               "Gabriela_Sued",
+               "Jazmin_Flores",
+               "Liliana_Ramirez",
+               "Mariana_Espinosa",
+               "Nestor_Paredes",
+               "Sandra_Smith",
+               "Silvia_Casasola"
+            ],
+            "intent" : [
+               "Posdoctorales"
+            ],
+            "md5" : "568f394ce246a4cdc9b56c89050c45cc"
+         },
+         "hash" : "295295128",
+         "idx" : 13,
+         "labelAttributes" : [
+            "Posdoctorales"
+         ],
+         "labelObjects" : [],
+         "level" : "3",
+         "parents" : [
+            "687789903"
+         ]
+      },
+      {
+         "children" : [
+            "846275903"
+         ],
+         "concept" : {
+            "extent" : [
+               "Aline_Saldaña",
+               "Ana_Medeles",
+               "Arodi_Farrera",
+               "Cristina_Jasso",
+               "Gabriela_Sued",
+               "Jazmin_Flores",
+               "Liliana_Ramirez",
+               "Mariana_Espinosa",
+               "Nestor_Paredes",
+               "Sandra_Smith"
+            ],
+            "intent" : [
+               "Periodo 3",
+               "Posdoctorales"
+            ],
+            "md5" : "561635a3bafe763b7148c1e803317d87"
+         },
+         "hash" : "925096724",
+         "idx" : 14,
+         "labelAttributes" : [],
+         "labelObjects" : [
+            "Sandra_Smith",
+            "Mariana_Espinosa",
+            "Gabriela_Sued",
+            "Cristina_Jasso",
+            "Ana_Medeles",
+            "Aline_Saldaña"
+         ],
+         "level" : "2",
+         "parents" : [
+            "295295128",
+            "401570394"
+         ]
+      },
+      {
+         "children" : [
+            "428346192"
+         ],
+         "concept" : {
+            "extent" : [
+               "Arodi_Farrera",
+               "Jazmin_Flores",
+               "Liliana_Ramirez",
+               "Nestor_Paredes"
+            ],
+            "intent" : [
+               "Estancia corta",
+               "Periodo 3",
+               "Posdoctorales"
+            ],
+            "md5" : "973ce70f3f4cbca2403eab1f85fcf39c"
+         },
+         "hash" : "846275903",
+         "idx" : 15,
+         "labelAttributes" : [],
+         "labelObjects" : [
+            "Nestor_Paredes",
+            "Liliana_Ramirez",
+            "Jazmin_Flores",
+            "Arodi_Farrera"
+         ],
+         "level" : "1",
+         "parents" : [
+            "925096724",
+            "1592309869",
+            "802660815"
+         ]
+      },
+      {
+         "children" : [
+            "846275903",
+            "565653745"
+         ],
+         "concept" : {
+            "extent" : [
+               "Arodi_Farrera",
+               "Jazmin_Flores",
+               "Liliana_Ramirez",
+               "Nestor_Paredes",
+               "Silvia_Casasola"
+            ],
+            "intent" : [
+               "Estancia corta",
+               "Posdoctorales"
+            ],
+            "md5" : "80da833b99825c833afc6a1b2b7f90bb"
+         },
+         "hash" : "1592309869",
+         "idx" : 16,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "295295128",
+            "1424991179"
+         ]
+      },
+      {
+         "children" : [
+            "428346192"
+         ],
+         "concept" : {
+            "extent" : [
+               "Silvia_Casasola"
+            ],
+            "intent" : [
+               "Estancia corta",
+               "Periodo 2",
+               "Posdoctorales"
+            ],
+            "md5" : "a6e2410824cd65c8cf2d54f917d97e69"
+         },
+         "hash" : "565653745",
+         "idx" : 17,
+         "labelAttributes" : [],
+         "labelObjects" : [
+            "Silvia_Casasola"
+         ],
+         "level" : "1",
+         "parents" : [
+            "1592309869",
+            "562760703"
+         ]
+      },
+      {
+         "children" : [
+            "1920226781",
+            "925096724",
+            "1147894032",
+            "76357518",
+            "802660815"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Aline_Saldaña",
+               "Ana_Hernandez",
+               "Ana_Medeles",
+               "Arodi_Farrera",
+               "Carlos_Rodriguez",
+               "Cristina_Jasso",
+               "Eduardo_Robles",
+               "Gabriel_Ramos",
+               "Gabriela_Sued",
+               "Gerardo_Iniguez",
+               "Gerardo_Lopez",
+               "Gibran_Barrera",
+               "Gregory_Sandstrom",
+               "Israel_Garcia",
+               "Israel_Sandoval",
+               "Jaime_Jimenez",
+               "Jazmin_Flores",
+               "Jesus_Siqueiros",
+               "Jose_Aranda",
+               "Juan_Escalante",
+               "Larissa_Adler",
+               "Leticia_Mayer",
+               "Liliana_Ramirez",
+               "Mariana_Espinosa",
+               "Nestor_Paredes",
+               "Nina_Jung",
+               "Pilar_Galarza",
+               "Sandra_Smith",
+               "Susana_Garcia",
+               "Teresa_de_Leon"
+            ],
+            "intent" : [
+               "Periodo 3"
+            ],
+            "md5" : "6ea8a58cfda39dcbe24cb0ff7f2f5be5"
+         },
+         "hash" : "401570394",
+         "idx" : 18,
+         "labelAttributes" : [
+            "Periodo 3"
+         ],
+         "labelObjects" : [],
+         "level" : "4",
+         "parents" : [
+            "687789903"
+         ]
+      },
+      {
+         "children" : [
+            "1625142489",
+            "1564253747"
+         ],
+         "concept" : {
+            "extent" : [
+               "Jaime_Jimenez",
+               "Juan_Escalante",
+               "Larissa_Adler",
+               "Leticia_Mayer",
+               "Pilar_Galarza",
+               "Susana_Garcia"
+            ],
+            "intent" : [
+               "Periodo 2",
+               "Periodo 3"
+            ],
+            "md5" : "3d577e2f9bc13596b3b518da71fe3894"
+         },
+         "hash" : "1147894032",
+         "idx" : 19,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "3",
+         "parents" : [
+            "401570394",
+            "1987138458"
+         ]
+      },
+      {
+         "children" : [
+            "508672647",
+            "1933623129"
+         ],
+         "concept" : {
+            "extent" : [
+               "Jaime_Jimenez",
+               "Juan_Escalante",
+               "Larissa_Adler",
+               "Leticia_Mayer",
+               "Susana_Garcia"
+            ],
+            "intent" : [
+               "Periodo 1",
+               "Periodo 2",
+               "Periodo 3"
+            ],
+            "md5" : "1779373cf1f7c9d47702bdf796384fae"
+         },
+         "hash" : "1564253747",
+         "idx" : 20,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "1147894032",
+            "318286419"
+         ]
+      },
+      {
+         "children" : [
+            "428346192"
+         ],
+         "concept" : {
+            "extent" : [
+               "Jaime_Jimenez",
+               "Larissa_Adler",
+               "Leticia_Mayer",
+               "Susana_Garcia"
+            ],
+            "intent" : [
+               "Investigadores",
+               "Periodo 1",
+               "Periodo 2",
+               "Periodo 3"
+            ],
+            "md5" : "d7c6b9ea4ca14262d55222837276ffcd"
+         },
+         "hash" : "1933623129",
+         "idx" : 21,
+         "labelAttributes" : [],
+         "labelObjects" : [
+            "Susana_Garcia",
+            "Leticia_Mayer",
+            "Larissa_Adler",
+            "Jaime_Jimenez"
+         ],
+         "level" : "1",
+         "parents" : [
+            "1564253747",
+            "76357518",
+            "1086545565"
+         ]
+      },
+      {
+         "children" : [
+            "1933623129",
+            "1212447350"
+         ],
+         "concept" : {
+            "extent" : [
+               "Ana_Hernandez",
+               "Eduardo_Robles",
+               "Gabriel_Ramos",
+               "Gerardo_Iniguez",
+               "Gregory_Sandstrom",
+               "Israel_Garcia",
+               "Jaime_Jimenez",
+               "Jesus_Siqueiros",
+               "Larissa_Adler",
+               "Leticia_Mayer",
+               "Susana_Garcia",
+               "Teresa_de_Leon"
+            ],
+            "intent" : [
+               "Investigadores",
+               "Periodo 3"
+            ],
+            "md5" : "468523d7accb7cae948d5a6d0563688d"
+         },
+         "hash" : "76357518",
+         "idx" : 22,
+         "labelAttributes" : [],
+         "labelObjects" : [
+            "Teresa_de_Leon",
+            "Jesus_Siqueiros",
+            "Israel_Garcia",
+            "Gabriel_Ramos",
+            "Eduardo_Robles"
+         ],
+         "level" : "2",
+         "parents" : [
+            "401570394",
+            "943600444"
+         ]
+      },
+      {
+         "children" : [
+            "428346192"
+         ],
+         "concept" : {
+            "extent" : [
+               "Ana_Hernandez",
+               "Gerardo_Iniguez",
+               "Gregory_Sandstrom"
+            ],
+            "intent" : [
+               "Estancia corta",
+               "Investigadores",
+               "Periodo 3"
+            ],
+            "md5" : "4506ecde7039fd04fafef733b35dfb32"
+         },
+         "hash" : "1212447350",
+         "idx" : 23,
+         "labelAttributes" : [],
+         "labelObjects" : [
+            "Gregory_Sandstrom",
+            "Gerardo_Iniguez",
+            "Ana_Hernandez"
+         ],
+         "level" : "1",
+         "parents" : [
+            "76357518",
+            "802660815",
+            "1610347991"
+         ]
+      },
+      {
+         "children" : [
+            "686253654",
+            "846275903",
+            "1212447350"
+         ],
+         "concept" : {
+            "extent" : [
+               "Ana_Hernandez",
+               "Arodi_Farrera",
+               "Gerardo_Iniguez",
+               "Gregory_Sandstrom",
+               "Jazmin_Flores",
+               "Liliana_Ramirez",
+               "Nestor_Paredes",
+               "Nina_Jung"
+            ],
+            "intent" : [
+               "Estancia corta",
+               "Periodo 3"
+            ],
+            "md5" : "19fecd7d3a9a9139612efd36a478d806"
+         },
+         "hash" : "802660815",
+         "idx" : 24,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "401570394",
+            "1424991179"
+         ]
+      },
+      {
+         "children" : [
+            "158670845",
+            "1147894032",
+            "318286419",
+            "1645242070",
+            "562760703"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alexia_Gil",
+               "Cecilia_Lopez",
+               "Enrique_Perez",
+               "Guillermo_Espinosa",
+               "Jaime_Jimenez",
+               "Jorge_Castro",
+               "Jorge_Gil",
+               "Juan_Escalante",
+               "Larissa_Adler",
+               "Laura_Chazaro",
+               "Leticia_Mayer",
+               "Miguel_Campos",
+               "Miguel_Rossano",
+               "Narda_Alcantara",
+               "Philip_Sinclair",
+               "Pilar_Galarza",
+               "Silvia_Casasola",
+               "Susana_Garcia"
+            ],
+            "intent" : [
+               "Periodo 2"
+            ],
+            "md5" : "cb1cf18b69a2d455c09c171cfceaa853"
+         },
+         "hash" : "1987138458",
+         "idx" : 25,
+         "labelAttributes" : [
+            "Periodo 2"
+         ],
+         "labelObjects" : [],
+         "level" : "4",
+         "parents" : [
+            "687789903"
+         ]
+      },
+      {
+         "children" : [
+            "309234390",
+            "1564253747",
+            "1086545565"
+         ],
+         "concept" : {
+            "extent" : [
+               "Cecilia_Lopez",
+               "Jaime_Jimenez",
+               "Juan_Escalante",
+               "Larissa_Adler",
+               "Laura_Chazaro",
+               "Leticia_Mayer",
+               "Miguel_Campos",
+               "Miguel_Rossano",
+               "Narda_Alcantara",
+               "Susana_Garcia"
+            ],
+            "intent" : [
+               "Periodo 1",
+               "Periodo 2"
+            ],
+            "md5" : "ac739d6ae7578f6d1b71efbd35957222"
+         },
+         "hash" : "318286419",
+         "idx" : 26,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "3",
+         "parents" : [
+            "1987138458",
+            "1740401227"
+         ]
+      },
+      {
+         "children" : [
+            "1933623129"
+         ],
+         "concept" : {
+            "extent" : [
+               "Jaime_Jimenez",
+               "Larissa_Adler",
+               "Leticia_Mayer",
+               "Miguel_Campos",
+               "Susana_Garcia"
+            ],
+            "intent" : [
+               "Investigadores",
+               "Periodo 1",
+               "Periodo 2"
+            ],
+            "md5" : "990a6145c4ea93bc841fb85b5a5caac3"
+         },
+         "hash" : "1086545565",
+         "idx" : 27,
+         "labelAttributes" : [],
+         "labelObjects" : [
+            "Miguel_Campos"
+         ],
+         "level" : "2",
+         "parents" : [
+            "318286419",
+            "1645242070",
+            "244151413"
+         ]
+      },
+      {
+         "children" : [
+            "1086545565",
+            "1049149008"
+         ],
+         "concept" : {
+            "extent" : [
+               "Guillermo_Espinosa",
+               "Jaime_Jimenez",
+               "Jorge_Gil",
+               "Larissa_Adler",
+               "Leticia_Mayer",
+               "Miguel_Campos",
+               "Philip_Sinclair",
+               "Susana_Garcia"
+            ],
+            "intent" : [
+               "Investigadores",
+               "Periodo 2"
+            ],
+            "md5" : "2880ecd796ab8f59d73a482a86971a18"
+         },
+         "hash" : "1645242070",
+         "idx" : 28,
+         "labelAttributes" : [],
+         "labelObjects" : [
+            "Jorge_Gil",
+            "Guillermo_Espinosa"
+         ],
+         "level" : "3",
+         "parents" : [
+            "1987138458",
+            "943600444"
+         ]
+      },
+      {
+         "children" : [
+            "428346192"
+         ],
+         "concept" : {
+            "extent" : [
+               "Philip_Sinclair"
+            ],
+            "intent" : [
+               "Estancia corta",
+               "Investigadores",
+               "Periodo 2"
+            ],
+            "md5" : "b1249cd0ae44be9dc57533c5adeaa029"
+         },
+         "hash" : "1049149008",
+         "idx" : 29,
+         "labelAttributes" : [],
+         "labelObjects" : [
+            "Philip_Sinclair"
+         ],
+         "level" : "1",
+         "parents" : [
+            "1645242070",
+            "562760703",
+            "1610347991"
+         ]
+      },
+      {
+         "children" : [
+            "2010431008",
+            "565653745",
+            "1049149008"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alexia_Gil",
+               "Philip_Sinclair",
+               "Silvia_Casasola"
+            ],
+            "intent" : [
+               "Estancia corta",
+               "Periodo 2"
+            ],
+            "md5" : "805bf9726df99807d008d142b3c7a1cf"
+         },
+         "hash" : "562760703",
+         "idx" : 30,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "1987138458",
+            "1424991179"
+         ]
+      },
+      {
+         "children" : [
+            "830593424",
+            "318286419",
+            "244151413",
+            "1995872175"
+         ],
+         "concept" : {
+            "extent" : [
+               "Arturo_Lopez",
+               "Carmen_Hernandez",
+               "Cecilia_Lopez",
+               "Eloina_Pelaez",
+               "Frida_Gorbach",
+               "Guillermina_Castro",
+               "Ilya_Adler",
+               "Jaime_Jimenez",
+               "Jose_Aguirre",
+               "Juan_Escalante",
+               "Judith_Zubieta",
+               "Larissa_Adler",
+               "Laura_Chazaro",
+               "Leticia_Mayer",
+               "Lilia_Ponce",
+               "Magdalena_Bayona",
+               "Marco_Polo",
+               "Miguel_Campos",
+               "Miguel_Rossano",
+               "Narda_Alcantara",
+               "Norma_Uribe",
+               "Raul_Carbajal",
+               "Ricardo_Lopez",
+               "Sara_Medina",
+               "Susana_Fernandez",
+               "Susana_Garcia"
+            ],
+            "intent" : [
+               "Periodo 1"
+            ],
+            "md5" : "2150f9e2e7d2ed77a8629cf9bf592195"
+         },
+         "hash" : "1740401227",
+         "idx" : 31,
+         "labelAttributes" : [
+            "Periodo 1"
+         ],
+         "labelObjects" : [],
+         "level" : "4",
+         "parents" : [
+            "687789903"
+         ]
+      },
+      {
+         "children" : [
+            "1086545565",
+            "772983752"
+         ],
+         "concept" : {
+            "extent" : [
+               "Eloina_Pelaez",
+               "Ilya_Adler",
+               "Jaime_Jimenez",
+               "Judith_Zubieta",
+               "Larissa_Adler",
+               "Leticia_Mayer",
+               "Miguel_Campos",
+               "Raul_Carbajal",
+               "Susana_Garcia"
+            ],
+            "intent" : [
+               "Investigadores",
+               "Periodo 1"
+            ],
+            "md5" : "1fff6f7e4b2276e9ccff3b6c824d4ca7"
+         },
+         "hash" : "244151413",
+         "idx" : 32,
+         "labelAttributes" : [],
+         "labelObjects" : [
+            "Raul_Carbajal",
+            "Judith_Zubieta",
+            "Eloina_Pelaez"
+         ],
+         "level" : "3",
+         "parents" : [
+            "1740401227",
+            "943600444"
+         ]
+      },
+      {
+         "children" : [
+            "428346192"
+         ],
+         "concept" : {
+            "extent" : [
+               "Ilya_Adler"
+            ],
+            "intent" : [
+               "Estancia corta",
+               "Investigadores",
+               "Periodo 1"
+            ],
+            "md5" : "fb9acd56b88cc88e23615d087aa732ea"
+         },
+         "hash" : "772983752",
+         "idx" : 33,
+         "labelAttributes" : [],
+         "labelObjects" : [
+            "Ilya_Adler"
+         ],
+         "level" : "1",
+         "parents" : [
+            "244151413",
+            "1995872175",
+            "1610347991"
+         ]
+      },
+      {
+         "children" : [
+            "560408086",
+            "772983752"
+         ],
+         "concept" : {
+            "extent" : [
+               "Arturo_Lopez",
+               "Guillermina_Castro",
+               "Ilya_Adler",
+               "Jose_Aguirre",
+               "Marco_Polo",
+               "Norma_Uribe",
+               "Sara_Medina",
+               "Susana_Fernandez"
+            ],
+            "intent" : [
+               "Estancia corta",
+               "Periodo 1"
+            ],
+            "md5" : "fb5797a4603f5d05ff6763f07644b92f"
+         },
+         "hash" : "1995872175",
+         "idx" : 34,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "1740401227",
+            "1424991179"
+         ]
+      },
+      {
+         "children" : [
+            "76357518",
+            "1645242070",
+            "244151413",
+            "1610347991"
+         ],
+         "concept" : {
+            "extent" : [
+               "Ana_Hernandez",
+               "Eduardo_Robles",
+               "Eloina_Pelaez",
+               "Gabriel_Ramos",
+               "Gerardo_Iniguez",
+               "Gregory_Sandstrom",
+               "Guillermo_Espinosa",
+               "Ilya_Adler",
+               "Israel_Garcia",
+               "Jaime_Jimenez",
+               "Jesus_Siqueiros",
+               "Jorge_Gil",
+               "Judith_Zubieta",
+               "Larissa_Adler",
+               "Leticia_Mayer",
+               "Miguel_Campos",
+               "Philip_Sinclair",
+               "Raul_Carbajal",
+               "Susana_Garcia",
+               "Teresa_de_Leon"
+            ],
+            "intent" : [
+               "Investigadores"
+            ],
+            "md5" : "922353991b862b4c65264d37ad0bc1ef"
+         },
+         "hash" : "943600444",
+         "idx" : 35,
+         "labelAttributes" : [
+            "Investigadores"
+         ],
+         "labelObjects" : [],
+         "level" : "4",
+         "parents" : [
+            "687789903"
+         ]
+      },
+      {
+         "children" : [
+            "1212447350",
+            "1049149008",
+            "772983752"
+         ],
+         "concept" : {
+            "extent" : [
+               "Ana_Hernandez",
+               "Gerardo_Iniguez",
+               "Gregory_Sandstrom",
+               "Ilya_Adler",
+               "Philip_Sinclair"
+            ],
+            "intent" : [
+               "Estancia corta",
+               "Investigadores"
+            ],
+            "md5" : "2002d7e903b7197ff2971fb76aa3bfc4"
+         },
+         "hash" : "1610347991",
+         "idx" : 36,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "943600444",
+            "1424991179"
+         ]
+      },
+      {
+         "children" : [
+            "1745524347",
+            "1592309869",
+            "802660815",
+            "562760703",
+            "1995872175",
+            "1610347991"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alexia_Gil",
+               "Ana_Hernandez",
+               "Arodi_Farrera",
+               "Arturo_Lopez",
+               "Gerardo_Iniguez",
+               "Gregory_Sandstrom",
+               "Guillermina_Castro",
+               "Ilya_Adler",
+               "Jazmin_Flores",
+               "Jose_Aguirre",
+               "Liliana_Ramirez",
+               "Marco_Polo",
+               "Nestor_Paredes",
+               "Nina_Jung",
+               "Norma_Uribe",
+               "Philip_Sinclair",
+               "Sara_Medina",
+               "Silvia_Casasola",
+               "Susana_Fernandez"
+            ],
+            "intent" : [
+               "Estancia corta"
+            ],
+            "md5" : "5fb8b2b34764da3ca1e37079a21c12c3"
+         },
+         "hash" : "1424991179",
+         "idx" : 37,
+         "labelAttributes" : [
+            "Estancia corta"
+         ],
+         "labelObjects" : [],
+         "level" : "3",
+         "parents" : [
+            "687789903"
+         ]
+      }
+   ]
+}

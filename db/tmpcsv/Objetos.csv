@@ -1,0 +1,25 @@
+Context:,3003,Objetos,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,Attributes,id,2061,2062,2063,2064,2065,2066,2067,2068,2069,2070,2071,2072,2073,2074,2075,2076,2077,2078,2080,2081,2082,2091
+,,,,,,,,,,reference,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,explanation_es,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,explanation_en,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,formula,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,title_es,"Entidades, Espacios y Redes Académicas",Redes agroalimentarias,Inteligencia artificial,"Astronomía, Cosmología y Gravitación",Las categorías y clasificaciones de medición social,Cetáceos,Cambio climático,Cotejos de Documentos y fuentes de información,COVID 19,Desarrollo y trayectorias de C y T,"Noticias digitales, periodismo",Tecnologías digitales,Sistema Económico y Mercados Financieros ,Grupos de personas trabajando en tareas colectivas,Interacciones vocales humanas,Procesos de institucionalización de la práctica de la estadística ,Nano-tecnología,Socio-ecosistemas en Yucatán,Monos araña,Estudios y biografías sobre científicos,La promoción y publicidad turística,Estudios sobre tecnólogos
+,,,,,,,,,,title_en,"Academic Entities, Spaces, and Networks",Agri-food Networks,Artificial Intelligence,"Astronomy, Cosmology, and Gravitation Theories",Categories and Classifications of Social Measurement,Cetaceans,Climate Change,Comparison of Documents and Information Sources,COVID-19,Development and Trajectories of Science and Technology,Digital News and Journalism,Digital Technologies,Economic System and Financial Markets,Groups of People Working on Collective Tasks,Human Vocal Interactions,Institutionalization Processes of Statistical Practice,Nanotechnology,Socio-ecosystems in Yucatan,Spider Monkeys,Studies and Biographies of Scientists,Tourism Promotion and Advertising,Studies of technicians
+,,,,,,,,,,class_code,Objeto,Objeto,Objeto,Objeto,Objeto,Objeto,Objeto,Objeto,Objeto,Objeto,Objeto,Objeto,Objeto,Objeto,Objeto,Objeto,Objeto,Objeto,Objeto,Objeto,Objeto,Objeto
+,,,Objects,,,,,,,label_es,Entidades Academicas,Redes agroalimentarias,Inteligencia artificial,Teorias fisicas,Medicion social,Cetaceos,Cambio climatico,Cotejos de Documentos,COVID 19,Trayectorias en CyT,Noticias digitales,Tecnologias digitales,Sistema Economico,Tareas colectivas,Interacciones vocales humanas,Institucionalizacion de la estadistica,Nano-tecnologia,Socio-ecosistemas en Yucatan,Monos araña,Estudios sobre cientificos,Turismo,Estudios sobre tecnologos
+,,,id,reference,year,desc_es,desc_en,label_es,label_en,code  label_en,Academic entities,Agri-food Networks,Artificial Intelligence,Physical Theories,Social Measurement,Cetaceans,Climate Change,Information Sources,COVID-19,Trajectories of Science,Digital News,Digital Technologies,Economic System,Collective Tasks,Human Vocal Interactions,Statistical Practices,Nanotechnology,Socio-ecosystems in Yucatan,Spider Monkeys,Studies of Scientists,Tourism,Studies of technitians
+,,,1003,,,Aline Amor Saldaña Sánchez,Aline Amor Saldaña Sánchez,Aline Saldaña,Aline Saldaña,Aline_Saldaña,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+,,,1005,,,Ana María Medeles Hernández,Ana María Medeles Hernández,Ana Medeles,Ana Medeles,Ana_Medeles,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+,,,1011,,,Cristina Jasso del Toro,Cristina Jasso del Toro,Cristina Jasso,Cristina Jasso,Cristina_Jasso,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+,,,1013,,,Eduardo Robles Belmont,Eduardo Robles Belmont,Eduardo Robles,Eduardo Robles,Eduardo_Robles,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+,,,1017,,,Gabriel Ramos Fernández,Gabriel Ramos Fernández,Gabriel Ramos,Gabriel Ramos,Gabriel_Ramos,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0
+,,,1018,,,Gabriela Elisa Sued,Gabriela Elisa Sued,Gabriela Sued,Gabriela Sued,Gabriela_Sued,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+,,,1026,,,Israel García Solares,Israel García Solares,Israel García,Israel Garcia,Israel_Garcia,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+,,,1040,,,Leticia Mayer Celis,Leticia Mayer Celis,Leticia Mayer,Leticia Mayer,Leticia_Mayer,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+,,,1042,,,Liliana Ramírez Ruíz,Liliana Ramírez Ruíz,Liliana Ramírez,Liliana Ramírez,Liliana_Ramirez,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+,,,1045,,,Mariana Espinosa Aldama,Mariana Espinosa Aldama,Mariana Espinosa,Mariana Espinosa,Mariana_Espinosa,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,1050,,,Néstor Francisco Paredes Urbina,Néstor Francisco Paredes Urbina,Nestor Paredes,Nestor Paredes,Nestor_Paredes,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,1057,,,Sandra E Smith Aguilar,Sandra E Smith Aguilar,Sandra Smith,Sandra Smith,Sandra_Smith,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+,,,1061,,,Susana García Salord,Susana García Salord,Susana García,Susana Garcia,Susana_Garcia,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+,,,1062,,,Teresa Guadalupe de León Escobedo,Teresa Guadalupe de León Escobedo,Teresa de Leon,Teresa de Leon,Teresa_de_Leon,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

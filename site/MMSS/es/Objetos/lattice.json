@@ -1,0 +1,944 @@
+{
+   "concepts" : [
+      {
+         "extent" : [
+            "Aline_Saldaña",
+            "Ana_Medeles",
+            "Cristina_Jasso",
+            "Eduardo_Robles",
+            "Gabriel_Ramos",
+            "Gabriela_Sued",
+            "Israel_Garcia",
+            "Leticia_Mayer",
+            "Liliana_Ramirez",
+            "Mariana_Espinosa",
+            "Nestor_Paredes",
+            "Sandra_Smith",
+            "Susana_Garcia",
+            "Teresa_de_Leon"
+         ],
+         "intent" : [],
+         "md5" : "b843b389c28629784b071db4c7a47383"
+      },
+      {
+         "extent" : [],
+         "intent" : [
+            "Astronomia",
+            "Cambio climático",
+            "Cetaceos",
+            "Cotejos de Documentos",
+            "COVID 19",
+            "Entidades Academicas",
+            "Estudios sobre científicos",
+            "Estudios sobre tecnólogos",
+            "Institucionalizacion de la estadistica ",
+            "Inteligencia artificial",
+            "Interacciones vocales humanas",
+            "Medicion social",
+            "Monos araña",
+            "Nano-tecnología",
+            "Noticias digitales",
+            "Redes agroalimentarias",
+            "Sistema Econpmico y Mercados Financieros ",
+            "Socio-ecosistemas en Yucatan",
+            "Tareas colectivas",
+            "Tecnologias digitales",
+            "Trayectorias en CyT",
+            "Turísmo"
+         ],
+         "md5" : "1f9ca52b404cc49bcbca503d2a26a6f9"
+      },
+      {
+         "extent" : [
+            "Eduardo_Robles",
+            "Israel_Garcia",
+            "Leticia_Mayer",
+            "Liliana_Ramirez"
+         ],
+         "intent" : [
+            "Trayectorias en CyT"
+         ],
+         "md5" : "da89ff29c990a078efcc74566ba7485d"
+      },
+      {
+         "extent" : [
+            "Israel_Garcia"
+         ],
+         "intent" : [
+            "Estudios sobre tecnólogos",
+            "Trayectorias en CyT"
+         ],
+         "md5" : "355bd96d318bfd6c26d6a7e12fd54b87"
+      },
+      {
+         "extent" : [
+            "Leticia_Mayer"
+         ],
+         "intent" : [
+            "Estudios sobre científicos",
+            "Trayectorias en CyT"
+         ],
+         "md5" : "821a6d6e84c8f34bc5454aa619730b66"
+      },
+      {
+         "extent" : [
+            "Eduardo_Robles",
+            "Liliana_Ramirez"
+         ],
+         "intent" : [
+            "Entidades Academicas",
+            "Trayectorias en CyT"
+         ],
+         "md5" : "11a64c3fe67ac6d8d376e7ac3ac1a603"
+      },
+      {
+         "extent" : [
+            "Eduardo_Robles"
+         ],
+         "intent" : [
+            "Entidades Academicas",
+            "Nano-tecnología",
+            "Trayectorias en CyT"
+         ],
+         "md5" : "2392128f10fe5c7db493f3a5da481252"
+      },
+      {
+         "extent" : [
+            "Aline_Saldaña",
+            "Cristina_Jasso",
+            "Gabriel_Ramos",
+            "Sandra_Smith"
+         ],
+         "intent" : [
+            "Monos araña"
+         ],
+         "md5" : "61bd4becb681e98dabdaff61f124414b"
+      },
+      {
+         "extent" : [
+            "Gabriel_Ramos"
+         ],
+         "intent" : [
+            "Interacciones vocales humanas",
+            "Monos araña",
+            "Socio-ecosistemas en Yucatan",
+            "Tareas colectivas"
+         ],
+         "md5" : "8fd949dac9c7d090677e1b999a7fa328"
+      },
+      {
+         "extent" : [
+            "Sandra_Smith"
+         ],
+         "intent" : [
+            "Cetaceos",
+            "Monos araña",
+            "Redes agroalimentarias"
+         ],
+         "md5" : "a6592af4b30a9d20dc56a2db30b7f960"
+      },
+      {
+         "extent" : [
+            "Ana_Medeles",
+            "Nestor_Paredes"
+         ],
+         "intent" : [
+            "Medicion social"
+         ],
+         "md5" : "cec2e9a3f772b6030252fe3961a30a5a"
+      },
+      {
+         "extent" : [
+            "Ana_Medeles"
+         ],
+         "intent" : [
+            "Institucionalizacion de la estadistica ",
+            "Medicion social"
+         ],
+         "md5" : "767495168ff4e03418d66534dfa4e1e4"
+      },
+      {
+         "extent" : [
+            "Nestor_Paredes"
+         ],
+         "intent" : [
+            "Entidades Academicas",
+            "Medicion social"
+         ],
+         "md5" : "8820e425ca79905265d11fff7566d4dd"
+      },
+      {
+         "extent" : [
+            "Eduardo_Robles",
+            "Liliana_Ramirez",
+            "Nestor_Paredes",
+            "Susana_Garcia"
+         ],
+         "intent" : [
+            "Entidades Academicas"
+         ],
+         "md5" : "2680880e1178ae588ee81d3dd930b13c"
+      },
+      {
+         "extent" : [
+            "Gabriela_Sued",
+            "Teresa_de_Leon"
+         ],
+         "intent" : [
+            "Cambio climático"
+         ],
+         "md5" : "ff976b9c906f2aec718395c7300f722c"
+      },
+      {
+         "extent" : [
+            "Gabriela_Sued"
+         ],
+         "intent" : [
+            "Cambio climático",
+            "Inteligencia artificial",
+            "Tecnologias digitales"
+         ],
+         "md5" : "35ef67504ca92d9466b1d8e5f60acf58"
+      },
+      {
+         "extent" : [
+            "Mariana_Espinosa"
+         ],
+         "intent" : [
+            "Astronomia"
+         ],
+         "md5" : "e08312f5f48d93cdaf797b8645770cc3"
+      }
+   ],
+   "context" : {
+      "Aline_Saldaña" : {
+         "attributes" : [
+            "Monos araña"
+         ],
+         "id" : "Aline_Saldaña",
+         "name" : "Aline Saldaña"
+      },
+      "Ana_Medeles" : {
+         "attributes" : [
+            "Institucionalizacion de la estadistica ",
+            "Medicion social"
+         ],
+         "id" : "Ana_Medeles",
+         "name" : "Ana Medeles"
+      },
+      "Cristina_Jasso" : {
+         "attributes" : [
+            "Monos araña"
+         ],
+         "id" : "Cristina_Jasso",
+         "name" : "Cristina Jasso"
+      },
+      "Eduardo_Robles" : {
+         "attributes" : [
+            "Entidades Academicas",
+            "Nano-tecnología",
+            "Trayectorias en CyT"
+         ],
+         "id" : "Eduardo_Robles",
+         "name" : "Eduardo Robles"
+      },
+      "Gabriel_Ramos" : {
+         "attributes" : [
+            "Interacciones vocales humanas",
+            "Monos araña",
+            "Socio-ecosistemas en Yucatan",
+            "Tareas colectivas"
+         ],
+         "id" : "Gabriel_Ramos",
+         "name" : "Gabriel Ramos"
+      },
+      "Gabriela_Sued" : {
+         "attributes" : [
+            "Cambio climático",
+            "Inteligencia artificial",
+            "Tecnologias digitales"
+         ],
+         "id" : "Gabriela_Sued",
+         "name" : "Gabriela Sued"
+      },
+      "Israel_Garcia" : {
+         "attributes" : [
+            "Estudios sobre tecnólogos",
+            "Trayectorias en CyT"
+         ],
+         "id" : "Israel_Garcia",
+         "name" : "Israel García"
+      },
+      "Leticia_Mayer" : {
+         "attributes" : [
+            "Estudios sobre científicos",
+            "Trayectorias en CyT"
+         ],
+         "id" : "Leticia_Mayer",
+         "name" : "Leticia Mayer"
+      },
+      "Liliana_Ramirez" : {
+         "attributes" : [
+            "Entidades Academicas",
+            "Trayectorias en CyT"
+         ],
+         "id" : "Liliana_Ramirez",
+         "name" : "Liliana Ramírez"
+      },
+      "Mariana_Espinosa" : {
+         "attributes" : [
+            "Astronomia"
+         ],
+         "id" : "Mariana_Espinosa",
+         "name" : "Mariana Espinosa"
+      },
+      "Nestor_Paredes" : {
+         "attributes" : [
+            "Entidades Academicas",
+            "Medicion social"
+         ],
+         "id" : "Nestor_Paredes",
+         "name" : "Nestor Paredes"
+      },
+      "Sandra_Smith" : {
+         "attributes" : [
+            "Cetaceos",
+            "Monos araña",
+            "Redes agroalimentarias"
+         ],
+         "id" : "Sandra_Smith",
+         "name" : "Sandra Smith"
+      },
+      "Susana_Garcia" : {
+         "attributes" : [
+            "Entidades Academicas"
+         ],
+         "id" : "Susana_Garcia",
+         "name" : "Susana García"
+      },
+      "Teresa_de_Leon" : {
+         "attributes" : [
+            "Cambio climático"
+         ],
+         "id" : "Teresa_de_Leon",
+         "name" : "Teresa de Leon"
+      }
+   },
+   "links" : [
+      {
+         "source" : 0,
+         "target" : 2
+      },
+      {
+         "source" : 0,
+         "target" : 7
+      },
+      {
+         "source" : 0,
+         "target" : 10
+      },
+      {
+         "source" : 0,
+         "target" : 13
+      },
+      {
+         "source" : 0,
+         "target" : 14
+      },
+      {
+         "source" : 0,
+         "target" : 16
+      },
+      {
+         "source" : 2,
+         "target" : 3
+      },
+      {
+         "source" : 2,
+         "target" : 4
+      },
+      {
+         "source" : 2,
+         "target" : 5
+      },
+      {
+         "source" : 3,
+         "target" : 1
+      },
+      {
+         "source" : 4,
+         "target" : 1
+      },
+      {
+         "source" : 5,
+         "target" : 6
+      },
+      {
+         "source" : 6,
+         "target" : 1
+      },
+      {
+         "source" : 7,
+         "target" : 8
+      },
+      {
+         "source" : 7,
+         "target" : 9
+      },
+      {
+         "source" : 8,
+         "target" : 1
+      },
+      {
+         "source" : 9,
+         "target" : 1
+      },
+      {
+         "source" : 10,
+         "target" : 11
+      },
+      {
+         "source" : 10,
+         "target" : 12
+      },
+      {
+         "source" : 11,
+         "target" : 1
+      },
+      {
+         "source" : 12,
+         "target" : 1
+      },
+      {
+         "source" : 13,
+         "target" : 5
+      },
+      {
+         "source" : 13,
+         "target" : 12
+      },
+      {
+         "source" : 14,
+         "target" : 15
+      },
+      {
+         "source" : 15,
+         "target" : 1
+      },
+      {
+         "source" : 16,
+         "target" : 1
+      }
+   ],
+   "nodes" : [
+      {
+         "children" : [
+            "435205717",
+            "1794790525",
+            "1255766367",
+            "952494437",
+            "605794870",
+            "477774708"
+         ],
+         "concept" : {
+            "extent" : [
+               "Aline_Saldaña",
+               "Ana_Medeles",
+               "Cristina_Jasso",
+               "Eduardo_Robles",
+               "Gabriel_Ramos",
+               "Gabriela_Sued",
+               "Israel_Garcia",
+               "Leticia_Mayer",
+               "Liliana_Ramirez",
+               "Mariana_Espinosa",
+               "Nestor_Paredes",
+               "Sandra_Smith",
+               "Susana_Garcia",
+               "Teresa_de_Leon"
+            ],
+            "intent" : [],
+            "md5" : "b843b389c28629784b071db4c7a47383"
+         },
+         "hash" : "501793317",
+         "idx" : 0,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "4",
+         "parents" : []
+      },
+      {
+         "children" : [],
+         "concept" : {
+            "extent" : [],
+            "intent" : [
+               "Astronomia",
+               "Cambio climático",
+               "Cetaceos",
+               "Cotejos de Documentos",
+               "COVID 19",
+               "Entidades Academicas",
+               "Estudios sobre científicos",
+               "Estudios sobre tecnólogos",
+               "Institucionalizacion de la estadistica ",
+               "Inteligencia artificial",
+               "Interacciones vocales humanas",
+               "Medicion social",
+               "Monos araña",
+               "Nano-tecnología",
+               "Noticias digitales",
+               "Redes agroalimentarias",
+               "Sistema Econpmico y Mercados Financieros ",
+               "Socio-ecosistemas en Yucatan",
+               "Tareas colectivas",
+               "Tecnologias digitales",
+               "Trayectorias en CyT",
+               "Turísmo"
+            ],
+            "md5" : "1f9ca52b404cc49bcbca503d2a26a6f9"
+         },
+         "hash" : "719285515",
+         "idx" : 1,
+         "labelAttributes" : [
+            "Turísmo",
+            "Sistema Econpmico y Mercados Financieros",
+            "Noticias digitales",
+            "COVID 19",
+            "Cotejos de Documentos"
+         ],
+         "labelObjects" : [],
+         "level" : "0",
+         "parents" : [
+            "1619656008",
+            "55733800",
+            "1391660384",
+            "1209573794",
+            "1741973076",
+            "2011654056",
+            "1026948153",
+            "808279948",
+            "477774708"
+         ]
+      },
+      {
+         "children" : [
+            "1619656008",
+            "55733800",
+            "377939459"
+         ],
+         "concept" : {
+            "extent" : [
+               "Eduardo_Robles",
+               "Israel_Garcia",
+               "Leticia_Mayer",
+               "Liliana_Ramirez"
+            ],
+            "intent" : [
+               "Trayectorias en CyT"
+            ],
+            "md5" : "da89ff29c990a078efcc74566ba7485d"
+         },
+         "hash" : "435205717",
+         "idx" : 2,
+         "labelAttributes" : [
+            "Trayectorias en CyT"
+         ],
+         "labelObjects" : [],
+         "level" : "3",
+         "parents" : [
+            "501793317"
+         ]
+      },
+      {
+         "children" : [
+            "719285515"
+         ],
+         "concept" : {
+            "extent" : [
+               "Israel_Garcia"
+            ],
+            "intent" : [
+               "Estudios sobre tecnólogos",
+               "Trayectorias en CyT"
+            ],
+            "md5" : "355bd96d318bfd6c26d6a7e12fd54b87"
+         },
+         "hash" : "1619656008",
+         "idx" : 3,
+         "labelAttributes" : [
+            "Estudios sobre tecnólogos"
+         ],
+         "labelObjects" : [
+            "Israel_Garcia"
+         ],
+         "level" : "1",
+         "parents" : [
+            "435205717"
+         ]
+      },
+      {
+         "children" : [
+            "719285515"
+         ],
+         "concept" : {
+            "extent" : [
+               "Leticia_Mayer"
+            ],
+            "intent" : [
+               "Estudios sobre científicos",
+               "Trayectorias en CyT"
+            ],
+            "md5" : "821a6d6e84c8f34bc5454aa619730b66"
+         },
+         "hash" : "55733800",
+         "idx" : 4,
+         "labelAttributes" : [
+            "Estudios sobre científicos"
+         ],
+         "labelObjects" : [
+            "Leticia_Mayer"
+         ],
+         "level" : "1",
+         "parents" : [
+            "435205717"
+         ]
+      },
+      {
+         "children" : [
+            "1391660384"
+         ],
+         "concept" : {
+            "extent" : [
+               "Eduardo_Robles",
+               "Liliana_Ramirez"
+            ],
+            "intent" : [
+               "Entidades Academicas",
+               "Trayectorias en CyT"
+            ],
+            "md5" : "11a64c3fe67ac6d8d376e7ac3ac1a603"
+         },
+         "hash" : "377939459",
+         "idx" : 5,
+         "labelAttributes" : [],
+         "labelObjects" : [
+            "Liliana_Ramirez"
+         ],
+         "level" : "2",
+         "parents" : [
+            "435205717",
+            "952494437"
+         ]
+      },
+      {
+         "children" : [
+            "719285515"
+         ],
+         "concept" : {
+            "extent" : [
+               "Eduardo_Robles"
+            ],
+            "intent" : [
+               "Entidades Academicas",
+               "Nano-tecnología",
+               "Trayectorias en CyT"
+            ],
+            "md5" : "2392128f10fe5c7db493f3a5da481252"
+         },
+         "hash" : "1391660384",
+         "idx" : 6,
+         "labelAttributes" : [
+            "Nano-tecnología"
+         ],
+         "labelObjects" : [
+            "Eduardo_Robles"
+         ],
+         "level" : "1",
+         "parents" : [
+            "377939459"
+         ]
+      },
+      {
+         "children" : [
+            "1209573794",
+            "1741973076"
+         ],
+         "concept" : {
+            "extent" : [
+               "Aline_Saldaña",
+               "Cristina_Jasso",
+               "Gabriel_Ramos",
+               "Sandra_Smith"
+            ],
+            "intent" : [
+               "Monos araña"
+            ],
+            "md5" : "61bd4becb681e98dabdaff61f124414b"
+         },
+         "hash" : "1794790525",
+         "idx" : 7,
+         "labelAttributes" : [
+            "Monos araña"
+         ],
+         "labelObjects" : [
+            "Cristina_Jasso",
+            "Aline_Saldaña"
+         ],
+         "level" : "2",
+         "parents" : [
+            "501793317"
+         ]
+      },
+      {
+         "children" : [
+            "719285515"
+         ],
+         "concept" : {
+            "extent" : [
+               "Gabriel_Ramos"
+            ],
+            "intent" : [
+               "Interacciones vocales humanas",
+               "Monos araña",
+               "Socio-ecosistemas en Yucatan",
+               "Tareas colectivas"
+            ],
+            "md5" : "8fd949dac9c7d090677e1b999a7fa328"
+         },
+         "hash" : "1209573794",
+         "idx" : 8,
+         "labelAttributes" : [
+            "Tareas colectivas",
+            "Socio-ecosistemas en Yucatan",
+            "Interacciones vocales humanas"
+         ],
+         "labelObjects" : [
+            "Gabriel_Ramos"
+         ],
+         "level" : "1",
+         "parents" : [
+            "1794790525"
+         ]
+      },
+      {
+         "children" : [
+            "719285515"
+         ],
+         "concept" : {
+            "extent" : [
+               "Sandra_Smith"
+            ],
+            "intent" : [
+               "Cetaceos",
+               "Monos araña",
+               "Redes agroalimentarias"
+            ],
+            "md5" : "a6592af4b30a9d20dc56a2db30b7f960"
+         },
+         "hash" : "1741973076",
+         "idx" : 9,
+         "labelAttributes" : [
+            "Redes agroalimentarias",
+            "Cetaceos"
+         ],
+         "labelObjects" : [
+            "Sandra_Smith"
+         ],
+         "level" : "1",
+         "parents" : [
+            "1794790525"
+         ]
+      },
+      {
+         "children" : [
+            "2011654056",
+            "1026948153"
+         ],
+         "concept" : {
+            "extent" : [
+               "Ana_Medeles",
+               "Nestor_Paredes"
+            ],
+            "intent" : [
+               "Medicion social"
+            ],
+            "md5" : "cec2e9a3f772b6030252fe3961a30a5a"
+         },
+         "hash" : "1255766367",
+         "idx" : 10,
+         "labelAttributes" : [
+            "Medicion social"
+         ],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "501793317"
+         ]
+      },
+      {
+         "children" : [
+            "719285515"
+         ],
+         "concept" : {
+            "extent" : [
+               "Ana_Medeles"
+            ],
+            "intent" : [
+               "Institucionalizacion de la estadistica ",
+               "Medicion social"
+            ],
+            "md5" : "767495168ff4e03418d66534dfa4e1e4"
+         },
+         "hash" : "2011654056",
+         "idx" : 11,
+         "labelAttributes" : [
+            "Institucionalizacion de la estadistica"
+         ],
+         "labelObjects" : [
+            "Ana_Medeles"
+         ],
+         "level" : "1",
+         "parents" : [
+            "1255766367"
+         ]
+      },
+      {
+         "children" : [
+            "719285515"
+         ],
+         "concept" : {
+            "extent" : [
+               "Nestor_Paredes"
+            ],
+            "intent" : [
+               "Entidades Academicas",
+               "Medicion social"
+            ],
+            "md5" : "8820e425ca79905265d11fff7566d4dd"
+         },
+         "hash" : "1026948153",
+         "idx" : 12,
+         "labelAttributes" : [],
+         "labelObjects" : [
+            "Nestor_Paredes"
+         ],
+         "level" : "1",
+         "parents" : [
+            "1255766367",
+            "952494437"
+         ]
+      },
+      {
+         "children" : [
+            "377939459",
+            "1026948153"
+         ],
+         "concept" : {
+            "extent" : [
+               "Eduardo_Robles",
+               "Liliana_Ramirez",
+               "Nestor_Paredes",
+               "Susana_Garcia"
+            ],
+            "intent" : [
+               "Entidades Academicas"
+            ],
+            "md5" : "2680880e1178ae588ee81d3dd930b13c"
+         },
+         "hash" : "952494437",
+         "idx" : 13,
+         "labelAttributes" : [
+            "Entidades Academicas"
+         ],
+         "labelObjects" : [
+            "Susana_Garcia"
+         ],
+         "level" : "3",
+         "parents" : [
+            "501793317"
+         ]
+      },
+      {
+         "children" : [
+            "808279948"
+         ],
+         "concept" : {
+            "extent" : [
+               "Gabriela_Sued",
+               "Teresa_de_Leon"
+            ],
+            "intent" : [
+               "Cambio climático"
+            ],
+            "md5" : "ff976b9c906f2aec718395c7300f722c"
+         },
+         "hash" : "605794870",
+         "idx" : 14,
+         "labelAttributes" : [
+            "Cambio climático"
+         ],
+         "labelObjects" : [
+            "Teresa_de_Leon"
+         ],
+         "level" : "2",
+         "parents" : [
+            "501793317"
+         ]
+      },
+      {
+         "children" : [
+            "719285515"
+         ],
+         "concept" : {
+            "extent" : [
+               "Gabriela_Sued"
+            ],
+            "intent" : [
+               "Cambio climático",
+               "Inteligencia artificial",
+               "Tecnologias digitales"
+            ],
+            "md5" : "35ef67504ca92d9466b1d8e5f60acf58"
+         },
+         "hash" : "808279948",
+         "idx" : 15,
+         "labelAttributes" : [
+            "Tecnologias digitales",
+            "Inteligencia artificial"
+         ],
+         "labelObjects" : [
+            "Gabriela_Sued"
+         ],
+         "level" : "1",
+         "parents" : [
+            "605794870"
+         ]
+      },
+      {
+         "children" : [
+            "719285515"
+         ],
+         "concept" : {
+            "extent" : [
+               "Mariana_Espinosa"
+            ],
+            "intent" : [
+               "Astronomia"
+            ],
+            "md5" : "e08312f5f48d93cdaf797b8645770cc3"
+         },
+         "hash" : "477774708",
+         "idx" : 16,
+         "labelAttributes" : [
+            "Astronomia"
+         ],
+         "labelObjects" : [
+            "Mariana_Espinosa"
+         ],
+         "level" : "1",
+         "parents" : [
+            "501793317"
+         ]
+      }
+   ]
+}

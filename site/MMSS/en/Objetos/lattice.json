@@ -1,0 +1,944 @@
+{
+   "concepts" : [
+      {
+         "extent" : [
+            "Aline_Saldaña",
+            "Ana_Medeles",
+            "Cristina_Jasso",
+            "Eduardo_Robles",
+            "Gabriel_Ramos",
+            "Gabriela_Sued",
+            "Israel_Garcia",
+            "Leticia_Mayer",
+            "Liliana_Ramirez",
+            "Mariana_Espinosa",
+            "Nestor_Paredes",
+            "Sandra_Smith",
+            "Susana_Garcia",
+            "Teresa_de_Leon"
+         ],
+         "intent" : [],
+         "md5" : "b843b389c28629784b071db4c7a47383"
+      },
+      {
+         "extent" : [],
+         "intent" : [
+            "Academic entities",
+            "Agri-food networks",
+            "Artificial intelligence",
+            "Astronomy",
+            "Cetaceans",
+            "Climate Change",
+            "Collective Tasks",
+            "COVID-19",
+            "Digital News",
+            "Digital Technologies",
+            "Economic System",
+            "Human Vocal Interactions",
+            "Information Sources",
+            "Nanotechnology",
+            "Social Measurement",
+            "Socio-ecosystems in Yucatán",
+            "Spider Monkeys",
+            "Statistical Practices",
+            "Studies of Scientists",
+            "Studies of technitians",
+            "Tourism",
+            "Trajectories of Science"
+         ],
+         "md5" : "4c22306d0a3c319f048c0a77c08dd984"
+      },
+      {
+         "extent" : [
+            "Eduardo_Robles",
+            "Israel_Garcia",
+            "Leticia_Mayer",
+            "Liliana_Ramirez"
+         ],
+         "intent" : [
+            "Trajectories of Science"
+         ],
+         "md5" : "a334ebe5b8c5066dbe64fa609cbcd079"
+      },
+      {
+         "extent" : [
+            "Israel_Garcia"
+         ],
+         "intent" : [
+            "Studies of technitians",
+            "Trajectories of Science"
+         ],
+         "md5" : "5c6e761afe09cda990e17a009cd18483"
+      },
+      {
+         "extent" : [
+            "Leticia_Mayer"
+         ],
+         "intent" : [
+            "Studies of Scientists",
+            "Trajectories of Science"
+         ],
+         "md5" : "40aee4defe78fbc5afcc3048c7ec2eee"
+      },
+      {
+         "extent" : [
+            "Eduardo_Robles",
+            "Liliana_Ramirez"
+         ],
+         "intent" : [
+            "Academic entities",
+            "Trajectories of Science"
+         ],
+         "md5" : "1db7d56bca48375e27785cab66674bb9"
+      },
+      {
+         "extent" : [
+            "Eduardo_Robles"
+         ],
+         "intent" : [
+            "Academic entities",
+            "Nanotechnology",
+            "Trajectories of Science"
+         ],
+         "md5" : "f04f3b3295d1768cf37bfd91879b0294"
+      },
+      {
+         "extent" : [
+            "Aline_Saldaña",
+            "Cristina_Jasso",
+            "Gabriel_Ramos",
+            "Sandra_Smith"
+         ],
+         "intent" : [
+            "Spider Monkeys"
+         ],
+         "md5" : "875b42b21ca5c205ae2b0d2021dccbea"
+      },
+      {
+         "extent" : [
+            "Gabriel_Ramos"
+         ],
+         "intent" : [
+            "Collective Tasks",
+            "Human Vocal Interactions",
+            "Socio-ecosystems in Yucatán",
+            "Spider Monkeys"
+         ],
+         "md5" : "0e041d1a677e115ec6b45ecfce12ba42"
+      },
+      {
+         "extent" : [
+            "Sandra_Smith"
+         ],
+         "intent" : [
+            "Agri-food networks",
+            "Cetaceans",
+            "Spider Monkeys"
+         ],
+         "md5" : "5dad0d93586ef63f3397e6cb1dc833de"
+      },
+      {
+         "extent" : [
+            "Ana_Medeles",
+            "Nestor_Paredes"
+         ],
+         "intent" : [
+            "Social Measurement"
+         ],
+         "md5" : "60c677e1299d8952e4e7ef3feda3df17"
+      },
+      {
+         "extent" : [
+            "Ana_Medeles"
+         ],
+         "intent" : [
+            "Social Measurement",
+            "Statistical Practices"
+         ],
+         "md5" : "de85a9011d8ed0e8adf472e303851a20"
+      },
+      {
+         "extent" : [
+            "Nestor_Paredes"
+         ],
+         "intent" : [
+            "Academic entities",
+            "Social Measurement"
+         ],
+         "md5" : "9de059dc78c5f55550313eee0fb60880"
+      },
+      {
+         "extent" : [
+            "Gabriela_Sued",
+            "Teresa_de_Leon"
+         ],
+         "intent" : [
+            "Climate Change"
+         ],
+         "md5" : "a6266c8807320e8332cb2909c44d0f1d"
+      },
+      {
+         "extent" : [
+            "Gabriela_Sued"
+         ],
+         "intent" : [
+            "Artificial intelligence",
+            "Climate Change",
+            "Digital Technologies"
+         ],
+         "md5" : "b6f5686e655bb21c8d56a9cb42d70e19"
+      },
+      {
+         "extent" : [
+            "Mariana_Espinosa"
+         ],
+         "intent" : [
+            "Astronomy"
+         ],
+         "md5" : "2a911f8f7d5183f9e43e1fe4913170d3"
+      },
+      {
+         "extent" : [
+            "Eduardo_Robles",
+            "Liliana_Ramirez",
+            "Nestor_Paredes",
+            "Susana_Garcia"
+         ],
+         "intent" : [
+            "Academic entities"
+         ],
+         "md5" : "0ae2de8cd0131595f4389950195baf78"
+      }
+   ],
+   "context" : {
+      "Aline_Saldaña" : {
+         "attributes" : [
+            "Spider Monkeys"
+         ],
+         "id" : "Aline_Saldaña",
+         "name" : "Aline Saldaña"
+      },
+      "Ana_Medeles" : {
+         "attributes" : [
+            "Social Measurement",
+            "Statistical Practices"
+         ],
+         "id" : "Ana_Medeles",
+         "name" : "Ana Medeles"
+      },
+      "Cristina_Jasso" : {
+         "attributes" : [
+            "Spider Monkeys"
+         ],
+         "id" : "Cristina_Jasso",
+         "name" : "Cristina Jasso"
+      },
+      "Eduardo_Robles" : {
+         "attributes" : [
+            "Academic entities",
+            "Nanotechnology",
+            "Trajectories of Science"
+         ],
+         "id" : "Eduardo_Robles",
+         "name" : "Eduardo Robles"
+      },
+      "Gabriel_Ramos" : {
+         "attributes" : [
+            "Collective Tasks",
+            "Human Vocal Interactions",
+            "Socio-ecosystems in Yucatán",
+            "Spider Monkeys"
+         ],
+         "id" : "Gabriel_Ramos",
+         "name" : "Gabriel Ramos"
+      },
+      "Gabriela_Sued" : {
+         "attributes" : [
+            "Artificial intelligence",
+            "Climate Change",
+            "Digital Technologies"
+         ],
+         "id" : "Gabriela_Sued",
+         "name" : "Gabriela Sued"
+      },
+      "Israel_Garcia" : {
+         "attributes" : [
+            "Studies of technitians",
+            "Trajectories of Science"
+         ],
+         "id" : "Israel_Garcia",
+         "name" : "Israel Garcia"
+      },
+      "Leticia_Mayer" : {
+         "attributes" : [
+            "Studies of Scientists",
+            "Trajectories of Science"
+         ],
+         "id" : "Leticia_Mayer",
+         "name" : "Leticia Mayer"
+      },
+      "Liliana_Ramirez" : {
+         "attributes" : [
+            "Academic entities",
+            "Trajectories of Science"
+         ],
+         "id" : "Liliana_Ramirez",
+         "name" : "Liliana Ramírez"
+      },
+      "Mariana_Espinosa" : {
+         "attributes" : [
+            "Astronomy"
+         ],
+         "id" : "Mariana_Espinosa",
+         "name" : "Mariana Espinosa"
+      },
+      "Nestor_Paredes" : {
+         "attributes" : [
+            "Academic entities",
+            "Social Measurement"
+         ],
+         "id" : "Nestor_Paredes",
+         "name" : "Nestor Paredes"
+      },
+      "Sandra_Smith" : {
+         "attributes" : [
+            "Agri-food networks",
+            "Cetaceans",
+            "Spider Monkeys"
+         ],
+         "id" : "Sandra_Smith",
+         "name" : "Sandra Smith"
+      },
+      "Susana_Garcia" : {
+         "attributes" : [
+            "Academic entities"
+         ],
+         "id" : "Susana_Garcia",
+         "name" : "Susana Garcia"
+      },
+      "Teresa_de_Leon" : {
+         "attributes" : [
+            "Climate Change"
+         ],
+         "id" : "Teresa_de_Leon",
+         "name" : "Teresa de Leon"
+      }
+   },
+   "links" : [
+      {
+         "source" : 0,
+         "target" : 2
+      },
+      {
+         "source" : 0,
+         "target" : 7
+      },
+      {
+         "source" : 0,
+         "target" : 10
+      },
+      {
+         "source" : 0,
+         "target" : 13
+      },
+      {
+         "source" : 0,
+         "target" : 15
+      },
+      {
+         "source" : 0,
+         "target" : 16
+      },
+      {
+         "source" : 2,
+         "target" : 3
+      },
+      {
+         "source" : 2,
+         "target" : 4
+      },
+      {
+         "source" : 2,
+         "target" : 5
+      },
+      {
+         "source" : 3,
+         "target" : 1
+      },
+      {
+         "source" : 4,
+         "target" : 1
+      },
+      {
+         "source" : 5,
+         "target" : 6
+      },
+      {
+         "source" : 6,
+         "target" : 1
+      },
+      {
+         "source" : 7,
+         "target" : 8
+      },
+      {
+         "source" : 7,
+         "target" : 9
+      },
+      {
+         "source" : 8,
+         "target" : 1
+      },
+      {
+         "source" : 9,
+         "target" : 1
+      },
+      {
+         "source" : 10,
+         "target" : 11
+      },
+      {
+         "source" : 10,
+         "target" : 12
+      },
+      {
+         "source" : 11,
+         "target" : 1
+      },
+      {
+         "source" : 12,
+         "target" : 1
+      },
+      {
+         "source" : 13,
+         "target" : 14
+      },
+      {
+         "source" : 14,
+         "target" : 1
+      },
+      {
+         "source" : 15,
+         "target" : 1
+      },
+      {
+         "source" : 16,
+         "target" : 5
+      },
+      {
+         "source" : 16,
+         "target" : 12
+      }
+   ],
+   "nodes" : [
+      {
+         "children" : [
+            "1619256952",
+            "805749328",
+            "504427948",
+            "1280092559",
+            "855848536",
+            "898725418"
+         ],
+         "concept" : {
+            "extent" : [
+               "Aline_Saldaña",
+               "Ana_Medeles",
+               "Cristina_Jasso",
+               "Eduardo_Robles",
+               "Gabriel_Ramos",
+               "Gabriela_Sued",
+               "Israel_Garcia",
+               "Leticia_Mayer",
+               "Liliana_Ramirez",
+               "Mariana_Espinosa",
+               "Nestor_Paredes",
+               "Sandra_Smith",
+               "Susana_Garcia",
+               "Teresa_de_Leon"
+            ],
+            "intent" : [],
+            "md5" : "b843b389c28629784b071db4c7a47383"
+         },
+         "hash" : "741693601",
+         "idx" : 0,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "4",
+         "parents" : []
+      },
+      {
+         "children" : [],
+         "concept" : {
+            "extent" : [],
+            "intent" : [
+               "Academic entities",
+               "Agri-food networks",
+               "Artificial intelligence",
+               "Astronomy",
+               "Cetaceans",
+               "Climate Change",
+               "Collective Tasks",
+               "COVID-19",
+               "Digital News",
+               "Digital Technologies",
+               "Economic System",
+               "Human Vocal Interactions",
+               "Information Sources",
+               "Nanotechnology",
+               "Social Measurement",
+               "Socio-ecosystems in Yucatán",
+               "Spider Monkeys",
+               "Statistical Practices",
+               "Studies of Scientists",
+               "Studies of technitians",
+               "Tourism",
+               "Trajectories of Science"
+            ],
+            "md5" : "4c22306d0a3c319f048c0a77c08dd984"
+         },
+         "hash" : "686253654",
+         "idx" : 1,
+         "labelAttributes" : [
+            "Tourism",
+            "Information Sources",
+            "Economic System",
+            "Digital News",
+            "COVID-19"
+         ],
+         "labelObjects" : [],
+         "level" : "0",
+         "parents" : [
+            "1987138458",
+            "1740401227",
+            "943600444",
+            "1424991179",
+            "687789903",
+            "739511849",
+            "1702526788",
+            "1277323739",
+            "855848536"
+         ]
+      },
+      {
+         "children" : [
+            "1987138458",
+            "1740401227",
+            "1796174001"
+         ],
+         "concept" : {
+            "extent" : [
+               "Eduardo_Robles",
+               "Israel_Garcia",
+               "Leticia_Mayer",
+               "Liliana_Ramirez"
+            ],
+            "intent" : [
+               "Trajectories of Science"
+            ],
+            "md5" : "a334ebe5b8c5066dbe64fa609cbcd079"
+         },
+         "hash" : "1619256952",
+         "idx" : 2,
+         "labelAttributes" : [
+            "Trajectories of Science"
+         ],
+         "labelObjects" : [],
+         "level" : "3",
+         "parents" : [
+            "741693601"
+         ]
+      },
+      {
+         "children" : [
+            "686253654"
+         ],
+         "concept" : {
+            "extent" : [
+               "Israel_Garcia"
+            ],
+            "intent" : [
+               "Studies of technitians",
+               "Trajectories of Science"
+            ],
+            "md5" : "5c6e761afe09cda990e17a009cd18483"
+         },
+         "hash" : "1987138458",
+         "idx" : 3,
+         "labelAttributes" : [
+            "Studies of technitians"
+         ],
+         "labelObjects" : [
+            "Israel_Garcia"
+         ],
+         "level" : "1",
+         "parents" : [
+            "1619256952"
+         ]
+      },
+      {
+         "children" : [
+            "686253654"
+         ],
+         "concept" : {
+            "extent" : [
+               "Leticia_Mayer"
+            ],
+            "intent" : [
+               "Studies of Scientists",
+               "Trajectories of Science"
+            ],
+            "md5" : "40aee4defe78fbc5afcc3048c7ec2eee"
+         },
+         "hash" : "1740401227",
+         "idx" : 4,
+         "labelAttributes" : [
+            "Studies of Scientists"
+         ],
+         "labelObjects" : [
+            "Leticia_Mayer"
+         ],
+         "level" : "1",
+         "parents" : [
+            "1619256952"
+         ]
+      },
+      {
+         "children" : [
+            "943600444"
+         ],
+         "concept" : {
+            "extent" : [
+               "Eduardo_Robles",
+               "Liliana_Ramirez"
+            ],
+            "intent" : [
+               "Academic entities",
+               "Trajectories of Science"
+            ],
+            "md5" : "1db7d56bca48375e27785cab66674bb9"
+         },
+         "hash" : "1796174001",
+         "idx" : 5,
+         "labelAttributes" : [],
+         "labelObjects" : [
+            "Liliana_Ramirez"
+         ],
+         "level" : "2",
+         "parents" : [
+            "1619256952",
+            "898725418"
+         ]
+      },
+      {
+         "children" : [
+            "686253654"
+         ],
+         "concept" : {
+            "extent" : [
+               "Eduardo_Robles"
+            ],
+            "intent" : [
+               "Academic entities",
+               "Nanotechnology",
+               "Trajectories of Science"
+            ],
+            "md5" : "f04f3b3295d1768cf37bfd91879b0294"
+         },
+         "hash" : "943600444",
+         "idx" : 6,
+         "labelAttributes" : [
+            "Nanotechnology"
+         ],
+         "labelObjects" : [
+            "Eduardo_Robles"
+         ],
+         "level" : "1",
+         "parents" : [
+            "1796174001"
+         ]
+      },
+      {
+         "children" : [
+            "1424991179",
+            "687789903"
+         ],
+         "concept" : {
+            "extent" : [
+               "Aline_Saldaña",
+               "Cristina_Jasso",
+               "Gabriel_Ramos",
+               "Sandra_Smith"
+            ],
+            "intent" : [
+               "Spider Monkeys"
+            ],
+            "md5" : "875b42b21ca5c205ae2b0d2021dccbea"
+         },
+         "hash" : "805749328",
+         "idx" : 7,
+         "labelAttributes" : [
+            "Spider Monkeys"
+         ],
+         "labelObjects" : [
+            "Cristina_Jasso",
+            "Aline_Saldaña"
+         ],
+         "level" : "2",
+         "parents" : [
+            "741693601"
+         ]
+      },
+      {
+         "children" : [
+            "686253654"
+         ],
+         "concept" : {
+            "extent" : [
+               "Gabriel_Ramos"
+            ],
+            "intent" : [
+               "Collective Tasks",
+               "Human Vocal Interactions",
+               "Socio-ecosystems in Yucatán",
+               "Spider Monkeys"
+            ],
+            "md5" : "0e041d1a677e115ec6b45ecfce12ba42"
+         },
+         "hash" : "1424991179",
+         "idx" : 8,
+         "labelAttributes" : [
+            "Socio-ecosystems in Yucatán",
+            "Human Vocal Interactions",
+            "Collective Tasks"
+         ],
+         "labelObjects" : [
+            "Gabriel_Ramos"
+         ],
+         "level" : "1",
+         "parents" : [
+            "805749328"
+         ]
+      },
+      {
+         "children" : [
+            "686253654"
+         ],
+         "concept" : {
+            "extent" : [
+               "Sandra_Smith"
+            ],
+            "intent" : [
+               "Agri-food networks",
+               "Cetaceans",
+               "Spider Monkeys"
+            ],
+            "md5" : "5dad0d93586ef63f3397e6cb1dc833de"
+         },
+         "hash" : "687789903",
+         "idx" : 9,
+         "labelAttributes" : [
+            "Cetaceans",
+            "Agri-food networks"
+         ],
+         "labelObjects" : [
+            "Sandra_Smith"
+         ],
+         "level" : "1",
+         "parents" : [
+            "805749328"
+         ]
+      },
+      {
+         "children" : [
+            "739511849",
+            "1702526788"
+         ],
+         "concept" : {
+            "extent" : [
+               "Ana_Medeles",
+               "Nestor_Paredes"
+            ],
+            "intent" : [
+               "Social Measurement"
+            ],
+            "md5" : "60c677e1299d8952e4e7ef3feda3df17"
+         },
+         "hash" : "504427948",
+         "idx" : 10,
+         "labelAttributes" : [
+            "Social Measurement"
+         ],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "741693601"
+         ]
+      },
+      {
+         "children" : [
+            "686253654"
+         ],
+         "concept" : {
+            "extent" : [
+               "Ana_Medeles"
+            ],
+            "intent" : [
+               "Social Measurement",
+               "Statistical Practices"
+            ],
+            "md5" : "de85a9011d8ed0e8adf472e303851a20"
+         },
+         "hash" : "739511849",
+         "idx" : 11,
+         "labelAttributes" : [
+            "Statistical Practices"
+         ],
+         "labelObjects" : [
+            "Ana_Medeles"
+         ],
+         "level" : "1",
+         "parents" : [
+            "504427948"
+         ]
+      },
+      {
+         "children" : [
+            "686253654"
+         ],
+         "concept" : {
+            "extent" : [
+               "Nestor_Paredes"
+            ],
+            "intent" : [
+               "Academic entities",
+               "Social Measurement"
+            ],
+            "md5" : "9de059dc78c5f55550313eee0fb60880"
+         },
+         "hash" : "1702526788",
+         "idx" : 12,
+         "labelAttributes" : [],
+         "labelObjects" : [
+            "Nestor_Paredes"
+         ],
+         "level" : "1",
+         "parents" : [
+            "504427948",
+            "898725418"
+         ]
+      },
+      {
+         "children" : [
+            "1277323739"
+         ],
+         "concept" : {
+            "extent" : [
+               "Gabriela_Sued",
+               "Teresa_de_Leon"
+            ],
+            "intent" : [
+               "Climate Change"
+            ],
+            "md5" : "a6266c8807320e8332cb2909c44d0f1d"
+         },
+         "hash" : "1280092559",
+         "idx" : 13,
+         "labelAttributes" : [
+            "Climate Change"
+         ],
+         "labelObjects" : [
+            "Teresa_de_Leon"
+         ],
+         "level" : "2",
+         "parents" : [
+            "741693601"
+         ]
+      },
+      {
+         "children" : [
+            "686253654"
+         ],
+         "concept" : {
+            "extent" : [
+               "Gabriela_Sued"
+            ],
+            "intent" : [
+               "Artificial intelligence",
+               "Climate Change",
+               "Digital Technologies"
+            ],
+            "md5" : "b6f5686e655bb21c8d56a9cb42d70e19"
+         },
+         "hash" : "1277323739",
+         "idx" : 14,
+         "labelAttributes" : [
+            "Digital Technologies",
+            "Artificial intelligence"
+         ],
+         "labelObjects" : [
+            "Gabriela_Sued"
+         ],
+         "level" : "1",
+         "parents" : [
+            "1280092559"
+         ]
+      },
+      {
+         "children" : [
+            "686253654"
+         ],
+         "concept" : {
+            "extent" : [
+               "Mariana_Espinosa"
+            ],
+            "intent" : [
+               "Astronomy"
+            ],
+            "md5" : "2a911f8f7d5183f9e43e1fe4913170d3"
+         },
+         "hash" : "855848536",
+         "idx" : 15,
+         "labelAttributes" : [
+            "Astronomy"
+         ],
+         "labelObjects" : [
+            "Mariana_Espinosa"
+         ],
+         "level" : "1",
+         "parents" : [
+            "741693601"
+         ]
+      },
+      {
+         "children" : [
+            "1796174001",
+            "1702526788"
+         ],
+         "concept" : {
+            "extent" : [
+               "Eduardo_Robles",
+               "Liliana_Ramirez",
+               "Nestor_Paredes",
+               "Susana_Garcia"
+            ],
+            "intent" : [
+               "Academic entities"
+            ],
+            "md5" : "0ae2de8cd0131595f4389950195baf78"
+         },
+         "hash" : "898725418",
+         "idx" : 16,
+         "labelAttributes" : [
+            "Academic entities"
+         ],
+         "labelObjects" : [
+            "Susana_Garcia"
+         ],
+         "level" : "3",
+         "parents" : [
+            "741693601"
+         ]
+      }
+   ]
+}

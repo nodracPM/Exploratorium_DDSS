@@ -1,0 +1,2162 @@
+{
+   "concepts" : [
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Aline_Saldaña",
+            "Ana_Medeles",
+            "Carlos_Rodriguez",
+            "Cristina_Jasso",
+            "Eduardo_Robles",
+            "Gabriel_Ramos",
+            "Gabriela_Sued",
+            "Gerardo_Lopez",
+            "Israel_Garcia",
+            "Israel_Sandoval",
+            "Juan_Escalante",
+            "Leticia_Mayer",
+            "Liliana_Ramirez",
+            "Mariana_Espinosa",
+            "Nestor_Paredes",
+            "Pilar_Galarza",
+            "Sandra_Smith",
+            "Susana_Garcia",
+            "Teresa_de_Leon"
+         ],
+         "intent" : [],
+         "md5" : "f364422fb3165b5d2a0714a8c086b78d"
+      },
+      {
+         "extent" : [],
+         "intent" : [
+            " Genealogia de las entidades y los espacios academicos",
+            "Cambio ambiental y climatico",
+            "Categorias y Clasificaciones sociales",
+            "Complejidad social",
+            "Conducta social",
+            "Estudio de Noticias y Mercados Financieros",
+            "Estudios CTS",
+            "Estudios de Genero",
+            "Fronteras sociales",
+            "Geografias de la ciencia",
+            "Historia cuantitativa",
+            "Historia de la circulacion del conocimiento",
+            "Historia de la Estadistica",
+            "Historia de la probabilidad",
+            "Historia sociocultural universitaria",
+            "Indicadores de CyT",
+            "Institucionalizacion de la estadistica",
+            "Mapas de la ciencia",
+            "Modelizacion Matematica",
+            "Pensamiento Computacional",
+            "Procesamiento colectivo de informacion",
+            "Redes academicas",
+            "Redes conceptuales",
+            "Reproduccion de espacios academicos",
+            "Resilencia",
+            "Sistemas Sociales Complejos y Dinámicas Sociales",
+            "Socio-historia",
+            "Socio-historia de la cuantificacion",
+            "Socioecologia",
+            "Sociologia de las profesiones",
+            "Teoria general de Sistemas Sociales"
+         ],
+         "md5" : "4541e4c4d4eb15f6c87c5d50bca60248"
+      },
+      {
+         "extent" : [
+            "Ana_Medeles",
+            "Israel_Garcia",
+            "Israel_Sandoval",
+            "Leticia_Mayer",
+            "Nestor_Paredes",
+            "Pilar_Galarza",
+            "Susana_Garcia"
+         ],
+         "intent" : [
+            "Socio-historia"
+         ],
+         "md5" : "fb9427d50f9920e9155757478b01cc3d"
+      },
+      {
+         "extent" : [
+            "Ana_Medeles",
+            "Israel_Garcia",
+            "Leticia_Mayer"
+         ],
+         "intent" : [
+            "Socio-historia",
+            "Socio-historia de la cuantificacion"
+         ],
+         "md5" : "ff6382b691756c82aeb719cfcdcd8c38"
+      },
+      {
+         "extent" : [
+            "Israel_Garcia"
+         ],
+         "intent" : [
+            "Historia cuantitativa",
+            "Historia sociocultural universitaria",
+            "Socio-historia",
+            "Socio-historia de la cuantificacion"
+         ],
+         "md5" : "1f2181583b02897bf68caafaeeefd911"
+      },
+      {
+         "extent" : [
+            "Ana_Medeles",
+            "Leticia_Mayer"
+         ],
+         "intent" : [
+            "Historia de la Estadistica",
+            "Socio-historia",
+            "Socio-historia de la cuantificacion"
+         ],
+         "md5" : "1b951f4bb4b3a0f1041a0b4efce879c1"
+      },
+      {
+         "extent" : [
+            "Ana_Medeles"
+         ],
+         "intent" : [
+            "Categorias y Clasificaciones sociales",
+            "Historia de la Estadistica",
+            "Institucionalizacion de la estadistica",
+            "Socio-historia",
+            "Socio-historia de la cuantificacion"
+         ],
+         "md5" : "d02f099b9126cae2cf5c43fd32018ebd"
+      },
+      {
+         "extent" : [
+            "Leticia_Mayer"
+         ],
+         "intent" : [
+            "Historia de la circulacion del conocimiento",
+            "Historia de la Estadistica",
+            "Historia de la probabilidad",
+            "Socio-historia",
+            "Socio-historia de la cuantificacion"
+         ],
+         "md5" : "068db0565ca61a6011cca44b5cf948e9"
+      },
+      {
+         "extent" : [
+            "Israel_Garcia",
+            "Israel_Sandoval",
+            "Pilar_Galarza",
+            "Susana_Garcia"
+         ],
+         "intent" : [
+            "Historia sociocultural universitaria",
+            "Socio-historia"
+         ],
+         "md5" : "02e1531511cfec8bd71da0178ec017c3"
+      },
+      {
+         "extent" : [
+            "Israel_Sandoval",
+            "Susana_Garcia"
+         ],
+         "intent" : [
+            " Genealogia de las entidades y los espacios academicos",
+            "Historia sociocultural universitaria",
+            "Socio-historia"
+         ],
+         "md5" : "40454f2d8e9d182740b8a9fe51951aa8"
+      },
+      {
+         "extent" : [
+            "Israel_Sandoval"
+         ],
+         "intent" : [
+            " Genealogia de las entidades y los espacios academicos",
+            "Historia sociocultural universitaria",
+            "Pensamiento Computacional",
+            "Socio-historia"
+         ],
+         "md5" : "47a1516fefa53d0533b286c626304de0"
+      },
+      {
+         "extent" : [
+            "Ana_Medeles",
+            "Nestor_Paredes"
+         ],
+         "intent" : [
+            "Categorias y Clasificaciones sociales",
+            "Socio-historia"
+         ],
+         "md5" : "455c0dd71bff8abc5fb6c4b9479ff517"
+      },
+      {
+         "extent" : [
+            "Nestor_Paredes"
+         ],
+         "intent" : [
+            "Categorias y Clasificaciones sociales",
+            "Fronteras sociales",
+            "Reproduccion de espacios academicos",
+            "Socio-historia",
+            "Sociologia de las profesiones"
+         ],
+         "md5" : "95bdecd9e8c2d6754d0d5dc09022a7f1"
+      },
+      {
+         "extent" : [
+            "Aline_Saldaña",
+            "Cristina_Jasso",
+            "Gabriel_Ramos",
+            "Gerardo_Lopez",
+            "Sandra_Smith"
+         ],
+         "intent" : [
+            "Complejidad social",
+            "Sistemas Sociales Complejos y Dinámicas Sociales"
+         ],
+         "md5" : "ca19c37cd08ac618102ea8e36cee9105"
+      },
+      {
+         "extent" : [
+            "Cristina_Jasso",
+            "Sandra_Smith"
+         ],
+         "intent" : [
+            "Complejidad social",
+            "Sistemas Sociales Complejos y Dinámicas Sociales",
+            "Socioecologia"
+         ],
+         "md5" : "b0c49229889fe003934d4bb47f25bf8d"
+      },
+      {
+         "extent" : [
+            "Sandra_Smith"
+         ],
+         "intent" : [
+            "Complejidad social",
+            "Resilencia",
+            "Sistemas Sociales Complejos y Dinámicas Sociales",
+            "Socioecologia"
+         ],
+         "md5" : "561d54cf1e7ab609e4198e1fd9e0a77c"
+      },
+      {
+         "extent" : [
+            "Cristina_Jasso"
+         ],
+         "intent" : [
+            "Complejidad social",
+            "Conducta social",
+            "Sistemas Sociales Complejos y Dinámicas Sociales",
+            "Socioecologia"
+         ],
+         "md5" : "2bf08a788ba73fbf631119f7bc82e6c9"
+      },
+      {
+         "extent" : [
+            "Aline_Saldaña",
+            "Sandra_Smith"
+         ],
+         "intent" : [
+            "Complejidad social",
+            "Resilencia",
+            "Sistemas Sociales Complejos y Dinámicas Sociales"
+         ],
+         "md5" : "b8df5d7f8a935dfa73ba2b9913018e9f"
+      },
+      {
+         "extent" : [
+            "Aline_Saldaña"
+         ],
+         "intent" : [
+            "Complejidad social",
+            "Conducta social",
+            "Resilencia",
+            "Sistemas Sociales Complejos y Dinámicas Sociales"
+         ],
+         "md5" : "b7afe8ad80c588cebc624d513ca3d4f7"
+      },
+      {
+         "extent" : [
+            "Gabriel_Ramos"
+         ],
+         "intent" : [
+            "Complejidad social",
+            "Procesamiento colectivo de informacion",
+            "Sistemas Sociales Complejos y Dinámicas Sociales"
+         ],
+         "md5" : "83dba4b3214e83fdc56d2ffbb178eecb"
+      },
+      {
+         "extent" : [
+            "Gerardo_Lopez"
+         ],
+         "intent" : [
+            "Complejidad social",
+            "Modelizacion Matematica",
+            "Sistemas Sociales Complejos y Dinámicas Sociales"
+         ],
+         "md5" : "2a313890a0c6ac933f39e32db6716074"
+      },
+      {
+         "extent" : [
+            "Aline_Saldaña",
+            "Cristina_Jasso"
+         ],
+         "intent" : [
+            "Complejidad social",
+            "Conducta social",
+            "Sistemas Sociales Complejos y Dinámicas Sociales"
+         ],
+         "md5" : "cd9c557b495fdfa51fa004ce025221d7"
+      },
+      {
+         "extent" : [
+            "Juan_Escalante",
+            "Nestor_Paredes"
+         ],
+         "intent" : [
+            "Reproduccion de espacios academicos"
+         ],
+         "md5" : "d1332ad8384276f875388b667aa23e09"
+      },
+      {
+         "extent" : [
+            "Juan_Escalante"
+         ],
+         "intent" : [
+            "Estudios CTS",
+            "Redes academicas",
+            "Reproduccion de espacios academicos",
+            "Teoria general de Sistemas Sociales"
+         ],
+         "md5" : "b2764e7d7f869dea80cd32a8a9c2ca3f"
+      },
+      {
+         "extent" : [
+            "Gabriel_Ramos",
+            "Gabriela_Sued"
+         ],
+         "intent" : [
+            "Procesamiento colectivo de informacion"
+         ],
+         "md5" : "1c909207d81a3b8853345ca7635b6a06"
+      },
+      {
+         "extent" : [
+            "Gabriela_Sued"
+         ],
+         "intent" : [
+            "Estudios CTS",
+            "Estudios de Genero",
+            "Modelizacion Matematica",
+            "Procesamiento colectivo de informacion"
+         ],
+         "md5" : "497f5c5315b572149111a9521ac6b453"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Carlos_Rodriguez",
+            "Gabriela_Sued",
+            "Gerardo_Lopez",
+            "Mariana_Espinosa"
+         ],
+         "intent" : [
+            "Modelizacion Matematica"
+         ],
+         "md5" : "7d32d1829d735d033055ce3c94b3763e"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Mariana_Espinosa"
+         ],
+         "intent" : [
+            "Mapas de la ciencia",
+            "Modelizacion Matematica"
+         ],
+         "md5" : "929be662d320aa41e458ebb3aca8b7d3"
+      },
+      {
+         "extent" : [
+            "Mariana_Espinosa"
+         ],
+         "intent" : [
+            "Mapas de la ciencia",
+            "Modelizacion Matematica",
+            "Redes conceptuales"
+         ],
+         "md5" : "5d752b3a86322285088fda260ad63af2"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz"
+         ],
+         "intent" : [
+            "Estudios CTS",
+            "Indicadores de CyT",
+            "Mapas de la ciencia",
+            "Modelizacion Matematica",
+            "Redes academicas"
+         ],
+         "md5" : "3ebb1f927ec1c665d016462e4a53befe"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Gabriela_Sued"
+         ],
+         "intent" : [
+            "Estudios CTS",
+            "Modelizacion Matematica"
+         ],
+         "md5" : "ac5cf22244ebd33f21936121f317b9ab"
+      },
+      {
+         "extent" : [
+            "Carlos_Rodriguez"
+         ],
+         "intent" : [
+            "Estudio de Noticias y Mercados Financieros",
+            "Modelizacion Matematica"
+         ],
+         "md5" : "98733924c3607658881cdd11ba850870"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Eduardo_Robles",
+            "Gabriela_Sued",
+            "Juan_Escalante",
+            "Liliana_Ramirez",
+            "Teresa_de_Leon"
+         ],
+         "intent" : [
+            "Estudios CTS"
+         ],
+         "md5" : "0acf03c76971b8eac9c10b58a30e9e5c"
+      },
+      {
+         "extent" : [
+            "Juan_Escalante",
+            "Liliana_Ramirez"
+         ],
+         "intent" : [
+            "Estudios CTS",
+            "Teoria general de Sistemas Sociales"
+         ],
+         "md5" : "99a096217e1a89954f749207749243c5"
+      },
+      {
+         "extent" : [
+            "Liliana_Ramirez"
+         ],
+         "intent" : [
+            "Estudios CTS",
+            "Estudios de Genero",
+            "Teoria general de Sistemas Sociales"
+         ],
+         "md5" : "fa4aca802defb4b7b219eda7730e9598"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Juan_Escalante"
+         ],
+         "intent" : [
+            "Estudios CTS",
+            "Redes academicas"
+         ],
+         "md5" : "206f85fb010d27cfa413069f09c80e54"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Eduardo_Robles",
+            "Teresa_de_Leon"
+         ],
+         "intent" : [
+            "Estudios CTS",
+            "Indicadores de CyT"
+         ],
+         "md5" : "da98a9cdcbdf75d245a46dbe49c6394e"
+      },
+      {
+         "extent" : [
+            "Teresa_de_Leon"
+         ],
+         "intent" : [
+            "Cambio ambiental y climatico",
+            "Estudios CTS",
+            "Geografias de la ciencia",
+            "Indicadores de CyT"
+         ],
+         "md5" : "d031196dd581ffc9cda57a7ec1e370df"
+      },
+      {
+         "extent" : [
+            "Gabriela_Sued",
+            "Liliana_Ramirez"
+         ],
+         "intent" : [
+            "Estudios CTS",
+            "Estudios de Genero"
+         ],
+         "md5" : "ca514f4509efbb654824bc1e63960836"
+      }
+   ],
+   "context" : {
+      "Alejandro_Ruiz" : {
+         "attributes" : [
+            "Estudios CTS",
+            "Indicadores de CyT",
+            "Mapas de la ciencia",
+            "Modelizacion Matematica",
+            "Redes academicas"
+         ],
+         "id" : "Alejandro_Ruiz",
+         "name" : "Alejandro Ruiz"
+      },
+      "Aline_Saldaña" : {
+         "attributes" : [
+            "Complejidad social",
+            "Conducta social",
+            "Resilencia",
+            "Sistemas Sociales Complejos y Dinámicas Sociales"
+         ],
+         "id" : "Aline_Saldaña",
+         "name" : "Aline Saldaña"
+      },
+      "Ana_Medeles" : {
+         "attributes" : [
+            "Categorias y Clasificaciones sociales",
+            "Historia de la Estadistica",
+            "Institucionalizacion de la estadistica",
+            "Socio-historia",
+            "Socio-historia de la cuantificacion"
+         ],
+         "id" : "Ana_Medeles",
+         "name" : "Ana Medeles"
+      },
+      "Carlos_Rodriguez" : {
+         "attributes" : [
+            "Estudio de Noticias y Mercados Financieros",
+            "Modelizacion Matematica"
+         ],
+         "id" : "Carlos_Rodriguez",
+         "name" : "Carlos Rodriguez"
+      },
+      "Cristina_Jasso" : {
+         "attributes" : [
+            "Complejidad social",
+            "Conducta social",
+            "Sistemas Sociales Complejos y Dinámicas Sociales",
+            "Socioecologia"
+         ],
+         "id" : "Cristina_Jasso",
+         "name" : "Cristina Jasso"
+      },
+      "Eduardo_Robles" : {
+         "attributes" : [
+            "Estudios CTS",
+            "Indicadores de CyT"
+         ],
+         "id" : "Eduardo_Robles",
+         "name" : "Eduardo Robles"
+      },
+      "Gabriel_Ramos" : {
+         "attributes" : [
+            "Complejidad social",
+            "Procesamiento colectivo de informacion",
+            "Sistemas Sociales Complejos y Dinámicas Sociales"
+         ],
+         "id" : "Gabriel_Ramos",
+         "name" : "Gabriel Ramos"
+      },
+      "Gabriela_Sued" : {
+         "attributes" : [
+            "Estudios CTS",
+            "Estudios de Genero",
+            "Modelizacion Matematica",
+            "Procesamiento colectivo de informacion"
+         ],
+         "id" : "Gabriela_Sued",
+         "name" : "Gabriela Sued"
+      },
+      "Gerardo_Lopez" : {
+         "attributes" : [
+            "Complejidad social",
+            "Modelizacion Matematica",
+            "Sistemas Sociales Complejos y Dinámicas Sociales"
+         ],
+         "id" : "Gerardo_Lopez",
+         "name" : "Gerardo López"
+      },
+      "Israel_Garcia" : {
+         "attributes" : [
+            "Historia cuantitativa",
+            "Historia sociocultural universitaria",
+            "Socio-historia",
+            "Socio-historia de la cuantificacion"
+         ],
+         "id" : "Israel_Garcia",
+         "name" : "Israel García"
+      },
+      "Israel_Sandoval" : {
+         "attributes" : [
+            " Genealogia de las entidades y los espacios academicos",
+            "Historia sociocultural universitaria",
+            "Pensamiento Computacional",
+            "Socio-historia"
+         ],
+         "id" : "Israel_Sandoval",
+         "name" : "Israel Sandoval"
+      },
+      "Juan_Escalante" : {
+         "attributes" : [
+            "Estudios CTS",
+            "Redes academicas",
+            "Reproduccion de espacios academicos",
+            "Teoria general de Sistemas Sociales"
+         ],
+         "id" : "Juan_Escalante",
+         "name" : "Juan Escalante"
+      },
+      "Leticia_Mayer" : {
+         "attributes" : [
+            "Historia de la circulacion del conocimiento",
+            "Historia de la Estadistica",
+            "Historia de la probabilidad",
+            "Socio-historia",
+            "Socio-historia de la cuantificacion"
+         ],
+         "id" : "Leticia_Mayer",
+         "name" : "Leticia Mayer"
+      },
+      "Liliana_Ramirez" : {
+         "attributes" : [
+            "Estudios CTS",
+            "Estudios de Genero",
+            "Teoria general de Sistemas Sociales"
+         ],
+         "id" : "Liliana_Ramirez",
+         "name" : "Liliana Ramírez"
+      },
+      "Mariana_Espinosa" : {
+         "attributes" : [
+            "Mapas de la ciencia",
+            "Modelizacion Matematica",
+            "Redes conceptuales"
+         ],
+         "id" : "Mariana_Espinosa",
+         "name" : "Mariana Espinosa"
+      },
+      "Nestor_Paredes" : {
+         "attributes" : [
+            "Categorias y Clasificaciones sociales",
+            "Fronteras sociales",
+            "Reproduccion de espacios academicos",
+            "Socio-historia",
+            "Sociologia de las profesiones"
+         ],
+         "id" : "Nestor_Paredes",
+         "name" : "Nestor Paredes"
+      },
+      "Pilar_Galarza" : {
+         "attributes" : [
+            "Historia sociocultural universitaria",
+            "Socio-historia"
+         ],
+         "id" : "Pilar_Galarza",
+         "name" : "Pilar Galarza"
+      },
+      "Sandra_Smith" : {
+         "attributes" : [
+            "Complejidad social",
+            "Resilencia",
+            "Sistemas Sociales Complejos y Dinámicas Sociales",
+            "Socioecologia"
+         ],
+         "id" : "Sandra_Smith",
+         "name" : "Sandra Smith"
+      },
+      "Susana_Garcia" : {
+         "attributes" : [
+            " Genealogia de las entidades y los espacios academicos",
+            "Historia sociocultural universitaria",
+            "Socio-historia"
+         ],
+         "id" : "Susana_Garcia",
+         "name" : "Susana García"
+      },
+      "Teresa_de_Leon" : {
+         "attributes" : [
+            "Cambio ambiental y climatico",
+            "Estudios CTS",
+            "Geografias de la ciencia",
+            "Indicadores de CyT"
+         ],
+         "id" : "Teresa_de_Leon",
+         "name" : "Teresa de Leon"
+      }
+   },
+   "links" : [
+      {
+         "source" : 0,
+         "target" : 2
+      },
+      {
+         "source" : 0,
+         "target" : 13
+      },
+      {
+         "source" : 0,
+         "target" : 22
+      },
+      {
+         "source" : 0,
+         "target" : 24
+      },
+      {
+         "source" : 0,
+         "target" : 26
+      },
+      {
+         "source" : 0,
+         "target" : 32
+      },
+      {
+         "source" : 2,
+         "target" : 3
+      },
+      {
+         "source" : 2,
+         "target" : 8
+      },
+      {
+         "source" : 2,
+         "target" : 11
+      },
+      {
+         "source" : 3,
+         "target" : 4
+      },
+      {
+         "source" : 3,
+         "target" : 5
+      },
+      {
+         "source" : 4,
+         "target" : 1
+      },
+      {
+         "source" : 5,
+         "target" : 6
+      },
+      {
+         "source" : 5,
+         "target" : 7
+      },
+      {
+         "source" : 6,
+         "target" : 1
+      },
+      {
+         "source" : 7,
+         "target" : 1
+      },
+      {
+         "source" : 8,
+         "target" : 4
+      },
+      {
+         "source" : 8,
+         "target" : 9
+      },
+      {
+         "source" : 9,
+         "target" : 10
+      },
+      {
+         "source" : 10,
+         "target" : 1
+      },
+      {
+         "source" : 11,
+         "target" : 12
+      },
+      {
+         "source" : 11,
+         "target" : 6
+      },
+      {
+         "source" : 12,
+         "target" : 1
+      },
+      {
+         "source" : 13,
+         "target" : 14
+      },
+      {
+         "source" : 13,
+         "target" : 17
+      },
+      {
+         "source" : 13,
+         "target" : 19
+      },
+      {
+         "source" : 13,
+         "target" : 20
+      },
+      {
+         "source" : 13,
+         "target" : 21
+      },
+      {
+         "source" : 14,
+         "target" : 15
+      },
+      {
+         "source" : 14,
+         "target" : 16
+      },
+      {
+         "source" : 15,
+         "target" : 1
+      },
+      {
+         "source" : 16,
+         "target" : 1
+      },
+      {
+         "source" : 17,
+         "target" : 15
+      },
+      {
+         "source" : 17,
+         "target" : 18
+      },
+      {
+         "source" : 18,
+         "target" : 1
+      },
+      {
+         "source" : 19,
+         "target" : 1
+      },
+      {
+         "source" : 20,
+         "target" : 1
+      },
+      {
+         "source" : 21,
+         "target" : 16
+      },
+      {
+         "source" : 21,
+         "target" : 18
+      },
+      {
+         "source" : 22,
+         "target" : 23
+      },
+      {
+         "source" : 22,
+         "target" : 12
+      },
+      {
+         "source" : 23,
+         "target" : 1
+      },
+      {
+         "source" : 24,
+         "target" : 19
+      },
+      {
+         "source" : 24,
+         "target" : 25
+      },
+      {
+         "source" : 25,
+         "target" : 1
+      },
+      {
+         "source" : 26,
+         "target" : 20
+      },
+      {
+         "source" : 26,
+         "target" : 27
+      },
+      {
+         "source" : 26,
+         "target" : 30
+      },
+      {
+         "source" : 26,
+         "target" : 31
+      },
+      {
+         "source" : 27,
+         "target" : 28
+      },
+      {
+         "source" : 27,
+         "target" : 29
+      },
+      {
+         "source" : 28,
+         "target" : 1
+      },
+      {
+         "source" : 29,
+         "target" : 1
+      },
+      {
+         "source" : 30,
+         "target" : 29
+      },
+      {
+         "source" : 30,
+         "target" : 25
+      },
+      {
+         "source" : 31,
+         "target" : 1
+      },
+      {
+         "source" : 32,
+         "target" : 33
+      },
+      {
+         "source" : 32,
+         "target" : 35
+      },
+      {
+         "source" : 32,
+         "target" : 30
+      },
+      {
+         "source" : 32,
+         "target" : 36
+      },
+      {
+         "source" : 32,
+         "target" : 38
+      },
+      {
+         "source" : 33,
+         "target" : 23
+      },
+      {
+         "source" : 33,
+         "target" : 34
+      },
+      {
+         "source" : 34,
+         "target" : 1
+      },
+      {
+         "source" : 35,
+         "target" : 23
+      },
+      {
+         "source" : 35,
+         "target" : 29
+      },
+      {
+         "source" : 36,
+         "target" : 29
+      },
+      {
+         "source" : 36,
+         "target" : 37
+      },
+      {
+         "source" : 37,
+         "target" : 1
+      },
+      {
+         "source" : 38,
+         "target" : 34
+      },
+      {
+         "source" : 38,
+         "target" : 25
+      }
+   ],
+   "nodes" : [
+      {
+         "children" : [
+            "855848536",
+            "898725418",
+            "741693601",
+            "85757049",
+            "789039988",
+            "295295128"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Aline_Saldaña",
+               "Ana_Medeles",
+               "Carlos_Rodriguez",
+               "Cristina_Jasso",
+               "Eduardo_Robles",
+               "Gabriel_Ramos",
+               "Gabriela_Sued",
+               "Gerardo_Lopez",
+               "Israel_Garcia",
+               "Israel_Sandoval",
+               "Juan_Escalante",
+               "Leticia_Mayer",
+               "Liliana_Ramirez",
+               "Mariana_Espinosa",
+               "Nestor_Paredes",
+               "Pilar_Galarza",
+               "Sandra_Smith",
+               "Susana_Garcia",
+               "Teresa_de_Leon"
+            ],
+            "intent" : [],
+            "md5" : "f364422fb3165b5d2a0714a8c086b78d"
+         },
+         "hash" : "401570394",
+         "idx" : 0,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "5",
+         "parents" : []
+      },
+      {
+         "children" : [],
+         "concept" : {
+            "extent" : [],
+            "intent" : [
+               " Genealogia de las entidades y los espacios academicos",
+               "Cambio ambiental y climatico",
+               "Categorias y Clasificaciones sociales",
+               "Complejidad social",
+               "Conducta social",
+               "Estudio de Noticias y Mercados Financieros",
+               "Estudios CTS",
+               "Estudios de Genero",
+               "Fronteras sociales",
+               "Geografias de la ciencia",
+               "Historia cuantitativa",
+               "Historia de la circulacion del conocimiento",
+               "Historia de la Estadistica",
+               "Historia de la probabilidad",
+               "Historia sociocultural universitaria",
+               "Indicadores de CyT",
+               "Institucionalizacion de la estadistica",
+               "Mapas de la ciencia",
+               "Modelizacion Matematica",
+               "Pensamiento Computacional",
+               "Procesamiento colectivo de informacion",
+               "Redes academicas",
+               "Redes conceptuales",
+               "Reproduccion de espacios academicos",
+               "Resilencia",
+               "Sistemas Sociales Complejos y Dinámicas Sociales",
+               "Socio-historia",
+               "Socio-historia de la cuantificacion",
+               "Socioecologia",
+               "Sociologia de las profesiones",
+               "Teoria general de Sistemas Sociales"
+            ],
+            "md5" : "4541e4c4d4eb15f6c87c5d50bca60248"
+         },
+         "hash" : "422286864",
+         "idx" : 1,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "0",
+         "parents" : [
+            "687789903",
+            "739511849",
+            "1702526788",
+            "1277323739",
+            "314084287",
+            "508672647",
+            "686253654",
+            "2010431008",
+            "565653745",
+            "1933623129",
+            "1796174001",
+            "1349318706",
+            "1212447350",
+            "1049149008",
+            "1920226781",
+            "1745524347",
+            "939584538"
+         ]
+      },
+      {
+         "children" : [
+            "651792892",
+            "450650642",
+            "629353839"
+         ],
+         "concept" : {
+            "extent" : [
+               "Ana_Medeles",
+               "Israel_Garcia",
+               "Israel_Sandoval",
+               "Leticia_Mayer",
+               "Nestor_Paredes",
+               "Pilar_Galarza",
+               "Susana_Garcia"
+            ],
+            "intent" : [
+               "Socio-historia"
+            ],
+            "md5" : "fb9427d50f9920e9155757478b01cc3d"
+         },
+         "hash" : "855848536",
+         "idx" : 2,
+         "labelAttributes" : [
+            "Socio-historia"
+         ],
+         "labelObjects" : [],
+         "level" : "4",
+         "parents" : [
+            "401570394"
+         ]
+      },
+      {
+         "children" : [
+            "687789903",
+            "1333793699"
+         ],
+         "concept" : {
+            "extent" : [
+               "Ana_Medeles",
+               "Israel_Garcia",
+               "Leticia_Mayer"
+            ],
+            "intent" : [
+               "Socio-historia",
+               "Socio-historia de la cuantificacion"
+            ],
+            "md5" : "ff6382b691756c82aeb719cfcdcd8c38"
+         },
+         "hash" : "651792892",
+         "idx" : 3,
+         "labelAttributes" : [
+            "Socio-historia de la cuantificacion"
+         ],
+         "labelObjects" : [],
+         "level" : "3",
+         "parents" : [
+            "855848536"
+         ]
+      },
+      {
+         "children" : [
+            "422286864"
+         ],
+         "concept" : {
+            "extent" : [
+               "Israel_Garcia"
+            ],
+            "intent" : [
+               "Historia cuantitativa",
+               "Historia sociocultural universitaria",
+               "Socio-historia",
+               "Socio-historia de la cuantificacion"
+            ],
+            "md5" : "1f2181583b02897bf68caafaeeefd911"
+         },
+         "hash" : "687789903",
+         "idx" : 4,
+         "labelAttributes" : [
+            "Historia cuantitativa"
+         ],
+         "labelObjects" : [
+            "Israel_Garcia"
+         ],
+         "level" : "1",
+         "parents" : [
+            "651792892",
+            "450650642"
+         ]
+      },
+      {
+         "children" : [
+            "739511849",
+            "1702526788"
+         ],
+         "concept" : {
+            "extent" : [
+               "Ana_Medeles",
+               "Leticia_Mayer"
+            ],
+            "intent" : [
+               "Historia de la Estadistica",
+               "Socio-historia",
+               "Socio-historia de la cuantificacion"
+            ],
+            "md5" : "1b951f4bb4b3a0f1041a0b4efce879c1"
+         },
+         "hash" : "1333793699",
+         "idx" : 5,
+         "labelAttributes" : [
+            "Historia de la Estadistica"
+         ],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "651792892"
+         ]
+      },
+      {
+         "children" : [
+            "422286864"
+         ],
+         "concept" : {
+            "extent" : [
+               "Ana_Medeles"
+            ],
+            "intent" : [
+               "Categorias y Clasificaciones sociales",
+               "Historia de la Estadistica",
+               "Institucionalizacion de la estadistica",
+               "Socio-historia",
+               "Socio-historia de la cuantificacion"
+            ],
+            "md5" : "d02f099b9126cae2cf5c43fd32018ebd"
+         },
+         "hash" : "739511849",
+         "idx" : 6,
+         "labelAttributes" : [
+            "Institucionalizacion de la estadistica"
+         ],
+         "labelObjects" : [
+            "Ana_Medeles"
+         ],
+         "level" : "1",
+         "parents" : [
+            "1333793699",
+            "629353839"
+         ]
+      },
+      {
+         "children" : [
+            "422286864"
+         ],
+         "concept" : {
+            "extent" : [
+               "Leticia_Mayer"
+            ],
+            "intent" : [
+               "Historia de la circulacion del conocimiento",
+               "Historia de la Estadistica",
+               "Historia de la probabilidad",
+               "Socio-historia",
+               "Socio-historia de la cuantificacion"
+            ],
+            "md5" : "068db0565ca61a6011cca44b5cf948e9"
+         },
+         "hash" : "1702526788",
+         "idx" : 7,
+         "labelAttributes" : [
+            "Historia de la probabilidad",
+            "Historia de la circulacion del conocimiento"
+         ],
+         "labelObjects" : [
+            "Leticia_Mayer"
+         ],
+         "level" : "1",
+         "parents" : [
+            "1333793699"
+         ]
+      },
+      {
+         "children" : [
+            "687789903",
+            "1446378045"
+         ],
+         "concept" : {
+            "extent" : [
+               "Israel_Garcia",
+               "Israel_Sandoval",
+               "Pilar_Galarza",
+               "Susana_Garcia"
+            ],
+            "intent" : [
+               "Historia sociocultural universitaria",
+               "Socio-historia"
+            ],
+            "md5" : "02e1531511cfec8bd71da0178ec017c3"
+         },
+         "hash" : "450650642",
+         "idx" : 8,
+         "labelAttributes" : [
+            "Historia sociocultural universitaria"
+         ],
+         "labelObjects" : [
+            "Pilar_Galarza"
+         ],
+         "level" : "3",
+         "parents" : [
+            "855848536"
+         ]
+      },
+      {
+         "children" : [
+            "1277323739"
+         ],
+         "concept" : {
+            "extent" : [
+               "Israel_Sandoval",
+               "Susana_Garcia"
+            ],
+            "intent" : [
+               " Genealogia de las entidades y los espacios academicos",
+               "Historia sociocultural universitaria",
+               "Socio-historia"
+            ],
+            "md5" : "40454f2d8e9d182740b8a9fe51951aa8"
+         },
+         "hash" : "1446378045",
+         "idx" : 9,
+         "labelAttributes" : [
+            "Genealogia de las entidades y los espacios academicos"
+         ],
+         "labelObjects" : [
+            "Susana_Garcia"
+         ],
+         "level" : "2",
+         "parents" : [
+            "450650642"
+         ]
+      },
+      {
+         "children" : [
+            "422286864"
+         ],
+         "concept" : {
+            "extent" : [
+               "Israel_Sandoval"
+            ],
+            "intent" : [
+               " Genealogia de las entidades y los espacios academicos",
+               "Historia sociocultural universitaria",
+               "Pensamiento Computacional",
+               "Socio-historia"
+            ],
+            "md5" : "47a1516fefa53d0533b286c626304de0"
+         },
+         "hash" : "1277323739",
+         "idx" : 10,
+         "labelAttributes" : [
+            "Pensamiento Computacional"
+         ],
+         "labelObjects" : [
+            "Israel_Sandoval"
+         ],
+         "level" : "1",
+         "parents" : [
+            "1446378045"
+         ]
+      },
+      {
+         "children" : [
+            "314084287",
+            "739511849"
+         ],
+         "concept" : {
+            "extent" : [
+               "Ana_Medeles",
+               "Nestor_Paredes"
+            ],
+            "intent" : [
+               "Categorias y Clasificaciones sociales",
+               "Socio-historia"
+            ],
+            "md5" : "455c0dd71bff8abc5fb6c4b9479ff517"
+         },
+         "hash" : "629353839",
+         "idx" : 11,
+         "labelAttributes" : [
+            "Categorias y Clasificaciones sociales"
+         ],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "855848536"
+         ]
+      },
+      {
+         "children" : [
+            "422286864"
+         ],
+         "concept" : {
+            "extent" : [
+               "Nestor_Paredes"
+            ],
+            "intent" : [
+               "Categorias y Clasificaciones sociales",
+               "Fronteras sociales",
+               "Reproduccion de espacios academicos",
+               "Socio-historia",
+               "Sociologia de las profesiones"
+            ],
+            "md5" : "95bdecd9e8c2d6754d0d5dc09022a7f1"
+         },
+         "hash" : "314084287",
+         "idx" : 12,
+         "labelAttributes" : [
+            "Sociologia de las profesiones",
+            "Fronteras sociales"
+         ],
+         "labelObjects" : [
+            "Nestor_Paredes"
+         ],
+         "level" : "1",
+         "parents" : [
+            "629353839",
+            "741693601"
+         ]
+      },
+      {
+         "children" : [
+            "318286419",
+            "1810193955",
+            "565653745",
+            "1933623129",
+            "228366298"
+         ],
+         "concept" : {
+            "extent" : [
+               "Aline_Saldaña",
+               "Cristina_Jasso",
+               "Gabriel_Ramos",
+               "Gerardo_Lopez",
+               "Sandra_Smith"
+            ],
+            "intent" : [
+               "Complejidad social",
+               "Sistemas Sociales Complejos y Dinámicas Sociales"
+            ],
+            "md5" : "ca19c37cd08ac618102ea8e36cee9105"
+         },
+         "hash" : "898725418",
+         "idx" : 13,
+         "labelAttributes" : [
+            "Sistemas Sociales Complejos y Dinámicas Sociales",
+            "Complejidad social"
+         ],
+         "labelObjects" : [],
+         "level" : "3",
+         "parents" : [
+            "401570394"
+         ]
+      },
+      {
+         "children" : [
+            "508672647",
+            "686253654"
+         ],
+         "concept" : {
+            "extent" : [
+               "Cristina_Jasso",
+               "Sandra_Smith"
+            ],
+            "intent" : [
+               "Complejidad social",
+               "Sistemas Sociales Complejos y Dinámicas Sociales",
+               "Socioecologia"
+            ],
+            "md5" : "b0c49229889fe003934d4bb47f25bf8d"
+         },
+         "hash" : "318286419",
+         "idx" : 14,
+         "labelAttributes" : [
+            "Socioecologia"
+         ],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "898725418"
+         ]
+      },
+      {
+         "children" : [
+            "422286864"
+         ],
+         "concept" : {
+            "extent" : [
+               "Sandra_Smith"
+            ],
+            "intent" : [
+               "Complejidad social",
+               "Resilencia",
+               "Sistemas Sociales Complejos y Dinámicas Sociales",
+               "Socioecologia"
+            ],
+            "md5" : "561d54cf1e7ab609e4198e1fd9e0a77c"
+         },
+         "hash" : "508672647",
+         "idx" : 15,
+         "labelAttributes" : [],
+         "labelObjects" : [
+            "Sandra_Smith"
+         ],
+         "level" : "1",
+         "parents" : [
+            "318286419",
+            "1810193955"
+         ]
+      },
+      {
+         "children" : [
+            "422286864"
+         ],
+         "concept" : {
+            "extent" : [
+               "Cristina_Jasso"
+            ],
+            "intent" : [
+               "Complejidad social",
+               "Conducta social",
+               "Sistemas Sociales Complejos y Dinámicas Sociales",
+               "Socioecologia"
+            ],
+            "md5" : "2bf08a788ba73fbf631119f7bc82e6c9"
+         },
+         "hash" : "686253654",
+         "idx" : 16,
+         "labelAttributes" : [],
+         "labelObjects" : [
+            "Cristina_Jasso"
+         ],
+         "level" : "1",
+         "parents" : [
+            "318286419",
+            "228366298"
+         ]
+      },
+      {
+         "children" : [
+            "508672647",
+            "2010431008"
+         ],
+         "concept" : {
+            "extent" : [
+               "Aline_Saldaña",
+               "Sandra_Smith"
+            ],
+            "intent" : [
+               "Complejidad social",
+               "Resilencia",
+               "Sistemas Sociales Complejos y Dinámicas Sociales"
+            ],
+            "md5" : "b8df5d7f8a935dfa73ba2b9913018e9f"
+         },
+         "hash" : "1810193955",
+         "idx" : 17,
+         "labelAttributes" : [
+            "Resilencia"
+         ],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "898725418"
+         ]
+      },
+      {
+         "children" : [
+            "422286864"
+         ],
+         "concept" : {
+            "extent" : [
+               "Aline_Saldaña"
+            ],
+            "intent" : [
+               "Complejidad social",
+               "Conducta social",
+               "Resilencia",
+               "Sistemas Sociales Complejos y Dinámicas Sociales"
+            ],
+            "md5" : "b7afe8ad80c588cebc624d513ca3d4f7"
+         },
+         "hash" : "2010431008",
+         "idx" : 18,
+         "labelAttributes" : [],
+         "labelObjects" : [
+            "Aline_Saldaña"
+         ],
+         "level" : "1",
+         "parents" : [
+            "1810193955",
+            "228366298"
+         ]
+      },
+      {
+         "children" : [
+            "422286864"
+         ],
+         "concept" : {
+            "extent" : [
+               "Gabriel_Ramos"
+            ],
+            "intent" : [
+               "Complejidad social",
+               "Procesamiento colectivo de informacion",
+               "Sistemas Sociales Complejos y Dinámicas Sociales"
+            ],
+            "md5" : "83dba4b3214e83fdc56d2ffbb178eecb"
+         },
+         "hash" : "565653745",
+         "idx" : 19,
+         "labelAttributes" : [],
+         "labelObjects" : [
+            "Gabriel_Ramos"
+         ],
+         "level" : "1",
+         "parents" : [
+            "898725418",
+            "85757049"
+         ]
+      },
+      {
+         "children" : [
+            "422286864"
+         ],
+         "concept" : {
+            "extent" : [
+               "Gerardo_Lopez"
+            ],
+            "intent" : [
+               "Complejidad social",
+               "Modelizacion Matematica",
+               "Sistemas Sociales Complejos y Dinámicas Sociales"
+            ],
+            "md5" : "2a313890a0c6ac933f39e32db6716074"
+         },
+         "hash" : "1933623129",
+         "idx" : 20,
+         "labelAttributes" : [],
+         "labelObjects" : [
+            "Gerardo_Lopez"
+         ],
+         "level" : "1",
+         "parents" : [
+            "898725418",
+            "789039988"
+         ]
+      },
+      {
+         "children" : [
+            "686253654",
+            "2010431008"
+         ],
+         "concept" : {
+            "extent" : [
+               "Aline_Saldaña",
+               "Cristina_Jasso"
+            ],
+            "intent" : [
+               "Complejidad social",
+               "Conducta social",
+               "Sistemas Sociales Complejos y Dinámicas Sociales"
+            ],
+            "md5" : "cd9c557b495fdfa51fa004ce025221d7"
+         },
+         "hash" : "228366298",
+         "idx" : 21,
+         "labelAttributes" : [
+            "Conducta social"
+         ],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "898725418"
+         ]
+      },
+      {
+         "children" : [
+            "1796174001",
+            "314084287"
+         ],
+         "concept" : {
+            "extent" : [
+               "Juan_Escalante",
+               "Nestor_Paredes"
+            ],
+            "intent" : [
+               "Reproduccion de espacios academicos"
+            ],
+            "md5" : "d1332ad8384276f875388b667aa23e09"
+         },
+         "hash" : "741693601",
+         "idx" : 22,
+         "labelAttributes" : [
+            "Reproduccion de espacios academicos"
+         ],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "401570394"
+         ]
+      },
+      {
+         "children" : [
+            "422286864"
+         ],
+         "concept" : {
+            "extent" : [
+               "Juan_Escalante"
+            ],
+            "intent" : [
+               "Estudios CTS",
+               "Redes academicas",
+               "Reproduccion de espacios academicos",
+               "Teoria general de Sistemas Sociales"
+            ],
+            "md5" : "b2764e7d7f869dea80cd32a8a9c2ca3f"
+         },
+         "hash" : "1796174001",
+         "idx" : 23,
+         "labelAttributes" : [],
+         "labelObjects" : [
+            "Juan_Escalante"
+         ],
+         "level" : "1",
+         "parents" : [
+            "741693601",
+            "1632422950",
+            "1141904217"
+         ]
+      },
+      {
+         "children" : [
+            "565653745",
+            "1349318706"
+         ],
+         "concept" : {
+            "extent" : [
+               "Gabriel_Ramos",
+               "Gabriela_Sued"
+            ],
+            "intent" : [
+               "Procesamiento colectivo de informacion"
+            ],
+            "md5" : "1c909207d81a3b8853345ca7635b6a06"
+         },
+         "hash" : "85757049",
+         "idx" : 24,
+         "labelAttributes" : [
+            "Procesamiento colectivo de informacion"
+         ],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "401570394"
+         ]
+      },
+      {
+         "children" : [
+            "422286864"
+         ],
+         "concept" : {
+            "extent" : [
+               "Gabriela_Sued"
+            ],
+            "intent" : [
+               "Estudios CTS",
+               "Estudios de Genero",
+               "Modelizacion Matematica",
+               "Procesamiento colectivo de informacion"
+            ],
+            "md5" : "497f5c5315b572149111a9521ac6b453"
+         },
+         "hash" : "1349318706",
+         "idx" : 25,
+         "labelAttributes" : [],
+         "labelObjects" : [
+            "Gabriela_Sued"
+         ],
+         "level" : "1",
+         "parents" : [
+            "85757049",
+            "839234646",
+            "61333024"
+         ]
+      },
+      {
+         "children" : [
+            "1933623129",
+            "76357518",
+            "839234646",
+            "1920226781"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Carlos_Rodriguez",
+               "Gabriela_Sued",
+               "Gerardo_Lopez",
+               "Mariana_Espinosa"
+            ],
+            "intent" : [
+               "Modelizacion Matematica"
+            ],
+            "md5" : "7d32d1829d735d033055ce3c94b3763e"
+         },
+         "hash" : "789039988",
+         "idx" : 26,
+         "labelAttributes" : [
+            "Modelizacion Matematica"
+         ],
+         "labelObjects" : [],
+         "level" : "3",
+         "parents" : [
+            "401570394"
+         ]
+      },
+      {
+         "children" : [
+            "1212447350",
+            "1049149008"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Mariana_Espinosa"
+            ],
+            "intent" : [
+               "Mapas de la ciencia",
+               "Modelizacion Matematica"
+            ],
+            "md5" : "929be662d320aa41e458ebb3aca8b7d3"
+         },
+         "hash" : "76357518",
+         "idx" : 27,
+         "labelAttributes" : [
+            "Mapas de la ciencia"
+         ],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "789039988"
+         ]
+      },
+      {
+         "children" : [
+            "422286864"
+         ],
+         "concept" : {
+            "extent" : [
+               "Mariana_Espinosa"
+            ],
+            "intent" : [
+               "Mapas de la ciencia",
+               "Modelizacion Matematica",
+               "Redes conceptuales"
+            ],
+            "md5" : "5d752b3a86322285088fda260ad63af2"
+         },
+         "hash" : "1212447350",
+         "idx" : 28,
+         "labelAttributes" : [
+            "Redes conceptuales"
+         ],
+         "labelObjects" : [
+            "Mariana_Espinosa"
+         ],
+         "level" : "1",
+         "parents" : [
+            "76357518"
+         ]
+      },
+      {
+         "children" : [
+            "422286864"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz"
+            ],
+            "intent" : [
+               "Estudios CTS",
+               "Indicadores de CyT",
+               "Mapas de la ciencia",
+               "Modelizacion Matematica",
+               "Redes academicas"
+            ],
+            "md5" : "3ebb1f927ec1c665d016462e4a53befe"
+         },
+         "hash" : "1049149008",
+         "idx" : 29,
+         "labelAttributes" : [],
+         "labelObjects" : [
+            "Alejandro_Ruiz"
+         ],
+         "level" : "1",
+         "parents" : [
+            "76357518",
+            "839234646",
+            "1141904217",
+            "1086545565"
+         ]
+      },
+      {
+         "children" : [
+            "1049149008",
+            "1349318706"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Gabriela_Sued"
+            ],
+            "intent" : [
+               "Estudios CTS",
+               "Modelizacion Matematica"
+            ],
+            "md5" : "ac5cf22244ebd33f21936121f317b9ab"
+         },
+         "hash" : "839234646",
+         "idx" : 30,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "789039988",
+            "295295128"
+         ]
+      },
+      {
+         "children" : [
+            "422286864"
+         ],
+         "concept" : {
+            "extent" : [
+               "Carlos_Rodriguez"
+            ],
+            "intent" : [
+               "Estudio de Noticias y Mercados Financieros",
+               "Modelizacion Matematica"
+            ],
+            "md5" : "98733924c3607658881cdd11ba850870"
+         },
+         "hash" : "1920226781",
+         "idx" : 31,
+         "labelAttributes" : [
+            "Estudio de Noticias y Mercados Financieros"
+         ],
+         "labelObjects" : [
+            "Carlos_Rodriguez"
+         ],
+         "level" : "1",
+         "parents" : [
+            "789039988"
+         ]
+      },
+      {
+         "children" : [
+            "1632422950",
+            "1141904217",
+            "839234646",
+            "1086545565",
+            "61333024"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Eduardo_Robles",
+               "Gabriela_Sued",
+               "Juan_Escalante",
+               "Liliana_Ramirez",
+               "Teresa_de_Leon"
+            ],
+            "intent" : [
+               "Estudios CTS"
+            ],
+            "md5" : "0acf03c76971b8eac9c10b58a30e9e5c"
+         },
+         "hash" : "295295128",
+         "idx" : 32,
+         "labelAttributes" : [
+            "Estudios CTS"
+         ],
+         "labelObjects" : [],
+         "level" : "3",
+         "parents" : [
+            "401570394"
+         ]
+      },
+      {
+         "children" : [
+            "1796174001",
+            "1745524347"
+         ],
+         "concept" : {
+            "extent" : [
+               "Juan_Escalante",
+               "Liliana_Ramirez"
+            ],
+            "intent" : [
+               "Estudios CTS",
+               "Teoria general de Sistemas Sociales"
+            ],
+            "md5" : "99a096217e1a89954f749207749243c5"
+         },
+         "hash" : "1632422950",
+         "idx" : 33,
+         "labelAttributes" : [
+            "Teoria general de Sistemas Sociales"
+         ],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "295295128"
+         ]
+      },
+      {
+         "children" : [
+            "422286864"
+         ],
+         "concept" : {
+            "extent" : [
+               "Liliana_Ramirez"
+            ],
+            "intent" : [
+               "Estudios CTS",
+               "Estudios de Genero",
+               "Teoria general de Sistemas Sociales"
+            ],
+            "md5" : "fa4aca802defb4b7b219eda7730e9598"
+         },
+         "hash" : "1745524347",
+         "idx" : 34,
+         "labelAttributes" : [],
+         "labelObjects" : [
+            "Liliana_Ramirez"
+         ],
+         "level" : "1",
+         "parents" : [
+            "1632422950",
+            "61333024"
+         ]
+      },
+      {
+         "children" : [
+            "1796174001",
+            "1049149008"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Juan_Escalante"
+            ],
+            "intent" : [
+               "Estudios CTS",
+               "Redes academicas"
+            ],
+            "md5" : "206f85fb010d27cfa413069f09c80e54"
+         },
+         "hash" : "1141904217",
+         "idx" : 35,
+         "labelAttributes" : [
+            "Redes academicas"
+         ],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "295295128"
+         ]
+      },
+      {
+         "children" : [
+            "1049149008",
+            "939584538"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Eduardo_Robles",
+               "Teresa_de_Leon"
+            ],
+            "intent" : [
+               "Estudios CTS",
+               "Indicadores de CyT"
+            ],
+            "md5" : "da98a9cdcbdf75d245a46dbe49c6394e"
+         },
+         "hash" : "1086545565",
+         "idx" : 36,
+         "labelAttributes" : [
+            "Indicadores de CyT"
+         ],
+         "labelObjects" : [
+            "Eduardo_Robles"
+         ],
+         "level" : "2",
+         "parents" : [
+            "295295128"
+         ]
+      },
+      {
+         "children" : [
+            "422286864"
+         ],
+         "concept" : {
+            "extent" : [
+               "Teresa_de_Leon"
+            ],
+            "intent" : [
+               "Cambio ambiental y climatico",
+               "Estudios CTS",
+               "Geografias de la ciencia",
+               "Indicadores de CyT"
+            ],
+            "md5" : "d031196dd581ffc9cda57a7ec1e370df"
+         },
+         "hash" : "939584538",
+         "idx" : 37,
+         "labelAttributes" : [
+            "Geografias de la ciencia",
+            "Cambio ambiental y climatico"
+         ],
+         "labelObjects" : [
+            "Teresa_de_Leon"
+         ],
+         "level" : "1",
+         "parents" : [
+            "1086545565"
+         ]
+      },
+      {
+         "children" : [
+            "1745524347",
+            "1349318706"
+         ],
+         "concept" : {
+            "extent" : [
+               "Gabriela_Sued",
+               "Liliana_Ramirez"
+            ],
+            "intent" : [
+               "Estudios CTS",
+               "Estudios de Genero"
+            ],
+            "md5" : "ca514f4509efbb654824bc1e63960836"
+         },
+         "hash" : "61333024",
+         "idx" : 38,
+         "labelAttributes" : [
+            "Estudios de Genero"
+         ],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "295295128"
+         ]
+      }
+   ]
+}

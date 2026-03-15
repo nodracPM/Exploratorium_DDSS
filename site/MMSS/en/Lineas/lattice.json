@@ -1,0 +1,6542 @@
+{
+   "concepts" : [
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Aline_Saldaña",
+            "Ana_Medeles",
+            "Carlos_Rodriguez",
+            "Cristina_Jasso",
+            "Eduardo_Robles",
+            "Gabriel_Ramos",
+            "Gabriela_Sued",
+            "Gerardo_Lopez",
+            "Israel_Garcia",
+            "Israel_Sandoval",
+            "Juan_Escalante",
+            "Leticia_Mayer",
+            "Liliana_Ramirez",
+            "Mariana_Espinosa",
+            "Nestor_Paredes",
+            "Pilar_Galarza",
+            "Sandra_Smith",
+            "Susana_Garcia",
+            "Teresa_de_Leon"
+         ],
+         "intent" : [],
+         "md5" : "f364422fb3165b5d2a0714a8c086b78d"
+      },
+      {
+         "extent" : [],
+         "intent" : [
+            "Academic entities",
+            "Academic networks",
+            "Agent-Based Model Analysis",
+            "Agri-food networks",
+            "Archival Analysis",
+            "Artificial intelligence",
+            "Astronomy",
+            "Bibliometrics and Scientometrics",
+            "Bioinformatics Tools",
+            "Cetaceans",
+            "Climate Change",
+            "Cluster Analysis",
+            "Collective processing of information",
+            "Collective Tasks",
+            "Complex social systems",
+            "Computational Qualitative Analysis",
+            "Computational thinking",
+            "Concept networks",
+            "Correspondence Analysis",
+            "COVID-19",
+            "CT indicators",
+            "Digital News",
+            "Digital Source Mining",
+            "Digital Technologies",
+            "Direct Observation of Behavior",
+            "Document Analysis",
+            "Economic System",
+            "Enviromental and climate change",
+            "Ethnography",
+            "Formal Concept Analysis",
+            "Gender studies",
+            "Genealogy of Academic Entities",
+            "General theory of social systems",
+            "Genetic Analysis",
+            "Geographies of science",
+            "History of knowledge circulation",
+            "History of probability",
+            "History of statistics",
+            "Human Vocal Interactions",
+            "Inductive Game Theory",
+            "Information Sources",
+            "Institutionalization of statistics",
+            "Interviews",
+            "Linear Regression",
+            "Literature Review",
+            "Machine Learning",
+            "Maps of science",
+            "Mathematical modeling",
+            "Multiplex Network Analysis",
+            "Nanotechnology",
+            "Network Visualization",
+            "Pattern Recognition",
+            "Quantitative History",
+            "Reconstruction of Genealogies and Trajectories",
+            "Reproduction of Academic Spaces",
+            "Resilience",
+            "Sentiment Analysis",
+            "Social Behavior",
+            "Social categories and classifications",
+            "Social complexity",
+            "Social frontiers",
+            "Social Measurement",
+            "Social Networks Analysis",
+            "Social studies of CTS",
+            "Socio History",
+            "Socio-ecology",
+            "Socio-ecosystems in Yucatán",
+            "Socio-history of quantification",
+            "Socio-scientific Systems",
+            "Sociology of professions",
+            "Software Engineering",
+            "Spider Monkeys",
+            "Statistical Practices",
+            "Studies of Scientists",
+            "Studies of technitians",
+            "Study of News",
+            "Surveys",
+            "Technical Analysis",
+            "Topic Modeling Analysis",
+            "Tourism",
+            "Trajectories of Science",
+            "University’s sociocultural history"
+         ],
+         "md5" : "0c1705532b36f03f685cdb017d1857d8"
+      },
+      {
+         "extent" : [
+            "Gerardo_Lopez",
+            "Mariana_Espinosa",
+            "Sandra_Smith"
+         ],
+         "intent" : [
+            "Topic Modeling Analysis"
+         ],
+         "md5" : "5c9235d5b696ac39c198b308eea84228"
+      },
+      {
+         "extent" : [
+            "Gerardo_Lopez",
+            "Sandra_Smith"
+         ],
+         "intent" : [
+            "Complex social systems",
+            "Multiplex Network Analysis",
+            "Social complexity",
+            "Social Networks Analysis",
+            "Topic Modeling Analysis"
+         ],
+         "md5" : "04f93652e21bacf460d1b6ce209dd364"
+      },
+      {
+         "extent" : [
+            "Sandra_Smith"
+         ],
+         "intent" : [
+            "Agri-food networks",
+            "Cetaceans",
+            "Complex social systems",
+            "Multiplex Network Analysis",
+            "Resilience",
+            "Social complexity",
+            "Social Networks Analysis",
+            "Socio-ecology",
+            "Spider Monkeys",
+            "Topic Modeling Analysis"
+         ],
+         "md5" : "f2c0d304ad4edb297f4fdafea5855376"
+      },
+      {
+         "extent" : [
+            "Gerardo_Lopez"
+         ],
+         "intent" : [
+            "Bibliometrics and Scientometrics",
+            "Complex social systems",
+            "COVID-19",
+            "Digital Source Mining",
+            "Mathematical modeling",
+            "Multiplex Network Analysis",
+            "Network Visualization",
+            "Sentiment Analysis",
+            "Social complexity",
+            "Social Networks Analysis",
+            "Socio-scientific Systems",
+            "Topic Modeling Analysis"
+         ],
+         "md5" : "36403274b8e16eddb27a79f3817d8557"
+      },
+      {
+         "extent" : [
+            "Gerardo_Lopez",
+            "Mariana_Espinosa"
+         ],
+         "intent" : [
+            "Bibliometrics and Scientometrics",
+            "Mathematical modeling",
+            "Network Visualization",
+            "Topic Modeling Analysis"
+         ],
+         "md5" : "c6d7104fe8ffeb554d6c2fb5d49df109"
+      },
+      {
+         "extent" : [
+            "Mariana_Espinosa"
+         ],
+         "intent" : [
+            "Astronomy",
+            "Bibliometrics and Scientometrics",
+            "Concept networks",
+            "Formal Concept Analysis",
+            "Literature Review",
+            "Maps of science",
+            "Mathematical modeling",
+            "Network Visualization",
+            "Topic Modeling Analysis"
+         ],
+         "md5" : "20853a4ec9ddbbf596504b0659184d9b"
+      },
+      {
+         "extent" : [
+            "Gerardo_Lopez",
+            "Juan_Escalante",
+            "Teresa_de_Leon"
+         ],
+         "intent" : [
+            "Socio-scientific Systems"
+         ],
+         "md5" : "9c0fa2d65ccd4990871e5c54cc69e115"
+      },
+      {
+         "extent" : [
+            "Gerardo_Lopez",
+            "Juan_Escalante"
+         ],
+         "intent" : [
+            "Network Visualization",
+            "Socio-scientific Systems"
+         ],
+         "md5" : "9acfacb77b8d98f9a06a54902420945a"
+      },
+      {
+         "extent" : [
+            "Juan_Escalante"
+         ],
+         "intent" : [
+            "Academic entities",
+            "Genealogy of Academic Entities",
+            "Interviews",
+            "Literature Review",
+            "Network Visualization",
+            "Socio History",
+            "Socio-scientific Systems",
+            "University’s sociocultural history"
+         ],
+         "md5" : "704de8fd0c39a7708e833e676ce11cf4"
+      },
+      {
+         "extent" : [
+            "Juan_Escalante",
+            "Teresa_de_Leon"
+         ],
+         "intent" : [
+            "Interviews",
+            "Socio-scientific Systems"
+         ],
+         "md5" : "a9893981e695a68b3496066af078daaf"
+      },
+      {
+         "extent" : [
+            "Teresa_de_Leon"
+         ],
+         "intent" : [
+            "Climate Change",
+            "CT indicators",
+            "Enviromental and climate change",
+            "Geographies of science",
+            "Interviews",
+            "Social studies of CTS",
+            "Socio-scientific Systems"
+         ],
+         "md5" : "9656a4fa78c55cce4e54592d90e17a8a"
+      },
+      {
+         "extent" : [
+            "Ana_Medeles",
+            "Israel_Sandoval",
+            "Juan_Escalante",
+            "Leticia_Mayer",
+            "Nestor_Paredes",
+            "Pilar_Galarza",
+            "Susana_Garcia"
+         ],
+         "intent" : [
+            "Socio History"
+         ],
+         "md5" : "81c982518ec0df20a2424871d4cbae48"
+      },
+      {
+         "extent" : [
+            "Israel_Sandoval",
+            "Juan_Escalante",
+            "Pilar_Galarza",
+            "Susana_Garcia"
+         ],
+         "intent" : [
+            "Socio History",
+            "University’s sociocultural history"
+         ],
+         "md5" : "76083f75149f0a87cbaabada5ed41eb2"
+      },
+      {
+         "extent" : [
+            "Juan_Escalante",
+            "Pilar_Galarza"
+         ],
+         "intent" : [
+            "Interviews",
+            "Literature Review",
+            "Socio History",
+            "University’s sociocultural history"
+         ],
+         "md5" : "ef5c08110d7071e50dff92b34f5f3798"
+      },
+      {
+         "extent" : [
+            "Pilar_Galarza"
+         ],
+         "intent" : [
+            "Archival Analysis",
+            "Document Analysis",
+            "Information Sources",
+            "Interviews",
+            "Literature Review",
+            "Socio History",
+            "Surveys",
+            "University’s sociocultural history"
+         ],
+         "md5" : "5c8b618830ca1097443fbfb0a248ec8d"
+      },
+      {
+         "extent" : [
+            "Pilar_Galarza",
+            "Susana_Garcia"
+         ],
+         "intent" : [
+            "Document Analysis",
+            "Socio History",
+            "University’s sociocultural history"
+         ],
+         "md5" : "28a687c732c84ec08dd346b5b64b750f"
+      },
+      {
+         "extent" : [
+            "Susana_Garcia"
+         ],
+         "intent" : [
+            "Academic entities",
+            "Document Analysis",
+            "Genealogy of Academic Entities",
+            "Network Visualization",
+            "Reconstruction of Genealogies and Trajectories",
+            "Socio History",
+            "University’s sociocultural history"
+         ],
+         "md5" : "0c1f50c295d386acfe6be0722f8d5c95"
+      },
+      {
+         "extent" : [
+            "Israel_Sandoval",
+            "Juan_Escalante",
+            "Susana_Garcia"
+         ],
+         "intent" : [
+            "Academic entities",
+            "Socio History",
+            "University’s sociocultural history"
+         ],
+         "md5" : "4eee58233e89a31f88cd58851da83a56"
+      },
+      {
+         "extent" : [
+            "Israel_Sandoval",
+            "Susana_Garcia"
+         ],
+         "intent" : [
+            "Academic entities",
+            "Reconstruction of Genealogies and Trajectories",
+            "Socio History",
+            "University’s sociocultural history"
+         ],
+         "md5" : "36479c1a0cc9a4724d93b1d1ccaf6a5b"
+      },
+      {
+         "extent" : [
+            "Israel_Sandoval"
+         ],
+         "intent" : [
+            "Academic entities",
+            "Computational thinking",
+            "Digital Technologies",
+            "Quantitative History",
+            "Reconstruction of Genealogies and Trajectories",
+            "Socio History",
+            "Socio-history of quantification",
+            "Software Engineering",
+            "University’s sociocultural history"
+         ],
+         "md5" : "9a7ac3c0382a473775688b53579f0bd2"
+      },
+      {
+         "extent" : [
+            "Juan_Escalante",
+            "Susana_Garcia"
+         ],
+         "intent" : [
+            "Academic entities",
+            "Genealogy of Academic Entities",
+            "Network Visualization",
+            "Socio History",
+            "University’s sociocultural history"
+         ],
+         "md5" : "08042bd2339d2dc0186924942a31f6bb"
+      },
+      {
+         "extent" : [
+            "Ana_Medeles",
+            "Israel_Sandoval",
+            "Leticia_Mayer"
+         ],
+         "intent" : [
+            "Socio History",
+            "Socio-history of quantification"
+         ],
+         "md5" : "0fb232c2ebbae121e36569207666a41f"
+      },
+      {
+         "extent" : [
+            "Ana_Medeles",
+            "Leticia_Mayer"
+         ],
+         "intent" : [
+            "Archival Analysis",
+            "History of statistics",
+            "Socio History",
+            "Socio-history of quantification"
+         ],
+         "md5" : "9e753094d8271d60c9430c4149b74114"
+      },
+      {
+         "extent" : [
+            "Leticia_Mayer"
+         ],
+         "intent" : [
+            "Archival Analysis",
+            "Direct Observation of Behavior",
+            "History of knowledge circulation",
+            "History of probability",
+            "History of statistics",
+            "Social Networks Analysis",
+            "Socio History",
+            "Socio-history of quantification",
+            "Studies of technitians",
+            "Trajectories of Science"
+         ],
+         "md5" : "90c987b8b8db9e4a97c5c78118290618"
+      },
+      {
+         "extent" : [
+            "Ana_Medeles"
+         ],
+         "intent" : [
+            "Archival Analysis",
+            "Digital Source Mining",
+            "History of statistics",
+            "Institutionalization of statistics",
+            "Social categories and classifications",
+            "Social Measurement",
+            "Socio History",
+            "Socio-history of quantification",
+            "Statistical Practices"
+         ],
+         "md5" : "7804f6ba7b968eb135959beb969a651c"
+      },
+      {
+         "extent" : [
+            "Ana_Medeles",
+            "Nestor_Paredes"
+         ],
+         "intent" : [
+            "Social categories and classifications",
+            "Socio History"
+         ],
+         "md5" : "889044a0774321d44d61074d8699a752"
+      },
+      {
+         "extent" : [
+            "Nestor_Paredes"
+         ],
+         "intent" : [
+            "Academic entities",
+            "Cluster Analysis",
+            "Correspondence Analysis",
+            "Reproduction of Academic Spaces",
+            "Social categories and classifications",
+            "Social frontiers",
+            "Socio History",
+            "Sociology of professions"
+         ],
+         "md5" : "95cc6ad3d05b995b8e51dbc0069cc574"
+      },
+      {
+         "extent" : [
+            "Ana_Medeles",
+            "Leticia_Mayer",
+            "Pilar_Galarza"
+         ],
+         "intent" : [
+            "Archival Analysis",
+            "Socio History"
+         ],
+         "md5" : "3d76b595d7c17ee4b2e3a86ef991039a"
+      },
+      {
+         "extent" : [
+            "Israel_Sandoval",
+            "Juan_Escalante",
+            "Nestor_Paredes",
+            "Susana_Garcia"
+         ],
+         "intent" : [
+            "Academic entities",
+            "Socio History"
+         ],
+         "md5" : "753c3732565a4c8793d367efc54ad73a"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Eduardo_Robles",
+            "Gabriela_Sued",
+            "Israel_Garcia",
+            "Liliana_Ramirez",
+            "Teresa_de_Leon"
+         ],
+         "intent" : [
+            "Social studies of CTS"
+         ],
+         "md5" : "cef48acd100aa9c53e6123085f34b06b"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Eduardo_Robles",
+            "Israel_Garcia",
+            "Liliana_Ramirez"
+         ],
+         "intent" : [
+            "Social Networks Analysis",
+            "Social studies of CTS",
+            "Trajectories of Science"
+         ],
+         "md5" : "af5e0328fb656dc70a71db2c37a7b8e6"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Eduardo_Robles",
+            "Israel_Garcia"
+         ],
+         "intent" : [
+            "Document Analysis",
+            "Network Visualization",
+            "Social Networks Analysis",
+            "Social studies of CTS",
+            "Trajectories of Science"
+         ],
+         "md5" : "c1daded7c22535aede5285924031979c"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Eduardo_Robles"
+         ],
+         "intent" : [
+            "Academic entities",
+            "Bibliometrics and Scientometrics",
+            "CT indicators",
+            "Document Analysis",
+            "Network Visualization",
+            "Social Networks Analysis",
+            "Social studies of CTS",
+            "Trajectories of Science"
+         ],
+         "md5" : "c141d603225e4e6f7541fb8fd9ccaa9c"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz"
+         ],
+         "intent" : [
+            "Academic entities",
+            "Academic networks",
+            "Astronomy",
+            "Bibliometrics and Scientometrics",
+            "CT indicators",
+            "Document Analysis",
+            "Interviews",
+            "Literature Review",
+            "Maps of science",
+            "Mathematical modeling",
+            "Multiplex Network Analysis",
+            "Network Visualization",
+            "Social Networks Analysis",
+            "Social studies of CTS",
+            "Studies of Scientists",
+            "Studies of technitians",
+            "Surveys",
+            "Tourism",
+            "Trajectories of Science"
+         ],
+         "md5" : "89487ec367e16ca0f71e3346b31598a3"
+      },
+      {
+         "extent" : [
+            "Eduardo_Robles"
+         ],
+         "intent" : [
+            "Academic entities",
+            "Bibliometrics and Scientometrics",
+            "CT indicators",
+            "Digital Source Mining",
+            "Document Analysis",
+            "Ethnography",
+            "Nanotechnology",
+            "Network Visualization",
+            "Social Networks Analysis",
+            "Social studies of CTS",
+            "Trajectories of Science"
+         ],
+         "md5" : "1e9d3e4617ca36b619a12c36289eb0b5"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Israel_Garcia"
+         ],
+         "intent" : [
+            "Academic networks",
+            "Document Analysis",
+            "Network Visualization",
+            "Social Networks Analysis",
+            "Social studies of CTS",
+            "Trajectories of Science"
+         ],
+         "md5" : "56adcec72eeffa53b870ee5899306526"
+      },
+      {
+         "extent" : [
+            "Israel_Garcia"
+         ],
+         "intent" : [
+            "Academic networks",
+            "Archival Analysis",
+            "Cluster Analysis",
+            "Computational Qualitative Analysis",
+            "Correspondence Analysis",
+            "Document Analysis",
+            "General theory of social systems",
+            "Linear Regression",
+            "Network Visualization",
+            "Pattern Recognition",
+            "Reproduction of Academic Spaces",
+            "Social Networks Analysis",
+            "Social studies of CTS",
+            "Trajectories of Science"
+         ],
+         "md5" : "bc686d9edd05de0c88611a7041980f77"
+      },
+      {
+         "extent" : [
+            "Israel_Garcia",
+            "Liliana_Ramirez"
+         ],
+         "intent" : [
+            "General theory of social systems",
+            "Social Networks Analysis",
+            "Social studies of CTS",
+            "Trajectories of Science"
+         ],
+         "md5" : "9263a228b19ea56489c9e59198dd0d6c"
+      },
+      {
+         "extent" : [
+            "Liliana_Ramirez"
+         ],
+         "intent" : [
+            "Academic entities",
+            "Bibliometrics and Scientometrics",
+            "Ethnography",
+            "Gender studies",
+            "General theory of social systems",
+            "Interviews",
+            "Social Networks Analysis",
+            "Social studies of CTS",
+            "Trajectories of Science"
+         ],
+         "md5" : "96dda5a588bc49d333a87aa66c7828d7"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Eduardo_Robles",
+            "Liliana_Ramirez"
+         ],
+         "intent" : [
+            "Academic entities",
+            "Bibliometrics and Scientometrics",
+            "Social Networks Analysis",
+            "Social studies of CTS",
+            "Trajectories of Science"
+         ],
+         "md5" : "5ff7dd5e68d7c1f01b0c98da654269be"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Liliana_Ramirez"
+         ],
+         "intent" : [
+            "Academic entities",
+            "Bibliometrics and Scientometrics",
+            "Interviews",
+            "Social Networks Analysis",
+            "Social studies of CTS",
+            "Trajectories of Science"
+         ],
+         "md5" : "3252513c5e37d9f7691b7142bf203987"
+      },
+      {
+         "extent" : [
+            "Eduardo_Robles",
+            "Liliana_Ramirez"
+         ],
+         "intent" : [
+            "Academic entities",
+            "Bibliometrics and Scientometrics",
+            "Ethnography",
+            "Social Networks Analysis",
+            "Social studies of CTS",
+            "Trajectories of Science"
+         ],
+         "md5" : "d45b1a7de764400d70bee5e8e81cd0e9"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Gabriela_Sued",
+            "Liliana_Ramirez",
+            "Teresa_de_Leon"
+         ],
+         "intent" : [
+            "Interviews",
+            "Social studies of CTS"
+         ],
+         "md5" : "718b5556e89bc6eddb3969ce15bbfc5d"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Teresa_de_Leon"
+         ],
+         "intent" : [
+            "CT indicators",
+            "Interviews",
+            "Social studies of CTS"
+         ],
+         "md5" : "05105d6553d758f5c0f130cc744c1db4"
+      },
+      {
+         "extent" : [
+            "Gabriela_Sued",
+            "Teresa_de_Leon"
+         ],
+         "intent" : [
+            "Climate Change",
+            "Interviews",
+            "Social studies of CTS"
+         ],
+         "md5" : "0e6da011ae678ededcc9a48c39b583e0"
+      },
+      {
+         "extent" : [
+            "Gabriela_Sued"
+         ],
+         "intent" : [
+            "Artificial intelligence",
+            "Bibliometrics and Scientometrics",
+            "Climate Change",
+            "Collective processing of information",
+            "Digital Technologies",
+            "Document Analysis",
+            "Gender studies",
+            "Interviews",
+            "Mathematical modeling",
+            "Social studies of CTS"
+         ],
+         "md5" : "b79bba8633d66a5b88d6e96ef767686e"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Gabriela_Sued",
+            "Liliana_Ramirez"
+         ],
+         "intent" : [
+            "Bibliometrics and Scientometrics",
+            "Interviews",
+            "Social studies of CTS"
+         ],
+         "md5" : "9bef1e482461b1f1261c3ff0c58e7093"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Gabriela_Sued"
+         ],
+         "intent" : [
+            "Bibliometrics and Scientometrics",
+            "Document Analysis",
+            "Interviews",
+            "Mathematical modeling",
+            "Social studies of CTS"
+         ],
+         "md5" : "0514a0d7edd4da0723ff33ce7a4506ef"
+      },
+      {
+         "extent" : [
+            "Gabriela_Sued",
+            "Liliana_Ramirez"
+         ],
+         "intent" : [
+            "Bibliometrics and Scientometrics",
+            "Gender studies",
+            "Interviews",
+            "Social studies of CTS"
+         ],
+         "md5" : "c36d50e3ea4e414699aa0b5dde567566"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Eduardo_Robles",
+            "Gabriela_Sued",
+            "Israel_Garcia"
+         ],
+         "intent" : [
+            "Document Analysis",
+            "Social studies of CTS"
+         ],
+         "md5" : "b7af7c852a04bbfac8fc2cfe5ed6b679"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Eduardo_Robles",
+            "Gabriela_Sued"
+         ],
+         "intent" : [
+            "Bibliometrics and Scientometrics",
+            "Document Analysis",
+            "Social studies of CTS"
+         ],
+         "md5" : "9cafeafed65266584ee8fd258a9651ca"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Eduardo_Robles",
+            "Teresa_de_Leon"
+         ],
+         "intent" : [
+            "CT indicators",
+            "Social studies of CTS"
+         ],
+         "md5" : "49bd40e352df89d576b3ea44a6864e21"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Eduardo_Robles",
+            "Gabriela_Sued",
+            "Liliana_Ramirez"
+         ],
+         "intent" : [
+            "Bibliometrics and Scientometrics",
+            "Social studies of CTS"
+         ],
+         "md5" : "39e9f9c330186b575c0e4f198629a1e1"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Aline_Saldaña",
+            "Cristina_Jasso",
+            "Eduardo_Robles",
+            "Gabriel_Ramos",
+            "Gerardo_Lopez",
+            "Israel_Garcia",
+            "Leticia_Mayer",
+            "Liliana_Ramirez",
+            "Sandra_Smith"
+         ],
+         "intent" : [
+            "Social Networks Analysis"
+         ],
+         "md5" : "59f664916e30f929f8a0cad405a0ef58"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Eduardo_Robles",
+            "Israel_Garcia",
+            "Leticia_Mayer",
+            "Liliana_Ramirez"
+         ],
+         "intent" : [
+            "Social Networks Analysis",
+            "Trajectories of Science"
+         ],
+         "md5" : "936d0f392b81df7c70744181c5b5d94f"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Leticia_Mayer"
+         ],
+         "intent" : [
+            "Social Networks Analysis",
+            "Studies of technitians",
+            "Trajectories of Science"
+         ],
+         "md5" : "f0336106a554627c92188f188db668a7"
+      },
+      {
+         "extent" : [
+            "Israel_Garcia",
+            "Leticia_Mayer"
+         ],
+         "intent" : [
+            "Archival Analysis",
+            "Social Networks Analysis",
+            "Trajectories of Science"
+         ],
+         "md5" : "e0e8593628b2095909a66166fb912cc2"
+      },
+      {
+         "extent" : [
+            "Aline_Saldaña",
+            "Cristina_Jasso",
+            "Gabriel_Ramos",
+            "Gerardo_Lopez",
+            "Sandra_Smith"
+         ],
+         "intent" : [
+            "Complex social systems",
+            "Social complexity",
+            "Social Networks Analysis"
+         ],
+         "md5" : "193bca945ce40ebc73bce0ed20cfb79e"
+      },
+      {
+         "extent" : [
+            "Aline_Saldaña",
+            "Cristina_Jasso",
+            "Gabriel_Ramos",
+            "Sandra_Smith"
+         ],
+         "intent" : [
+            "Complex social systems",
+            "Social complexity",
+            "Social Networks Analysis",
+            "Spider Monkeys"
+         ],
+         "md5" : "78566d1b8c9b9adcb3282af020c58305"
+      },
+      {
+         "extent" : [
+            "Cristina_Jasso",
+            "Sandra_Smith"
+         ],
+         "intent" : [
+            "Complex social systems",
+            "Social complexity",
+            "Social Networks Analysis",
+            "Socio-ecology",
+            "Spider Monkeys"
+         ],
+         "md5" : "111be7e58b1376b52a16aa9a6492e62e"
+      },
+      {
+         "extent" : [
+            "Cristina_Jasso"
+         ],
+         "intent" : [
+            "Bioinformatics Tools",
+            "Complex social systems",
+            "Direct Observation of Behavior",
+            "Genetic Analysis",
+            "Network Visualization",
+            "Social Behavior",
+            "Social complexity",
+            "Social Networks Analysis",
+            "Socio-ecology",
+            "Spider Monkeys"
+         ],
+         "md5" : "46404a8f13c7fed9ddc58189c1bceb5b"
+      },
+      {
+         "extent" : [
+            "Aline_Saldaña",
+            "Gabriel_Ramos",
+            "Sandra_Smith"
+         ],
+         "intent" : [
+            "Complex social systems",
+            "Multiplex Network Analysis",
+            "Social complexity",
+            "Social Networks Analysis",
+            "Spider Monkeys"
+         ],
+         "md5" : "2fcf1e438cd9f84d411715cc737010cb"
+      },
+      {
+         "extent" : [
+            "Aline_Saldaña",
+            "Sandra_Smith"
+         ],
+         "intent" : [
+            "Complex social systems",
+            "Multiplex Network Analysis",
+            "Resilience",
+            "Social complexity",
+            "Social Networks Analysis",
+            "Spider Monkeys"
+         ],
+         "md5" : "904efba7d5cbfa1c610f1fd509d31342"
+      },
+      {
+         "extent" : [
+            "Aline_Saldaña"
+         ],
+         "intent" : [
+            "Complex social systems",
+            "Direct Observation of Behavior",
+            "Multiplex Network Analysis",
+            "Resilience",
+            "Social Behavior",
+            "Social complexity",
+            "Social Networks Analysis",
+            "Spider Monkeys"
+         ],
+         "md5" : "e196928ebf1d28b44324b2935be4eaaa"
+      },
+      {
+         "extent" : [
+            "Aline_Saldaña",
+            "Gabriel_Ramos"
+         ],
+         "intent" : [
+            "Complex social systems",
+            "Direct Observation of Behavior",
+            "Multiplex Network Analysis",
+            "Social complexity",
+            "Social Networks Analysis",
+            "Spider Monkeys"
+         ],
+         "md5" : "2497f7e50cab90f934b033936a02c7fd"
+      },
+      {
+         "extent" : [
+            "Gabriel_Ramos"
+         ],
+         "intent" : [
+            "Agent-Based Model Analysis",
+            "Collective processing of information",
+            "Collective Tasks",
+            "Complex social systems",
+            "Direct Observation of Behavior",
+            "Human Vocal Interactions",
+            "Inductive Game Theory",
+            "Multiplex Network Analysis",
+            "Network Visualization",
+            "Social complexity",
+            "Social Networks Analysis",
+            "Socio-ecosystems in Yucatán",
+            "Spider Monkeys"
+         ],
+         "md5" : "8aba99a5ba435712ce9ef58b016ad4ad"
+      },
+      {
+         "extent" : [
+            "Aline_Saldaña",
+            "Cristina_Jasso",
+            "Gabriel_Ramos"
+         ],
+         "intent" : [
+            "Complex social systems",
+            "Direct Observation of Behavior",
+            "Social complexity",
+            "Social Networks Analysis",
+            "Spider Monkeys"
+         ],
+         "md5" : "070ba48cb7bad61d90a105cd6e8003b3"
+      },
+      {
+         "extent" : [
+            "Aline_Saldaña",
+            "Cristina_Jasso"
+         ],
+         "intent" : [
+            "Complex social systems",
+            "Direct Observation of Behavior",
+            "Social Behavior",
+            "Social complexity",
+            "Social Networks Analysis",
+            "Spider Monkeys"
+         ],
+         "md5" : "3ea3272a3968fe180c1414300124b917"
+      },
+      {
+         "extent" : [
+            "Cristina_Jasso",
+            "Gabriel_Ramos"
+         ],
+         "intent" : [
+            "Complex social systems",
+            "Direct Observation of Behavior",
+            "Network Visualization",
+            "Social complexity",
+            "Social Networks Analysis",
+            "Spider Monkeys"
+         ],
+         "md5" : "dfee722431d4b1c4925014df9c80f2ff"
+      },
+      {
+         "extent" : [
+            "Cristina_Jasso",
+            "Gabriel_Ramos",
+            "Gerardo_Lopez"
+         ],
+         "intent" : [
+            "Complex social systems",
+            "Network Visualization",
+            "Social complexity",
+            "Social Networks Analysis"
+         ],
+         "md5" : "1fa247b8abf44c697852090ee4647660"
+      },
+      {
+         "extent" : [
+            "Gabriel_Ramos",
+            "Gerardo_Lopez"
+         ],
+         "intent" : [
+            "Complex social systems",
+            "Multiplex Network Analysis",
+            "Network Visualization",
+            "Social complexity",
+            "Social Networks Analysis"
+         ],
+         "md5" : "9bbf40666c196914b3f194439e4bbce2"
+      },
+      {
+         "extent" : [
+            "Aline_Saldaña",
+            "Gabriel_Ramos",
+            "Gerardo_Lopez",
+            "Sandra_Smith"
+         ],
+         "intent" : [
+            "Complex social systems",
+            "Multiplex Network Analysis",
+            "Social complexity",
+            "Social Networks Analysis"
+         ],
+         "md5" : "2379920df985e58f8a06ee007cde21f3"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Cristina_Jasso",
+            "Eduardo_Robles",
+            "Gabriel_Ramos",
+            "Gerardo_Lopez",
+            "Israel_Garcia"
+         ],
+         "intent" : [
+            "Network Visualization",
+            "Social Networks Analysis"
+         ],
+         "md5" : "ce6574f598be7ec958e4beee2e008740"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Gabriel_Ramos",
+            "Gerardo_Lopez"
+         ],
+         "intent" : [
+            "Multiplex Network Analysis",
+            "Network Visualization",
+            "Social Networks Analysis"
+         ],
+         "md5" : "32e9991a5ee128d363e45fca2410c6ed"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Gerardo_Lopez"
+         ],
+         "intent" : [
+            "Bibliometrics and Scientometrics",
+            "Mathematical modeling",
+            "Multiplex Network Analysis",
+            "Network Visualization",
+            "Social Networks Analysis"
+         ],
+         "md5" : "da5ec17611d3272f134231a9fdf58b5d"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Eduardo_Robles",
+            "Gerardo_Lopez"
+         ],
+         "intent" : [
+            "Bibliometrics and Scientometrics",
+            "Network Visualization",
+            "Social Networks Analysis"
+         ],
+         "md5" : "8e908fb98c2a45edcb8c64f792a285ac"
+      },
+      {
+         "extent" : [
+            "Eduardo_Robles",
+            "Gerardo_Lopez"
+         ],
+         "intent" : [
+            "Bibliometrics and Scientometrics",
+            "Digital Source Mining",
+            "Network Visualization",
+            "Social Networks Analysis"
+         ],
+         "md5" : "3ab49ba1e6139a2364f444bcc8cfa1ae"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Aline_Saldaña",
+            "Gabriel_Ramos",
+            "Gerardo_Lopez",
+            "Sandra_Smith"
+         ],
+         "intent" : [
+            "Multiplex Network Analysis",
+            "Social Networks Analysis"
+         ],
+         "md5" : "e97aa4582e221df2ea8daf77c1377405"
+      },
+      {
+         "extent" : [
+            "Aline_Saldaña",
+            "Cristina_Jasso",
+            "Gabriel_Ramos",
+            "Leticia_Mayer"
+         ],
+         "intent" : [
+            "Direct Observation of Behavior",
+            "Social Networks Analysis"
+         ],
+         "md5" : "c381f37eed6b7baa44472008ed61c000"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Eduardo_Robles",
+            "Gerardo_Lopez",
+            "Liliana_Ramirez"
+         ],
+         "intent" : [
+            "Bibliometrics and Scientometrics",
+            "Social Networks Analysis"
+         ],
+         "md5" : "b9ea0405ba5d965977adeffb9787876b"
+      },
+      {
+         "extent" : [
+            "Israel_Garcia",
+            "Nestor_Paredes"
+         ],
+         "intent" : [
+            "Cluster Analysis",
+            "Correspondence Analysis",
+            "Reproduction of Academic Spaces"
+         ],
+         "md5" : "18a609d534744ca999ed9d1f3ed71057"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Cristina_Jasso",
+            "Eduardo_Robles",
+            "Gabriel_Ramos",
+            "Gerardo_Lopez",
+            "Israel_Garcia",
+            "Juan_Escalante",
+            "Mariana_Espinosa",
+            "Susana_Garcia"
+         ],
+         "intent" : [
+            "Network Visualization"
+         ],
+         "md5" : "0e92fd95e6939426fceb469bf2783235"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Juan_Escalante",
+            "Mariana_Espinosa"
+         ],
+         "intent" : [
+            "Literature Review",
+            "Network Visualization"
+         ],
+         "md5" : "163b67759b928a23e508544c757e605a"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Mariana_Espinosa"
+         ],
+         "intent" : [
+            "Astronomy",
+            "Bibliometrics and Scientometrics",
+            "Literature Review",
+            "Maps of science",
+            "Mathematical modeling",
+            "Network Visualization"
+         ],
+         "md5" : "3a6c31c963ab64534bb9b1131d85c314"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Juan_Escalante"
+         ],
+         "intent" : [
+            "Academic entities",
+            "Interviews",
+            "Literature Review",
+            "Network Visualization"
+         ],
+         "md5" : "23c01269419981403fd38d32213bb571"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Eduardo_Robles",
+            "Israel_Garcia",
+            "Susana_Garcia"
+         ],
+         "intent" : [
+            "Document Analysis",
+            "Network Visualization"
+         ],
+         "md5" : "73e8b84451bb2265685747464990beb8"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Eduardo_Robles",
+            "Susana_Garcia"
+         ],
+         "intent" : [
+            "Academic entities",
+            "Document Analysis",
+            "Network Visualization"
+         ],
+         "md5" : "05a72e41748e1068419b52b9f665479d"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Eduardo_Robles",
+            "Gerardo_Lopez",
+            "Mariana_Espinosa"
+         ],
+         "intent" : [
+            "Bibliometrics and Scientometrics",
+            "Network Visualization"
+         ],
+         "md5" : "6da52681a6e0c66f9a2fc804a0481f1c"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Gerardo_Lopez",
+            "Mariana_Espinosa"
+         ],
+         "intent" : [
+            "Bibliometrics and Scientometrics",
+            "Mathematical modeling",
+            "Network Visualization"
+         ],
+         "md5" : "bfaf0fc314f5730617f283d6eb4f603c"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Eduardo_Robles",
+            "Juan_Escalante",
+            "Susana_Garcia"
+         ],
+         "intent" : [
+            "Academic entities",
+            "Network Visualization"
+         ],
+         "md5" : "9844005928a2f7c21e41fede6437da7d"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Carlos_Rodriguez",
+            "Gabriela_Sued",
+            "Gerardo_Lopez",
+            "Mariana_Espinosa"
+         ],
+         "intent" : [
+            "Mathematical modeling"
+         ],
+         "md5" : "cfdf27e9226a89092d28c51243731ca9"
+      },
+      {
+         "extent" : [
+            "Carlos_Rodriguez",
+            "Gerardo_Lopez"
+         ],
+         "intent" : [
+            "Digital Source Mining",
+            "Mathematical modeling",
+            "Sentiment Analysis"
+         ],
+         "md5" : "6ba049fe997e3e5dc8876fe54d1bd320"
+      },
+      {
+         "extent" : [
+            "Carlos_Rodriguez"
+         ],
+         "intent" : [
+            "Digital News",
+            "Digital Source Mining",
+            "Economic System",
+            "Machine Learning",
+            "Mathematical modeling",
+            "Sentiment Analysis",
+            "Study of News",
+            "Technical Analysis"
+         ],
+         "md5" : "b72e67e94ed72edc11817d1975aeaa63"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Gabriela_Sued",
+            "Gerardo_Lopez",
+            "Mariana_Espinosa"
+         ],
+         "intent" : [
+            "Bibliometrics and Scientometrics",
+            "Mathematical modeling"
+         ],
+         "md5" : "b3fc39a0e98bc526d0888bc996314129"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Juan_Escalante",
+            "Mariana_Espinosa",
+            "Pilar_Galarza"
+         ],
+         "intent" : [
+            "Literature Review"
+         ],
+         "md5" : "bdd4cc4a999838da46f63f8f5d83ea89"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Juan_Escalante",
+            "Pilar_Galarza"
+         ],
+         "intent" : [
+            "Interviews",
+            "Literature Review"
+         ],
+         "md5" : "0e60d80ed0aceb2a8cca982774778167"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Pilar_Galarza"
+         ],
+         "intent" : [
+            "Document Analysis",
+            "Interviews",
+            "Literature Review",
+            "Surveys"
+         ],
+         "md5" : "2ee6bc278d7487bac5f679566c29d456"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Gabriela_Sued",
+            "Juan_Escalante",
+            "Liliana_Ramirez",
+            "Pilar_Galarza",
+            "Teresa_de_Leon"
+         ],
+         "intent" : [
+            "Interviews"
+         ],
+         "md5" : "ba4a765a2d9266c053272627424a7b2b"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Gabriela_Sued",
+            "Pilar_Galarza"
+         ],
+         "intent" : [
+            "Document Analysis",
+            "Interviews"
+         ],
+         "md5" : "d5573819511b12f5cbf4789860cf1b10"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Juan_Escalante",
+            "Liliana_Ramirez"
+         ],
+         "intent" : [
+            "Academic entities",
+            "Interviews"
+         ],
+         "md5" : "d8ae9b100fa872b41f511a46696aa4cd"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Eduardo_Robles",
+            "Gabriela_Sued",
+            "Israel_Garcia",
+            "Pilar_Galarza",
+            "Susana_Garcia"
+         ],
+         "intent" : [
+            "Document Analysis"
+         ],
+         "md5" : "843bd59fa3c0e6b0f0b31933cef7edf7"
+      },
+      {
+         "extent" : [
+            "Israel_Garcia",
+            "Pilar_Galarza"
+         ],
+         "intent" : [
+            "Archival Analysis",
+            "Document Analysis"
+         ],
+         "md5" : "5b0688d30d8d4d2e4ce121ff2e5275d2"
+      },
+      {
+         "extent" : [
+            "Gabriela_Sued",
+            "Israel_Sandoval"
+         ],
+         "intent" : [
+            "Digital Technologies"
+         ],
+         "md5" : "f1c7dcc78595e16e6d81713de80e041a"
+      },
+      {
+         "extent" : [
+            "Ana_Medeles",
+            "Carlos_Rodriguez",
+            "Eduardo_Robles",
+            "Gerardo_Lopez"
+         ],
+         "intent" : [
+            "Digital Source Mining"
+         ],
+         "md5" : "3d0938fb735602ea954394abafbb9be9"
+      },
+      {
+         "extent" : [
+            "Gabriel_Ramos",
+            "Gabriela_Sued"
+         ],
+         "intent" : [
+            "Collective processing of information"
+         ],
+         "md5" : "ee253e066ab137528e8340a04bd1e5a8"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Eduardo_Robles",
+            "Gabriela_Sued",
+            "Gerardo_Lopez",
+            "Liliana_Ramirez",
+            "Mariana_Espinosa"
+         ],
+         "intent" : [
+            "Bibliometrics and Scientometrics"
+         ],
+         "md5" : "a51705bd86a4d9a5b34b15b350aaa5e4"
+      },
+      {
+         "extent" : [
+            "Ana_Medeles",
+            "Israel_Garcia",
+            "Leticia_Mayer",
+            "Pilar_Galarza"
+         ],
+         "intent" : [
+            "Archival Analysis"
+         ],
+         "md5" : "44bcb8cb3d5fec176341e37624a79b56"
+      },
+      {
+         "extent" : [
+            "Alejandro_Ruiz",
+            "Eduardo_Robles",
+            "Israel_Sandoval",
+            "Juan_Escalante",
+            "Liliana_Ramirez",
+            "Nestor_Paredes",
+            "Susana_Garcia"
+         ],
+         "intent" : [
+            "Academic entities"
+         ],
+         "md5" : "644f0311b47a5778ff5441132f1c1e79"
+      }
+   ],
+   "context" : {
+      "Alejandro_Ruiz" : {
+         "attributes" : [
+            "Academic entities",
+            "Academic networks",
+            "Astronomy",
+            "Bibliometrics and Scientometrics",
+            "CT indicators",
+            "Document Analysis",
+            "Interviews",
+            "Literature Review",
+            "Maps of science",
+            "Mathematical modeling",
+            "Multiplex Network Analysis",
+            "Network Visualization",
+            "Social Networks Analysis",
+            "Social studies of CTS",
+            "Studies of Scientists",
+            "Studies of technitians",
+            "Surveys",
+            "Tourism",
+            "Trajectories of Science"
+         ],
+         "id" : "Alejandro_Ruiz",
+         "name" : "Alejandro Ruiz"
+      },
+      "Aline_Saldaña" : {
+         "attributes" : [
+            "Complex social systems",
+            "Direct Observation of Behavior",
+            "Multiplex Network Analysis",
+            "Resilience",
+            "Social Behavior",
+            "Social complexity",
+            "Social Networks Analysis",
+            "Spider Monkeys"
+         ],
+         "id" : "Aline_Saldaña",
+         "name" : "Aline Saldaña"
+      },
+      "Ana_Medeles" : {
+         "attributes" : [
+            "Archival Analysis",
+            "Digital Source Mining",
+            "History of statistics",
+            "Institutionalization of statistics",
+            "Social categories and classifications",
+            "Social Measurement",
+            "Socio History",
+            "Socio-history of quantification",
+            "Statistical Practices"
+         ],
+         "id" : "Ana_Medeles",
+         "name" : "Ana Medeles"
+      },
+      "Carlos_Rodriguez" : {
+         "attributes" : [
+            "Digital News",
+            "Digital Source Mining",
+            "Economic System",
+            "Machine Learning",
+            "Mathematical modeling",
+            "Sentiment Analysis",
+            "Study of News",
+            "Technical Analysis"
+         ],
+         "id" : "Carlos_Rodriguez",
+         "name" : "Carlos Rodriguez"
+      },
+      "Cristina_Jasso" : {
+         "attributes" : [
+            "Bioinformatics Tools",
+            "Complex social systems",
+            "Direct Observation of Behavior",
+            "Genetic Analysis",
+            "Network Visualization",
+            "Social Behavior",
+            "Social complexity",
+            "Social Networks Analysis",
+            "Socio-ecology",
+            "Spider Monkeys"
+         ],
+         "id" : "Cristina_Jasso",
+         "name" : "Cristina Jasso"
+      },
+      "Eduardo_Robles" : {
+         "attributes" : [
+            "Academic entities",
+            "Bibliometrics and Scientometrics",
+            "CT indicators",
+            "Digital Source Mining",
+            "Document Analysis",
+            "Ethnography",
+            "Nanotechnology",
+            "Network Visualization",
+            "Social Networks Analysis",
+            "Social studies of CTS",
+            "Trajectories of Science"
+         ],
+         "id" : "Eduardo_Robles",
+         "name" : "Eduardo Robles"
+      },
+      "Gabriel_Ramos" : {
+         "attributes" : [
+            "Agent-Based Model Analysis",
+            "Collective processing of information",
+            "Collective Tasks",
+            "Complex social systems",
+            "Direct Observation of Behavior",
+            "Human Vocal Interactions",
+            "Inductive Game Theory",
+            "Multiplex Network Analysis",
+            "Network Visualization",
+            "Social complexity",
+            "Social Networks Analysis",
+            "Socio-ecosystems in Yucatán",
+            "Spider Monkeys"
+         ],
+         "id" : "Gabriel_Ramos",
+         "name" : "Gabriel Ramos"
+      },
+      "Gabriela_Sued" : {
+         "attributes" : [
+            "Artificial intelligence",
+            "Bibliometrics and Scientometrics",
+            "Climate Change",
+            "Collective processing of information",
+            "Digital Technologies",
+            "Document Analysis",
+            "Gender studies",
+            "Interviews",
+            "Mathematical modeling",
+            "Social studies of CTS"
+         ],
+         "id" : "Gabriela_Sued",
+         "name" : "Gabriela Sued"
+      },
+      "Gerardo_Lopez" : {
+         "attributes" : [
+            "Bibliometrics and Scientometrics",
+            "Complex social systems",
+            "COVID-19",
+            "Digital Source Mining",
+            "Mathematical modeling",
+            "Multiplex Network Analysis",
+            "Network Visualization",
+            "Sentiment Analysis",
+            "Social complexity",
+            "Social Networks Analysis",
+            "Socio-scientific Systems",
+            "Topic Modeling Analysis"
+         ],
+         "id" : "Gerardo_Lopez",
+         "name" : "Gerardo López"
+      },
+      "Israel_Garcia" : {
+         "attributes" : [
+            "Academic networks",
+            "Archival Analysis",
+            "Cluster Analysis",
+            "Computational Qualitative Analysis",
+            "Correspondence Analysis",
+            "Document Analysis",
+            "General theory of social systems",
+            "Linear Regression",
+            "Network Visualization",
+            "Pattern Recognition",
+            "Reproduction of Academic Spaces",
+            "Social Networks Analysis",
+            "Social studies of CTS",
+            "Trajectories of Science"
+         ],
+         "id" : "Israel_Garcia",
+         "name" : "Israel Garcia"
+      },
+      "Israel_Sandoval" : {
+         "attributes" : [
+            "Academic entities",
+            "Computational thinking",
+            "Digital Technologies",
+            "Quantitative History",
+            "Reconstruction of Genealogies and Trajectories",
+            "Socio History",
+            "Socio-history of quantification",
+            "Software Engineering",
+            "University’s sociocultural history"
+         ],
+         "id" : "Israel_Sandoval",
+         "name" : "Israel Sandoval"
+      },
+      "Juan_Escalante" : {
+         "attributes" : [
+            "Academic entities",
+            "Genealogy of Academic Entities",
+            "Interviews",
+            "Literature Review",
+            "Network Visualization",
+            "Socio History",
+            "Socio-scientific Systems",
+            "University’s sociocultural history"
+         ],
+         "id" : "Juan_Escalante",
+         "name" : "Juan Escalante"
+      },
+      "Leticia_Mayer" : {
+         "attributes" : [
+            "Archival Analysis",
+            "Direct Observation of Behavior",
+            "History of knowledge circulation",
+            "History of probability",
+            "History of statistics",
+            "Social Networks Analysis",
+            "Socio History",
+            "Socio-history of quantification",
+            "Studies of technitians",
+            "Trajectories of Science"
+         ],
+         "id" : "Leticia_Mayer",
+         "name" : "Leticia Mayer"
+      },
+      "Liliana_Ramirez" : {
+         "attributes" : [
+            "Academic entities",
+            "Bibliometrics and Scientometrics",
+            "Ethnography",
+            "Gender studies",
+            "General theory of social systems",
+            "Interviews",
+            "Social Networks Analysis",
+            "Social studies of CTS",
+            "Trajectories of Science"
+         ],
+         "id" : "Liliana_Ramirez",
+         "name" : "Liliana Ramírez"
+      },
+      "Mariana_Espinosa" : {
+         "attributes" : [
+            "Astronomy",
+            "Bibliometrics and Scientometrics",
+            "Concept networks",
+            "Formal Concept Analysis",
+            "Literature Review",
+            "Maps of science",
+            "Mathematical modeling",
+            "Network Visualization",
+            "Topic Modeling Analysis"
+         ],
+         "id" : "Mariana_Espinosa",
+         "name" : "Mariana Espinosa"
+      },
+      "Nestor_Paredes" : {
+         "attributes" : [
+            "Academic entities",
+            "Cluster Analysis",
+            "Correspondence Analysis",
+            "Reproduction of Academic Spaces",
+            "Social categories and classifications",
+            "Social frontiers",
+            "Socio History",
+            "Sociology of professions"
+         ],
+         "id" : "Nestor_Paredes",
+         "name" : "Nestor Paredes"
+      },
+      "Pilar_Galarza" : {
+         "attributes" : [
+            "Archival Analysis",
+            "Document Analysis",
+            "Information Sources",
+            "Interviews",
+            "Literature Review",
+            "Socio History",
+            "Surveys",
+            "University’s sociocultural history"
+         ],
+         "id" : "Pilar_Galarza",
+         "name" : "Pilar Galarza"
+      },
+      "Sandra_Smith" : {
+         "attributes" : [
+            "Agri-food networks",
+            "Cetaceans",
+            "Complex social systems",
+            "Multiplex Network Analysis",
+            "Resilience",
+            "Social complexity",
+            "Social Networks Analysis",
+            "Socio-ecology",
+            "Spider Monkeys",
+            "Topic Modeling Analysis"
+         ],
+         "id" : "Sandra_Smith",
+         "name" : "Sandra Smith"
+      },
+      "Susana_Garcia" : {
+         "attributes" : [
+            "Academic entities",
+            "Document Analysis",
+            "Genealogy of Academic Entities",
+            "Network Visualization",
+            "Reconstruction of Genealogies and Trajectories",
+            "Socio History",
+            "University’s sociocultural history"
+         ],
+         "id" : "Susana_Garcia",
+         "name" : "Susana Garcia"
+      },
+      "Teresa_de_Leon" : {
+         "attributes" : [
+            "Climate Change",
+            "CT indicators",
+            "Enviromental and climate change",
+            "Geographies of science",
+            "Interviews",
+            "Social studies of CTS",
+            "Socio-scientific Systems"
+         ],
+         "id" : "Teresa_de_Leon",
+         "name" : "Teresa de Leon"
+      }
+   },
+   "links" : [
+      {
+         "source" : 0,
+         "target" : 2
+      },
+      {
+         "source" : 0,
+         "target" : 8
+      },
+      {
+         "source" : 0,
+         "target" : 13
+      },
+      {
+         "source" : 0,
+         "target" : 31
+      },
+      {
+         "source" : 0,
+         "target" : 55
+      },
+      {
+         "source" : 0,
+         "target" : 82
+      },
+      {
+         "source" : 0,
+         "target" : 83
+      },
+      {
+         "source" : 0,
+         "target" : 92
+      },
+      {
+         "source" : 0,
+         "target" : 96
+      },
+      {
+         "source" : 0,
+         "target" : 99
+      },
+      {
+         "source" : 0,
+         "target" : 102
+      },
+      {
+         "source" : 0,
+         "target" : 104
+      },
+      {
+         "source" : 0,
+         "target" : 105
+      },
+      {
+         "source" : 0,
+         "target" : 106
+      },
+      {
+         "source" : 0,
+         "target" : 107
+      },
+      {
+         "source" : 0,
+         "target" : 108
+      },
+      {
+         "source" : 0,
+         "target" : 109
+      },
+      {
+         "source" : 2,
+         "target" : 3
+      },
+      {
+         "source" : 2,
+         "target" : 6
+      },
+      {
+         "source" : 3,
+         "target" : 4
+      },
+      {
+         "source" : 3,
+         "target" : 5
+      },
+      {
+         "source" : 4,
+         "target" : 1
+      },
+      {
+         "source" : 5,
+         "target" : 1
+      },
+      {
+         "source" : 6,
+         "target" : 5
+      },
+      {
+         "source" : 6,
+         "target" : 7
+      },
+      {
+         "source" : 7,
+         "target" : 1
+      },
+      {
+         "source" : 8,
+         "target" : 9
+      },
+      {
+         "source" : 8,
+         "target" : 11
+      },
+      {
+         "source" : 9,
+         "target" : 10
+      },
+      {
+         "source" : 9,
+         "target" : 5
+      },
+      {
+         "source" : 10,
+         "target" : 1
+      },
+      {
+         "source" : 11,
+         "target" : 10
+      },
+      {
+         "source" : 11,
+         "target" : 12
+      },
+      {
+         "source" : 12,
+         "target" : 1
+      },
+      {
+         "source" : 13,
+         "target" : 14
+      },
+      {
+         "source" : 13,
+         "target" : 23
+      },
+      {
+         "source" : 13,
+         "target" : 27
+      },
+      {
+         "source" : 13,
+         "target" : 29
+      },
+      {
+         "source" : 13,
+         "target" : 30
+      },
+      {
+         "source" : 14,
+         "target" : 15
+      },
+      {
+         "source" : 14,
+         "target" : 17
+      },
+      {
+         "source" : 14,
+         "target" : 19
+      },
+      {
+         "source" : 15,
+         "target" : 16
+      },
+      {
+         "source" : 15,
+         "target" : 10
+      },
+      {
+         "source" : 16,
+         "target" : 1
+      },
+      {
+         "source" : 17,
+         "target" : 16
+      },
+      {
+         "source" : 17,
+         "target" : 18
+      },
+      {
+         "source" : 18,
+         "target" : 1
+      },
+      {
+         "source" : 19,
+         "target" : 20
+      },
+      {
+         "source" : 19,
+         "target" : 22
+      },
+      {
+         "source" : 20,
+         "target" : 21
+      },
+      {
+         "source" : 20,
+         "target" : 18
+      },
+      {
+         "source" : 21,
+         "target" : 1
+      },
+      {
+         "source" : 22,
+         "target" : 10
+      },
+      {
+         "source" : 22,
+         "target" : 18
+      },
+      {
+         "source" : 23,
+         "target" : 21
+      },
+      {
+         "source" : 23,
+         "target" : 24
+      },
+      {
+         "source" : 24,
+         "target" : 25
+      },
+      {
+         "source" : 24,
+         "target" : 26
+      },
+      {
+         "source" : 25,
+         "target" : 1
+      },
+      {
+         "source" : 26,
+         "target" : 1
+      },
+      {
+         "source" : 27,
+         "target" : 26
+      },
+      {
+         "source" : 27,
+         "target" : 28
+      },
+      {
+         "source" : 28,
+         "target" : 1
+      },
+      {
+         "source" : 29,
+         "target" : 16
+      },
+      {
+         "source" : 29,
+         "target" : 24
+      },
+      {
+         "source" : 30,
+         "target" : 19
+      },
+      {
+         "source" : 30,
+         "target" : 28
+      },
+      {
+         "source" : 31,
+         "target" : 32
+      },
+      {
+         "source" : 31,
+         "target" : 44
+      },
+      {
+         "source" : 31,
+         "target" : 51
+      },
+      {
+         "source" : 31,
+         "target" : 53
+      },
+      {
+         "source" : 31,
+         "target" : 54
+      },
+      {
+         "source" : 32,
+         "target" : 33
+      },
+      {
+         "source" : 32,
+         "target" : 39
+      },
+      {
+         "source" : 32,
+         "target" : 41
+      },
+      {
+         "source" : 33,
+         "target" : 34
+      },
+      {
+         "source" : 33,
+         "target" : 37
+      },
+      {
+         "source" : 34,
+         "target" : 35
+      },
+      {
+         "source" : 34,
+         "target" : 36
+      },
+      {
+         "source" : 35,
+         "target" : 1
+      },
+      {
+         "source" : 36,
+         "target" : 1
+      },
+      {
+         "source" : 37,
+         "target" : 35
+      },
+      {
+         "source" : 37,
+         "target" : 38
+      },
+      {
+         "source" : 38,
+         "target" : 1
+      },
+      {
+         "source" : 39,
+         "target" : 38
+      },
+      {
+         "source" : 39,
+         "target" : 40
+      },
+      {
+         "source" : 40,
+         "target" : 1
+      },
+      {
+         "source" : 41,
+         "target" : 34
+      },
+      {
+         "source" : 41,
+         "target" : 42
+      },
+      {
+         "source" : 41,
+         "target" : 43
+      },
+      {
+         "source" : 42,
+         "target" : 35
+      },
+      {
+         "source" : 42,
+         "target" : 40
+      },
+      {
+         "source" : 43,
+         "target" : 36
+      },
+      {
+         "source" : 43,
+         "target" : 40
+      },
+      {
+         "source" : 44,
+         "target" : 45
+      },
+      {
+         "source" : 44,
+         "target" : 46
+      },
+      {
+         "source" : 44,
+         "target" : 48
+      },
+      {
+         "source" : 45,
+         "target" : 35
+      },
+      {
+         "source" : 45,
+         "target" : 12
+      },
+      {
+         "source" : 46,
+         "target" : 12
+      },
+      {
+         "source" : 46,
+         "target" : 47
+      },
+      {
+         "source" : 47,
+         "target" : 1
+      },
+      {
+         "source" : 48,
+         "target" : 42
+      },
+      {
+         "source" : 48,
+         "target" : 49
+      },
+      {
+         "source" : 48,
+         "target" : 50
+      },
+      {
+         "source" : 49,
+         "target" : 35
+      },
+      {
+         "source" : 49,
+         "target" : 47
+      },
+      {
+         "source" : 50,
+         "target" : 40
+      },
+      {
+         "source" : 50,
+         "target" : 47
+      },
+      {
+         "source" : 51,
+         "target" : 33
+      },
+      {
+         "source" : 51,
+         "target" : 52
+      },
+      {
+         "source" : 52,
+         "target" : 34
+      },
+      {
+         "source" : 52,
+         "target" : 49
+      },
+      {
+         "source" : 53,
+         "target" : 34
+      },
+      {
+         "source" : 53,
+         "target" : 45
+      },
+      {
+         "source" : 54,
+         "target" : 41
+      },
+      {
+         "source" : 54,
+         "target" : 48
+      },
+      {
+         "source" : 54,
+         "target" : 52
+      },
+      {
+         "source" : 55,
+         "target" : 56
+      },
+      {
+         "source" : 55,
+         "target" : 59
+      },
+      {
+         "source" : 55,
+         "target" : 74
+      },
+      {
+         "source" : 55,
+         "target" : 79
+      },
+      {
+         "source" : 55,
+         "target" : 80
+      },
+      {
+         "source" : 55,
+         "target" : 81
+      },
+      {
+         "source" : 56,
+         "target" : 57
+      },
+      {
+         "source" : 56,
+         "target" : 32
+      },
+      {
+         "source" : 56,
+         "target" : 58
+      },
+      {
+         "source" : 57,
+         "target" : 35
+      },
+      {
+         "source" : 57,
+         "target" : 25
+      },
+      {
+         "source" : 58,
+         "target" : 25
+      },
+      {
+         "source" : 58,
+         "target" : 38
+      },
+      {
+         "source" : 59,
+         "target" : 60
+      },
+      {
+         "source" : 59,
+         "target" : 71
+      },
+      {
+         "source" : 59,
+         "target" : 73
+      },
+      {
+         "source" : 60,
+         "target" : 61
+      },
+      {
+         "source" : 60,
+         "target" : 63
+      },
+      {
+         "source" : 60,
+         "target" : 68
+      },
+      {
+         "source" : 61,
+         "target" : 4
+      },
+      {
+         "source" : 61,
+         "target" : 62
+      },
+      {
+         "source" : 62,
+         "target" : 1
+      },
+      {
+         "source" : 63,
+         "target" : 64
+      },
+      {
+         "source" : 63,
+         "target" : 66
+      },
+      {
+         "source" : 64,
+         "target" : 4
+      },
+      {
+         "source" : 64,
+         "target" : 65
+      },
+      {
+         "source" : 65,
+         "target" : 1
+      },
+      {
+         "source" : 66,
+         "target" : 67
+      },
+      {
+         "source" : 66,
+         "target" : 65
+      },
+      {
+         "source" : 67,
+         "target" : 1
+      },
+      {
+         "source" : 68,
+         "target" : 69
+      },
+      {
+         "source" : 68,
+         "target" : 70
+      },
+      {
+         "source" : 68,
+         "target" : 66
+      },
+      {
+         "source" : 69,
+         "target" : 62
+      },
+      {
+         "source" : 69,
+         "target" : 65
+      },
+      {
+         "source" : 70,
+         "target" : 67
+      },
+      {
+         "source" : 70,
+         "target" : 62
+      },
+      {
+         "source" : 71,
+         "target" : 70
+      },
+      {
+         "source" : 71,
+         "target" : 72
+      },
+      {
+         "source" : 72,
+         "target" : 5
+      },
+      {
+         "source" : 72,
+         "target" : 67
+      },
+      {
+         "source" : 73,
+         "target" : 3
+      },
+      {
+         "source" : 73,
+         "target" : 63
+      },
+      {
+         "source" : 73,
+         "target" : 72
+      },
+      {
+         "source" : 74,
+         "target" : 33
+      },
+      {
+         "source" : 74,
+         "target" : 71
+      },
+      {
+         "source" : 74,
+         "target" : 75
+      },
+      {
+         "source" : 74,
+         "target" : 77
+      },
+      {
+         "source" : 75,
+         "target" : 72
+      },
+      {
+         "source" : 75,
+         "target" : 76
+      },
+      {
+         "source" : 76,
+         "target" : 35
+      },
+      {
+         "source" : 76,
+         "target" : 5
+      },
+      {
+         "source" : 77,
+         "target" : 34
+      },
+      {
+         "source" : 77,
+         "target" : 76
+      },
+      {
+         "source" : 77,
+         "target" : 78
+      },
+      {
+         "source" : 78,
+         "target" : 36
+      },
+      {
+         "source" : 78,
+         "target" : 5
+      },
+      {
+         "source" : 79,
+         "target" : 73
+      },
+      {
+         "source" : 79,
+         "target" : 75
+      },
+      {
+         "source" : 80,
+         "target" : 25
+      },
+      {
+         "source" : 80,
+         "target" : 68
+      },
+      {
+         "source" : 81,
+         "target" : 41
+      },
+      {
+         "source" : 81,
+         "target" : 77
+      },
+      {
+         "source" : 82,
+         "target" : 38
+      },
+      {
+         "source" : 82,
+         "target" : 28
+      },
+      {
+         "source" : 83,
+         "target" : 9
+      },
+      {
+         "source" : 83,
+         "target" : 74
+      },
+      {
+         "source" : 83,
+         "target" : 84
+      },
+      {
+         "source" : 83,
+         "target" : 87
+      },
+      {
+         "source" : 83,
+         "target" : 89
+      },
+      {
+         "source" : 83,
+         "target" : 91
+      },
+      {
+         "source" : 84,
+         "target" : 85
+      },
+      {
+         "source" : 84,
+         "target" : 86
+      },
+      {
+         "source" : 85,
+         "target" : 35
+      },
+      {
+         "source" : 85,
+         "target" : 7
+      },
+      {
+         "source" : 86,
+         "target" : 10
+      },
+      {
+         "source" : 86,
+         "target" : 35
+      },
+      {
+         "source" : 87,
+         "target" : 33
+      },
+      {
+         "source" : 87,
+         "target" : 88
+      },
+      {
+         "source" : 88,
+         "target" : 18
+      },
+      {
+         "source" : 88,
+         "target" : 34
+      },
+      {
+         "source" : 89,
+         "target" : 77
+      },
+      {
+         "source" : 89,
+         "target" : 90
+      },
+      {
+         "source" : 90,
+         "target" : 6
+      },
+      {
+         "source" : 90,
+         "target" : 76
+      },
+      {
+         "source" : 90,
+         "target" : 85
+      },
+      {
+         "source" : 91,
+         "target" : 22
+      },
+      {
+         "source" : 91,
+         "target" : 86
+      },
+      {
+         "source" : 91,
+         "target" : 88
+      },
+      {
+         "source" : 92,
+         "target" : 93
+      },
+      {
+         "source" : 92,
+         "target" : 95
+      },
+      {
+         "source" : 93,
+         "target" : 5
+      },
+      {
+         "source" : 93,
+         "target" : 94
+      },
+      {
+         "source" : 94,
+         "target" : 1
+      },
+      {
+         "source" : 95,
+         "target" : 49
+      },
+      {
+         "source" : 95,
+         "target" : 90
+      },
+      {
+         "source" : 96,
+         "target" : 84
+      },
+      {
+         "source" : 96,
+         "target" : 97
+      },
+      {
+         "source" : 97,
+         "target" : 15
+      },
+      {
+         "source" : 97,
+         "target" : 98
+      },
+      {
+         "source" : 97,
+         "target" : 86
+      },
+      {
+         "source" : 98,
+         "target" : 16
+      },
+      {
+         "source" : 98,
+         "target" : 35
+      },
+      {
+         "source" : 99,
+         "target" : 11
+      },
+      {
+         "source" : 99,
+         "target" : 44
+      },
+      {
+         "source" : 99,
+         "target" : 97
+      },
+      {
+         "source" : 99,
+         "target" : 100
+      },
+      {
+         "source" : 99,
+         "target" : 101
+      },
+      {
+         "source" : 100,
+         "target" : 98
+      },
+      {
+         "source" : 100,
+         "target" : 49
+      },
+      {
+         "source" : 101,
+         "target" : 42
+      },
+      {
+         "source" : 101,
+         "target" : 86
+      },
+      {
+         "source" : 102,
+         "target" : 17
+      },
+      {
+         "source" : 102,
+         "target" : 51
+      },
+      {
+         "source" : 102,
+         "target" : 87
+      },
+      {
+         "source" : 102,
+         "target" : 100
+      },
+      {
+         "source" : 102,
+         "target" : 103
+      },
+      {
+         "source" : 103,
+         "target" : 16
+      },
+      {
+         "source" : 103,
+         "target" : 38
+      },
+      {
+         "source" : 104,
+         "target" : 21
+      },
+      {
+         "source" : 104,
+         "target" : 47
+      },
+      {
+         "source" : 105,
+         "target" : 26
+      },
+      {
+         "source" : 105,
+         "target" : 78
+      },
+      {
+         "source" : 105,
+         "target" : 93
+      },
+      {
+         "source" : 106,
+         "target" : 67
+      },
+      {
+         "source" : 106,
+         "target" : 47
+      },
+      {
+         "source" : 107,
+         "target" : 54
+      },
+      {
+         "source" : 107,
+         "target" : 81
+      },
+      {
+         "source" : 107,
+         "target" : 89
+      },
+      {
+         "source" : 107,
+         "target" : 95
+      },
+      {
+         "source" : 108,
+         "target" : 58
+      },
+      {
+         "source" : 108,
+         "target" : 29
+      },
+      {
+         "source" : 108,
+         "target" : 103
+      },
+      {
+         "source" : 109,
+         "target" : 41
+      },
+      {
+         "source" : 109,
+         "target" : 30
+      },
+      {
+         "source" : 109,
+         "target" : 91
+      },
+      {
+         "source" : 109,
+         "target" : 101
+      }
+   ],
+   "nodes" : [
+      {
+         "children" : [
+            "401570394",
+            "1987138458",
+            "1740401227",
+            "943600444",
+            "1424991179",
+            "687789903",
+            "739511849",
+            "1702526788",
+            "1277323739",
+            "314084287",
+            "508672647",
+            "686253654",
+            "2010431008",
+            "560408086",
+            "846275903",
+            "772983752",
+            "428346192"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Aline_Saldaña",
+               "Ana_Medeles",
+               "Carlos_Rodriguez",
+               "Cristina_Jasso",
+               "Eduardo_Robles",
+               "Gabriel_Ramos",
+               "Gabriela_Sued",
+               "Gerardo_Lopez",
+               "Israel_Garcia",
+               "Israel_Sandoval",
+               "Juan_Escalante",
+               "Leticia_Mayer",
+               "Liliana_Ramirez",
+               "Mariana_Espinosa",
+               "Nestor_Paredes",
+               "Pilar_Galarza",
+               "Sandra_Smith",
+               "Susana_Garcia",
+               "Teresa_de_Leon"
+            ],
+            "intent" : [],
+            "md5" : "f364422fb3165b5d2a0714a8c086b78d"
+         },
+         "hash" : "1920226781",
+         "idx" : 0,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "7",
+         "parents" : []
+      },
+      {
+         "children" : [],
+         "concept" : {
+            "extent" : [],
+            "intent" : [
+               "Academic entities",
+               "Academic networks",
+               "Agent-Based Model Analysis",
+               "Agri-food networks",
+               "Archival Analysis",
+               "Artificial intelligence",
+               "Astronomy",
+               "Bibliometrics and Scientometrics",
+               "Bioinformatics Tools",
+               "Cetaceans",
+               "Climate Change",
+               "Cluster Analysis",
+               "Collective processing of information",
+               "Collective Tasks",
+               "Complex social systems",
+               "Computational Qualitative Analysis",
+               "Computational thinking",
+               "Concept networks",
+               "Correspondence Analysis",
+               "COVID-19",
+               "CT indicators",
+               "Digital News",
+               "Digital Source Mining",
+               "Digital Technologies",
+               "Direct Observation of Behavior",
+               "Document Analysis",
+               "Economic System",
+               "Enviromental and climate change",
+               "Ethnography",
+               "Formal Concept Analysis",
+               "Gender studies",
+               "Genealogy of Academic Entities",
+               "General theory of social systems",
+               "Genetic Analysis",
+               "Geographies of science",
+               "History of knowledge circulation",
+               "History of probability",
+               "History of statistics",
+               "Human Vocal Interactions",
+               "Inductive Game Theory",
+               "Information Sources",
+               "Institutionalization of statistics",
+               "Interviews",
+               "Linear Regression",
+               "Literature Review",
+               "Machine Learning",
+               "Maps of science",
+               "Mathematical modeling",
+               "Multiplex Network Analysis",
+               "Nanotechnology",
+               "Network Visualization",
+               "Pattern Recognition",
+               "Quantitative History",
+               "Reconstruction of Genealogies and Trajectories",
+               "Reproduction of Academic Spaces",
+               "Resilience",
+               "Sentiment Analysis",
+               "Social Behavior",
+               "Social categories and classifications",
+               "Social complexity",
+               "Social frontiers",
+               "Social Measurement",
+               "Social Networks Analysis",
+               "Social studies of CTS",
+               "Socio History",
+               "Socio-ecology",
+               "Socio-ecosystems in Yucatán",
+               "Socio-history of quantification",
+               "Socio-scientific Systems",
+               "Sociology of professions",
+               "Software Engineering",
+               "Spider Monkeys",
+               "Statistical Practices",
+               "Studies of Scientists",
+               "Studies of technitians",
+               "Study of News",
+               "Surveys",
+               "Technical Analysis",
+               "Topic Modeling Analysis",
+               "Tourism",
+               "Trajectories of Science",
+               "University’s sociocultural history"
+            ],
+            "md5" : "0c1705532b36f03f685cdb017d1857d8"
+         },
+         "hash" : "658867388",
+         "idx" : 1,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "0",
+         "parents" : [
+            "422286864",
+            "651792892",
+            "450650642",
+            "629353839",
+            "1625142489",
+            "174169935",
+            "1943318755",
+            "1333793699",
+            "1115037174",
+            "1147894032",
+            "309234390",
+            "1564253747",
+            "802660815",
+            "812383964",
+            "2097817136",
+            "228366298",
+            "562760703",
+            "1995872175",
+            "925096724",
+            "1592309869"
+         ]
+      },
+      {
+         "children" : [
+            "1699492884",
+            "1285466322"
+         ],
+         "concept" : {
+            "extent" : [
+               "Gerardo_Lopez",
+               "Mariana_Espinosa",
+               "Sandra_Smith"
+            ],
+            "intent" : [
+               "Topic Modeling Analysis"
+            ],
+            "md5" : "5c9235d5b696ac39c198b308eea84228"
+         },
+         "hash" : "401570394",
+         "idx" : 2,
+         "labelAttributes" : [
+            "Topic Modeling Analysis"
+         ],
+         "labelObjects" : [],
+         "level" : "3",
+         "parents" : [
+            "1920226781"
+         ]
+      },
+      {
+         "children" : [
+            "422286864",
+            "651792892"
+         ],
+         "concept" : {
+            "extent" : [
+               "Gerardo_Lopez",
+               "Sandra_Smith"
+            ],
+            "intent" : [
+               "Complex social systems",
+               "Multiplex Network Analysis",
+               "Social complexity",
+               "Social Networks Analysis",
+               "Topic Modeling Analysis"
+            ],
+            "md5" : "04f93652e21bacf460d1b6ce209dd364"
+         },
+         "hash" : "1699492884",
+         "idx" : 3,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "401570394",
+            "1632422950"
+         ]
+      },
+      {
+         "children" : [
+            "658867388"
+         ],
+         "concept" : {
+            "extent" : [
+               "Sandra_Smith"
+            ],
+            "intent" : [
+               "Agri-food networks",
+               "Cetaceans",
+               "Complex social systems",
+               "Multiplex Network Analysis",
+               "Resilience",
+               "Social complexity",
+               "Social Networks Analysis",
+               "Socio-ecology",
+               "Spider Monkeys",
+               "Topic Modeling Analysis"
+            ],
+            "md5" : "f2c0d304ad4edb297f4fdafea5855376"
+         },
+         "hash" : "422286864",
+         "idx" : 4,
+         "labelAttributes" : [
+            "Cetaceans",
+            "Agri-food networks"
+         ],
+         "labelObjects" : [
+            "Sandra_Smith"
+         ],
+         "level" : "1",
+         "parents" : [
+            "1699492884",
+            "1141904217",
+            "839234646"
+         ]
+      },
+      {
+         "children" : [
+            "658867388"
+         ],
+         "concept" : {
+            "extent" : [
+               "Gerardo_Lopez"
+            ],
+            "intent" : [
+               "Bibliometrics and Scientometrics",
+               "Complex social systems",
+               "COVID-19",
+               "Digital Source Mining",
+               "Mathematical modeling",
+               "Multiplex Network Analysis",
+               "Network Visualization",
+               "Sentiment Analysis",
+               "Social complexity",
+               "Social Networks Analysis",
+               "Socio-scientific Systems",
+               "Topic Modeling Analysis"
+            ],
+            "md5" : "36403274b8e16eddb27a79f3817d8557"
+         },
+         "hash" : "651792892",
+         "idx" : 5,
+         "labelAttributes" : [
+            "COVID-19"
+         ],
+         "labelObjects" : [
+            "Gerardo_Lopez"
+         ],
+         "level" : "1",
+         "parents" : [
+            "1699492884",
+            "1285466322",
+            "61333024",
+            "76357518",
+            "1086545565",
+            "1610347991",
+            "1645242070"
+         ]
+      },
+      {
+         "children" : [
+            "651792892",
+            "450650642"
+         ],
+         "concept" : {
+            "extent" : [
+               "Gerardo_Lopez",
+               "Mariana_Espinosa"
+            ],
+            "intent" : [
+               "Bibliometrics and Scientometrics",
+               "Mathematical modeling",
+               "Network Visualization",
+               "Topic Modeling Analysis"
+            ],
+            "md5" : "c6d7104fe8ffeb554d6c2fb5d49df109"
+         },
+         "hash" : "1285466322",
+         "idx" : 6,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "401570394",
+            "244151413"
+         ]
+      },
+      {
+         "children" : [
+            "658867388"
+         ],
+         "concept" : {
+            "extent" : [
+               "Mariana_Espinosa"
+            ],
+            "intent" : [
+               "Astronomy",
+               "Bibliometrics and Scientometrics",
+               "Concept networks",
+               "Formal Concept Analysis",
+               "Literature Review",
+               "Maps of science",
+               "Mathematical modeling",
+               "Network Visualization",
+               "Topic Modeling Analysis"
+            ],
+            "md5" : "20853a4ec9ddbbf596504b0659184d9b"
+         },
+         "hash" : "450650642",
+         "idx" : 7,
+         "labelAttributes" : [
+            "Formal Concept Analysis",
+            "Concept networks"
+         ],
+         "labelObjects" : [
+            "Mariana_Espinosa"
+         ],
+         "level" : "1",
+         "parents" : [
+            "1285466322",
+            "1424024719"
+         ]
+      },
+      {
+         "children" : [
+            "61333024",
+            "1354364952"
+         ],
+         "concept" : {
+            "extent" : [
+               "Gerardo_Lopez",
+               "Juan_Escalante",
+               "Teresa_de_Leon"
+            ],
+            "intent" : [
+               "Socio-scientific Systems"
+            ],
+            "md5" : "9c0fa2d65ccd4990871e5c54cc69e115"
+         },
+         "hash" : "1987138458",
+         "idx" : 8,
+         "labelAttributes" : [
+            "Socio-scientific Systems"
+         ],
+         "labelObjects" : [],
+         "level" : "3",
+         "parents" : [
+            "1920226781"
+         ]
+      },
+      {
+         "children" : [
+            "629353839",
+            "651792892"
+         ],
+         "concept" : {
+            "extent" : [
+               "Gerardo_Lopez",
+               "Juan_Escalante"
+            ],
+            "intent" : [
+               "Network Visualization",
+               "Socio-scientific Systems"
+            ],
+            "md5" : "9acfacb77b8d98f9a06a54902420945a"
+         },
+         "hash" : "61333024",
+         "idx" : 9,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "1987138458",
+            "739511849"
+         ]
+      },
+      {
+         "children" : [
+            "658867388"
+         ],
+         "concept" : {
+            "extent" : [
+               "Juan_Escalante"
+            ],
+            "intent" : [
+               "Academic entities",
+               "Genealogy of Academic Entities",
+               "Interviews",
+               "Literature Review",
+               "Network Visualization",
+               "Socio History",
+               "Socio-scientific Systems",
+               "University’s sociocultural history"
+            ],
+            "md5" : "704de8fd0c39a7708e833e676ce11cf4"
+         },
+         "hash" : "629353839",
+         "idx" : 10,
+         "labelAttributes" : [],
+         "labelObjects" : [
+            "Juan_Escalante"
+         ],
+         "level" : "1",
+         "parents" : [
+            "61333024",
+            "1354364952",
+            "61782556",
+            "2018809166",
+            "1575189679"
+         ]
+      },
+      {
+         "children" : [
+            "629353839",
+            "1625142489"
+         ],
+         "concept" : {
+            "extent" : [
+               "Juan_Escalante",
+               "Teresa_de_Leon"
+            ],
+            "intent" : [
+               "Interviews",
+               "Socio-scientific Systems"
+            ],
+            "md5" : "a9893981e695a68b3496066af078daaf"
+         },
+         "hash" : "1354364952",
+         "idx" : 11,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "1987138458",
+            "314084287"
+         ]
+      },
+      {
+         "children" : [
+            "658867388"
+         ],
+         "concept" : {
+            "extent" : [
+               "Teresa_de_Leon"
+            ],
+            "intent" : [
+               "Climate Change",
+               "CT indicators",
+               "Enviromental and climate change",
+               "Geographies of science",
+               "Interviews",
+               "Social studies of CTS",
+               "Socio-scientific Systems"
+            ],
+            "md5" : "9656a4fa78c55cce4e54592d90e17a8a"
+         },
+         "hash" : "1625142489",
+         "idx" : 12,
+         "labelAttributes" : [
+            "Geographies of science",
+            "Enviromental and climate change"
+         ],
+         "labelObjects" : [
+            "Teresa_de_Leon"
+         ],
+         "level" : "1",
+         "parents" : [
+            "1354364952",
+            "1116022323",
+            "881662501"
+         ]
+      },
+      {
+         "children" : [
+            "1756305183",
+            "779032737",
+            "1160775649",
+            "430989648",
+            "163023510"
+         ],
+         "concept" : {
+            "extent" : [
+               "Ana_Medeles",
+               "Israel_Sandoval",
+               "Juan_Escalante",
+               "Leticia_Mayer",
+               "Nestor_Paredes",
+               "Pilar_Galarza",
+               "Susana_Garcia"
+            ],
+            "intent" : [
+               "Socio History"
+            ],
+            "md5" : "81c982518ec0df20a2424871d4cbae48"
+         },
+         "hash" : "1740401227",
+         "idx" : 13,
+         "labelAttributes" : [
+            "Socio History"
+         ],
+         "labelObjects" : [],
+         "level" : "5",
+         "parents" : [
+            "1920226781"
+         ]
+      },
+      {
+         "children" : [
+            "61782556",
+            "10576631",
+            "897035087"
+         ],
+         "concept" : {
+            "extent" : [
+               "Israel_Sandoval",
+               "Juan_Escalante",
+               "Pilar_Galarza",
+               "Susana_Garcia"
+            ],
+            "intent" : [
+               "Socio History",
+               "University’s sociocultural history"
+            ],
+            "md5" : "76083f75149f0a87cbaabada5ed41eb2"
+         },
+         "hash" : "1756305183",
+         "idx" : 14,
+         "labelAttributes" : [
+            "University’s sociocultural history"
+         ],
+         "labelObjects" : [],
+         "level" : "4",
+         "parents" : [
+            "1740401227"
+         ]
+      },
+      {
+         "children" : [
+            "174169935",
+            "629353839"
+         ],
+         "concept" : {
+            "extent" : [
+               "Juan_Escalante",
+               "Pilar_Galarza"
+            ],
+            "intent" : [
+               "Interviews",
+               "Literature Review",
+               "Socio History",
+               "University’s sociocultural history"
+            ],
+            "md5" : "ef5c08110d7071e50dff92b34f5f3798"
+         },
+         "hash" : "61782556",
+         "idx" : 15,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "1756305183",
+            "105188046"
+         ]
+      },
+      {
+         "children" : [
+            "658867388"
+         ],
+         "concept" : {
+            "extent" : [
+               "Pilar_Galarza"
+            ],
+            "intent" : [
+               "Archival Analysis",
+               "Document Analysis",
+               "Information Sources",
+               "Interviews",
+               "Literature Review",
+               "Socio History",
+               "Surveys",
+               "University’s sociocultural history"
+            ],
+            "md5" : "5c8b618830ca1097443fbfb0a248ec8d"
+         },
+         "hash" : "174169935",
+         "idx" : 16,
+         "labelAttributes" : [
+            "Information Sources"
+         ],
+         "labelObjects" : [
+            "Pilar_Galarza"
+         ],
+         "level" : "1",
+         "parents" : [
+            "61782556",
+            "10576631",
+            "430989648",
+            "1264426982",
+            "1675491265"
+         ]
+      },
+      {
+         "children" : [
+            "174169935",
+            "1943318755"
+         ],
+         "concept" : {
+            "extent" : [
+               "Pilar_Galarza",
+               "Susana_Garcia"
+            ],
+            "intent" : [
+               "Document Analysis",
+               "Socio History",
+               "University’s sociocultural history"
+            ],
+            "md5" : "28a687c732c84ec08dd346b5b64b750f"
+         },
+         "hash" : "10576631",
+         "idx" : 17,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "1756305183",
+            "508672647"
+         ]
+      },
+      {
+         "children" : [
+            "658867388"
+         ],
+         "concept" : {
+            "extent" : [
+               "Susana_Garcia"
+            ],
+            "intent" : [
+               "Academic entities",
+               "Document Analysis",
+               "Genealogy of Academic Entities",
+               "Network Visualization",
+               "Reconstruction of Genealogies and Trajectories",
+               "Socio History",
+               "University’s sociocultural history"
+            ],
+            "md5" : "0c1f50c295d386acfe6be0722f8d5c95"
+         },
+         "hash" : "1943318755",
+         "idx" : 18,
+         "labelAttributes" : [],
+         "labelObjects" : [
+            "Susana_Garcia"
+         ],
+         "level" : "1",
+         "parents" : [
+            "10576631",
+            "1021990841",
+            "2018809166",
+            "1882884819"
+         ]
+      },
+      {
+         "children" : [
+            "1021990841",
+            "2018809166"
+         ],
+         "concept" : {
+            "extent" : [
+               "Israel_Sandoval",
+               "Juan_Escalante",
+               "Susana_Garcia"
+            ],
+            "intent" : [
+               "Academic entities",
+               "Socio History",
+               "University’s sociocultural history"
+            ],
+            "md5" : "4eee58233e89a31f88cd58851da83a56"
+         },
+         "hash" : "897035087",
+         "idx" : 19,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "3",
+         "parents" : [
+            "1756305183",
+            "163023510"
+         ]
+      },
+      {
+         "children" : [
+            "1333793699",
+            "1943318755"
+         ],
+         "concept" : {
+            "extent" : [
+               "Israel_Sandoval",
+               "Susana_Garcia"
+            ],
+            "intent" : [
+               "Academic entities",
+               "Reconstruction of Genealogies and Trajectories",
+               "Socio History",
+               "University’s sociocultural history"
+            ],
+            "md5" : "36479c1a0cc9a4724d93b1d1ccaf6a5b"
+         },
+         "hash" : "1021990841",
+         "idx" : 20,
+         "labelAttributes" : [
+            "Reconstruction of Genealogies and Trajectories"
+         ],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "897035087"
+         ]
+      },
+      {
+         "children" : [
+            "658867388"
+         ],
+         "concept" : {
+            "extent" : [
+               "Israel_Sandoval"
+            ],
+            "intent" : [
+               "Academic entities",
+               "Computational thinking",
+               "Digital Technologies",
+               "Quantitative History",
+               "Reconstruction of Genealogies and Trajectories",
+               "Socio History",
+               "Socio-history of quantification",
+               "Software Engineering",
+               "University’s sociocultural history"
+            ],
+            "md5" : "9a7ac3c0382a473775688b53579f0bd2"
+         },
+         "hash" : "1333793699",
+         "idx" : 21,
+         "labelAttributes" : [
+            "Software Engineering",
+            "Quantitative History",
+            "Computational thinking"
+         ],
+         "labelObjects" : [
+            "Israel_Sandoval"
+         ],
+         "level" : "1",
+         "parents" : [
+            "1021990841",
+            "779032737",
+            "686253654"
+         ]
+      },
+      {
+         "children" : [
+            "629353839",
+            "1943318755"
+         ],
+         "concept" : {
+            "extent" : [
+               "Juan_Escalante",
+               "Susana_Garcia"
+            ],
+            "intent" : [
+               "Academic entities",
+               "Genealogy of Academic Entities",
+               "Network Visualization",
+               "Socio History",
+               "University’s sociocultural history"
+            ],
+            "md5" : "08042bd2339d2dc0186924942a31f6bb"
+         },
+         "hash" : "2018809166",
+         "idx" : 22,
+         "labelAttributes" : [
+            "Genealogy of Academic Entities"
+         ],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "897035087",
+            "1463785885"
+         ]
+      },
+      {
+         "children" : [
+            "1333793699",
+            "1531973444"
+         ],
+         "concept" : {
+            "extent" : [
+               "Ana_Medeles",
+               "Israel_Sandoval",
+               "Leticia_Mayer"
+            ],
+            "intent" : [
+               "Socio History",
+               "Socio-history of quantification"
+            ],
+            "md5" : "0fb232c2ebbae121e36569207666a41f"
+         },
+         "hash" : "779032737",
+         "idx" : 23,
+         "labelAttributes" : [
+            "Socio-history of quantification"
+         ],
+         "labelObjects" : [],
+         "level" : "3",
+         "parents" : [
+            "1740401227"
+         ]
+      },
+      {
+         "children" : [
+            "1115037174",
+            "1147894032"
+         ],
+         "concept" : {
+            "extent" : [
+               "Ana_Medeles",
+               "Leticia_Mayer"
+            ],
+            "intent" : [
+               "Archival Analysis",
+               "History of statistics",
+               "Socio History",
+               "Socio-history of quantification"
+            ],
+            "md5" : "9e753094d8271d60c9430c4149b74114"
+         },
+         "hash" : "1531973444",
+         "idx" : 24,
+         "labelAttributes" : [
+            "History of statistics"
+         ],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "779032737",
+            "430989648"
+         ]
+      },
+      {
+         "children" : [
+            "658867388"
+         ],
+         "concept" : {
+            "extent" : [
+               "Leticia_Mayer"
+            ],
+            "intent" : [
+               "Archival Analysis",
+               "Direct Observation of Behavior",
+               "History of knowledge circulation",
+               "History of probability",
+               "History of statistics",
+               "Social Networks Analysis",
+               "Socio History",
+               "Socio-history of quantification",
+               "Studies of technitians",
+               "Trajectories of Science"
+            ],
+            "md5" : "90c987b8b8db9e4a97c5c78118290618"
+         },
+         "hash" : "1115037174",
+         "idx" : 25,
+         "labelAttributes" : [
+            "History of probability",
+            "History of knowledge circulation"
+         ],
+         "labelObjects" : [
+            "Leticia_Mayer"
+         ],
+         "level" : "1",
+         "parents" : [
+            "1531973444",
+            "896125960",
+            "287421540",
+            "981021868"
+         ]
+      },
+      {
+         "children" : [
+            "658867388"
+         ],
+         "concept" : {
+            "extent" : [
+               "Ana_Medeles"
+            ],
+            "intent" : [
+               "Archival Analysis",
+               "Digital Source Mining",
+               "History of statistics",
+               "Institutionalization of statistics",
+               "Social categories and classifications",
+               "Social Measurement",
+               "Socio History",
+               "Socio-history of quantification",
+               "Statistical Practices"
+            ],
+            "md5" : "7804f6ba7b968eb135959beb969a651c"
+         },
+         "hash" : "1147894032",
+         "idx" : 26,
+         "labelAttributes" : [
+            "Statistical Practices",
+            "Social Measurement",
+            "Institutionalization of statistics"
+         ],
+         "labelObjects" : [
+            "Ana_Medeles"
+         ],
+         "level" : "1",
+         "parents" : [
+            "1531973444",
+            "1160775649",
+            "2010431008"
+         ]
+      },
+      {
+         "children" : [
+            "1147894032",
+            "309234390"
+         ],
+         "concept" : {
+            "extent" : [
+               "Ana_Medeles",
+               "Nestor_Paredes"
+            ],
+            "intent" : [
+               "Social categories and classifications",
+               "Socio History"
+            ],
+            "md5" : "889044a0774321d44d61074d8699a752"
+         },
+         "hash" : "1160775649",
+         "idx" : 27,
+         "labelAttributes" : [
+            "Social categories and classifications"
+         ],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "1740401227"
+         ]
+      },
+      {
+         "children" : [
+            "658867388"
+         ],
+         "concept" : {
+            "extent" : [
+               "Nestor_Paredes"
+            ],
+            "intent" : [
+               "Academic entities",
+               "Cluster Analysis",
+               "Correspondence Analysis",
+               "Reproduction of Academic Spaces",
+               "Social categories and classifications",
+               "Social frontiers",
+               "Socio History",
+               "Sociology of professions"
+            ],
+            "md5" : "95cc6ad3d05b995b8e51dbc0069cc574"
+         },
+         "hash" : "309234390",
+         "idx" : 28,
+         "labelAttributes" : [
+            "Sociology of professions",
+            "Social frontiers"
+         ],
+         "labelObjects" : [
+            "Nestor_Paredes"
+         ],
+         "level" : "1",
+         "parents" : [
+            "1160775649",
+            "163023510",
+            "687789903"
+         ]
+      },
+      {
+         "children" : [
+            "174169935",
+            "1531973444"
+         ],
+         "concept" : {
+            "extent" : [
+               "Ana_Medeles",
+               "Leticia_Mayer",
+               "Pilar_Galarza"
+            ],
+            "intent" : [
+               "Archival Analysis",
+               "Socio History"
+            ],
+            "md5" : "3d76b595d7c17ee4b2e3a86ef991039a"
+         },
+         "hash" : "430989648",
+         "idx" : 29,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "3",
+         "parents" : [
+            "1740401227",
+            "772983752"
+         ]
+      },
+      {
+         "children" : [
+            "897035087",
+            "309234390"
+         ],
+         "concept" : {
+            "extent" : [
+               "Israel_Sandoval",
+               "Juan_Escalante",
+               "Nestor_Paredes",
+               "Susana_Garcia"
+            ],
+            "intent" : [
+               "Academic entities",
+               "Socio History"
+            ],
+            "md5" : "753c3732565a4c8793d367efc54ad73a"
+         },
+         "hash" : "163023510",
+         "idx" : 30,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "4",
+         "parents" : [
+            "1740401227",
+            "428346192"
+         ]
+      },
+      {
+         "children" : [
+            "1636312712",
+            "452636477",
+            "107264658",
+            "1976251046",
+            "1431824113"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Eduardo_Robles",
+               "Gabriela_Sued",
+               "Israel_Garcia",
+               "Liliana_Ramirez",
+               "Teresa_de_Leon"
+            ],
+            "intent" : [
+               "Social studies of CTS"
+            ],
+            "md5" : "cef48acd100aa9c53e6123085f34b06b"
+         },
+         "hash" : "943600444",
+         "idx" : 31,
+         "labelAttributes" : [
+            "Social studies of CTS"
+         ],
+         "labelObjects" : [],
+         "level" : "5",
+         "parents" : [
+            "1920226781"
+         ]
+      },
+      {
+         "children" : [
+            "965255642",
+            "368765519",
+            "2138109551"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Eduardo_Robles",
+               "Israel_Garcia",
+               "Liliana_Ramirez"
+            ],
+            "intent" : [
+               "Social Networks Analysis",
+               "Social studies of CTS",
+               "Trajectories of Science"
+            ],
+            "md5" : "af5e0328fb656dc70a71db2c37a7b8e6"
+         },
+         "hash" : "1636312712",
+         "idx" : 32,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "4",
+         "parents" : [
+            "943600444",
+            "437987361"
+         ]
+      },
+      {
+         "children" : [
+            "49893753",
+            "2059537607"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Eduardo_Robles",
+               "Israel_Garcia"
+            ],
+            "intent" : [
+               "Document Analysis",
+               "Network Visualization",
+               "Social Networks Analysis",
+               "Social studies of CTS",
+               "Trajectories of Science"
+            ],
+            "md5" : "c1daded7c22535aede5285924031979c"
+         },
+         "hash" : "965255642",
+         "idx" : 33,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "3",
+         "parents" : [
+            "1636312712",
+            "107264658",
+            "1013547904",
+            "1075016614"
+         ]
+      },
+      {
+         "children" : [
+            "1564253747",
+            "802660815"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Eduardo_Robles"
+            ],
+            "intent" : [
+               "Academic entities",
+               "Bibliometrics and Scientometrics",
+               "CT indicators",
+               "Document Analysis",
+               "Network Visualization",
+               "Social Networks Analysis",
+               "Social studies of CTS",
+               "Trajectories of Science"
+            ],
+            "md5" : "c141d603225e4e6f7541fb8fd9ccaa9c"
+         },
+         "hash" : "49893753",
+         "idx" : 34,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "965255642",
+            "2138109551",
+            "180876700",
+            "1976251046",
+            "1360148769",
+            "1882884819"
+         ]
+      },
+      {
+         "children" : [
+            "658867388"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz"
+            ],
+            "intent" : [
+               "Academic entities",
+               "Academic networks",
+               "Astronomy",
+               "Bibliometrics and Scientometrics",
+               "CT indicators",
+               "Document Analysis",
+               "Interviews",
+               "Literature Review",
+               "Maps of science",
+               "Mathematical modeling",
+               "Multiplex Network Analysis",
+               "Network Visualization",
+               "Social Networks Analysis",
+               "Social studies of CTS",
+               "Studies of Scientists",
+               "Studies of technitians",
+               "Surveys",
+               "Tourism",
+               "Trajectories of Science"
+            ],
+            "md5" : "89487ec367e16ca0f71e3346b31598a3"
+         },
+         "hash" : "1564253747",
+         "idx" : 35,
+         "labelAttributes" : [
+            "Tourism",
+            "Studies of Scientists"
+         ],
+         "labelObjects" : [
+            "Alejandro_Ruiz"
+         ],
+         "level" : "1",
+         "parents" : [
+            "49893753",
+            "2059537607",
+            "422107363",
+            "1116022323",
+            "1944472373",
+            "896125960",
+            "1086545565",
+            "1424024719",
+            "1575189679",
+            "1264426982"
+         ]
+      },
+      {
+         "children" : [
+            "658867388"
+         ],
+         "concept" : {
+            "extent" : [
+               "Eduardo_Robles"
+            ],
+            "intent" : [
+               "Academic entities",
+               "Bibliometrics and Scientometrics",
+               "CT indicators",
+               "Digital Source Mining",
+               "Document Analysis",
+               "Ethnography",
+               "Nanotechnology",
+               "Network Visualization",
+               "Social Networks Analysis",
+               "Social studies of CTS",
+               "Trajectories of Science"
+            ],
+            "md5" : "1e9d3e4617ca36b619a12c36289eb0b5"
+         },
+         "hash" : "802660815",
+         "idx" : 36,
+         "labelAttributes" : [
+            "Nanotechnology"
+         ],
+         "labelObjects" : [
+            "Eduardo_Robles"
+         ],
+         "level" : "1",
+         "parents" : [
+            "49893753",
+            "1186479040",
+            "1610347991"
+         ]
+      },
+      {
+         "children" : [
+            "1564253747",
+            "812383964"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Israel_Garcia"
+            ],
+            "intent" : [
+               "Academic networks",
+               "Document Analysis",
+               "Network Visualization",
+               "Social Networks Analysis",
+               "Social studies of CTS",
+               "Trajectories of Science"
+            ],
+            "md5" : "56adcec72eeffa53b870ee5899306526"
+         },
+         "hash" : "2059537607",
+         "idx" : 37,
+         "labelAttributes" : [
+            "Academic networks"
+         ],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "965255642"
+         ]
+      },
+      {
+         "children" : [
+            "658867388"
+         ],
+         "concept" : {
+            "extent" : [
+               "Israel_Garcia"
+            ],
+            "intent" : [
+               "Academic networks",
+               "Archival Analysis",
+               "Cluster Analysis",
+               "Computational Qualitative Analysis",
+               "Correspondence Analysis",
+               "Document Analysis",
+               "General theory of social systems",
+               "Linear Regression",
+               "Network Visualization",
+               "Pattern Recognition",
+               "Reproduction of Academic Spaces",
+               "Social Networks Analysis",
+               "Social studies of CTS",
+               "Trajectories of Science"
+            ],
+            "md5" : "bc686d9edd05de0c88611a7041980f77"
+         },
+         "hash" : "812383964",
+         "idx" : 38,
+         "labelAttributes" : [
+            "Pattern Recognition",
+            "Linear Regression",
+            "Computational Qualitative Analysis"
+         ],
+         "labelObjects" : [
+            "Israel_Garcia"
+         ],
+         "level" : "1",
+         "parents" : [
+            "2059537607",
+            "368765519",
+            "287421540",
+            "687789903",
+            "1675491265"
+         ]
+      },
+      {
+         "children" : [
+            "812383964",
+            "2097817136"
+         ],
+         "concept" : {
+            "extent" : [
+               "Israel_Garcia",
+               "Liliana_Ramirez"
+            ],
+            "intent" : [
+               "General theory of social systems",
+               "Social Networks Analysis",
+               "Social studies of CTS",
+               "Trajectories of Science"
+            ],
+            "md5" : "9263a228b19ea56489c9e59198dd0d6c"
+         },
+         "hash" : "368765519",
+         "idx" : 39,
+         "labelAttributes" : [
+            "General theory of social systems"
+         ],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "1636312712"
+         ]
+      },
+      {
+         "children" : [
+            "658867388"
+         ],
+         "concept" : {
+            "extent" : [
+               "Liliana_Ramirez"
+            ],
+            "intent" : [
+               "Academic entities",
+               "Bibliometrics and Scientometrics",
+               "Ethnography",
+               "Gender studies",
+               "General theory of social systems",
+               "Interviews",
+               "Social Networks Analysis",
+               "Social studies of CTS",
+               "Trajectories of Science"
+            ],
+            "md5" : "96dda5a588bc49d333a87aa66c7828d7"
+         },
+         "hash" : "2097817136",
+         "idx" : 40,
+         "labelAttributes" : [],
+         "labelObjects" : [
+            "Liliana_Ramirez"
+         ],
+         "level" : "1",
+         "parents" : [
+            "368765519",
+            "422107363",
+            "1186479040",
+            "111401223"
+         ]
+      },
+      {
+         "children" : [
+            "49893753",
+            "422107363",
+            "1186479040"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Eduardo_Robles",
+               "Liliana_Ramirez"
+            ],
+            "intent" : [
+               "Academic entities",
+               "Bibliometrics and Scientometrics",
+               "Social Networks Analysis",
+               "Social studies of CTS",
+               "Trajectories of Science"
+            ],
+            "md5" : "5ff7dd5e68d7c1f01b0c98da654269be"
+         },
+         "hash" : "2138109551",
+         "idx" : 41,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "3",
+         "parents" : [
+            "1636312712",
+            "1431824113",
+            "1494476528",
+            "428346192"
+         ]
+      },
+      {
+         "children" : [
+            "1564253747",
+            "2097817136"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Liliana_Ramirez"
+            ],
+            "intent" : [
+               "Academic entities",
+               "Bibliometrics and Scientometrics",
+               "Interviews",
+               "Social Networks Analysis",
+               "Social studies of CTS",
+               "Trajectories of Science"
+            ],
+            "md5" : "3252513c5e37d9f7691b7142bf203987"
+         },
+         "hash" : "422107363",
+         "idx" : 42,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "2138109551",
+            "418226436",
+            "520941538"
+         ]
+      },
+      {
+         "children" : [
+            "802660815",
+            "2097817136"
+         ],
+         "concept" : {
+            "extent" : [
+               "Eduardo_Robles",
+               "Liliana_Ramirez"
+            ],
+            "intent" : [
+               "Academic entities",
+               "Bibliometrics and Scientometrics",
+               "Ethnography",
+               "Social Networks Analysis",
+               "Social studies of CTS",
+               "Trajectories of Science"
+            ],
+            "md5" : "d45b1a7de764400d70bee5e8e81cd0e9"
+         },
+         "hash" : "1186479040",
+         "idx" : 43,
+         "labelAttributes" : [
+            "Ethnography"
+         ],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "2138109551"
+         ]
+      },
+      {
+         "children" : [
+            "1116022323",
+            "881662501",
+            "418226436"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Gabriela_Sued",
+               "Liliana_Ramirez",
+               "Teresa_de_Leon"
+            ],
+            "intent" : [
+               "Interviews",
+               "Social studies of CTS"
+            ],
+            "md5" : "718b5556e89bc6eddb3969ce15bbfc5d"
+         },
+         "hash" : "452636477",
+         "idx" : 44,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "4",
+         "parents" : [
+            "943600444",
+            "314084287"
+         ]
+      },
+      {
+         "children" : [
+            "1564253747",
+            "1625142489"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Teresa_de_Leon"
+            ],
+            "intent" : [
+               "CT indicators",
+               "Interviews",
+               "Social studies of CTS"
+            ],
+            "md5" : "05105d6553d758f5c0f130cc744c1db4"
+         },
+         "hash" : "1116022323",
+         "idx" : 45,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "452636477",
+            "1976251046"
+         ]
+      },
+      {
+         "children" : [
+            "1625142489",
+            "228366298"
+         ],
+         "concept" : {
+            "extent" : [
+               "Gabriela_Sued",
+               "Teresa_de_Leon"
+            ],
+            "intent" : [
+               "Climate Change",
+               "Interviews",
+               "Social studies of CTS"
+            ],
+            "md5" : "0e6da011ae678ededcc9a48c39b583e0"
+         },
+         "hash" : "881662501",
+         "idx" : 46,
+         "labelAttributes" : [
+            "Climate Change"
+         ],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "452636477"
+         ]
+      },
+      {
+         "children" : [
+            "658867388"
+         ],
+         "concept" : {
+            "extent" : [
+               "Gabriela_Sued"
+            ],
+            "intent" : [
+               "Artificial intelligence",
+               "Bibliometrics and Scientometrics",
+               "Climate Change",
+               "Collective processing of information",
+               "Digital Technologies",
+               "Document Analysis",
+               "Gender studies",
+               "Interviews",
+               "Mathematical modeling",
+               "Social studies of CTS"
+            ],
+            "md5" : "b79bba8633d66a5b88d6e96ef767686e"
+         },
+         "hash" : "228366298",
+         "idx" : 47,
+         "labelAttributes" : [
+            "Artificial intelligence"
+         ],
+         "labelObjects" : [
+            "Gabriela_Sued"
+         ],
+         "level" : "1",
+         "parents" : [
+            "881662501",
+            "1944472373",
+            "111401223",
+            "686253654",
+            "560408086"
+         ]
+      },
+      {
+         "children" : [
+            "422107363",
+            "1944472373",
+            "111401223"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Gabriela_Sued",
+               "Liliana_Ramirez"
+            ],
+            "intent" : [
+               "Bibliometrics and Scientometrics",
+               "Interviews",
+               "Social studies of CTS"
+            ],
+            "md5" : "9bef1e482461b1f1261c3ff0c58e7093"
+         },
+         "hash" : "418226436",
+         "idx" : 48,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "3",
+         "parents" : [
+            "452636477",
+            "1431824113"
+         ]
+      },
+      {
+         "children" : [
+            "1564253747",
+            "228366298"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Gabriela_Sued"
+            ],
+            "intent" : [
+               "Bibliometrics and Scientometrics",
+               "Document Analysis",
+               "Interviews",
+               "Mathematical modeling",
+               "Social studies of CTS"
+            ],
+            "md5" : "0514a0d7edd4da0723ff33ce7a4506ef"
+         },
+         "hash" : "1944472373",
+         "idx" : 49,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "418226436",
+            "180876700",
+            "134178533",
+            "1100821644"
+         ]
+      },
+      {
+         "children" : [
+            "2097817136",
+            "228366298"
+         ],
+         "concept" : {
+            "extent" : [
+               "Gabriela_Sued",
+               "Liliana_Ramirez"
+            ],
+            "intent" : [
+               "Bibliometrics and Scientometrics",
+               "Gender studies",
+               "Interviews",
+               "Social studies of CTS"
+            ],
+            "md5" : "c36d50e3ea4e414699aa0b5dde567566"
+         },
+         "hash" : "111401223",
+         "idx" : 50,
+         "labelAttributes" : [
+            "Gender studies"
+         ],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "418226436"
+         ]
+      },
+      {
+         "children" : [
+            "965255642",
+            "180876700"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Eduardo_Robles",
+               "Gabriela_Sued",
+               "Israel_Garcia"
+            ],
+            "intent" : [
+               "Document Analysis",
+               "Social studies of CTS"
+            ],
+            "md5" : "b7af7c852a04bbfac8fc2cfe5ed6b679"
+         },
+         "hash" : "107264658",
+         "idx" : 51,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "4",
+         "parents" : [
+            "943600444",
+            "508672647"
+         ]
+      },
+      {
+         "children" : [
+            "49893753",
+            "1944472373"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Eduardo_Robles",
+               "Gabriela_Sued"
+            ],
+            "intent" : [
+               "Bibliometrics and Scientometrics",
+               "Document Analysis",
+               "Social studies of CTS"
+            ],
+            "md5" : "9cafeafed65266584ee8fd258a9651ca"
+         },
+         "hash" : "180876700",
+         "idx" : 52,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "3",
+         "parents" : [
+            "107264658",
+            "1431824113"
+         ]
+      },
+      {
+         "children" : [
+            "49893753",
+            "1116022323"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Eduardo_Robles",
+               "Teresa_de_Leon"
+            ],
+            "intent" : [
+               "CT indicators",
+               "Social studies of CTS"
+            ],
+            "md5" : "49bd40e352df89d576b3ea44a6864e21"
+         },
+         "hash" : "1976251046",
+         "idx" : 53,
+         "labelAttributes" : [
+            "CT indicators"
+         ],
+         "labelObjects" : [],
+         "level" : "3",
+         "parents" : [
+            "943600444"
+         ]
+      },
+      {
+         "children" : [
+            "2138109551",
+            "418226436",
+            "180876700"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Eduardo_Robles",
+               "Gabriela_Sued",
+               "Liliana_Ramirez"
+            ],
+            "intent" : [
+               "Bibliometrics and Scientometrics",
+               "Social studies of CTS"
+            ],
+            "md5" : "39e9f9c330186b575c0e4f198629a1e1"
+         },
+         "hash" : "1431824113",
+         "idx" : 54,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "4",
+         "parents" : [
+            "943600444",
+            "846275903"
+         ]
+      },
+      {
+         "children" : [
+            "437987361",
+            "881674298",
+            "1013547904",
+            "1283900086",
+            "981021868",
+            "1494476528"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Aline_Saldaña",
+               "Cristina_Jasso",
+               "Eduardo_Robles",
+               "Gabriel_Ramos",
+               "Gerardo_Lopez",
+               "Israel_Garcia",
+               "Leticia_Mayer",
+               "Liliana_Ramirez",
+               "Sandra_Smith"
+            ],
+            "intent" : [
+               "Social Networks Analysis"
+            ],
+            "md5" : "59f664916e30f929f8a0cad405a0ef58"
+         },
+         "hash" : "1424991179",
+         "idx" : 55,
+         "labelAttributes" : [
+            "Social Networks Analysis"
+         ],
+         "labelObjects" : [],
+         "level" : "6",
+         "parents" : [
+            "1920226781"
+         ]
+      },
+      {
+         "children" : [
+            "896125960",
+            "1636312712",
+            "287421540"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Eduardo_Robles",
+               "Israel_Garcia",
+               "Leticia_Mayer",
+               "Liliana_Ramirez"
+            ],
+            "intent" : [
+               "Social Networks Analysis",
+               "Trajectories of Science"
+            ],
+            "md5" : "936d0f392b81df7c70744181c5b5d94f"
+         },
+         "hash" : "437987361",
+         "idx" : 56,
+         "labelAttributes" : [
+            "Trajectories of Science"
+         ],
+         "labelObjects" : [],
+         "level" : "5",
+         "parents" : [
+            "1424991179"
+         ]
+      },
+      {
+         "children" : [
+            "1564253747",
+            "1115037174"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Leticia_Mayer"
+            ],
+            "intent" : [
+               "Social Networks Analysis",
+               "Studies of technitians",
+               "Trajectories of Science"
+            ],
+            "md5" : "f0336106a554627c92188f188db668a7"
+         },
+         "hash" : "896125960",
+         "idx" : 57,
+         "labelAttributes" : [
+            "Studies of technitians"
+         ],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "437987361"
+         ]
+      },
+      {
+         "children" : [
+            "1115037174",
+            "812383964"
+         ],
+         "concept" : {
+            "extent" : [
+               "Israel_Garcia",
+               "Leticia_Mayer"
+            ],
+            "intent" : [
+               "Archival Analysis",
+               "Social Networks Analysis",
+               "Trajectories of Science"
+            ],
+            "md5" : "e0e8593628b2095909a66166fb912cc2"
+         },
+         "hash" : "287421540",
+         "idx" : 58,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "437987361",
+            "772983752"
+         ]
+      },
+      {
+         "children" : [
+            "808603021",
+            "404956755",
+            "1632422950"
+         ],
+         "concept" : {
+            "extent" : [
+               "Aline_Saldaña",
+               "Cristina_Jasso",
+               "Gabriel_Ramos",
+               "Gerardo_Lopez",
+               "Sandra_Smith"
+            ],
+            "intent" : [
+               "Complex social systems",
+               "Social complexity",
+               "Social Networks Analysis"
+            ],
+            "md5" : "193bca945ce40ebc73bce0ed20cfb79e"
+         },
+         "hash" : "881674298",
+         "idx" : 59,
+         "labelAttributes" : [
+            "Social complexity",
+            "Complex social systems"
+         ],
+         "labelObjects" : [],
+         "level" : "5",
+         "parents" : [
+            "1424991179"
+         ]
+      },
+      {
+         "children" : [
+            "1141904217",
+            "1186034165",
+            "1012439271"
+         ],
+         "concept" : {
+            "extent" : [
+               "Aline_Saldaña",
+               "Cristina_Jasso",
+               "Gabriel_Ramos",
+               "Sandra_Smith"
+            ],
+            "intent" : [
+               "Complex social systems",
+               "Social complexity",
+               "Social Networks Analysis",
+               "Spider Monkeys"
+            ],
+            "md5" : "78566d1b8c9b9adcb3282af020c58305"
+         },
+         "hash" : "808603021",
+         "idx" : 60,
+         "labelAttributes" : [
+            "Spider Monkeys"
+         ],
+         "labelObjects" : [],
+         "level" : "4",
+         "parents" : [
+            "881674298"
+         ]
+      },
+      {
+         "children" : [
+            "422286864",
+            "562760703"
+         ],
+         "concept" : {
+            "extent" : [
+               "Cristina_Jasso",
+               "Sandra_Smith"
+            ],
+            "intent" : [
+               "Complex social systems",
+               "Social complexity",
+               "Social Networks Analysis",
+               "Socio-ecology",
+               "Spider Monkeys"
+            ],
+            "md5" : "111be7e58b1376b52a16aa9a6492e62e"
+         },
+         "hash" : "1141904217",
+         "idx" : 61,
+         "labelAttributes" : [
+            "Socio-ecology"
+         ],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "808603021"
+         ]
+      },
+      {
+         "children" : [
+            "658867388"
+         ],
+         "concept" : {
+            "extent" : [
+               "Cristina_Jasso"
+            ],
+            "intent" : [
+               "Bioinformatics Tools",
+               "Complex social systems",
+               "Direct Observation of Behavior",
+               "Genetic Analysis",
+               "Network Visualization",
+               "Social Behavior",
+               "Social complexity",
+               "Social Networks Analysis",
+               "Socio-ecology",
+               "Spider Monkeys"
+            ],
+            "md5" : "46404a8f13c7fed9ddc58189c1bceb5b"
+         },
+         "hash" : "562760703",
+         "idx" : 62,
+         "labelAttributes" : [
+            "Genetic Analysis",
+            "Bioinformatics Tools"
+         ],
+         "labelObjects" : [
+            "Cristina_Jasso"
+         ],
+         "level" : "1",
+         "parents" : [
+            "1141904217",
+            "514122948",
+            "531912957"
+         ]
+      },
+      {
+         "children" : [
+            "839234646",
+            "1380428839"
+         ],
+         "concept" : {
+            "extent" : [
+               "Aline_Saldaña",
+               "Gabriel_Ramos",
+               "Sandra_Smith"
+            ],
+            "intent" : [
+               "Complex social systems",
+               "Multiplex Network Analysis",
+               "Social complexity",
+               "Social Networks Analysis",
+               "Spider Monkeys"
+            ],
+            "md5" : "2fcf1e438cd9f84d411715cc737010cb"
+         },
+         "hash" : "1186034165",
+         "idx" : 63,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "3",
+         "parents" : [
+            "808603021",
+            "1632422950"
+         ]
+      },
+      {
+         "children" : [
+            "422286864",
+            "1995872175"
+         ],
+         "concept" : {
+            "extent" : [
+               "Aline_Saldaña",
+               "Sandra_Smith"
+            ],
+            "intent" : [
+               "Complex social systems",
+               "Multiplex Network Analysis",
+               "Resilience",
+               "Social complexity",
+               "Social Networks Analysis",
+               "Spider Monkeys"
+            ],
+            "md5" : "904efba7d5cbfa1c610f1fd509d31342"
+         },
+         "hash" : "839234646",
+         "idx" : 64,
+         "labelAttributes" : [
+            "Resilience"
+         ],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "1186034165"
+         ]
+      },
+      {
+         "children" : [
+            "658867388"
+         ],
+         "concept" : {
+            "extent" : [
+               "Aline_Saldaña"
+            ],
+            "intent" : [
+               "Complex social systems",
+               "Direct Observation of Behavior",
+               "Multiplex Network Analysis",
+               "Resilience",
+               "Social Behavior",
+               "Social complexity",
+               "Social Networks Analysis",
+               "Spider Monkeys"
+            ],
+            "md5" : "e196928ebf1d28b44324b2935be4eaaa"
+         },
+         "hash" : "1995872175",
+         "idx" : 65,
+         "labelAttributes" : [],
+         "labelObjects" : [
+            "Aline_Saldaña"
+         ],
+         "level" : "1",
+         "parents" : [
+            "839234646",
+            "1380428839",
+            "514122948"
+         ]
+      },
+      {
+         "children" : [
+            "925096724",
+            "1995872175"
+         ],
+         "concept" : {
+            "extent" : [
+               "Aline_Saldaña",
+               "Gabriel_Ramos"
+            ],
+            "intent" : [
+               "Complex social systems",
+               "Direct Observation of Behavior",
+               "Multiplex Network Analysis",
+               "Social complexity",
+               "Social Networks Analysis",
+               "Spider Monkeys"
+            ],
+            "md5" : "2497f7e50cab90f934b033936a02c7fd"
+         },
+         "hash" : "1380428839",
+         "idx" : 66,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "1186034165",
+            "1012439271"
+         ]
+      },
+      {
+         "children" : [
+            "658867388"
+         ],
+         "concept" : {
+            "extent" : [
+               "Gabriel_Ramos"
+            ],
+            "intent" : [
+               "Agent-Based Model Analysis",
+               "Collective processing of information",
+               "Collective Tasks",
+               "Complex social systems",
+               "Direct Observation of Behavior",
+               "Human Vocal Interactions",
+               "Inductive Game Theory",
+               "Multiplex Network Analysis",
+               "Network Visualization",
+               "Social complexity",
+               "Social Networks Analysis",
+               "Socio-ecosystems in Yucatán",
+               "Spider Monkeys"
+            ],
+            "md5" : "8aba99a5ba435712ce9ef58b016ad4ad"
+         },
+         "hash" : "925096724",
+         "idx" : 67,
+         "labelAttributes" : [
+            "Socio-ecosystems in Yucatán",
+            "Inductive Game Theory",
+            "Human Vocal Interactions",
+            "Collective Tasks",
+            "Agent-Based Model Analysis"
+         ],
+         "labelObjects" : [
+            "Gabriel_Ramos"
+         ],
+         "level" : "1",
+         "parents" : [
+            "1380428839",
+            "531912957",
+            "76357518",
+            "560408086"
+         ]
+      },
+      {
+         "children" : [
+            "514122948",
+            "531912957",
+            "1380428839"
+         ],
+         "concept" : {
+            "extent" : [
+               "Aline_Saldaña",
+               "Cristina_Jasso",
+               "Gabriel_Ramos"
+            ],
+            "intent" : [
+               "Complex social systems",
+               "Direct Observation of Behavior",
+               "Social complexity",
+               "Social Networks Analysis",
+               "Spider Monkeys"
+            ],
+            "md5" : "070ba48cb7bad61d90a105cd6e8003b3"
+         },
+         "hash" : "1012439271",
+         "idx" : 68,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "3",
+         "parents" : [
+            "808603021",
+            "981021868"
+         ]
+      },
+      {
+         "children" : [
+            "562760703",
+            "1995872175"
+         ],
+         "concept" : {
+            "extent" : [
+               "Aline_Saldaña",
+               "Cristina_Jasso"
+            ],
+            "intent" : [
+               "Complex social systems",
+               "Direct Observation of Behavior",
+               "Social Behavior",
+               "Social complexity",
+               "Social Networks Analysis",
+               "Spider Monkeys"
+            ],
+            "md5" : "3ea3272a3968fe180c1414300124b917"
+         },
+         "hash" : "514122948",
+         "idx" : 69,
+         "labelAttributes" : [
+            "Social Behavior"
+         ],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "1012439271"
+         ]
+      },
+      {
+         "children" : [
+            "925096724",
+            "562760703"
+         ],
+         "concept" : {
+            "extent" : [
+               "Cristina_Jasso",
+               "Gabriel_Ramos"
+            ],
+            "intent" : [
+               "Complex social systems",
+               "Direct Observation of Behavior",
+               "Network Visualization",
+               "Social complexity",
+               "Social Networks Analysis",
+               "Spider Monkeys"
+            ],
+            "md5" : "dfee722431d4b1c4925014df9c80f2ff"
+         },
+         "hash" : "531912957",
+         "idx" : 70,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "1012439271",
+            "404956755"
+         ]
+      },
+      {
+         "children" : [
+            "531912957",
+            "76357518"
+         ],
+         "concept" : {
+            "extent" : [
+               "Cristina_Jasso",
+               "Gabriel_Ramos",
+               "Gerardo_Lopez"
+            ],
+            "intent" : [
+               "Complex social systems",
+               "Network Visualization",
+               "Social complexity",
+               "Social Networks Analysis"
+            ],
+            "md5" : "1fa247b8abf44c697852090ee4647660"
+         },
+         "hash" : "404956755",
+         "idx" : 71,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "3",
+         "parents" : [
+            "881674298",
+            "1013547904"
+         ]
+      },
+      {
+         "children" : [
+            "651792892",
+            "925096724"
+         ],
+         "concept" : {
+            "extent" : [
+               "Gabriel_Ramos",
+               "Gerardo_Lopez"
+            ],
+            "intent" : [
+               "Complex social systems",
+               "Multiplex Network Analysis",
+               "Network Visualization",
+               "Social complexity",
+               "Social Networks Analysis"
+            ],
+            "md5" : "9bbf40666c196914b3f194439e4bbce2"
+         },
+         "hash" : "76357518",
+         "idx" : 72,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "404956755",
+            "1632422950",
+            "706779432"
+         ]
+      },
+      {
+         "children" : [
+            "1699492884",
+            "1186034165",
+            "76357518"
+         ],
+         "concept" : {
+            "extent" : [
+               "Aline_Saldaña",
+               "Gabriel_Ramos",
+               "Gerardo_Lopez",
+               "Sandra_Smith"
+            ],
+            "intent" : [
+               "Complex social systems",
+               "Multiplex Network Analysis",
+               "Social complexity",
+               "Social Networks Analysis"
+            ],
+            "md5" : "2379920df985e58f8a06ee007cde21f3"
+         },
+         "hash" : "1632422950",
+         "idx" : 73,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "4",
+         "parents" : [
+            "881674298",
+            "1283900086"
+         ]
+      },
+      {
+         "children" : [
+            "965255642",
+            "404956755",
+            "706779432",
+            "1360148769"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Cristina_Jasso",
+               "Eduardo_Robles",
+               "Gabriel_Ramos",
+               "Gerardo_Lopez",
+               "Israel_Garcia"
+            ],
+            "intent" : [
+               "Network Visualization",
+               "Social Networks Analysis"
+            ],
+            "md5" : "ce6574f598be7ec958e4beee2e008740"
+         },
+         "hash" : "1013547904",
+         "idx" : 74,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "4",
+         "parents" : [
+            "1424991179",
+            "739511849"
+         ]
+      },
+      {
+         "children" : [
+            "76357518",
+            "1086545565"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Gabriel_Ramos",
+               "Gerardo_Lopez"
+            ],
+            "intent" : [
+               "Multiplex Network Analysis",
+               "Network Visualization",
+               "Social Networks Analysis"
+            ],
+            "md5" : "32e9991a5ee128d363e45fca2410c6ed"
+         },
+         "hash" : "706779432",
+         "idx" : 75,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "3",
+         "parents" : [
+            "1013547904",
+            "1283900086"
+         ]
+      },
+      {
+         "children" : [
+            "1564253747",
+            "651792892"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Gerardo_Lopez"
+            ],
+            "intent" : [
+               "Bibliometrics and Scientometrics",
+               "Mathematical modeling",
+               "Multiplex Network Analysis",
+               "Network Visualization",
+               "Social Networks Analysis"
+            ],
+            "md5" : "da5ec17611d3272f134231a9fdf58b5d"
+         },
+         "hash" : "1086545565",
+         "idx" : 76,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "706779432",
+            "1360148769",
+            "244151413"
+         ]
+      },
+      {
+         "children" : [
+            "49893753",
+            "1086545565",
+            "1610347991"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Eduardo_Robles",
+               "Gerardo_Lopez"
+            ],
+            "intent" : [
+               "Bibliometrics and Scientometrics",
+               "Network Visualization",
+               "Social Networks Analysis"
+            ],
+            "md5" : "8e908fb98c2a45edcb8c64f792a285ac"
+         },
+         "hash" : "1360148769",
+         "idx" : 77,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "3",
+         "parents" : [
+            "1013547904",
+            "1494476528",
+            "320588396"
+         ]
+      },
+      {
+         "children" : [
+            "802660815",
+            "651792892"
+         ],
+         "concept" : {
+            "extent" : [
+               "Eduardo_Robles",
+               "Gerardo_Lopez"
+            ],
+            "intent" : [
+               "Bibliometrics and Scientometrics",
+               "Digital Source Mining",
+               "Network Visualization",
+               "Social Networks Analysis"
+            ],
+            "md5" : "3ab49ba1e6139a2364f444bcc8cfa1ae"
+         },
+         "hash" : "1610347991",
+         "idx" : 78,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "1360148769",
+            "2010431008"
+         ]
+      },
+      {
+         "children" : [
+            "1632422950",
+            "706779432"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Aline_Saldaña",
+               "Gabriel_Ramos",
+               "Gerardo_Lopez",
+               "Sandra_Smith"
+            ],
+            "intent" : [
+               "Multiplex Network Analysis",
+               "Social Networks Analysis"
+            ],
+            "md5" : "e97aa4582e221df2ea8daf77c1377405"
+         },
+         "hash" : "1283900086",
+         "idx" : 79,
+         "labelAttributes" : [
+            "Multiplex Network Analysis"
+         ],
+         "labelObjects" : [],
+         "level" : "5",
+         "parents" : [
+            "1424991179"
+         ]
+      },
+      {
+         "children" : [
+            "1115037174",
+            "1012439271"
+         ],
+         "concept" : {
+            "extent" : [
+               "Aline_Saldaña",
+               "Cristina_Jasso",
+               "Gabriel_Ramos",
+               "Leticia_Mayer"
+            ],
+            "intent" : [
+               "Direct Observation of Behavior",
+               "Social Networks Analysis"
+            ],
+            "md5" : "c381f37eed6b7baa44472008ed61c000"
+         },
+         "hash" : "981021868",
+         "idx" : 80,
+         "labelAttributes" : [
+            "Direct Observation of Behavior"
+         ],
+         "labelObjects" : [],
+         "level" : "4",
+         "parents" : [
+            "1424991179"
+         ]
+      },
+      {
+         "children" : [
+            "2138109551",
+            "1360148769"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Eduardo_Robles",
+               "Gerardo_Lopez",
+               "Liliana_Ramirez"
+            ],
+            "intent" : [
+               "Bibliometrics and Scientometrics",
+               "Social Networks Analysis"
+            ],
+            "md5" : "b9ea0405ba5d965977adeffb9787876b"
+         },
+         "hash" : "1494476528",
+         "idx" : 81,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "4",
+         "parents" : [
+            "1424991179",
+            "846275903"
+         ]
+      },
+      {
+         "children" : [
+            "812383964",
+            "309234390"
+         ],
+         "concept" : {
+            "extent" : [
+               "Israel_Garcia",
+               "Nestor_Paredes"
+            ],
+            "intent" : [
+               "Cluster Analysis",
+               "Correspondence Analysis",
+               "Reproduction of Academic Spaces"
+            ],
+            "md5" : "18a609d534744ca999ed9d1f3ed71057"
+         },
+         "hash" : "687789903",
+         "idx" : 82,
+         "labelAttributes" : [
+            "Reproduction of Academic Spaces",
+            "Correspondence Analysis",
+            "Cluster Analysis"
+         ],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "1920226781"
+         ]
+      },
+      {
+         "children" : [
+            "61333024",
+            "1013547904",
+            "777325378",
+            "1075016614",
+            "320588396",
+            "1463785885"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Cristina_Jasso",
+               "Eduardo_Robles",
+               "Gabriel_Ramos",
+               "Gerardo_Lopez",
+               "Israel_Garcia",
+               "Juan_Escalante",
+               "Mariana_Espinosa",
+               "Susana_Garcia"
+            ],
+            "intent" : [
+               "Network Visualization"
+            ],
+            "md5" : "0e92fd95e6939426fceb469bf2783235"
+         },
+         "hash" : "739511849",
+         "idx" : 83,
+         "labelAttributes" : [
+            "Network Visualization"
+         ],
+         "labelObjects" : [],
+         "level" : "5",
+         "parents" : [
+            "1920226781"
+         ]
+      },
+      {
+         "children" : [
+            "1424024719",
+            "1575189679"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Juan_Escalante",
+               "Mariana_Espinosa"
+            ],
+            "intent" : [
+               "Literature Review",
+               "Network Visualization"
+            ],
+            "md5" : "163b67759b928a23e508544c757e605a"
+         },
+         "hash" : "777325378",
+         "idx" : 84,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "3",
+         "parents" : [
+            "739511849",
+            "1277323739"
+         ]
+      },
+      {
+         "children" : [
+            "1564253747",
+            "450650642"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Mariana_Espinosa"
+            ],
+            "intent" : [
+               "Astronomy",
+               "Bibliometrics and Scientometrics",
+               "Literature Review",
+               "Maps of science",
+               "Mathematical modeling",
+               "Network Visualization"
+            ],
+            "md5" : "3a6c31c963ab64534bb9b1131d85c314"
+         },
+         "hash" : "1424024719",
+         "idx" : 85,
+         "labelAttributes" : [
+            "Maps of science",
+            "Astronomy"
+         ],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "777325378",
+            "244151413"
+         ]
+      },
+      {
+         "children" : [
+            "629353839",
+            "1564253747"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Juan_Escalante"
+            ],
+            "intent" : [
+               "Academic entities",
+               "Interviews",
+               "Literature Review",
+               "Network Visualization"
+            ],
+            "md5" : "23c01269419981403fd38d32213bb571"
+         },
+         "hash" : "1575189679",
+         "idx" : 86,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "777325378",
+            "1463785885",
+            "105188046",
+            "520941538"
+         ]
+      },
+      {
+         "children" : [
+            "965255642",
+            "1882884819"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Eduardo_Robles",
+               "Israel_Garcia",
+               "Susana_Garcia"
+            ],
+            "intent" : [
+               "Document Analysis",
+               "Network Visualization"
+            ],
+            "md5" : "73e8b84451bb2265685747464990beb8"
+         },
+         "hash" : "1075016614",
+         "idx" : 87,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "4",
+         "parents" : [
+            "739511849",
+            "508672647"
+         ]
+      },
+      {
+         "children" : [
+            "1943318755",
+            "49893753"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Eduardo_Robles",
+               "Susana_Garcia"
+            ],
+            "intent" : [
+               "Academic entities",
+               "Document Analysis",
+               "Network Visualization"
+            ],
+            "md5" : "05a72e41748e1068419b52b9f665479d"
+         },
+         "hash" : "1882884819",
+         "idx" : 88,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "3",
+         "parents" : [
+            "1075016614",
+            "1463785885"
+         ]
+      },
+      {
+         "children" : [
+            "1360148769",
+            "244151413"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Eduardo_Robles",
+               "Gerardo_Lopez",
+               "Mariana_Espinosa"
+            ],
+            "intent" : [
+               "Bibliometrics and Scientometrics",
+               "Network Visualization"
+            ],
+            "md5" : "6da52681a6e0c66f9a2fc804a0481f1c"
+         },
+         "hash" : "320588396",
+         "idx" : 89,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "4",
+         "parents" : [
+            "739511849",
+            "846275903"
+         ]
+      },
+      {
+         "children" : [
+            "1285466322",
+            "1086545565",
+            "1424024719"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Gerardo_Lopez",
+               "Mariana_Espinosa"
+            ],
+            "intent" : [
+               "Bibliometrics and Scientometrics",
+               "Mathematical modeling",
+               "Network Visualization"
+            ],
+            "md5" : "bfaf0fc314f5730617f283d6eb4f603c"
+         },
+         "hash" : "244151413",
+         "idx" : 90,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "3",
+         "parents" : [
+            "320588396",
+            "134178533"
+         ]
+      },
+      {
+         "children" : [
+            "2018809166",
+            "1575189679",
+            "1882884819"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Eduardo_Robles",
+               "Juan_Escalante",
+               "Susana_Garcia"
+            ],
+            "intent" : [
+               "Academic entities",
+               "Network Visualization"
+            ],
+            "md5" : "9844005928a2f7c21e41fede6437da7d"
+         },
+         "hash" : "1463785885",
+         "idx" : 91,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "4",
+         "parents" : [
+            "739511849",
+            "428346192"
+         ]
+      },
+      {
+         "children" : [
+            "1645242070",
+            "134178533"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Carlos_Rodriguez",
+               "Gabriela_Sued",
+               "Gerardo_Lopez",
+               "Mariana_Espinosa"
+            ],
+            "intent" : [
+               "Mathematical modeling"
+            ],
+            "md5" : "cfdf27e9226a89092d28c51243731ca9"
+         },
+         "hash" : "1702526788",
+         "idx" : 92,
+         "labelAttributes" : [
+            "Mathematical modeling"
+         ],
+         "labelObjects" : [],
+         "level" : "5",
+         "parents" : [
+            "1920226781"
+         ]
+      },
+      {
+         "children" : [
+            "651792892",
+            "1592309869"
+         ],
+         "concept" : {
+            "extent" : [
+               "Carlos_Rodriguez",
+               "Gerardo_Lopez"
+            ],
+            "intent" : [
+               "Digital Source Mining",
+               "Mathematical modeling",
+               "Sentiment Analysis"
+            ],
+            "md5" : "6ba049fe997e3e5dc8876fe54d1bd320"
+         },
+         "hash" : "1645242070",
+         "idx" : 93,
+         "labelAttributes" : [
+            "Sentiment Analysis"
+         ],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "1702526788",
+            "2010431008"
+         ]
+      },
+      {
+         "children" : [
+            "658867388"
+         ],
+         "concept" : {
+            "extent" : [
+               "Carlos_Rodriguez"
+            ],
+            "intent" : [
+               "Digital News",
+               "Digital Source Mining",
+               "Economic System",
+               "Machine Learning",
+               "Mathematical modeling",
+               "Sentiment Analysis",
+               "Study of News",
+               "Technical Analysis"
+            ],
+            "md5" : "b72e67e94ed72edc11817d1975aeaa63"
+         },
+         "hash" : "1592309869",
+         "idx" : 94,
+         "labelAttributes" : [
+            "Technical Analysis",
+            "Study of News",
+            "Machine Learning",
+            "Economic System",
+            "Digital News"
+         ],
+         "labelObjects" : [
+            "Carlos_Rodriguez"
+         ],
+         "level" : "1",
+         "parents" : [
+            "1645242070"
+         ]
+      },
+      {
+         "children" : [
+            "1944472373",
+            "244151413"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Gabriela_Sued",
+               "Gerardo_Lopez",
+               "Mariana_Espinosa"
+            ],
+            "intent" : [
+               "Bibliometrics and Scientometrics",
+               "Mathematical modeling"
+            ],
+            "md5" : "b3fc39a0e98bc526d0888bc996314129"
+         },
+         "hash" : "134178533",
+         "idx" : 95,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "4",
+         "parents" : [
+            "1702526788",
+            "846275903"
+         ]
+      },
+      {
+         "children" : [
+            "777325378",
+            "105188046"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Juan_Escalante",
+               "Mariana_Espinosa",
+               "Pilar_Galarza"
+            ],
+            "intent" : [
+               "Literature Review"
+            ],
+            "md5" : "bdd4cc4a999838da46f63f8f5d83ea89"
+         },
+         "hash" : "1277323739",
+         "idx" : 96,
+         "labelAttributes" : [
+            "Literature Review"
+         ],
+         "labelObjects" : [],
+         "level" : "4",
+         "parents" : [
+            "1920226781"
+         ]
+      },
+      {
+         "children" : [
+            "61782556",
+            "1264426982",
+            "1575189679"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Juan_Escalante",
+               "Pilar_Galarza"
+            ],
+            "intent" : [
+               "Interviews",
+               "Literature Review"
+            ],
+            "md5" : "0e60d80ed0aceb2a8cca982774778167"
+         },
+         "hash" : "105188046",
+         "idx" : 97,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "3",
+         "parents" : [
+            "1277323739",
+            "314084287"
+         ]
+      },
+      {
+         "children" : [
+            "174169935",
+            "1564253747"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Pilar_Galarza"
+            ],
+            "intent" : [
+               "Document Analysis",
+               "Interviews",
+               "Literature Review",
+               "Surveys"
+            ],
+            "md5" : "2ee6bc278d7487bac5f679566c29d456"
+         },
+         "hash" : "1264426982",
+         "idx" : 98,
+         "labelAttributes" : [
+            "Surveys"
+         ],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "105188046",
+            "1100821644"
+         ]
+      },
+      {
+         "children" : [
+            "1354364952",
+            "452636477",
+            "105188046",
+            "1100821644",
+            "520941538"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Gabriela_Sued",
+               "Juan_Escalante",
+               "Liliana_Ramirez",
+               "Pilar_Galarza",
+               "Teresa_de_Leon"
+            ],
+            "intent" : [
+               "Interviews"
+            ],
+            "md5" : "ba4a765a2d9266c053272627424a7b2b"
+         },
+         "hash" : "314084287",
+         "idx" : 99,
+         "labelAttributes" : [
+            "Interviews"
+         ],
+         "labelObjects" : [],
+         "level" : "5",
+         "parents" : [
+            "1920226781"
+         ]
+      },
+      {
+         "children" : [
+            "1264426982",
+            "1944472373"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Gabriela_Sued",
+               "Pilar_Galarza"
+            ],
+            "intent" : [
+               "Document Analysis",
+               "Interviews"
+            ],
+            "md5" : "d5573819511b12f5cbf4789860cf1b10"
+         },
+         "hash" : "1100821644",
+         "idx" : 100,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "3",
+         "parents" : [
+            "314084287",
+            "508672647"
+         ]
+      },
+      {
+         "children" : [
+            "422107363",
+            "1575189679"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Juan_Escalante",
+               "Liliana_Ramirez"
+            ],
+            "intent" : [
+               "Academic entities",
+               "Interviews"
+            ],
+            "md5" : "d8ae9b100fa872b41f511a46696aa4cd"
+         },
+         "hash" : "520941538",
+         "idx" : 101,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "3",
+         "parents" : [
+            "314084287",
+            "428346192"
+         ]
+      },
+      {
+         "children" : [
+            "10576631",
+            "107264658",
+            "1075016614",
+            "1100821644",
+            "1675491265"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Eduardo_Robles",
+               "Gabriela_Sued",
+               "Israel_Garcia",
+               "Pilar_Galarza",
+               "Susana_Garcia"
+            ],
+            "intent" : [
+               "Document Analysis"
+            ],
+            "md5" : "843bd59fa3c0e6b0f0b31933cef7edf7"
+         },
+         "hash" : "508672647",
+         "idx" : 102,
+         "labelAttributes" : [
+            "Document Analysis"
+         ],
+         "labelObjects" : [],
+         "level" : "5",
+         "parents" : [
+            "1920226781"
+         ]
+      },
+      {
+         "children" : [
+            "174169935",
+            "812383964"
+         ],
+         "concept" : {
+            "extent" : [
+               "Israel_Garcia",
+               "Pilar_Galarza"
+            ],
+            "intent" : [
+               "Archival Analysis",
+               "Document Analysis"
+            ],
+            "md5" : "5b0688d30d8d4d2e4ce121ff2e5275d2"
+         },
+         "hash" : "1675491265",
+         "idx" : 103,
+         "labelAttributes" : [],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "508672647",
+            "772983752"
+         ]
+      },
+      {
+         "children" : [
+            "1333793699",
+            "228366298"
+         ],
+         "concept" : {
+            "extent" : [
+               "Gabriela_Sued",
+               "Israel_Sandoval"
+            ],
+            "intent" : [
+               "Digital Technologies"
+            ],
+            "md5" : "f1c7dcc78595e16e6d81713de80e041a"
+         },
+         "hash" : "686253654",
+         "idx" : 104,
+         "labelAttributes" : [
+            "Digital Technologies"
+         ],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "1920226781"
+         ]
+      },
+      {
+         "children" : [
+            "1147894032",
+            "1610347991",
+            "1645242070"
+         ],
+         "concept" : {
+            "extent" : [
+               "Ana_Medeles",
+               "Carlos_Rodriguez",
+               "Eduardo_Robles",
+               "Gerardo_Lopez"
+            ],
+            "intent" : [
+               "Digital Source Mining"
+            ],
+            "md5" : "3d0938fb735602ea954394abafbb9be9"
+         },
+         "hash" : "2010431008",
+         "idx" : 105,
+         "labelAttributes" : [
+            "Digital Source Mining"
+         ],
+         "labelObjects" : [],
+         "level" : "3",
+         "parents" : [
+            "1920226781"
+         ]
+      },
+      {
+         "children" : [
+            "925096724",
+            "228366298"
+         ],
+         "concept" : {
+            "extent" : [
+               "Gabriel_Ramos",
+               "Gabriela_Sued"
+            ],
+            "intent" : [
+               "Collective processing of information"
+            ],
+            "md5" : "ee253e066ab137528e8340a04bd1e5a8"
+         },
+         "hash" : "560408086",
+         "idx" : 106,
+         "labelAttributes" : [
+            "Collective processing of information"
+         ],
+         "labelObjects" : [],
+         "level" : "2",
+         "parents" : [
+            "1920226781"
+         ]
+      },
+      {
+         "children" : [
+            "1431824113",
+            "1494476528",
+            "320588396",
+            "134178533"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Eduardo_Robles",
+               "Gabriela_Sued",
+               "Gerardo_Lopez",
+               "Liliana_Ramirez",
+               "Mariana_Espinosa"
+            ],
+            "intent" : [
+               "Bibliometrics and Scientometrics"
+            ],
+            "md5" : "a51705bd86a4d9a5b34b15b350aaa5e4"
+         },
+         "hash" : "846275903",
+         "idx" : 107,
+         "labelAttributes" : [
+            "Bibliometrics and Scientometrics"
+         ],
+         "labelObjects" : [],
+         "level" : "5",
+         "parents" : [
+            "1920226781"
+         ]
+      },
+      {
+         "children" : [
+            "287421540",
+            "430989648",
+            "1675491265"
+         ],
+         "concept" : {
+            "extent" : [
+               "Ana_Medeles",
+               "Israel_Garcia",
+               "Leticia_Mayer",
+               "Pilar_Galarza"
+            ],
+            "intent" : [
+               "Archival Analysis"
+            ],
+            "md5" : "44bcb8cb3d5fec176341e37624a79b56"
+         },
+         "hash" : "772983752",
+         "idx" : 108,
+         "labelAttributes" : [
+            "Archival Analysis"
+         ],
+         "labelObjects" : [],
+         "level" : "4",
+         "parents" : [
+            "1920226781"
+         ]
+      },
+      {
+         "children" : [
+            "2138109551",
+            "163023510",
+            "1463785885",
+            "520941538"
+         ],
+         "concept" : {
+            "extent" : [
+               "Alejandro_Ruiz",
+               "Eduardo_Robles",
+               "Israel_Sandoval",
+               "Juan_Escalante",
+               "Liliana_Ramirez",
+               "Nestor_Paredes",
+               "Susana_Garcia"
+            ],
+            "intent" : [
+               "Academic entities"
+            ],
+            "md5" : "644f0311b47a5778ff5441132f1c1e79"
+         },
+         "hash" : "428346192",
+         "idx" : 109,
+         "labelAttributes" : [
+            "Academic entities"
+         ],
+         "labelObjects" : [],
+         "level" : "5",
+         "parents" : [
+            "1920226781"
+         ]
+      }
+   ]
+}

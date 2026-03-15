@@ -1,0 +1,71 @@
+Context:,3004,Comision,,,,,,,,,,,,,,,
+,,,,,,,,,Attributes,id,2088,2087,2086,2083,2084,2085,2089
+,,,,,,,,,,reference,,,,,,,
+,,,,,,,,,,explanation_es,,,,1988-1995,1996-2010,2011-2025,"Estancias sabáticas, visitas, posdoctorados de uno o dos años."
+,,,,,,,,,,explanation_en,,,,1988-1995,1996-2010,2011-2025,"Sabatical stays, short visits, short posdoctorates"
+,,,,,,,,,,formula,,,,,,,
+,,,,,,,,,,title_es,Técnicos,Investigadores,Posdoctorales,Periodo 1,Periodo 2,Periodo 3,Estancia corta
+,,,,,,,,,,title_en,Technician,Researcher,Postdoctoral,1st period,2nd period,3rd period,Short visit
+,,,,,,,,,,class_code,Comision,Comision,Comision,Periodo,Periodo,Periodo,Periodo
+,,,Objects,,,,,,,label_es,Tecnicos,Investigadores,Posdoctorales,Periodo 1,Periodo 2,Periodo 3,Estancia corta
+,,,id,reference,year,desc_es,desc_en,label_es,label_en,code  label_en,Technician,Researcher,Postdoctoral,1st period,2nd period,3rd period,Short stay
+,,,1001,,,Alejandro Arnulfo Ruiz León,Alejandro Arnulfo Ruiz León,Alejandro Ruiz,Alejandro Ruiz,Alejandro_Ruiz,1,0,0,0,0,1,0
+,,,1002,,,Alexia Gil Tejeda,Alexia Gil Tejeda,Alexia Gil,Alexia Gil,Alexia_Gil,1,0,0,0,1,0,1
+,,,1003,,,Aline Amor Saldaña Sánchez,Aline Amor Saldaña Sánchez,Aline Saldaña,Aline Saldaña,Aline_Saldaña,0,0,1,0,0,1,0
+,,,1004,,,Ana María Hernández,Ana María Hernández,Ana Maria Hernandez,Ana Maria Hernandez,Ana_Hernandez,0,1,0,0,0,1,1
+,,,1005,,,Ana María Medeles Hernández,Ana María Medeles Hernández,Ana Medeles,Ana Medeles,Ana_Medeles,0,0,1,0,0,1,0
+,,,1006,,,Arodí Montserrat Farrera Hernández,Arodí Montserrat Farrera Hernández,Arodi Farrera,Arodi Farrera,Arodi_Farrera,0,0,1,0,0,1,1
+,,,1007,,,José Arturo López Pérez,José Arturo López Pérez,Arturo López,Arturo Lopez,Arturo_Lopez,1,0,0,1,0,0,1
+,,,1008,,,Carlos Rodríguez Contreras,Carlos Rodríguez Contreras,Carlos Rodriguez,Carlos Rodriguez,Carlos_Rodriguez,1,0,0,0,0,1,0
+,,,1009,,,Ma. del Cármen Hernández Beltrán,Ma. del Cármen Hernández Beltrán,Carmen Hernandez,Carmen Hernández,Carmen_Hernandez,1,0,0,1,0,0,0
+,,,1010,,,Ma. Cecilia López Carrasco,Ma. Cecilia López Carrasco,Cecilia Lopez,Cecilia López,Cecilia_Lopez,1,0,0,1,1,0,0
+,,,1011,,,Cristina Jasso del Toro,Cristina Jasso del Toro,Cristina Jasso,Cristina Jasso,Cristina_Jasso,0,0,1,0,0,1,0
+,,,1012,,,Diana Sheinbaum Lerner,Diana Sheinbaum Lerner,Diana Sheinbaum,Diana Sheinbaum,Diana_Sheinbaum,1,0,0,0,0,0,0
+,,,1013,,,Eduardo Robles Belmont,Eduardo Robles Belmont,Eduardo Robles,Eduardo Robles,Eduardo_Robles,0,1,0,0,0,1,0
+,,,1014,,,Ma. Eloína Peláez Valdéz,Ma. Eloína Peláez Valdéz,Eloína Pelaez,Eloína Pelaez,Eloina_Pelaez,0,1,0,1,0,0,0
+,,,1015,,,Enrique Felipe Pérez García,Enrique Felipe Pérez García,Enrique Perez,Enrique Perez,Enrique_Perez,1,0,0,0,1,0,0
+,,,1016,,,Frida Gorbach Rudoy,Frida Gorbach Rudoy,Frida Gorbach,Frida Gorbach,Frida_Gorbach,1,0,0,1,0,0,0
+,,,1017,,,Gabriel Ramos Fernández,Gabriel Ramos Fernández,Gabriel Ramos,Gabriel Ramos,Gabriel_Ramos,0,1,0,0,0,1,0
+,,,1018,,,Gabriela Elisa Sued,Gabriela Elisa Sued,Gabriela Sued,Gabriela Sued,Gabriela_Sued,0,0,1,0,0,1,0
+,,,1019,,,Gerardo Iñiguez González,Gerardo Iñiguez González,Gerardo Iñiguez,Gerardo Iñiguez,Gerardo_Iniguez,0,1,0,0,0,1,1
+,,,1020,,,José Gerardo López Bonifacio,José Gerardo López Bonifacio,Gerardo López,Gerardo López,Gerardo_Lopez,1,0,0,0,0,1,0
+,,,1021,,,Gibrán Barrera Alba,Gibrán Barrera Alba,Gibran Barrera,Gibran Barrera,Gibran_Barrera,1,0,0,0,0,1,0
+,,,1022,,,Gregory Sandstrom,Gregory Sandstrom,Gregory Sandstrom,Gregory Sandstrom,Gregory_Sandstrom,0,1,0,0,0,1,1
+,,,1023,,,Guillermina Castro Nieto,Guillermina Castro Nieto,Guillermina Castro,Guillermina Castro,Guillermina_Castro,1,0,0,1,0,0,1
+,,,1024,,,Guillermo Andrés Espinosa Velazco,Guillermo Andrés Espinosa Velazco,Guillermo Espinosa,Guillermo Espinosa,Guillermo_Espinosa,0,1,0,0,1,0,0
+,,,1025,,,Ilya Adler Milstein,Ilya Adler Milstein,Ilya Adler,Ilya Adler,Ilya_Adler,0,1,0,1,0,0,1
+,,,1026,,,Israel García Solares,Israel García Solares,Israel García,Israel Garcia,Israel_Garcia,0,1,0,0,0,1,0
+,,,1027,,,Israel Sandoval Grajeda,Israel Sandoval Grajeda,Israel Sandoval,Israel Sandoval,Israel_Sandoval,1,0,0,0,0,1,0
+,,,1028,,,Jaime Jiménez Guzmán,Jaime Jiménez Guzmán,Jaime Jiménez,Jaime Jimenez,Jaime_Jimenez,0,1,0,1,1,1,0
+,,,1029,,,Jazmín Anaid Flores Zúñiga,Jazmín Anaid flores Zúñiga,Jazmin Flores,Jazmin Flores,Jazmin_Flores,0,0,1,0,0,1,1
+,,,1030,,,Jesús Mario Siqueiros García,Jesús Mario Siqueiros García,Jesus Siqueiros,Jesus Siqueiros,Jesus_Siqueiros,0,1,0,0,0,1,0
+,,,1031,,,Jorge Arturo Castro Cuevas,Jorge Arturo Castro Cuevas,Jorge Castro,Jorge Castro,Jorge_Castro,1,0,0,0,1,0,0
+,,,1032,,,Jorge Gil Mendieta,Jorge Gil Mendieta,Jorge Gil,Jorge Gil,Jorge_Gil,0,1,0,0,1,0,0
+,,,1033,,,José Antonio Aranda Román,José Antonio Aranda Román,Jose Aranda,Jose Aranda,Jose_Aranda,1,0,0,0,0,1,0
+,,,1034,,,José Aguirre Vázquez,José Aguirre Vázquez,Jose Aguirre,José Aguirre,Jose_Aguirre,1,0,0,1,0,0,1
+,,,1036,,,Juan Carlos Escalante Leal,Juan Carlos Escalante Leal,Juan Escalante,Juan Escalante,Juan_Escalante,1,0,0,1,1,1,0
+,,,1037,,,Judith Zubieta García,Judith Zubieta García,Judith Zubieta,Judith Zubieta,Judith_Zubieta,0,1,0,1,0,0,0
+,,,1038,,,Larissa Adler Milstein,Larissa Adler Milstein,Larissa Adler,Larissa Adler,Larissa_Adler,0,1,0,1,1,1,0
+,,,1039,,,Laura Cházaro García,Laura Cházaro García,Laura Cházaro,Laura Cházaro,Laura_Chazaro,1,0,0,1,1,0,0
+,,,1040,,,Leticia Mayer Celis,Leticia Mayer Celis,Leticia Mayer,Leticia Mayer,Leticia_Mayer,0,1,0,1,1,1,0
+,,,1041,,,Lilia Ponce de León García,Lilia Ponce de León García,Lilia Ponce de Leon,Lilia Ponce de Leon,Lilia_Ponce,1,0,0,1,0,0,0
+,,,1042,,,Liliana Ramírez Ruíz,Liliana Ramírez Ruíz,Liliana Ramírez,Liliana Ramírez,Liliana_Ramirez,0,0,1,0,0,1,1
+,,,1043,,,Magdalena Bayona N.,Magdalena Bayona N.,Magdalena Bayona,Magdalena Bayona,Magdalena_Bayona,1,0,0,1,0,0,0
+,,,1044,,,Marco Antonio Polo Carrillo,Marco Antonio Polo Carrillo,Marco Polo,Marco Polo,Marco_Polo,1,0,0,1,0,0,1
+,,,1045,,,Mariana Espinosa Aldama,Mariana Espinosa Aldama,Mariana Espinosa,Mariana Espinosa,Mariana_Espinosa,0,0,1,0,0,1,0
+,,,1046,,,Miguel Ángel Campos Hernández,Miguel Ángel Campos Hernández,Miguel Campos,Miguel Campos,Miguel_Campos,0,1,0,1,1,0,0
+,,,1048,,,Miguel Ángel Rossano Ávila,Miguel Ángel Rossano Ávila,Miguel Rossano,Miguel Rossano,Miguel_Rossano,1,0,0,1,1,0,0
+,,,1049,,,Narda Alcántara Valverde,Narda Alcántara Valverde,Narda Alcantara,Narda Alcantara,Narda_Alcantara,1,0,0,1,1,0,0
+,,,1050,,,Néstor Francisco Paredes Urbina,Néstor Francisco Paredes Urbina,Nestor Paredes,Nestor Paredes,Nestor_Paredes,0,0,1,0,0,1,1
+,,,1051,,,Nina Inés Jung,Nina Inés Jung,Ninga Jung,Nina Jung,Nina_Jung,1,0,0,0,0,1,1
+,,,1052,,,Norma Elena Uribe Memije,Norma Elena Uribe Memije,Norma Uribe,Norma Uribe,Norma_Uribe,1,0,0,1,0,0,1
+,,,1053,,,Philip Andrew Sinclair,Philip Andrew Sinclair,Philip Sinclair,Philip Sinclair,Philip_Sinclair,0,1,0,0,1,0,1
+,,,1054,,,Ma del Pilar Galarza Barrios,Ma del Pilar Galarza Barrios,Pilar Galarza,Pilar Galarza,Pilar_Galarza,1,0,0,0,1,1,0
+,,,1055,,,Raúl Carbajal Moreno,Raúl Carbajal Moreno,Raul Carbajal,Raul Carbajal,Raul_Carbajal,0,1,0,1,0,0,0
+,,,1056,,,Ricardo López Montes de Oca,Ricardo López Montes de Oca,Ricardo Lopez,Ricardo Lopez,Ricardo_Lopez,1,0,0,1,0,0,0
+,,,1057,,,Sandra E Smith Aguilar,Sandra E Smith Aguilar,Sandra Smith,Sandra Smith,Sandra_Smith,0,0,1,0,0,1,0
+,,,1058,,,Sara Rosa Medina Martínez,Sara Rosa Medina Martínez,Sara Medina,Sara Medina,Sara_Medina,1,0,0,1,0,0,1
+,,,1059,,,Silvia Priscila Casasola Vargas,Silvia Priscila Casasola Vargas,Silvia Casasola,Silvia Casasola,Silvia_Casasola,0,0,1,0,1,0,1
+,,,1060,,,Susana Fernández Apango,Susana Fernández Apango,Susana Fernandez,Susana Fernandez,Susana_Fernandez,1,0,0,1,0,0,1
+,,,1061,,,Susana García Salord,Susana García Salord,Susana García,Susana Garcia,Susana_Garcia,0,1,0,1,1,1,0
+,,,1062,,,Teresa Guadalupe de León Escobedo,Teresa Guadalupe de León Escobedo,Teresa de Leon,Teresa de Leon,Teresa_de_Leon,0,1,0,0,0,1,0
