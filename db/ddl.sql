@@ -177,7 +177,13 @@ CREATE TABLE object (
 	code TEXT
 		UNIQUE NOT NULL
 		COLLATE NOCASE,
-	CHECK (code <> ''))
+	reference TEXT
+		DEFAULT NULL,
+	year INTEGER
+		DEFAULT NULL,
+	CHECK (code <> ''),
+	CHECK (reference IS NULL OR trim(reference) <> ''),
+	CHECK (year IS NULL OR year BETWEEN 0 AND 9999))
 STRICT;
 
 
@@ -243,9 +249,12 @@ CREATE TABLE object_desc (
 	label TEXT
 		NOT NULL
 		COLLATE NOCASE,
+	desc TEXT
+		DEFAULT NULL,
 	PRIMARY KEY (object_id, lang_code),
 	UNIQUE (lang_code, label),
-	CHECK (label <> ''))
+	CHECK (label <> ''),
+	CHECK (desc IS NULL OR trim(desc) <> ''))
 STRICT;
 
 
@@ -390,6 +399,9 @@ SELECT
 	context.code AS Context,
 	object.code AS ObjectCode,
 	object_desc.label AS Object,
+	object_desc.desc AS ObjectDescription,
+	object.reference AS ObjectReference,
+	object.year AS ObjectReferenceYear,
 	attribute_desc.label AS Attribute,
 	attr_class.code AS Class,
 	object_context.object_id,
@@ -437,7 +449,10 @@ SELECT
 	od.lang_code AS Lang,
 	d.code AS Context,
 	od.label AS Object,
-	o.code AS Code
+	od.desc AS Description,
+	o.code AS Code,
+	o.reference AS Reference,
+	o.year AS ReferenceYear
 FROM
 	object AS o
 	NATURAL JOIN object_context
