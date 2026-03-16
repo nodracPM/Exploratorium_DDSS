@@ -464,5 +464,29 @@ ORDER BY
 ;
 
 
+-- View: v_objects
+DROP VIEW IF EXISTS v_objects;
+
+CREATE VIEW v_objects AS
+SELECT
+	od.lang_code AS Lang,
+	d.code AS Context,
+	o.code AS Code,
+	od.label AS Label,
+	o.year AS Year,
+	od.desc AS Description,
+	o.reference AS Reference
+FROM
+	object AS o
+	NATURAL JOIN object_context
+	NATURAL JOIN object_desc AS od
+	JOIN context AS d USING (context_id)
+ORDER BY
+	Lang,
+	Context,
+	Label
+;
+
+
 COMMIT TRANSACTION;
 PRAGMA foreign_keys = on;

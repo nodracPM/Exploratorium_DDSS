@@ -35,7 +35,6 @@
             "Agri-food networks",
             "Archival Analysis",
             "Artificial intelligence",
-            "Astronomy",
             "Bibliometrics and Scientometrics",
             "Bioinformatics Tools",
             "Cetaceans",
@@ -48,7 +47,7 @@
             "Computational thinking",
             "Concept networks",
             "Correspondence Analysis",
-            "COVID-19",
+            "COVID 19",
             "CT indicators",
             "Digital News",
             "Digital Source Mining",
@@ -81,6 +80,7 @@
             "Nanotechnology",
             "Network Visualization",
             "Pattern Recognition",
+            "Physical Theories",
             "Quantitative History",
             "Reconstruction of Genealogies and Trajectories",
             "Reproduction of Academic Spaces",
@@ -95,7 +95,7 @@
             "Social studies of CTS",
             "Socio History",
             "Socio-ecology",
-            "Socio-ecosystems in Yucatán",
+            "Socio-ecosystems in Yucatan",
             "Socio-history of quantification",
             "Socio-scientific Systems",
             "Sociology of professions",
@@ -103,16 +103,16 @@
             "Spider Monkeys",
             "Statistical Practices",
             "Studies of Scientists",
-            "Studies of technitians",
+            "Studies of technicians",
             "Study of News",
             "Surveys",
             "Technical Analysis",
             "Topic Modeling Analysis",
             "Tourism",
             "Trajectories of Science",
-            "University’s sociocultural history"
+            "University s sociocultural history"
          ],
-         "md5" : "0c1705532b36f03f685cdb017d1857d8"
+         "md5" : "476ed30c066907f1e2f3e06e16250f82"
       },
       {
          "extent" : [
@@ -164,7 +164,7 @@
          "intent" : [
             "Bibliometrics and Scientometrics",
             "Complex social systems",
-            "COVID-19",
+            "COVID 19",
             "Digital Source Mining",
             "Mathematical modeling",
             "Multiplex Network Analysis",
@@ -175,7 +175,7 @@
             "Socio-scientific Systems",
             "Topic Modeling Analysis"
          ],
-         "md5" : "36403274b8e16eddb27a79f3817d8557"
+         "md5" : "c2b85011ab1b7fb77a3611021fad2c55"
       },
       {
          "extent" : [
@@ -195,7 +195,6 @@
             "Mariana_Espinosa"
          ],
          "intent" : [
-            "Astronomy",
             "Bibliometrics and Scientometrics",
             "Concept networks",
             "Formal Concept Analysis",
@@ -203,9 +202,10 @@
             "Maps of science",
             "Mathematical modeling",
             "Network Visualization",
+            "Physical Theories",
             "Topic Modeling Analysis"
          ],
-         "md5" : "20853a4ec9ddbbf596504b0659184d9b"
+         "md5" : "047b4c3a675c942e9a9bae5ee25f88c1"
       },
       {
          "extent" : [
@@ -241,9 +241,9 @@
             "Network Visualization",
             "Socio History",
             "Socio-scientific Systems",
-            "University’s sociocultural history"
+            "University s sociocultural history"
          ],
-         "md5" : "704de8fd0c39a7708e833e676ce11cf4"
+         "md5" : "5f02e5faaa7db7dd9bcd90e980bd5e5b"
       },
       {
          "extent" : [
@@ -295,9 +295,9 @@
          ],
          "intent" : [
             "Socio History",
-            "University’s sociocultural history"
+            "University s sociocultural history"
          ],
-         "md5" : "76083f75149f0a87cbaabada5ed41eb2"
+         "md5" : "c171d4279b9337d77bcbcc8c401a739e"
       },
       {
          "extent" : [
@@ -308,9 +308,9 @@
             "Interviews",
             "Literature Review",
             "Socio History",
-            "University’s sociocultural history"
+            "University s sociocultural history"
          ],
-         "md5" : "ef5c08110d7071e50dff92b34f5f3798"
+         "md5" : "5debd879f51035fff0d51c48945b915c"
       },
       {
          "extent" : [
@@ -324,9 +324,9 @@
             "Literature Review",
             "Socio History",
             "Surveys",
-            "University’s sociocultural history"
+            "University s sociocultural history"
          ],
-         "md5" : "5c8b618830ca1097443fbfb0a248ec8d"
+         "md5" : "051d41347c485946531596d9ad367016"
       },
       {
          "extent" : [
@@ -336,9 +336,9 @@
          "intent" : [
             "Document Analysis",
             "Socio History",
-            "University’s sociocultural history"
+            "University s sociocultural history"
          ],
-         "md5" : "28a687c732c84ec08dd346b5b64b750f"
+         "md5" : "b84d58f1ce63ea016d2330469e81f32c"
       },
       {
          "extent" : [
@@ -351,9 +351,9 @@
             "Network Visualization",
             "Reconstruction of Genealogies and Trajectories",
             "Socio History",
-            "University’s sociocultural history"
+            "University s sociocultural history"
          ],
-         "md5" : "0c1f50c295d386acfe6be0722f8d5c95"
+         "md5" : "8eb8f407850b4feb575c843b4fe480f9"
       },
       {
          "extent" : [
@@ -364,9 +364,9 @@
          "intent" : [
             "Academic entities",
             "Socio History",
-            "University’s sociocultural history"
+            "University s sociocultural history"
          ],
-         "md5" : "4eee58233e89a31f88cd58851da83a56"
+         "md5" : "84b24d27026319293e15250a5ffb5ea1"
       },
       {
          "extent" : [
@@ -377,9 +377,9 @@
             "Academic entities",
             "Reconstruction of Genealogies and Trajectories",
             "Socio History",
-            "University’s sociocultural history"
+            "University s sociocultural history"
          ],
-         "md5" : "36479c1a0cc9a4724d93b1d1ccaf6a5b"
+         "md5" : "17e4adf5cdee1c4b1f2328ea172895e7"
       },
       {
          "extent" : [
@@ -394,9 +394,9 @@
             "Socio History",
             "Socio-history of quantification",
             "Software Engineering",
-            "University’s sociocultural history"
+            "University s sociocultural history"
          ],
-         "md5" : "9a7ac3c0382a473775688b53579f0bd2"
+         "md5" : "08018d2cf0b35c80311bfccb289c8194"
       },
       {
          "extent" : [
@@ -408,9 +408,9 @@
             "Genealogy of Academic Entities",
             "Network Visualization",
             "Socio History",
-            "University’s sociocultural history"
+            "University s sociocultural history"
          ],
-         "md5" : "08042bd2339d2dc0186924942a31f6bb"
+         "md5" : "7fa4f64be3c8f84fc92d906405107664"
       },
       {
          "extent" : [
@@ -450,10 +450,10 @@
             "Social Networks Analysis",
             "Socio History",
             "Socio-history of quantification",
-            "Studies of technitians",
+            "Studies of technicians",
             "Trajectories of Science"
          ],
-         "md5" : "90c987b8b8db9e4a97c5c78118290618"
+         "md5" : "398ccf144141732fd7a297804bb19de2"
       },
       {
          "extent" : [
@@ -591,7 +591,6 @@
          "intent" : [
             "Academic entities",
             "Academic networks",
-            "Astronomy",
             "Bibliometrics and Scientometrics",
             "CT indicators",
             "Document Analysis",
@@ -601,15 +600,16 @@
             "Mathematical modeling",
             "Multiplex Network Analysis",
             "Network Visualization",
+            "Physical Theories",
             "Social Networks Analysis",
             "Social studies of CTS",
             "Studies of Scientists",
-            "Studies of technitians",
+            "Studies of technicians",
             "Surveys",
             "Tourism",
             "Trajectories of Science"
          ],
-         "md5" : "89487ec367e16ca0f71e3346b31598a3"
+         "md5" : "f960b64adaf3f7a311066dc6ebd5a392"
       },
       {
          "extent" : [
@@ -927,10 +927,10 @@
          ],
          "intent" : [
             "Social Networks Analysis",
-            "Studies of technitians",
+            "Studies of technicians",
             "Trajectories of Science"
          ],
-         "md5" : "f0336106a554627c92188f188db668a7"
+         "md5" : "e4780401b8aee6d0b933ff38a22d0c61"
       },
       {
          "extent" : [
@@ -1083,10 +1083,10 @@
             "Network Visualization",
             "Social complexity",
             "Social Networks Analysis",
-            "Socio-ecosystems in Yucatán",
+            "Socio-ecosystems in Yucatan",
             "Spider Monkeys"
          ],
-         "md5" : "8aba99a5ba435712ce9ef58b016ad4ad"
+         "md5" : "f3695b8717e8c070be0a115b4a6fea7d"
       },
       {
          "extent" : [
@@ -1331,14 +1331,14 @@
             "Mariana_Espinosa"
          ],
          "intent" : [
-            "Astronomy",
             "Bibliometrics and Scientometrics",
             "Literature Review",
             "Maps of science",
             "Mathematical modeling",
-            "Network Visualization"
+            "Network Visualization",
+            "Physical Theories"
          ],
-         "md5" : "3a6c31c963ab64534bb9b1131d85c314"
+         "md5" : "55044e53278f52347bb7e7d74918f395"
       },
       {
          "extent" : [
@@ -1651,7 +1651,6 @@
          "attributes" : [
             "Academic entities",
             "Academic networks",
-            "Astronomy",
             "Bibliometrics and Scientometrics",
             "CT indicators",
             "Document Analysis",
@@ -1661,10 +1660,11 @@
             "Mathematical modeling",
             "Multiplex Network Analysis",
             "Network Visualization",
+            "Physical Theories",
             "Social Networks Analysis",
             "Social studies of CTS",
             "Studies of Scientists",
-            "Studies of technitians",
+            "Studies of technicians",
             "Surveys",
             "Tourism",
             "Trajectories of Science"
@@ -1761,7 +1761,7 @@
             "Network Visualization",
             "Social complexity",
             "Social Networks Analysis",
-            "Socio-ecosystems in Yucatán",
+            "Socio-ecosystems in Yucatan",
             "Spider Monkeys"
          ],
          "id" : "Gabriel_Ramos",
@@ -1787,7 +1787,7 @@
          "attributes" : [
             "Bibliometrics and Scientometrics",
             "Complex social systems",
-            "COVID-19",
+            "COVID 19",
             "Digital Source Mining",
             "Mathematical modeling",
             "Multiplex Network Analysis",
@@ -1831,7 +1831,7 @@
             "Socio History",
             "Socio-history of quantification",
             "Software Engineering",
-            "University’s sociocultural history"
+            "University s sociocultural history"
          ],
          "id" : "Israel_Sandoval",
          "name" : "Israel Sandoval"
@@ -1845,7 +1845,7 @@
             "Network Visualization",
             "Socio History",
             "Socio-scientific Systems",
-            "University’s sociocultural history"
+            "University s sociocultural history"
          ],
          "id" : "Juan_Escalante",
          "name" : "Juan Escalante"
@@ -1860,7 +1860,7 @@
             "Social Networks Analysis",
             "Socio History",
             "Socio-history of quantification",
-            "Studies of technitians",
+            "Studies of technicians",
             "Trajectories of Science"
          ],
          "id" : "Leticia_Mayer",
@@ -1883,7 +1883,6 @@
       },
       "Mariana_Espinosa" : {
          "attributes" : [
-            "Astronomy",
             "Bibliometrics and Scientometrics",
             "Concept networks",
             "Formal Concept Analysis",
@@ -1891,6 +1890,7 @@
             "Maps of science",
             "Mathematical modeling",
             "Network Visualization",
+            "Physical Theories",
             "Topic Modeling Analysis"
          ],
          "id" : "Mariana_Espinosa",
@@ -1919,7 +1919,7 @@
             "Literature Review",
             "Socio History",
             "Surveys",
-            "University’s sociocultural history"
+            "University s sociocultural history"
          ],
          "id" : "Pilar_Galarza",
          "name" : "Pilar Galarza"
@@ -1948,7 +1948,7 @@
             "Network Visualization",
             "Reconstruction of Genealogies and Trajectories",
             "Socio History",
-            "University’s sociocultural history"
+            "University s sociocultural history"
          ],
          "id" : "Susana_Garcia",
          "name" : "Susana Garcia"
@@ -2996,23 +2996,23 @@
    "nodes" : [
       {
          "children" : [
-            "401570394",
-            "1987138458",
-            "1740401227",
-            "943600444",
-            "1424991179",
-            "687789903",
-            "739511849",
-            "1702526788",
-            "1277323739",
-            "314084287",
-            "508672647",
-            "686253654",
-            "2010431008",
-            "560408086",
-            "846275903",
-            "772983752",
-            "428346192"
+            "1843702630",
+            "91680391",
+            "1089363462",
+            "1952832718",
+            "1007871679",
+            "245511532",
+            "1007572176",
+            "1717009459",
+            "1306220888",
+            "1380781274",
+            "480995991",
+            "1094724565",
+            "1455864636",
+            "1817659106",
+            "728725037",
+            "222076304",
+            "691521546"
          ],
          "concept" : {
             "extent" : [
@@ -3040,7 +3040,7 @@
             "intent" : [],
             "md5" : "f364422fb3165b5d2a0714a8c086b78d"
          },
-         "hash" : "1920226781",
+         "hash" : "1168504361",
          "idx" : 0,
          "labelAttributes" : [],
          "labelObjects" : [],
@@ -3058,7 +3058,6 @@
                "Agri-food networks",
                "Archival Analysis",
                "Artificial intelligence",
-               "Astronomy",
                "Bibliometrics and Scientometrics",
                "Bioinformatics Tools",
                "Cetaceans",
@@ -3071,7 +3070,7 @@
                "Computational thinking",
                "Concept networks",
                "Correspondence Analysis",
-               "COVID-19",
+               "COVID 19",
                "CT indicators",
                "Digital News",
                "Digital Source Mining",
@@ -3104,6 +3103,7 @@
                "Nanotechnology",
                "Network Visualization",
                "Pattern Recognition",
+               "Physical Theories",
                "Quantitative History",
                "Reconstruction of Genealogies and Trajectories",
                "Reproduction of Academic Spaces",
@@ -3118,7 +3118,7 @@
                "Social studies of CTS",
                "Socio History",
                "Socio-ecology",
-               "Socio-ecosystems in Yucatán",
+               "Socio-ecosystems in Yucatan",
                "Socio-history of quantification",
                "Socio-scientific Systems",
                "Sociology of professions",
@@ -3126,49 +3126,49 @@
                "Spider Monkeys",
                "Statistical Practices",
                "Studies of Scientists",
-               "Studies of technitians",
+               "Studies of technicians",
                "Study of News",
                "Surveys",
                "Technical Analysis",
                "Topic Modeling Analysis",
                "Tourism",
                "Trajectories of Science",
-               "University’s sociocultural history"
+               "University s sociocultural history"
             ],
-            "md5" : "0c1705532b36f03f685cdb017d1857d8"
+            "md5" : "476ed30c066907f1e2f3e06e16250f82"
          },
-         "hash" : "658867388",
+         "hash" : "335761443",
          "idx" : 1,
          "labelAttributes" : [],
          "labelObjects" : [],
          "level" : "0",
          "parents" : [
-            "422286864",
-            "651792892",
-            "450650642",
-            "629353839",
-            "1625142489",
-            "174169935",
-            "1943318755",
-            "1333793699",
-            "1115037174",
-            "1147894032",
-            "309234390",
-            "1564253747",
-            "802660815",
-            "812383964",
-            "2097817136",
-            "228366298",
-            "562760703",
-            "1995872175",
-            "925096724",
-            "1592309869"
+            "1289054740",
+            "2019940321",
+            "1551624675",
+            "1743124581",
+            "502599",
+            "1451998841",
+            "1430020538",
+            "500342184",
+            "540164294",
+            "734087887",
+            "491184060",
+            "342900321",
+            "653686873",
+            "130075002",
+            "744975901",
+            "224212133",
+            "450737301",
+            "1488809029",
+            "118611328",
+            "1670199771"
          ]
       },
       {
          "children" : [
-            "1699492884",
-            "1285466322"
+            "670030242",
+            "781970690"
          ],
          "concept" : {
             "extent" : [
@@ -3181,7 +3181,7 @@
             ],
             "md5" : "5c9235d5b696ac39c198b308eea84228"
          },
-         "hash" : "401570394",
+         "hash" : "1843702630",
          "idx" : 2,
          "labelAttributes" : [
             "Topic Modeling Analysis"
@@ -3189,13 +3189,13 @@
          "labelObjects" : [],
          "level" : "3",
          "parents" : [
-            "1920226781"
+            "1168504361"
          ]
       },
       {
          "children" : [
-            "422286864",
-            "651792892"
+            "1289054740",
+            "2019940321"
          ],
          "concept" : {
             "extent" : [
@@ -3211,19 +3211,19 @@
             ],
             "md5" : "04f93652e21bacf460d1b6ce209dd364"
          },
-         "hash" : "1699492884",
+         "hash" : "670030242",
          "idx" : 3,
          "labelAttributes" : [],
          "labelObjects" : [],
          "level" : "2",
          "parents" : [
-            "401570394",
-            "1632422950"
+            "1843702630",
+            "36141745"
          ]
       },
       {
          "children" : [
-            "658867388"
+            "335761443"
          ],
          "concept" : {
             "extent" : [
@@ -3243,7 +3243,7 @@
             ],
             "md5" : "f2c0d304ad4edb297f4fdafea5855376"
          },
-         "hash" : "422286864",
+         "hash" : "1289054740",
          "idx" : 4,
          "labelAttributes" : [
             "Cetaceans",
@@ -3254,14 +3254,14 @@
          ],
          "level" : "1",
          "parents" : [
-            "1699492884",
-            "1141904217",
-            "839234646"
+            "670030242",
+            "873790732",
+            "1790202304"
          ]
       },
       {
          "children" : [
-            "658867388"
+            "335761443"
          ],
          "concept" : {
             "extent" : [
@@ -3270,7 +3270,7 @@
             "intent" : [
                "Bibliometrics and Scientometrics",
                "Complex social systems",
-               "COVID-19",
+               "COVID 19",
                "Digital Source Mining",
                "Mathematical modeling",
                "Multiplex Network Analysis",
@@ -3281,31 +3281,31 @@
                "Socio-scientific Systems",
                "Topic Modeling Analysis"
             ],
-            "md5" : "36403274b8e16eddb27a79f3817d8557"
+            "md5" : "c2b85011ab1b7fb77a3611021fad2c55"
          },
-         "hash" : "651792892",
+         "hash" : "2019940321",
          "idx" : 5,
          "labelAttributes" : [
-            "COVID-19"
+            "COVID 19"
          ],
          "labelObjects" : [
             "Gerardo_Lopez"
          ],
          "level" : "1",
          "parents" : [
-            "1699492884",
-            "1285466322",
-            "61333024",
-            "76357518",
-            "1086545565",
-            "1610347991",
-            "1645242070"
+            "670030242",
+            "781970690",
+            "840467094",
+            "190022806",
+            "406647917",
+            "1355717883",
+            "640989254"
          ]
       },
       {
          "children" : [
-            "651792892",
-            "450650642"
+            "2019940321",
+            "1551624675"
          ],
          "concept" : {
             "extent" : [
@@ -3320,26 +3320,25 @@
             ],
             "md5" : "c6d7104fe8ffeb554d6c2fb5d49df109"
          },
-         "hash" : "1285466322",
+         "hash" : "781970690",
          "idx" : 6,
          "labelAttributes" : [],
          "labelObjects" : [],
          "level" : "2",
          "parents" : [
-            "401570394",
-            "244151413"
+            "1843702630",
+            "827653922"
          ]
       },
       {
          "children" : [
-            "658867388"
+            "335761443"
          ],
          "concept" : {
             "extent" : [
                "Mariana_Espinosa"
             ],
             "intent" : [
-               "Astronomy",
                "Bibliometrics and Scientometrics",
                "Concept networks",
                "Formal Concept Analysis",
@@ -3347,11 +3346,12 @@
                "Maps of science",
                "Mathematical modeling",
                "Network Visualization",
+               "Physical Theories",
                "Topic Modeling Analysis"
             ],
-            "md5" : "20853a4ec9ddbbf596504b0659184d9b"
+            "md5" : "047b4c3a675c942e9a9bae5ee25f88c1"
          },
-         "hash" : "450650642",
+         "hash" : "1551624675",
          "idx" : 7,
          "labelAttributes" : [
             "Formal Concept Analysis",
@@ -3362,14 +3362,14 @@
          ],
          "level" : "1",
          "parents" : [
-            "1285466322",
-            "1424024719"
+            "781970690",
+            "1312094969"
          ]
       },
       {
          "children" : [
-            "61333024",
-            "1354364952"
+            "840467094",
+            "2146935533"
          ],
          "concept" : {
             "extent" : [
@@ -3382,7 +3382,7 @@
             ],
             "md5" : "9c0fa2d65ccd4990871e5c54cc69e115"
          },
-         "hash" : "1987138458",
+         "hash" : "91680391",
          "idx" : 8,
          "labelAttributes" : [
             "Socio-scientific Systems"
@@ -3390,13 +3390,13 @@
          "labelObjects" : [],
          "level" : "3",
          "parents" : [
-            "1920226781"
+            "1168504361"
          ]
       },
       {
          "children" : [
-            "629353839",
-            "651792892"
+            "1743124581",
+            "2019940321"
          ],
          "concept" : {
             "extent" : [
@@ -3409,19 +3409,19 @@
             ],
             "md5" : "9acfacb77b8d98f9a06a54902420945a"
          },
-         "hash" : "61333024",
+         "hash" : "840467094",
          "idx" : 9,
          "labelAttributes" : [],
          "labelObjects" : [],
          "level" : "2",
          "parents" : [
-            "1987138458",
-            "739511849"
+            "91680391",
+            "1007572176"
          ]
       },
       {
          "children" : [
-            "658867388"
+            "335761443"
          ],
          "concept" : {
             "extent" : [
@@ -3435,11 +3435,11 @@
                "Network Visualization",
                "Socio History",
                "Socio-scientific Systems",
-               "University’s sociocultural history"
+               "University s sociocultural history"
             ],
-            "md5" : "704de8fd0c39a7708e833e676ce11cf4"
+            "md5" : "5f02e5faaa7db7dd9bcd90e980bd5e5b"
          },
-         "hash" : "629353839",
+         "hash" : "1743124581",
          "idx" : 10,
          "labelAttributes" : [],
          "labelObjects" : [
@@ -3447,17 +3447,17 @@
          ],
          "level" : "1",
          "parents" : [
-            "61333024",
-            "1354364952",
-            "61782556",
-            "2018809166",
-            "1575189679"
+            "840467094",
+            "2146935533",
+            "377322712",
+            "806763801",
+            "1052523063"
          ]
       },
       {
          "children" : [
-            "629353839",
-            "1625142489"
+            "1743124581",
+            "502599"
          ],
          "concept" : {
             "extent" : [
@@ -3470,19 +3470,19 @@
             ],
             "md5" : "a9893981e695a68b3496066af078daaf"
          },
-         "hash" : "1354364952",
+         "hash" : "2146935533",
          "idx" : 11,
          "labelAttributes" : [],
          "labelObjects" : [],
          "level" : "2",
          "parents" : [
-            "1987138458",
-            "314084287"
+            "91680391",
+            "1380781274"
          ]
       },
       {
          "children" : [
-            "658867388"
+            "335761443"
          ],
          "concept" : {
             "extent" : [
@@ -3499,7 +3499,7 @@
             ],
             "md5" : "9656a4fa78c55cce4e54592d90e17a8a"
          },
-         "hash" : "1625142489",
+         "hash" : "502599",
          "idx" : 12,
          "labelAttributes" : [
             "Geographies of science",
@@ -3510,18 +3510,18 @@
          ],
          "level" : "1",
          "parents" : [
-            "1354364952",
-            "1116022323",
-            "881662501"
+            "2146935533",
+            "2090735559",
+            "33042224"
          ]
       },
       {
          "children" : [
-            "1756305183",
-            "779032737",
-            "1160775649",
-            "430989648",
-            "163023510"
+            "468195",
+            "1605749590",
+            "1402593096",
+            "332983204",
+            "717354240"
          ],
          "concept" : {
             "extent" : [
@@ -3538,7 +3538,7 @@
             ],
             "md5" : "81c982518ec0df20a2424871d4cbae48"
          },
-         "hash" : "1740401227",
+         "hash" : "1089363462",
          "idx" : 13,
          "labelAttributes" : [
             "Socio History"
@@ -3546,14 +3546,14 @@
          "labelObjects" : [],
          "level" : "5",
          "parents" : [
-            "1920226781"
+            "1168504361"
          ]
       },
       {
          "children" : [
-            "61782556",
-            "10576631",
-            "897035087"
+            "377322712",
+            "309384546",
+            "926702553"
          ],
          "concept" : {
             "extent" : [
@@ -3564,25 +3564,25 @@
             ],
             "intent" : [
                "Socio History",
-               "University’s sociocultural history"
+               "University s sociocultural history"
             ],
-            "md5" : "76083f75149f0a87cbaabada5ed41eb2"
+            "md5" : "c171d4279b9337d77bcbcc8c401a739e"
          },
-         "hash" : "1756305183",
+         "hash" : "468195",
          "idx" : 14,
          "labelAttributes" : [
-            "University’s sociocultural history"
+            "University s sociocultural history"
          ],
          "labelObjects" : [],
          "level" : "4",
          "parents" : [
-            "1740401227"
+            "1089363462"
          ]
       },
       {
          "children" : [
-            "174169935",
-            "629353839"
+            "1451998841",
+            "1743124581"
          ],
          "concept" : {
             "extent" : [
@@ -3593,23 +3593,23 @@
                "Interviews",
                "Literature Review",
                "Socio History",
-               "University’s sociocultural history"
+               "University s sociocultural history"
             ],
-            "md5" : "ef5c08110d7071e50dff92b34f5f3798"
+            "md5" : "5debd879f51035fff0d51c48945b915c"
          },
-         "hash" : "61782556",
+         "hash" : "377322712",
          "idx" : 15,
          "labelAttributes" : [],
          "labelObjects" : [],
          "level" : "2",
          "parents" : [
-            "1756305183",
-            "105188046"
+            "468195",
+            "208747730"
          ]
       },
       {
          "children" : [
-            "658867388"
+            "335761443"
          ],
          "concept" : {
             "extent" : [
@@ -3623,11 +3623,11 @@
                "Literature Review",
                "Socio History",
                "Surveys",
-               "University’s sociocultural history"
+               "University s sociocultural history"
             ],
-            "md5" : "5c8b618830ca1097443fbfb0a248ec8d"
+            "md5" : "051d41347c485946531596d9ad367016"
          },
-         "hash" : "174169935",
+         "hash" : "1451998841",
          "idx" : 16,
          "labelAttributes" : [
             "Information Sources"
@@ -3637,17 +3637,17 @@
          ],
          "level" : "1",
          "parents" : [
-            "61782556",
-            "10576631",
-            "430989648",
-            "1264426982",
-            "1675491265"
+            "377322712",
+            "309384546",
+            "332983204",
+            "533768745",
+            "1036173232"
          ]
       },
       {
          "children" : [
-            "174169935",
-            "1943318755"
+            "1451998841",
+            "1430020538"
          ],
          "concept" : {
             "extent" : [
@@ -3657,23 +3657,23 @@
             "intent" : [
                "Document Analysis",
                "Socio History",
-               "University’s sociocultural history"
+               "University s sociocultural history"
             ],
-            "md5" : "28a687c732c84ec08dd346b5b64b750f"
+            "md5" : "b84d58f1ce63ea016d2330469e81f32c"
          },
-         "hash" : "10576631",
+         "hash" : "309384546",
          "idx" : 17,
          "labelAttributes" : [],
          "labelObjects" : [],
          "level" : "2",
          "parents" : [
-            "1756305183",
-            "508672647"
+            "468195",
+            "480995991"
          ]
       },
       {
          "children" : [
-            "658867388"
+            "335761443"
          ],
          "concept" : {
             "extent" : [
@@ -3686,11 +3686,11 @@
                "Network Visualization",
                "Reconstruction of Genealogies and Trajectories",
                "Socio History",
-               "University’s sociocultural history"
+               "University s sociocultural history"
             ],
-            "md5" : "0c1f50c295d386acfe6be0722f8d5c95"
+            "md5" : "8eb8f407850b4feb575c843b4fe480f9"
          },
-         "hash" : "1943318755",
+         "hash" : "1430020538",
          "idx" : 18,
          "labelAttributes" : [],
          "labelObjects" : [
@@ -3698,16 +3698,16 @@
          ],
          "level" : "1",
          "parents" : [
-            "10576631",
-            "1021990841",
-            "2018809166",
-            "1882884819"
+            "309384546",
+            "971643262",
+            "806763801",
+            "1937738735"
          ]
       },
       {
          "children" : [
-            "1021990841",
-            "2018809166"
+            "971643262",
+            "806763801"
          ],
          "concept" : {
             "extent" : [
@@ -3718,24 +3718,24 @@
             "intent" : [
                "Academic entities",
                "Socio History",
-               "University’s sociocultural history"
+               "University s sociocultural history"
             ],
-            "md5" : "4eee58233e89a31f88cd58851da83a56"
+            "md5" : "84b24d27026319293e15250a5ffb5ea1"
          },
-         "hash" : "897035087",
+         "hash" : "926702553",
          "idx" : 19,
          "labelAttributes" : [],
          "labelObjects" : [],
          "level" : "3",
          "parents" : [
-            "1756305183",
-            "163023510"
+            "468195",
+            "717354240"
          ]
       },
       {
          "children" : [
-            "1333793699",
-            "1943318755"
+            "500342184",
+            "1430020538"
          ],
          "concept" : {
             "extent" : [
@@ -3746,11 +3746,11 @@
                "Academic entities",
                "Reconstruction of Genealogies and Trajectories",
                "Socio History",
-               "University’s sociocultural history"
+               "University s sociocultural history"
             ],
-            "md5" : "36479c1a0cc9a4724d93b1d1ccaf6a5b"
+            "md5" : "17e4adf5cdee1c4b1f2328ea172895e7"
          },
-         "hash" : "1021990841",
+         "hash" : "971643262",
          "idx" : 20,
          "labelAttributes" : [
             "Reconstruction of Genealogies and Trajectories"
@@ -3758,12 +3758,12 @@
          "labelObjects" : [],
          "level" : "2",
          "parents" : [
-            "897035087"
+            "926702553"
          ]
       },
       {
          "children" : [
-            "658867388"
+            "335761443"
          ],
          "concept" : {
             "extent" : [
@@ -3778,11 +3778,11 @@
                "Socio History",
                "Socio-history of quantification",
                "Software Engineering",
-               "University’s sociocultural history"
+               "University s sociocultural history"
             ],
-            "md5" : "9a7ac3c0382a473775688b53579f0bd2"
+            "md5" : "08018d2cf0b35c80311bfccb289c8194"
          },
-         "hash" : "1333793699",
+         "hash" : "500342184",
          "idx" : 21,
          "labelAttributes" : [
             "Software Engineering",
@@ -3794,15 +3794,15 @@
          ],
          "level" : "1",
          "parents" : [
-            "1021990841",
-            "779032737",
-            "686253654"
+            "971643262",
+            "1605749590",
+            "1094724565"
          ]
       },
       {
          "children" : [
-            "629353839",
-            "1943318755"
+            "1743124581",
+            "1430020538"
          ],
          "concept" : {
             "extent" : [
@@ -3814,11 +3814,11 @@
                "Genealogy of Academic Entities",
                "Network Visualization",
                "Socio History",
-               "University’s sociocultural history"
+               "University s sociocultural history"
             ],
-            "md5" : "08042bd2339d2dc0186924942a31f6bb"
+            "md5" : "7fa4f64be3c8f84fc92d906405107664"
          },
-         "hash" : "2018809166",
+         "hash" : "806763801",
          "idx" : 22,
          "labelAttributes" : [
             "Genealogy of Academic Entities"
@@ -3826,14 +3826,14 @@
          "labelObjects" : [],
          "level" : "2",
          "parents" : [
-            "897035087",
-            "1463785885"
+            "926702553",
+            "1768220235"
          ]
       },
       {
          "children" : [
-            "1333793699",
-            "1531973444"
+            "500342184",
+            "1106508776"
          ],
          "concept" : {
             "extent" : [
@@ -3847,7 +3847,7 @@
             ],
             "md5" : "0fb232c2ebbae121e36569207666a41f"
          },
-         "hash" : "779032737",
+         "hash" : "1605749590",
          "idx" : 23,
          "labelAttributes" : [
             "Socio-history of quantification"
@@ -3855,13 +3855,13 @@
          "labelObjects" : [],
          "level" : "3",
          "parents" : [
-            "1740401227"
+            "1089363462"
          ]
       },
       {
          "children" : [
-            "1115037174",
-            "1147894032"
+            "540164294",
+            "734087887"
          ],
          "concept" : {
             "extent" : [
@@ -3876,7 +3876,7 @@
             ],
             "md5" : "9e753094d8271d60c9430c4149b74114"
          },
-         "hash" : "1531973444",
+         "hash" : "1106508776",
          "idx" : 24,
          "labelAttributes" : [
             "History of statistics"
@@ -3884,13 +3884,13 @@
          "labelObjects" : [],
          "level" : "2",
          "parents" : [
-            "779032737",
-            "430989648"
+            "1605749590",
+            "332983204"
          ]
       },
       {
          "children" : [
-            "658867388"
+            "335761443"
          ],
          "concept" : {
             "extent" : [
@@ -3905,12 +3905,12 @@
                "Social Networks Analysis",
                "Socio History",
                "Socio-history of quantification",
-               "Studies of technitians",
+               "Studies of technicians",
                "Trajectories of Science"
             ],
-            "md5" : "90c987b8b8db9e4a97c5c78118290618"
+            "md5" : "398ccf144141732fd7a297804bb19de2"
          },
-         "hash" : "1115037174",
+         "hash" : "540164294",
          "idx" : 25,
          "labelAttributes" : [
             "History of probability",
@@ -3921,15 +3921,15 @@
          ],
          "level" : "1",
          "parents" : [
-            "1531973444",
-            "896125960",
-            "287421540",
-            "981021868"
+            "1106508776",
+            "674970433",
+            "664075610",
+            "1762398557"
          ]
       },
       {
          "children" : [
-            "658867388"
+            "335761443"
          ],
          "concept" : {
             "extent" : [
@@ -3948,7 +3948,7 @@
             ],
             "md5" : "7804f6ba7b968eb135959beb969a651c"
          },
-         "hash" : "1147894032",
+         "hash" : "734087887",
          "idx" : 26,
          "labelAttributes" : [
             "Statistical Practices",
@@ -3960,15 +3960,15 @@
          ],
          "level" : "1",
          "parents" : [
-            "1531973444",
-            "1160775649",
-            "2010431008"
+            "1106508776",
+            "1402593096",
+            "1455864636"
          ]
       },
       {
          "children" : [
-            "1147894032",
-            "309234390"
+            "734087887",
+            "491184060"
          ],
          "concept" : {
             "extent" : [
@@ -3981,7 +3981,7 @@
             ],
             "md5" : "889044a0774321d44d61074d8699a752"
          },
-         "hash" : "1160775649",
+         "hash" : "1402593096",
          "idx" : 27,
          "labelAttributes" : [
             "Social categories and classifications"
@@ -3989,12 +3989,12 @@
          "labelObjects" : [],
          "level" : "2",
          "parents" : [
-            "1740401227"
+            "1089363462"
          ]
       },
       {
          "children" : [
-            "658867388"
+            "335761443"
          ],
          "concept" : {
             "extent" : [
@@ -4012,7 +4012,7 @@
             ],
             "md5" : "95cc6ad3d05b995b8e51dbc0069cc574"
          },
-         "hash" : "309234390",
+         "hash" : "491184060",
          "idx" : 28,
          "labelAttributes" : [
             "Sociology of professions",
@@ -4023,15 +4023,15 @@
          ],
          "level" : "1",
          "parents" : [
-            "1160775649",
-            "163023510",
-            "687789903"
+            "1402593096",
+            "717354240",
+            "245511532"
          ]
       },
       {
          "children" : [
-            "174169935",
-            "1531973444"
+            "1451998841",
+            "1106508776"
          ],
          "concept" : {
             "extent" : [
@@ -4045,20 +4045,20 @@
             ],
             "md5" : "3d76b595d7c17ee4b2e3a86ef991039a"
          },
-         "hash" : "430989648",
+         "hash" : "332983204",
          "idx" : 29,
          "labelAttributes" : [],
          "labelObjects" : [],
          "level" : "3",
          "parents" : [
-            "1740401227",
-            "772983752"
+            "1089363462",
+            "222076304"
          ]
       },
       {
          "children" : [
-            "897035087",
-            "309234390"
+            "926702553",
+            "491184060"
          ],
          "concept" : {
             "extent" : [
@@ -4073,23 +4073,23 @@
             ],
             "md5" : "753c3732565a4c8793d367efc54ad73a"
          },
-         "hash" : "163023510",
+         "hash" : "717354240",
          "idx" : 30,
          "labelAttributes" : [],
          "labelObjects" : [],
          "level" : "4",
          "parents" : [
-            "1740401227",
-            "428346192"
+            "1089363462",
+            "691521546"
          ]
       },
       {
          "children" : [
-            "1636312712",
-            "452636477",
-            "107264658",
-            "1976251046",
-            "1431824113"
+            "939432751",
+            "1181634466",
+            "1183847448",
+            "1335849838",
+            "209436241"
          ],
          "concept" : {
             "extent" : [
@@ -4105,7 +4105,7 @@
             ],
             "md5" : "cef48acd100aa9c53e6123085f34b06b"
          },
-         "hash" : "943600444",
+         "hash" : "1952832718",
          "idx" : 31,
          "labelAttributes" : [
             "Social studies of CTS"
@@ -4113,14 +4113,14 @@
          "labelObjects" : [],
          "level" : "5",
          "parents" : [
-            "1920226781"
+            "1168504361"
          ]
       },
       {
          "children" : [
-            "965255642",
-            "368765519",
-            "2138109551"
+            "2116686052",
+            "1251608652",
+            "457358968"
          ],
          "concept" : {
             "extent" : [
@@ -4136,20 +4136,20 @@
             ],
             "md5" : "af5e0328fb656dc70a71db2c37a7b8e6"
          },
-         "hash" : "1636312712",
+         "hash" : "939432751",
          "idx" : 32,
          "labelAttributes" : [],
          "labelObjects" : [],
          "level" : "4",
          "parents" : [
-            "943600444",
-            "437987361"
+            "1952832718",
+            "945611555"
          ]
       },
       {
          "children" : [
-            "49893753",
-            "2059537607"
+            "1880701944",
+            "2124872445"
          ],
          "concept" : {
             "extent" : [
@@ -4166,22 +4166,22 @@
             ],
             "md5" : "c1daded7c22535aede5285924031979c"
          },
-         "hash" : "965255642",
+         "hash" : "2116686052",
          "idx" : 33,
          "labelAttributes" : [],
          "labelObjects" : [],
          "level" : "3",
          "parents" : [
-            "1636312712",
-            "107264658",
-            "1013547904",
-            "1075016614"
+            "939432751",
+            "1183847448",
+            "1146618824",
+            "1784387223"
          ]
       },
       {
          "children" : [
-            "1564253747",
-            "802660815"
+            "342900321",
+            "653686873"
          ],
          "concept" : {
             "extent" : [
@@ -4200,23 +4200,23 @@
             ],
             "md5" : "c141d603225e4e6f7541fb8fd9ccaa9c"
          },
-         "hash" : "49893753",
+         "hash" : "1880701944",
          "idx" : 34,
          "labelAttributes" : [],
          "labelObjects" : [],
          "level" : "2",
          "parents" : [
-            "965255642",
-            "2138109551",
-            "180876700",
-            "1976251046",
-            "1360148769",
-            "1882884819"
+            "2116686052",
+            "457358968",
+            "2053435554",
+            "1335849838",
+            "1287466583",
+            "1937738735"
          ]
       },
       {
          "children" : [
-            "658867388"
+            "335761443"
          ],
          "concept" : {
             "extent" : [
@@ -4225,7 +4225,6 @@
             "intent" : [
                "Academic entities",
                "Academic networks",
-               "Astronomy",
                "Bibliometrics and Scientometrics",
                "CT indicators",
                "Document Analysis",
@@ -4235,17 +4234,18 @@
                "Mathematical modeling",
                "Multiplex Network Analysis",
                "Network Visualization",
+               "Physical Theories",
                "Social Networks Analysis",
                "Social studies of CTS",
                "Studies of Scientists",
-               "Studies of technitians",
+               "Studies of technicians",
                "Surveys",
                "Tourism",
                "Trajectories of Science"
             ],
-            "md5" : "89487ec367e16ca0f71e3346b31598a3"
+            "md5" : "f960b64adaf3f7a311066dc6ebd5a392"
          },
-         "hash" : "1564253747",
+         "hash" : "342900321",
          "idx" : 35,
          "labelAttributes" : [
             "Tourism",
@@ -4256,21 +4256,21 @@
          ],
          "level" : "1",
          "parents" : [
-            "49893753",
-            "2059537607",
-            "422107363",
-            "1116022323",
-            "1944472373",
-            "896125960",
-            "1086545565",
-            "1424024719",
-            "1575189679",
-            "1264426982"
+            "1880701944",
+            "2124872445",
+            "1975651011",
+            "2090735559",
+            "1023043476",
+            "674970433",
+            "406647917",
+            "1312094969",
+            "1052523063",
+            "533768745"
          ]
       },
       {
          "children" : [
-            "658867388"
+            "335761443"
          ],
          "concept" : {
             "extent" : [
@@ -4291,7 +4291,7 @@
             ],
             "md5" : "1e9d3e4617ca36b619a12c36289eb0b5"
          },
-         "hash" : "802660815",
+         "hash" : "653686873",
          "idx" : 36,
          "labelAttributes" : [
             "Nanotechnology"
@@ -4301,15 +4301,15 @@
          ],
          "level" : "1",
          "parents" : [
-            "49893753",
-            "1186479040",
-            "1610347991"
+            "1880701944",
+            "1640390985",
+            "1355717883"
          ]
       },
       {
          "children" : [
-            "1564253747",
-            "812383964"
+            "342900321",
+            "130075002"
          ],
          "concept" : {
             "extent" : [
@@ -4326,7 +4326,7 @@
             ],
             "md5" : "56adcec72eeffa53b870ee5899306526"
          },
-         "hash" : "2059537607",
+         "hash" : "2124872445",
          "idx" : 37,
          "labelAttributes" : [
             "Academic networks"
@@ -4334,12 +4334,12 @@
          "labelObjects" : [],
          "level" : "2",
          "parents" : [
-            "965255642"
+            "2116686052"
          ]
       },
       {
          "children" : [
-            "658867388"
+            "335761443"
          ],
          "concept" : {
             "extent" : [
@@ -4363,7 +4363,7 @@
             ],
             "md5" : "bc686d9edd05de0c88611a7041980f77"
          },
-         "hash" : "812383964",
+         "hash" : "130075002",
          "idx" : 38,
          "labelAttributes" : [
             "Pattern Recognition",
@@ -4375,17 +4375,17 @@
          ],
          "level" : "1",
          "parents" : [
-            "2059537607",
-            "368765519",
-            "287421540",
-            "687789903",
-            "1675491265"
+            "2124872445",
+            "1251608652",
+            "664075610",
+            "245511532",
+            "1036173232"
          ]
       },
       {
          "children" : [
-            "812383964",
-            "2097817136"
+            "130075002",
+            "744975901"
          ],
          "concept" : {
             "extent" : [
@@ -4400,7 +4400,7 @@
             ],
             "md5" : "9263a228b19ea56489c9e59198dd0d6c"
          },
-         "hash" : "368765519",
+         "hash" : "1251608652",
          "idx" : 39,
          "labelAttributes" : [
             "General theory of social systems"
@@ -4408,12 +4408,12 @@
          "labelObjects" : [],
          "level" : "2",
          "parents" : [
-            "1636312712"
+            "939432751"
          ]
       },
       {
          "children" : [
-            "658867388"
+            "335761443"
          ],
          "concept" : {
             "extent" : [
@@ -4432,7 +4432,7 @@
             ],
             "md5" : "96dda5a588bc49d333a87aa66c7828d7"
          },
-         "hash" : "2097817136",
+         "hash" : "744975901",
          "idx" : 40,
          "labelAttributes" : [],
          "labelObjects" : [
@@ -4440,17 +4440,17 @@
          ],
          "level" : "1",
          "parents" : [
-            "368765519",
-            "422107363",
-            "1186479040",
-            "111401223"
+            "1251608652",
+            "1975651011",
+            "1640390985",
+            "1143743664"
          ]
       },
       {
          "children" : [
-            "49893753",
-            "422107363",
-            "1186479040"
+            "1880701944",
+            "1975651011",
+            "1640390985"
          ],
          "concept" : {
             "extent" : [
@@ -4467,22 +4467,22 @@
             ],
             "md5" : "5ff7dd5e68d7c1f01b0c98da654269be"
          },
-         "hash" : "2138109551",
+         "hash" : "457358968",
          "idx" : 41,
          "labelAttributes" : [],
          "labelObjects" : [],
          "level" : "3",
          "parents" : [
-            "1636312712",
-            "1431824113",
-            "1494476528",
-            "428346192"
+            "939432751",
+            "209436241",
+            "568179428",
+            "691521546"
          ]
       },
       {
          "children" : [
-            "1564253747",
-            "2097817136"
+            "342900321",
+            "744975901"
          ],
          "concept" : {
             "extent" : [
@@ -4499,21 +4499,21 @@
             ],
             "md5" : "3252513c5e37d9f7691b7142bf203987"
          },
-         "hash" : "422107363",
+         "hash" : "1975651011",
          "idx" : 42,
          "labelAttributes" : [],
          "labelObjects" : [],
          "level" : "2",
          "parents" : [
-            "2138109551",
-            "418226436",
-            "520941538"
+            "457358968",
+            "1324658572",
+            "485114674"
          ]
       },
       {
          "children" : [
-            "802660815",
-            "2097817136"
+            "653686873",
+            "744975901"
          ],
          "concept" : {
             "extent" : [
@@ -4530,7 +4530,7 @@
             ],
             "md5" : "d45b1a7de764400d70bee5e8e81cd0e9"
          },
-         "hash" : "1186479040",
+         "hash" : "1640390985",
          "idx" : 43,
          "labelAttributes" : [
             "Ethnography"
@@ -4538,14 +4538,14 @@
          "labelObjects" : [],
          "level" : "2",
          "parents" : [
-            "2138109551"
+            "457358968"
          ]
       },
       {
          "children" : [
-            "1116022323",
-            "881662501",
-            "418226436"
+            "2090735559",
+            "33042224",
+            "1324658572"
          ],
          "concept" : {
             "extent" : [
@@ -4560,20 +4560,20 @@
             ],
             "md5" : "718b5556e89bc6eddb3969ce15bbfc5d"
          },
-         "hash" : "452636477",
+         "hash" : "1181634466",
          "idx" : 44,
          "labelAttributes" : [],
          "labelObjects" : [],
          "level" : "4",
          "parents" : [
-            "943600444",
-            "314084287"
+            "1952832718",
+            "1380781274"
          ]
       },
       {
          "children" : [
-            "1564253747",
-            "1625142489"
+            "342900321",
+            "502599"
          ],
          "concept" : {
             "extent" : [
@@ -4587,20 +4587,20 @@
             ],
             "md5" : "05105d6553d758f5c0f130cc744c1db4"
          },
-         "hash" : "1116022323",
+         "hash" : "2090735559",
          "idx" : 45,
          "labelAttributes" : [],
          "labelObjects" : [],
          "level" : "2",
          "parents" : [
-            "452636477",
-            "1976251046"
+            "1181634466",
+            "1335849838"
          ]
       },
       {
          "children" : [
-            "1625142489",
-            "228366298"
+            "502599",
+            "224212133"
          ],
          "concept" : {
             "extent" : [
@@ -4614,7 +4614,7 @@
             ],
             "md5" : "0e6da011ae678ededcc9a48c39b583e0"
          },
-         "hash" : "881662501",
+         "hash" : "33042224",
          "idx" : 46,
          "labelAttributes" : [
             "Climate Change"
@@ -4622,12 +4622,12 @@
          "labelObjects" : [],
          "level" : "2",
          "parents" : [
-            "452636477"
+            "1181634466"
          ]
       },
       {
          "children" : [
-            "658867388"
+            "335761443"
          ],
          "concept" : {
             "extent" : [
@@ -4647,7 +4647,7 @@
             ],
             "md5" : "b79bba8633d66a5b88d6e96ef767686e"
          },
-         "hash" : "228366298",
+         "hash" : "224212133",
          "idx" : 47,
          "labelAttributes" : [
             "Artificial intelligence"
@@ -4657,18 +4657,18 @@
          ],
          "level" : "1",
          "parents" : [
-            "881662501",
-            "1944472373",
-            "111401223",
-            "686253654",
-            "560408086"
+            "33042224",
+            "1023043476",
+            "1143743664",
+            "1094724565",
+            "1817659106"
          ]
       },
       {
          "children" : [
-            "422107363",
-            "1944472373",
-            "111401223"
+            "1975651011",
+            "1023043476",
+            "1143743664"
          ],
          "concept" : {
             "extent" : [
@@ -4683,20 +4683,20 @@
             ],
             "md5" : "9bef1e482461b1f1261c3ff0c58e7093"
          },
-         "hash" : "418226436",
+         "hash" : "1324658572",
          "idx" : 48,
          "labelAttributes" : [],
          "labelObjects" : [],
          "level" : "3",
          "parents" : [
-            "452636477",
-            "1431824113"
+            "1181634466",
+            "209436241"
          ]
       },
       {
          "children" : [
-            "1564253747",
-            "228366298"
+            "342900321",
+            "224212133"
          ],
          "concept" : {
             "extent" : [
@@ -4712,22 +4712,22 @@
             ],
             "md5" : "0514a0d7edd4da0723ff33ce7a4506ef"
          },
-         "hash" : "1944472373",
+         "hash" : "1023043476",
          "idx" : 49,
          "labelAttributes" : [],
          "labelObjects" : [],
          "level" : "2",
          "parents" : [
-            "418226436",
-            "180876700",
-            "134178533",
-            "1100821644"
+            "1324658572",
+            "2053435554",
+            "960953787",
+            "1962961645"
          ]
       },
       {
          "children" : [
-            "2097817136",
-            "228366298"
+            "744975901",
+            "224212133"
          ],
          "concept" : {
             "extent" : [
@@ -4742,7 +4742,7 @@
             ],
             "md5" : "c36d50e3ea4e414699aa0b5dde567566"
          },
-         "hash" : "111401223",
+         "hash" : "1143743664",
          "idx" : 50,
          "labelAttributes" : [
             "Gender studies"
@@ -4750,13 +4750,13 @@
          "labelObjects" : [],
          "level" : "2",
          "parents" : [
-            "418226436"
+            "1324658572"
          ]
       },
       {
          "children" : [
-            "965255642",
-            "180876700"
+            "2116686052",
+            "2053435554"
          ],
          "concept" : {
             "extent" : [
@@ -4771,20 +4771,20 @@
             ],
             "md5" : "b7af7c852a04bbfac8fc2cfe5ed6b679"
          },
-         "hash" : "107264658",
+         "hash" : "1183847448",
          "idx" : 51,
          "labelAttributes" : [],
          "labelObjects" : [],
          "level" : "4",
          "parents" : [
-            "943600444",
-            "508672647"
+            "1952832718",
+            "480995991"
          ]
       },
       {
          "children" : [
-            "49893753",
-            "1944472373"
+            "1880701944",
+            "1023043476"
          ],
          "concept" : {
             "extent" : [
@@ -4799,20 +4799,20 @@
             ],
             "md5" : "9cafeafed65266584ee8fd258a9651ca"
          },
-         "hash" : "180876700",
+         "hash" : "2053435554",
          "idx" : 52,
          "labelAttributes" : [],
          "labelObjects" : [],
          "level" : "3",
          "parents" : [
-            "107264658",
-            "1431824113"
+            "1183847448",
+            "209436241"
          ]
       },
       {
          "children" : [
-            "49893753",
-            "1116022323"
+            "1880701944",
+            "2090735559"
          ],
          "concept" : {
             "extent" : [
@@ -4826,7 +4826,7 @@
             ],
             "md5" : "49bd40e352df89d576b3ea44a6864e21"
          },
-         "hash" : "1976251046",
+         "hash" : "1335849838",
          "idx" : 53,
          "labelAttributes" : [
             "CT indicators"
@@ -4834,14 +4834,14 @@
          "labelObjects" : [],
          "level" : "3",
          "parents" : [
-            "943600444"
+            "1952832718"
          ]
       },
       {
          "children" : [
-            "2138109551",
-            "418226436",
-            "180876700"
+            "457358968",
+            "1324658572",
+            "2053435554"
          ],
          "concept" : {
             "extent" : [
@@ -4856,24 +4856,24 @@
             ],
             "md5" : "39e9f9c330186b575c0e4f198629a1e1"
          },
-         "hash" : "1431824113",
+         "hash" : "209436241",
          "idx" : 54,
          "labelAttributes" : [],
          "labelObjects" : [],
          "level" : "4",
          "parents" : [
-            "943600444",
-            "846275903"
+            "1952832718",
+            "728725037"
          ]
       },
       {
          "children" : [
-            "437987361",
-            "881674298",
-            "1013547904",
-            "1283900086",
-            "981021868",
-            "1494476528"
+            "945611555",
+            "509813518",
+            "1146618824",
+            "1348341795",
+            "1762398557",
+            "568179428"
          ],
          "concept" : {
             "extent" : [
@@ -4893,7 +4893,7 @@
             ],
             "md5" : "59f664916e30f929f8a0cad405a0ef58"
          },
-         "hash" : "1424991179",
+         "hash" : "1007871679",
          "idx" : 55,
          "labelAttributes" : [
             "Social Networks Analysis"
@@ -4901,14 +4901,14 @@
          "labelObjects" : [],
          "level" : "6",
          "parents" : [
-            "1920226781"
+            "1168504361"
          ]
       },
       {
          "children" : [
-            "896125960",
-            "1636312712",
-            "287421540"
+            "674970433",
+            "939432751",
+            "664075610"
          ],
          "concept" : {
             "extent" : [
@@ -4924,7 +4924,7 @@
             ],
             "md5" : "936d0f392b81df7c70744181c5b5d94f"
          },
-         "hash" : "437987361",
+         "hash" : "945611555",
          "idx" : 56,
          "labelAttributes" : [
             "Trajectories of Science"
@@ -4932,13 +4932,13 @@
          "labelObjects" : [],
          "level" : "5",
          "parents" : [
-            "1424991179"
+            "1007871679"
          ]
       },
       {
          "children" : [
-            "1564253747",
-            "1115037174"
+            "342900321",
+            "540164294"
          ],
          "concept" : {
             "extent" : [
@@ -4947,26 +4947,26 @@
             ],
             "intent" : [
                "Social Networks Analysis",
-               "Studies of technitians",
+               "Studies of technicians",
                "Trajectories of Science"
             ],
-            "md5" : "f0336106a554627c92188f188db668a7"
+            "md5" : "e4780401b8aee6d0b933ff38a22d0c61"
          },
-         "hash" : "896125960",
+         "hash" : "674970433",
          "idx" : 57,
          "labelAttributes" : [
-            "Studies of technitians"
+            "Studies of technicians"
          ],
          "labelObjects" : [],
          "level" : "2",
          "parents" : [
-            "437987361"
+            "945611555"
          ]
       },
       {
          "children" : [
-            "1115037174",
-            "812383964"
+            "540164294",
+            "130075002"
          ],
          "concept" : {
             "extent" : [
@@ -4980,21 +4980,21 @@
             ],
             "md5" : "e0e8593628b2095909a66166fb912cc2"
          },
-         "hash" : "287421540",
+         "hash" : "664075610",
          "idx" : 58,
          "labelAttributes" : [],
          "labelObjects" : [],
          "level" : "2",
          "parents" : [
-            "437987361",
-            "772983752"
+            "945611555",
+            "222076304"
          ]
       },
       {
          "children" : [
-            "808603021",
-            "404956755",
-            "1632422950"
+            "1593545910",
+            "685427334",
+            "36141745"
          ],
          "concept" : {
             "extent" : [
@@ -5011,7 +5011,7 @@
             ],
             "md5" : "193bca945ce40ebc73bce0ed20cfb79e"
          },
-         "hash" : "881674298",
+         "hash" : "509813518",
          "idx" : 59,
          "labelAttributes" : [
             "Social complexity",
@@ -5020,14 +5020,14 @@
          "labelObjects" : [],
          "level" : "5",
          "parents" : [
-            "1424991179"
+            "1007871679"
          ]
       },
       {
          "children" : [
-            "1141904217",
-            "1186034165",
-            "1012439271"
+            "873790732",
+            "791078848",
+            "257500431"
          ],
          "concept" : {
             "extent" : [
@@ -5044,7 +5044,7 @@
             ],
             "md5" : "78566d1b8c9b9adcb3282af020c58305"
          },
-         "hash" : "808603021",
+         "hash" : "1593545910",
          "idx" : 60,
          "labelAttributes" : [
             "Spider Monkeys"
@@ -5052,13 +5052,13 @@
          "labelObjects" : [],
          "level" : "4",
          "parents" : [
-            "881674298"
+            "509813518"
          ]
       },
       {
          "children" : [
-            "422286864",
-            "562760703"
+            "1289054740",
+            "450737301"
          ],
          "concept" : {
             "extent" : [
@@ -5074,7 +5074,7 @@
             ],
             "md5" : "111be7e58b1376b52a16aa9a6492e62e"
          },
-         "hash" : "1141904217",
+         "hash" : "873790732",
          "idx" : 61,
          "labelAttributes" : [
             "Socio-ecology"
@@ -5082,12 +5082,12 @@
          "labelObjects" : [],
          "level" : "2",
          "parents" : [
-            "808603021"
+            "1593545910"
          ]
       },
       {
          "children" : [
-            "658867388"
+            "335761443"
          ],
          "concept" : {
             "extent" : [
@@ -5107,7 +5107,7 @@
             ],
             "md5" : "46404a8f13c7fed9ddc58189c1bceb5b"
          },
-         "hash" : "562760703",
+         "hash" : "450737301",
          "idx" : 62,
          "labelAttributes" : [
             "Genetic Analysis",
@@ -5118,15 +5118,15 @@
          ],
          "level" : "1",
          "parents" : [
-            "1141904217",
-            "514122948",
-            "531912957"
+            "873790732",
+            "226844278",
+            "1945451450"
          ]
       },
       {
          "children" : [
-            "839234646",
-            "1380428839"
+            "1790202304",
+            "1802881763"
          ],
          "concept" : {
             "extent" : [
@@ -5143,20 +5143,20 @@
             ],
             "md5" : "2fcf1e438cd9f84d411715cc737010cb"
          },
-         "hash" : "1186034165",
+         "hash" : "791078848",
          "idx" : 63,
          "labelAttributes" : [],
          "labelObjects" : [],
          "level" : "3",
          "parents" : [
-            "808603021",
-            "1632422950"
+            "1593545910",
+            "36141745"
          ]
       },
       {
          "children" : [
-            "422286864",
-            "1995872175"
+            "1289054740",
+            "1488809029"
          ],
          "concept" : {
             "extent" : [
@@ -5173,7 +5173,7 @@
             ],
             "md5" : "904efba7d5cbfa1c610f1fd509d31342"
          },
-         "hash" : "839234646",
+         "hash" : "1790202304",
          "idx" : 64,
          "labelAttributes" : [
             "Resilience"
@@ -5181,12 +5181,12 @@
          "labelObjects" : [],
          "level" : "2",
          "parents" : [
-            "1186034165"
+            "791078848"
          ]
       },
       {
          "children" : [
-            "658867388"
+            "335761443"
          ],
          "concept" : {
             "extent" : [
@@ -5204,7 +5204,7 @@
             ],
             "md5" : "e196928ebf1d28b44324b2935be4eaaa"
          },
-         "hash" : "1995872175",
+         "hash" : "1488809029",
          "idx" : 65,
          "labelAttributes" : [],
          "labelObjects" : [
@@ -5212,15 +5212,15 @@
          ],
          "level" : "1",
          "parents" : [
-            "839234646",
-            "1380428839",
-            "514122948"
+            "1790202304",
+            "1802881763",
+            "226844278"
          ]
       },
       {
          "children" : [
-            "925096724",
-            "1995872175"
+            "118611328",
+            "1488809029"
          ],
          "concept" : {
             "extent" : [
@@ -5237,19 +5237,19 @@
             ],
             "md5" : "2497f7e50cab90f934b033936a02c7fd"
          },
-         "hash" : "1380428839",
+         "hash" : "1802881763",
          "idx" : 66,
          "labelAttributes" : [],
          "labelObjects" : [],
          "level" : "2",
          "parents" : [
-            "1186034165",
-            "1012439271"
+            "791078848",
+            "257500431"
          ]
       },
       {
          "children" : [
-            "658867388"
+            "335761443"
          ],
          "concept" : {
             "extent" : [
@@ -5267,15 +5267,15 @@
                "Network Visualization",
                "Social complexity",
                "Social Networks Analysis",
-               "Socio-ecosystems in Yucatán",
+               "Socio-ecosystems in Yucatan",
                "Spider Monkeys"
             ],
-            "md5" : "8aba99a5ba435712ce9ef58b016ad4ad"
+            "md5" : "f3695b8717e8c070be0a115b4a6fea7d"
          },
-         "hash" : "925096724",
+         "hash" : "118611328",
          "idx" : 67,
          "labelAttributes" : [
-            "Socio-ecosystems in Yucatán",
+            "Socio-ecosystems in Yucatan",
             "Inductive Game Theory",
             "Human Vocal Interactions",
             "Collective Tasks",
@@ -5286,17 +5286,17 @@
          ],
          "level" : "1",
          "parents" : [
-            "1380428839",
-            "531912957",
-            "76357518",
-            "560408086"
+            "1802881763",
+            "1945451450",
+            "190022806",
+            "1817659106"
          ]
       },
       {
          "children" : [
-            "514122948",
-            "531912957",
-            "1380428839"
+            "226844278",
+            "1945451450",
+            "1802881763"
          ],
          "concept" : {
             "extent" : [
@@ -5313,20 +5313,20 @@
             ],
             "md5" : "070ba48cb7bad61d90a105cd6e8003b3"
          },
-         "hash" : "1012439271",
+         "hash" : "257500431",
          "idx" : 68,
          "labelAttributes" : [],
          "labelObjects" : [],
          "level" : "3",
          "parents" : [
-            "808603021",
-            "981021868"
+            "1593545910",
+            "1762398557"
          ]
       },
       {
          "children" : [
-            "562760703",
-            "1995872175"
+            "450737301",
+            "1488809029"
          ],
          "concept" : {
             "extent" : [
@@ -5343,7 +5343,7 @@
             ],
             "md5" : "3ea3272a3968fe180c1414300124b917"
          },
-         "hash" : "514122948",
+         "hash" : "226844278",
          "idx" : 69,
          "labelAttributes" : [
             "Social Behavior"
@@ -5351,13 +5351,13 @@
          "labelObjects" : [],
          "level" : "2",
          "parents" : [
-            "1012439271"
+            "257500431"
          ]
       },
       {
          "children" : [
-            "925096724",
-            "562760703"
+            "118611328",
+            "450737301"
          ],
          "concept" : {
             "extent" : [
@@ -5374,20 +5374,20 @@
             ],
             "md5" : "dfee722431d4b1c4925014df9c80f2ff"
          },
-         "hash" : "531912957",
+         "hash" : "1945451450",
          "idx" : 70,
          "labelAttributes" : [],
          "labelObjects" : [],
          "level" : "2",
          "parents" : [
-            "1012439271",
-            "404956755"
+            "257500431",
+            "685427334"
          ]
       },
       {
          "children" : [
-            "531912957",
-            "76357518"
+            "1945451450",
+            "190022806"
          ],
          "concept" : {
             "extent" : [
@@ -5403,20 +5403,20 @@
             ],
             "md5" : "1fa247b8abf44c697852090ee4647660"
          },
-         "hash" : "404956755",
+         "hash" : "685427334",
          "idx" : 71,
          "labelAttributes" : [],
          "labelObjects" : [],
          "level" : "3",
          "parents" : [
-            "881674298",
-            "1013547904"
+            "509813518",
+            "1146618824"
          ]
       },
       {
          "children" : [
-            "651792892",
-            "925096724"
+            "2019940321",
+            "118611328"
          ],
          "concept" : {
             "extent" : [
@@ -5432,22 +5432,22 @@
             ],
             "md5" : "9bbf40666c196914b3f194439e4bbce2"
          },
-         "hash" : "76357518",
+         "hash" : "190022806",
          "idx" : 72,
          "labelAttributes" : [],
          "labelObjects" : [],
          "level" : "2",
          "parents" : [
-            "404956755",
-            "1632422950",
-            "706779432"
+            "685427334",
+            "36141745",
+            "767753183"
          ]
       },
       {
          "children" : [
-            "1699492884",
-            "1186034165",
-            "76357518"
+            "670030242",
+            "791078848",
+            "190022806"
          ],
          "concept" : {
             "extent" : [
@@ -5464,22 +5464,22 @@
             ],
             "md5" : "2379920df985e58f8a06ee007cde21f3"
          },
-         "hash" : "1632422950",
+         "hash" : "36141745",
          "idx" : 73,
          "labelAttributes" : [],
          "labelObjects" : [],
          "level" : "4",
          "parents" : [
-            "881674298",
-            "1283900086"
+            "509813518",
+            "1348341795"
          ]
       },
       {
          "children" : [
-            "965255642",
-            "404956755",
-            "706779432",
-            "1360148769"
+            "2116686052",
+            "685427334",
+            "767753183",
+            "1287466583"
          ],
          "concept" : {
             "extent" : [
@@ -5496,20 +5496,20 @@
             ],
             "md5" : "ce6574f598be7ec958e4beee2e008740"
          },
-         "hash" : "1013547904",
+         "hash" : "1146618824",
          "idx" : 74,
          "labelAttributes" : [],
          "labelObjects" : [],
          "level" : "4",
          "parents" : [
-            "1424991179",
-            "739511849"
+            "1007871679",
+            "1007572176"
          ]
       },
       {
          "children" : [
-            "76357518",
-            "1086545565"
+            "190022806",
+            "406647917"
          ],
          "concept" : {
             "extent" : [
@@ -5524,20 +5524,20 @@
             ],
             "md5" : "32e9991a5ee128d363e45fca2410c6ed"
          },
-         "hash" : "706779432",
+         "hash" : "767753183",
          "idx" : 75,
          "labelAttributes" : [],
          "labelObjects" : [],
          "level" : "3",
          "parents" : [
-            "1013547904",
-            "1283900086"
+            "1146618824",
+            "1348341795"
          ]
       },
       {
          "children" : [
-            "1564253747",
-            "651792892"
+            "342900321",
+            "2019940321"
          ],
          "concept" : {
             "extent" : [
@@ -5553,22 +5553,22 @@
             ],
             "md5" : "da5ec17611d3272f134231a9fdf58b5d"
          },
-         "hash" : "1086545565",
+         "hash" : "406647917",
          "idx" : 76,
          "labelAttributes" : [],
          "labelObjects" : [],
          "level" : "2",
          "parents" : [
-            "706779432",
-            "1360148769",
-            "244151413"
+            "767753183",
+            "1287466583",
+            "827653922"
          ]
       },
       {
          "children" : [
-            "49893753",
-            "1086545565",
-            "1610347991"
+            "1880701944",
+            "406647917",
+            "1355717883"
          ],
          "concept" : {
             "extent" : [
@@ -5583,21 +5583,21 @@
             ],
             "md5" : "8e908fb98c2a45edcb8c64f792a285ac"
          },
-         "hash" : "1360148769",
+         "hash" : "1287466583",
          "idx" : 77,
          "labelAttributes" : [],
          "labelObjects" : [],
          "level" : "3",
          "parents" : [
-            "1013547904",
-            "1494476528",
-            "320588396"
+            "1146618824",
+            "568179428",
+            "169043711"
          ]
       },
       {
          "children" : [
-            "802660815",
-            "651792892"
+            "653686873",
+            "2019940321"
          ],
          "concept" : {
             "extent" : [
@@ -5612,20 +5612,20 @@
             ],
             "md5" : "3ab49ba1e6139a2364f444bcc8cfa1ae"
          },
-         "hash" : "1610347991",
+         "hash" : "1355717883",
          "idx" : 78,
          "labelAttributes" : [],
          "labelObjects" : [],
          "level" : "2",
          "parents" : [
-            "1360148769",
-            "2010431008"
+            "1287466583",
+            "1455864636"
          ]
       },
       {
          "children" : [
-            "1632422950",
-            "706779432"
+            "36141745",
+            "767753183"
          ],
          "concept" : {
             "extent" : [
@@ -5641,7 +5641,7 @@
             ],
             "md5" : "e97aa4582e221df2ea8daf77c1377405"
          },
-         "hash" : "1283900086",
+         "hash" : "1348341795",
          "idx" : 79,
          "labelAttributes" : [
             "Multiplex Network Analysis"
@@ -5649,13 +5649,13 @@
          "labelObjects" : [],
          "level" : "5",
          "parents" : [
-            "1424991179"
+            "1007871679"
          ]
       },
       {
          "children" : [
-            "1115037174",
-            "1012439271"
+            "540164294",
+            "257500431"
          ],
          "concept" : {
             "extent" : [
@@ -5670,7 +5670,7 @@
             ],
             "md5" : "c381f37eed6b7baa44472008ed61c000"
          },
-         "hash" : "981021868",
+         "hash" : "1762398557",
          "idx" : 80,
          "labelAttributes" : [
             "Direct Observation of Behavior"
@@ -5678,13 +5678,13 @@
          "labelObjects" : [],
          "level" : "4",
          "parents" : [
-            "1424991179"
+            "1007871679"
          ]
       },
       {
          "children" : [
-            "2138109551",
-            "1360148769"
+            "457358968",
+            "1287466583"
          ],
          "concept" : {
             "extent" : [
@@ -5699,20 +5699,20 @@
             ],
             "md5" : "b9ea0405ba5d965977adeffb9787876b"
          },
-         "hash" : "1494476528",
+         "hash" : "568179428",
          "idx" : 81,
          "labelAttributes" : [],
          "labelObjects" : [],
          "level" : "4",
          "parents" : [
-            "1424991179",
-            "846275903"
+            "1007871679",
+            "728725037"
          ]
       },
       {
          "children" : [
-            "812383964",
-            "309234390"
+            "130075002",
+            "491184060"
          ],
          "concept" : {
             "extent" : [
@@ -5726,7 +5726,7 @@
             ],
             "md5" : "18a609d534744ca999ed9d1f3ed71057"
          },
-         "hash" : "687789903",
+         "hash" : "245511532",
          "idx" : 82,
          "labelAttributes" : [
             "Reproduction of Academic Spaces",
@@ -5736,17 +5736,17 @@
          "labelObjects" : [],
          "level" : "2",
          "parents" : [
-            "1920226781"
+            "1168504361"
          ]
       },
       {
          "children" : [
-            "61333024",
-            "1013547904",
-            "777325378",
-            "1075016614",
-            "320588396",
-            "1463785885"
+            "840467094",
+            "1146618824",
+            "1356969196",
+            "1784387223",
+            "169043711",
+            "1768220235"
          ],
          "concept" : {
             "extent" : [
@@ -5765,7 +5765,7 @@
             ],
             "md5" : "0e92fd95e6939426fceb469bf2783235"
          },
-         "hash" : "739511849",
+         "hash" : "1007572176",
          "idx" : 83,
          "labelAttributes" : [
             "Network Visualization"
@@ -5773,13 +5773,13 @@
          "labelObjects" : [],
          "level" : "5",
          "parents" : [
-            "1920226781"
+            "1168504361"
          ]
       },
       {
          "children" : [
-            "1424024719",
-            "1575189679"
+            "1312094969",
+            "1052523063"
          ],
          "concept" : {
             "extent" : [
@@ -5793,20 +5793,20 @@
             ],
             "md5" : "163b67759b928a23e508544c757e605a"
          },
-         "hash" : "777325378",
+         "hash" : "1356969196",
          "idx" : 84,
          "labelAttributes" : [],
          "labelObjects" : [],
          "level" : "3",
          "parents" : [
-            "739511849",
-            "1277323739"
+            "1007572176",
+            "1306220888"
          ]
       },
       {
          "children" : [
-            "1564253747",
-            "450650642"
+            "342900321",
+            "1551624675"
          ],
          "concept" : {
             "extent" : [
@@ -5814,32 +5814,32 @@
                "Mariana_Espinosa"
             ],
             "intent" : [
-               "Astronomy",
                "Bibliometrics and Scientometrics",
                "Literature Review",
                "Maps of science",
                "Mathematical modeling",
-               "Network Visualization"
+               "Network Visualization",
+               "Physical Theories"
             ],
-            "md5" : "3a6c31c963ab64534bb9b1131d85c314"
+            "md5" : "55044e53278f52347bb7e7d74918f395"
          },
-         "hash" : "1424024719",
+         "hash" : "1312094969",
          "idx" : 85,
          "labelAttributes" : [
-            "Maps of science",
-            "Astronomy"
+            "Physical Theories",
+            "Maps of science"
          ],
          "labelObjects" : [],
          "level" : "2",
          "parents" : [
-            "777325378",
-            "244151413"
+            "1356969196",
+            "827653922"
          ]
       },
       {
          "children" : [
-            "629353839",
-            "1564253747"
+            "1743124581",
+            "342900321"
          ],
          "concept" : {
             "extent" : [
@@ -5854,22 +5854,22 @@
             ],
             "md5" : "23c01269419981403fd38d32213bb571"
          },
-         "hash" : "1575189679",
+         "hash" : "1052523063",
          "idx" : 86,
          "labelAttributes" : [],
          "labelObjects" : [],
          "level" : "2",
          "parents" : [
-            "777325378",
-            "1463785885",
-            "105188046",
-            "520941538"
+            "1356969196",
+            "1768220235",
+            "208747730",
+            "485114674"
          ]
       },
       {
          "children" : [
-            "965255642",
-            "1882884819"
+            "2116686052",
+            "1937738735"
          ],
          "concept" : {
             "extent" : [
@@ -5884,20 +5884,20 @@
             ],
             "md5" : "73e8b84451bb2265685747464990beb8"
          },
-         "hash" : "1075016614",
+         "hash" : "1784387223",
          "idx" : 87,
          "labelAttributes" : [],
          "labelObjects" : [],
          "level" : "4",
          "parents" : [
-            "739511849",
-            "508672647"
+            "1007572176",
+            "480995991"
          ]
       },
       {
          "children" : [
-            "1943318755",
-            "49893753"
+            "1430020538",
+            "1880701944"
          ],
          "concept" : {
             "extent" : [
@@ -5912,20 +5912,20 @@
             ],
             "md5" : "05a72e41748e1068419b52b9f665479d"
          },
-         "hash" : "1882884819",
+         "hash" : "1937738735",
          "idx" : 88,
          "labelAttributes" : [],
          "labelObjects" : [],
          "level" : "3",
          "parents" : [
-            "1075016614",
-            "1463785885"
+            "1784387223",
+            "1768220235"
          ]
       },
       {
          "children" : [
-            "1360148769",
-            "244151413"
+            "1287466583",
+            "827653922"
          ],
          "concept" : {
             "extent" : [
@@ -5940,21 +5940,21 @@
             ],
             "md5" : "6da52681a6e0c66f9a2fc804a0481f1c"
          },
-         "hash" : "320588396",
+         "hash" : "169043711",
          "idx" : 89,
          "labelAttributes" : [],
          "labelObjects" : [],
          "level" : "4",
          "parents" : [
-            "739511849",
-            "846275903"
+            "1007572176",
+            "728725037"
          ]
       },
       {
          "children" : [
-            "1285466322",
-            "1086545565",
-            "1424024719"
+            "781970690",
+            "406647917",
+            "1312094969"
          ],
          "concept" : {
             "extent" : [
@@ -5969,21 +5969,21 @@
             ],
             "md5" : "bfaf0fc314f5730617f283d6eb4f603c"
          },
-         "hash" : "244151413",
+         "hash" : "827653922",
          "idx" : 90,
          "labelAttributes" : [],
          "labelObjects" : [],
          "level" : "3",
          "parents" : [
-            "320588396",
-            "134178533"
+            "169043711",
+            "960953787"
          ]
       },
       {
          "children" : [
-            "2018809166",
-            "1575189679",
-            "1882884819"
+            "806763801",
+            "1052523063",
+            "1937738735"
          ],
          "concept" : {
             "extent" : [
@@ -5998,20 +5998,20 @@
             ],
             "md5" : "9844005928a2f7c21e41fede6437da7d"
          },
-         "hash" : "1463785885",
+         "hash" : "1768220235",
          "idx" : 91,
          "labelAttributes" : [],
          "labelObjects" : [],
          "level" : "4",
          "parents" : [
-            "739511849",
-            "428346192"
+            "1007572176",
+            "691521546"
          ]
       },
       {
          "children" : [
-            "1645242070",
-            "134178533"
+            "640989254",
+            "960953787"
          ],
          "concept" : {
             "extent" : [
@@ -6026,7 +6026,7 @@
             ],
             "md5" : "cfdf27e9226a89092d28c51243731ca9"
          },
-         "hash" : "1702526788",
+         "hash" : "1717009459",
          "idx" : 92,
          "labelAttributes" : [
             "Mathematical modeling"
@@ -6034,13 +6034,13 @@
          "labelObjects" : [],
          "level" : "5",
          "parents" : [
-            "1920226781"
+            "1168504361"
          ]
       },
       {
          "children" : [
-            "651792892",
-            "1592309869"
+            "2019940321",
+            "1670199771"
          ],
          "concept" : {
             "extent" : [
@@ -6054,7 +6054,7 @@
             ],
             "md5" : "6ba049fe997e3e5dc8876fe54d1bd320"
          },
-         "hash" : "1645242070",
+         "hash" : "640989254",
          "idx" : 93,
          "labelAttributes" : [
             "Sentiment Analysis"
@@ -6062,13 +6062,13 @@
          "labelObjects" : [],
          "level" : "2",
          "parents" : [
-            "1702526788",
-            "2010431008"
+            "1717009459",
+            "1455864636"
          ]
       },
       {
          "children" : [
-            "658867388"
+            "335761443"
          ],
          "concept" : {
             "extent" : [
@@ -6086,7 +6086,7 @@
             ],
             "md5" : "b72e67e94ed72edc11817d1975aeaa63"
          },
-         "hash" : "1592309869",
+         "hash" : "1670199771",
          "idx" : 94,
          "labelAttributes" : [
             "Technical Analysis",
@@ -6100,13 +6100,13 @@
          ],
          "level" : "1",
          "parents" : [
-            "1645242070"
+            "640989254"
          ]
       },
       {
          "children" : [
-            "1944472373",
-            "244151413"
+            "1023043476",
+            "827653922"
          ],
          "concept" : {
             "extent" : [
@@ -6121,20 +6121,20 @@
             ],
             "md5" : "b3fc39a0e98bc526d0888bc996314129"
          },
-         "hash" : "134178533",
+         "hash" : "960953787",
          "idx" : 95,
          "labelAttributes" : [],
          "labelObjects" : [],
          "level" : "4",
          "parents" : [
-            "1702526788",
-            "846275903"
+            "1717009459",
+            "728725037"
          ]
       },
       {
          "children" : [
-            "777325378",
-            "105188046"
+            "1356969196",
+            "208747730"
          ],
          "concept" : {
             "extent" : [
@@ -6148,7 +6148,7 @@
             ],
             "md5" : "bdd4cc4a999838da46f63f8f5d83ea89"
          },
-         "hash" : "1277323739",
+         "hash" : "1306220888",
          "idx" : 96,
          "labelAttributes" : [
             "Literature Review"
@@ -6156,14 +6156,14 @@
          "labelObjects" : [],
          "level" : "4",
          "parents" : [
-            "1920226781"
+            "1168504361"
          ]
       },
       {
          "children" : [
-            "61782556",
-            "1264426982",
-            "1575189679"
+            "377322712",
+            "533768745",
+            "1052523063"
          ],
          "concept" : {
             "extent" : [
@@ -6177,20 +6177,20 @@
             ],
             "md5" : "0e60d80ed0aceb2a8cca982774778167"
          },
-         "hash" : "105188046",
+         "hash" : "208747730",
          "idx" : 97,
          "labelAttributes" : [],
          "labelObjects" : [],
          "level" : "3",
          "parents" : [
-            "1277323739",
-            "314084287"
+            "1306220888",
+            "1380781274"
          ]
       },
       {
          "children" : [
-            "174169935",
-            "1564253747"
+            "1451998841",
+            "342900321"
          ],
          "concept" : {
             "extent" : [
@@ -6205,7 +6205,7 @@
             ],
             "md5" : "2ee6bc278d7487bac5f679566c29d456"
          },
-         "hash" : "1264426982",
+         "hash" : "533768745",
          "idx" : 98,
          "labelAttributes" : [
             "Surveys"
@@ -6213,17 +6213,17 @@
          "labelObjects" : [],
          "level" : "2",
          "parents" : [
-            "105188046",
-            "1100821644"
+            "208747730",
+            "1962961645"
          ]
       },
       {
          "children" : [
-            "1354364952",
-            "452636477",
-            "105188046",
-            "1100821644",
-            "520941538"
+            "2146935533",
+            "1181634466",
+            "208747730",
+            "1962961645",
+            "485114674"
          ],
          "concept" : {
             "extent" : [
@@ -6239,7 +6239,7 @@
             ],
             "md5" : "ba4a765a2d9266c053272627424a7b2b"
          },
-         "hash" : "314084287",
+         "hash" : "1380781274",
          "idx" : 99,
          "labelAttributes" : [
             "Interviews"
@@ -6247,13 +6247,13 @@
          "labelObjects" : [],
          "level" : "5",
          "parents" : [
-            "1920226781"
+            "1168504361"
          ]
       },
       {
          "children" : [
-            "1264426982",
-            "1944472373"
+            "533768745",
+            "1023043476"
          ],
          "concept" : {
             "extent" : [
@@ -6267,20 +6267,20 @@
             ],
             "md5" : "d5573819511b12f5cbf4789860cf1b10"
          },
-         "hash" : "1100821644",
+         "hash" : "1962961645",
          "idx" : 100,
          "labelAttributes" : [],
          "labelObjects" : [],
          "level" : "3",
          "parents" : [
-            "314084287",
-            "508672647"
+            "1380781274",
+            "480995991"
          ]
       },
       {
          "children" : [
-            "422107363",
-            "1575189679"
+            "1975651011",
+            "1052523063"
          ],
          "concept" : {
             "extent" : [
@@ -6294,23 +6294,23 @@
             ],
             "md5" : "d8ae9b100fa872b41f511a46696aa4cd"
          },
-         "hash" : "520941538",
+         "hash" : "485114674",
          "idx" : 101,
          "labelAttributes" : [],
          "labelObjects" : [],
          "level" : "3",
          "parents" : [
-            "314084287",
-            "428346192"
+            "1380781274",
+            "691521546"
          ]
       },
       {
          "children" : [
-            "10576631",
-            "107264658",
-            "1075016614",
-            "1100821644",
-            "1675491265"
+            "309384546",
+            "1183847448",
+            "1784387223",
+            "1962961645",
+            "1036173232"
          ],
          "concept" : {
             "extent" : [
@@ -6326,7 +6326,7 @@
             ],
             "md5" : "843bd59fa3c0e6b0f0b31933cef7edf7"
          },
-         "hash" : "508672647",
+         "hash" : "480995991",
          "idx" : 102,
          "labelAttributes" : [
             "Document Analysis"
@@ -6334,13 +6334,13 @@
          "labelObjects" : [],
          "level" : "5",
          "parents" : [
-            "1920226781"
+            "1168504361"
          ]
       },
       {
          "children" : [
-            "174169935",
-            "812383964"
+            "1451998841",
+            "130075002"
          ],
          "concept" : {
             "extent" : [
@@ -6353,20 +6353,20 @@
             ],
             "md5" : "5b0688d30d8d4d2e4ce121ff2e5275d2"
          },
-         "hash" : "1675491265",
+         "hash" : "1036173232",
          "idx" : 103,
          "labelAttributes" : [],
          "labelObjects" : [],
          "level" : "2",
          "parents" : [
-            "508672647",
-            "772983752"
+            "480995991",
+            "222076304"
          ]
       },
       {
          "children" : [
-            "1333793699",
-            "228366298"
+            "500342184",
+            "224212133"
          ],
          "concept" : {
             "extent" : [
@@ -6378,7 +6378,7 @@
             ],
             "md5" : "f1c7dcc78595e16e6d81713de80e041a"
          },
-         "hash" : "686253654",
+         "hash" : "1094724565",
          "idx" : 104,
          "labelAttributes" : [
             "Digital Technologies"
@@ -6386,14 +6386,14 @@
          "labelObjects" : [],
          "level" : "2",
          "parents" : [
-            "1920226781"
+            "1168504361"
          ]
       },
       {
          "children" : [
-            "1147894032",
-            "1610347991",
-            "1645242070"
+            "734087887",
+            "1355717883",
+            "640989254"
          ],
          "concept" : {
             "extent" : [
@@ -6407,7 +6407,7 @@
             ],
             "md5" : "3d0938fb735602ea954394abafbb9be9"
          },
-         "hash" : "2010431008",
+         "hash" : "1455864636",
          "idx" : 105,
          "labelAttributes" : [
             "Digital Source Mining"
@@ -6415,13 +6415,13 @@
          "labelObjects" : [],
          "level" : "3",
          "parents" : [
-            "1920226781"
+            "1168504361"
          ]
       },
       {
          "children" : [
-            "925096724",
-            "228366298"
+            "118611328",
+            "224212133"
          ],
          "concept" : {
             "extent" : [
@@ -6433,7 +6433,7 @@
             ],
             "md5" : "ee253e066ab137528e8340a04bd1e5a8"
          },
-         "hash" : "560408086",
+         "hash" : "1817659106",
          "idx" : 106,
          "labelAttributes" : [
             "Collective processing of information"
@@ -6441,15 +6441,15 @@
          "labelObjects" : [],
          "level" : "2",
          "parents" : [
-            "1920226781"
+            "1168504361"
          ]
       },
       {
          "children" : [
-            "1431824113",
-            "1494476528",
-            "320588396",
-            "134178533"
+            "209436241",
+            "568179428",
+            "169043711",
+            "960953787"
          ],
          "concept" : {
             "extent" : [
@@ -6465,7 +6465,7 @@
             ],
             "md5" : "a51705bd86a4d9a5b34b15b350aaa5e4"
          },
-         "hash" : "846275903",
+         "hash" : "728725037",
          "idx" : 107,
          "labelAttributes" : [
             "Bibliometrics and Scientometrics"
@@ -6473,14 +6473,14 @@
          "labelObjects" : [],
          "level" : "5",
          "parents" : [
-            "1920226781"
+            "1168504361"
          ]
       },
       {
          "children" : [
-            "287421540",
-            "430989648",
-            "1675491265"
+            "664075610",
+            "332983204",
+            "1036173232"
          ],
          "concept" : {
             "extent" : [
@@ -6494,7 +6494,7 @@
             ],
             "md5" : "44bcb8cb3d5fec176341e37624a79b56"
          },
-         "hash" : "772983752",
+         "hash" : "222076304",
          "idx" : 108,
          "labelAttributes" : [
             "Archival Analysis"
@@ -6502,15 +6502,15 @@
          "labelObjects" : [],
          "level" : "4",
          "parents" : [
-            "1920226781"
+            "1168504361"
          ]
       },
       {
          "children" : [
-            "2138109551",
-            "163023510",
-            "1463785885",
-            "520941538"
+            "457358968",
+            "717354240",
+            "1768220235",
+            "485114674"
          ],
          "concept" : {
             "extent" : [
@@ -6527,7 +6527,7 @@
             ],
             "md5" : "644f0311b47a5778ff5441132f1c1e79"
          },
-         "hash" : "428346192",
+         "hash" : "691521546",
          "idx" : 109,
          "labelAttributes" : [
             "Academic entities"
@@ -6535,7 +6535,7 @@
          "labelObjects" : [],
          "level" : "5",
          "parents" : [
-            "1920226781"
+            "1168504361"
          ]
       }
    ]

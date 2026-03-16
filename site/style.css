@@ -337,6 +337,11 @@ svg.show-levels .node-level {
   cursor: grab;
 }
 
+.node .objects-label,
+.node .objects-label * {
+  cursor: pointer;
+}
+
 .drag * {
 	cursor: grabbing !important;
 }

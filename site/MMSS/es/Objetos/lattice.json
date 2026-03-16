@@ -23,30 +23,30 @@
       {
          "extent" : [],
          "intent" : [
-            "Astronomia",
-            "Cambio climático",
+            "Cambio climatico",
             "Cetaceos",
             "Cotejos de Documentos",
             "COVID 19",
             "Entidades Academicas",
-            "Estudios sobre científicos",
-            "Estudios sobre tecnólogos",
-            "Institucionalizacion de la estadistica ",
+            "Estudios sobre cientificos",
+            "Estudios sobre tecnologos",
             "Inteligencia artificial",
             "Interacciones vocales humanas",
             "Medicion social",
             "Monos araña",
-            "Nano-tecnología",
+            "Nano tecnologia",
             "Noticias digitales",
+            "Practicas estadísticas",
             "Redes agroalimentarias",
-            "Sistema Econpmico y Mercados Financieros ",
-            "Socio-ecosistemas en Yucatan",
+            "Sistema Economico",
+            "Socio ecosistemas en Yucatan",
             "Tareas colectivas",
             "Tecnologias digitales",
+            "Teorias fisicas",
             "Trayectorias en CyT",
-            "Turísmo"
+            "Turismo"
          ],
-         "md5" : "1f9ca52b404cc49bcbca503d2a26a6f9"
+         "md5" : "0e2d2b77926a8c4c22d7227ffe5f55d0"
       },
       {
          "extent" : [
@@ -65,20 +65,20 @@
             "Israel_Garcia"
          ],
          "intent" : [
-            "Estudios sobre tecnólogos",
+            "Estudios sobre tecnologos",
             "Trayectorias en CyT"
          ],
-         "md5" : "355bd96d318bfd6c26d6a7e12fd54b87"
+         "md5" : "8897cc33c493432ca9c5eb9610d46bc2"
       },
       {
          "extent" : [
             "Leticia_Mayer"
          ],
          "intent" : [
-            "Estudios sobre científicos",
+            "Estudios sobre cientificos",
             "Trayectorias en CyT"
          ],
-         "md5" : "821a6d6e84c8f34bc5454aa619730b66"
+         "md5" : "36cb08e47d8f8b6470f17741ac72315b"
       },
       {
          "extent" : [
@@ -97,10 +97,19 @@
          ],
          "intent" : [
             "Entidades Academicas",
-            "Nano-tecnología",
+            "Nano tecnologia",
             "Trayectorias en CyT"
          ],
-         "md5" : "2392128f10fe5c7db493f3a5da481252"
+         "md5" : "ff267835b62fbefcaae7afb4604ae3c4"
+      },
+      {
+         "extent" : [
+            "Mariana_Espinosa"
+         ],
+         "intent" : [
+            "Teorias fisicas"
+         ],
+         "md5" : "231b01c14dfb60e71334ae3110160c99"
       },
       {
          "extent" : [
@@ -121,10 +130,10 @@
          "intent" : [
             "Interacciones vocales humanas",
             "Monos araña",
-            "Socio-ecosistemas en Yucatan",
+            "Socio ecosistemas en Yucatan",
             "Tareas colectivas"
          ],
-         "md5" : "8fd949dac9c7d090677e1b999a7fa328"
+         "md5" : "9e5e1aebba23f0a2ce0270cc15210329"
       },
       {
          "extent" : [
@@ -152,10 +161,10 @@
             "Ana_Medeles"
          ],
          "intent" : [
-            "Institucionalizacion de la estadistica ",
-            "Medicion social"
+            "Medicion social",
+            "Practicas estadísticas"
          ],
-         "md5" : "767495168ff4e03418d66534dfa4e1e4"
+         "md5" : "2d8a450a04757a20c2ae7571a7b5e967"
       },
       {
          "extent" : [
@@ -185,29 +194,20 @@
             "Teresa_de_Leon"
          ],
          "intent" : [
-            "Cambio climático"
+            "Cambio climatico"
          ],
-         "md5" : "ff976b9c906f2aec718395c7300f722c"
+         "md5" : "b22a64d70c27750fcd931d7e48a36b31"
       },
       {
          "extent" : [
             "Gabriela_Sued"
          ],
          "intent" : [
-            "Cambio climático",
+            "Cambio climatico",
             "Inteligencia artificial",
             "Tecnologias digitales"
          ],
-         "md5" : "35ef67504ca92d9466b1d8e5f60acf58"
-      },
-      {
-         "extent" : [
-            "Mariana_Espinosa"
-         ],
-         "intent" : [
-            "Astronomia"
-         ],
-         "md5" : "e08312f5f48d93cdaf797b8645770cc3"
+         "md5" : "dae0a4fcfdd83b751e3163f441a9bb66"
       }
    ],
    "context" : {
@@ -220,8 +220,8 @@
       },
       "Ana_Medeles" : {
          "attributes" : [
-            "Institucionalizacion de la estadistica ",
-            "Medicion social"
+            "Medicion social",
+            "Practicas estadísticas"
          ],
          "id" : "Ana_Medeles",
          "name" : "Ana Medeles"
@@ -236,7 +236,7 @@
       "Eduardo_Robles" : {
          "attributes" : [
             "Entidades Academicas",
-            "Nano-tecnología",
+            "Nano tecnologia",
             "Trayectorias en CyT"
          ],
          "id" : "Eduardo_Robles",
@@ -246,7 +246,7 @@
          "attributes" : [
             "Interacciones vocales humanas",
             "Monos araña",
-            "Socio-ecosistemas en Yucatan",
+            "Socio ecosistemas en Yucatan",
             "Tareas colectivas"
          ],
          "id" : "Gabriel_Ramos",
@@ -254,7 +254,7 @@
       },
       "Gabriela_Sued" : {
          "attributes" : [
-            "Cambio climático",
+            "Cambio climatico",
             "Inteligencia artificial",
             "Tecnologias digitales"
          ],
@@ -263,7 +263,7 @@
       },
       "Israel_Garcia" : {
          "attributes" : [
-            "Estudios sobre tecnólogos",
+            "Estudios sobre tecnologos",
             "Trayectorias en CyT"
          ],
          "id" : "Israel_Garcia",
@@ -271,7 +271,7 @@
       },
       "Leticia_Mayer" : {
          "attributes" : [
-            "Estudios sobre científicos",
+            "Estudios sobre cientificos",
             "Trayectorias en CyT"
          ],
          "id" : "Leticia_Mayer",
@@ -287,7 +287,7 @@
       },
       "Mariana_Espinosa" : {
          "attributes" : [
-            "Astronomia"
+            "Teorias fisicas"
          ],
          "id" : "Mariana_Espinosa",
          "name" : "Mariana Espinosa"
@@ -318,7 +318,7 @@
       },
       "Teresa_de_Leon" : {
          "attributes" : [
-            "Cambio climático"
+            "Cambio climatico"
          ],
          "id" : "Teresa_de_Leon",
          "name" : "Teresa de Leon"
@@ -335,11 +335,11 @@
       },
       {
          "source" : 0,
-         "target" : 10
+         "target" : 8
       },
       {
          "source" : 0,
-         "target" : 13
+         "target" : 11
       },
       {
          "source" : 0,
@@ -347,7 +347,7 @@
       },
       {
          "source" : 0,
-         "target" : 16
+         "target" : 15
       },
       {
          "source" : 2,
@@ -379,15 +379,15 @@
       },
       {
          "source" : 7,
-         "target" : 8
+         "target" : 1
       },
       {
-         "source" : 7,
+         "source" : 8,
          "target" : 9
       },
       {
          "source" : 8,
-         "target" : 1
+         "target" : 10
       },
       {
          "source" : 9,
@@ -395,15 +395,15 @@
       },
       {
          "source" : 10,
-         "target" : 11
+         "target" : 1
       },
       {
-         "source" : 10,
+         "source" : 11,
          "target" : 12
       },
       {
          "source" : 11,
-         "target" : 1
+         "target" : 13
       },
       {
          "source" : 12,
@@ -411,19 +411,19 @@
       },
       {
          "source" : 13,
-         "target" : 5
-      },
-      {
-         "source" : 13,
-         "target" : 12
+         "target" : 1
       },
       {
          "source" : 14,
-         "target" : 15
+         "target" : 5
+      },
+      {
+         "source" : 14,
+         "target" : 13
       },
       {
          "source" : 15,
-         "target" : 1
+         "target" : 16
       },
       {
          "source" : 16,
@@ -433,12 +433,12 @@
    "nodes" : [
       {
          "children" : [
-            "435205717",
-            "1794790525",
-            "1255766367",
-            "952494437",
-            "605794870",
-            "477774708"
+            "784326871",
+            "119222481",
+            "1414035537",
+            "648314579",
+            "2009897864",
+            "688889880"
          ],
          "concept" : {
             "extent" : [
@@ -460,7 +460,7 @@
             "intent" : [],
             "md5" : "b843b389c28629784b071db4c7a47383"
          },
-         "hash" : "501793317",
+         "hash" : "1041420184",
          "idx" : 0,
          "labelAttributes" : [],
          "labelObjects" : [],
@@ -472,36 +472,36 @@
          "concept" : {
             "extent" : [],
             "intent" : [
-               "Astronomia",
-               "Cambio climático",
+               "Cambio climatico",
                "Cetaceos",
                "Cotejos de Documentos",
                "COVID 19",
                "Entidades Academicas",
-               "Estudios sobre científicos",
-               "Estudios sobre tecnólogos",
-               "Institucionalizacion de la estadistica ",
+               "Estudios sobre cientificos",
+               "Estudios sobre tecnologos",
                "Inteligencia artificial",
                "Interacciones vocales humanas",
                "Medicion social",
                "Monos araña",
-               "Nano-tecnología",
+               "Nano tecnologia",
                "Noticias digitales",
+               "Practicas estadísticas",
                "Redes agroalimentarias",
-               "Sistema Econpmico y Mercados Financieros ",
-               "Socio-ecosistemas en Yucatan",
+               "Sistema Economico",
+               "Socio ecosistemas en Yucatan",
                "Tareas colectivas",
                "Tecnologias digitales",
+               "Teorias fisicas",
                "Trayectorias en CyT",
-               "Turísmo"
+               "Turismo"
             ],
-            "md5" : "1f9ca52b404cc49bcbca503d2a26a6f9"
+            "md5" : "0e2d2b77926a8c4c22d7227ffe5f55d0"
          },
-         "hash" : "719285515",
+         "hash" : "1255687774",
          "idx" : 1,
          "labelAttributes" : [
-            "Turísmo",
-            "Sistema Econpmico y Mercados Financieros",
+            "Turismo",
+            "Sistema Economico",
             "Noticias digitales",
             "COVID 19",
             "Cotejos de Documentos"
@@ -509,22 +509,22 @@
          "labelObjects" : [],
          "level" : "0",
          "parents" : [
-            "1619656008",
-            "55733800",
-            "1391660384",
-            "1209573794",
-            "1741973076",
-            "2011654056",
-            "1026948153",
-            "808279948",
-            "477774708"
+            "1148001488",
+            "1504989209",
+            "1265270129",
+            "119222481",
+            "1117338264",
+            "1857959303",
+            "359765201",
+            "224981755",
+            "7177090"
          ]
       },
       {
          "children" : [
-            "1619656008",
-            "55733800",
-            "377939459"
+            "1148001488",
+            "1504989209",
+            "98695495"
          ],
          "concept" : {
             "extent" : [
@@ -538,7 +538,7 @@
             ],
             "md5" : "da89ff29c990a078efcc74566ba7485d"
          },
-         "hash" : "435205717",
+         "hash" : "784326871",
          "idx" : 2,
          "labelAttributes" : [
             "Trayectorias en CyT"
@@ -546,66 +546,66 @@
          "labelObjects" : [],
          "level" : "3",
          "parents" : [
-            "501793317"
+            "1041420184"
          ]
       },
       {
          "children" : [
-            "719285515"
+            "1255687774"
          ],
          "concept" : {
             "extent" : [
                "Israel_Garcia"
             ],
             "intent" : [
-               "Estudios sobre tecnólogos",
+               "Estudios sobre tecnologos",
                "Trayectorias en CyT"
             ],
-            "md5" : "355bd96d318bfd6c26d6a7e12fd54b87"
+            "md5" : "8897cc33c493432ca9c5eb9610d46bc2"
          },
-         "hash" : "1619656008",
+         "hash" : "1148001488",
          "idx" : 3,
          "labelAttributes" : [
-            "Estudios sobre tecnólogos"
+            "Estudios sobre tecnologos"
          ],
          "labelObjects" : [
             "Israel_Garcia"
          ],
          "level" : "1",
          "parents" : [
-            "435205717"
+            "784326871"
          ]
       },
       {
          "children" : [
-            "719285515"
+            "1255687774"
          ],
          "concept" : {
             "extent" : [
                "Leticia_Mayer"
             ],
             "intent" : [
-               "Estudios sobre científicos",
+               "Estudios sobre cientificos",
                "Trayectorias en CyT"
             ],
-            "md5" : "821a6d6e84c8f34bc5454aa619730b66"
+            "md5" : "36cb08e47d8f8b6470f17741ac72315b"
          },
-         "hash" : "55733800",
+         "hash" : "1504989209",
          "idx" : 4,
          "labelAttributes" : [
-            "Estudios sobre científicos"
+            "Estudios sobre cientificos"
          ],
          "labelObjects" : [
             "Leticia_Mayer"
          ],
          "level" : "1",
          "parents" : [
-            "435205717"
+            "784326871"
          ]
       },
       {
          "children" : [
-            "1391660384"
+            "1265270129"
          ],
          "concept" : {
             "extent" : [
@@ -618,7 +618,7 @@
             ],
             "md5" : "11a64c3fe67ac6d8d376e7ac3ac1a603"
          },
-         "hash" : "377939459",
+         "hash" : "98695495",
          "idx" : 5,
          "labelAttributes" : [],
          "labelObjects" : [
@@ -626,13 +626,13 @@
          ],
          "level" : "2",
          "parents" : [
-            "435205717",
-            "952494437"
+            "784326871",
+            "2009897864"
          ]
       },
       {
          "children" : [
-            "719285515"
+            "1255687774"
          ],
          "concept" : {
             "extent" : [
@@ -640,28 +640,54 @@
             ],
             "intent" : [
                "Entidades Academicas",
-               "Nano-tecnología",
+               "Nano tecnologia",
                "Trayectorias en CyT"
             ],
-            "md5" : "2392128f10fe5c7db493f3a5da481252"
+            "md5" : "ff267835b62fbefcaae7afb4604ae3c4"
          },
-         "hash" : "1391660384",
+         "hash" : "1265270129",
          "idx" : 6,
          "labelAttributes" : [
-            "Nano-tecnología"
+            "Nano tecnologia"
          ],
          "labelObjects" : [
             "Eduardo_Robles"
          ],
          "level" : "1",
          "parents" : [
-            "377939459"
+            "98695495"
          ]
       },
       {
          "children" : [
-            "1209573794",
-            "1741973076"
+            "1255687774"
+         ],
+         "concept" : {
+            "extent" : [
+               "Mariana_Espinosa"
+            ],
+            "intent" : [
+               "Teorias fisicas"
+            ],
+            "md5" : "231b01c14dfb60e71334ae3110160c99"
+         },
+         "hash" : "119222481",
+         "idx" : 7,
+         "labelAttributes" : [
+            "Teorias fisicas"
+         ],
+         "labelObjects" : [
+            "Mariana_Espinosa"
+         ],
+         "level" : "1",
+         "parents" : [
+            "1041420184"
+         ]
+      },
+      {
+         "children" : [
+            "1117338264",
+            "1857959303"
          ],
          "concept" : {
             "extent" : [
@@ -675,8 +701,8 @@
             ],
             "md5" : "61bd4becb681e98dabdaff61f124414b"
          },
-         "hash" : "1794790525",
-         "idx" : 7,
+         "hash" : "1414035537",
+         "idx" : 8,
          "labelAttributes" : [
             "Monos araña"
          ],
@@ -686,12 +712,12 @@
          ],
          "level" : "2",
          "parents" : [
-            "501793317"
+            "1041420184"
          ]
       },
       {
          "children" : [
-            "719285515"
+            "1255687774"
          ],
          "concept" : {
             "extent" : [
@@ -700,16 +726,16 @@
             "intent" : [
                "Interacciones vocales humanas",
                "Monos araña",
-               "Socio-ecosistemas en Yucatan",
+               "Socio ecosistemas en Yucatan",
                "Tareas colectivas"
             ],
-            "md5" : "8fd949dac9c7d090677e1b999a7fa328"
+            "md5" : "9e5e1aebba23f0a2ce0270cc15210329"
          },
-         "hash" : "1209573794",
-         "idx" : 8,
+         "hash" : "1117338264",
+         "idx" : 9,
          "labelAttributes" : [
             "Tareas colectivas",
-            "Socio-ecosistemas en Yucatan",
+            "Socio ecosistemas en Yucatan",
             "Interacciones vocales humanas"
          ],
          "labelObjects" : [
@@ -717,12 +743,12 @@
          ],
          "level" : "1",
          "parents" : [
-            "1794790525"
+            "1414035537"
          ]
       },
       {
          "children" : [
-            "719285515"
+            "1255687774"
          ],
          "concept" : {
             "extent" : [
@@ -735,8 +761,8 @@
             ],
             "md5" : "a6592af4b30a9d20dc56a2db30b7f960"
          },
-         "hash" : "1741973076",
-         "idx" : 9,
+         "hash" : "1857959303",
+         "idx" : 10,
          "labelAttributes" : [
             "Redes agroalimentarias",
             "Cetaceos"
@@ -746,13 +772,13 @@
          ],
          "level" : "1",
          "parents" : [
-            "1794790525"
+            "1414035537"
          ]
       },
       {
          "children" : [
-            "2011654056",
-            "1026948153"
+            "359765201",
+            "224981755"
          ],
          "concept" : {
             "extent" : [
@@ -764,47 +790,47 @@
             ],
             "md5" : "cec2e9a3f772b6030252fe3961a30a5a"
          },
-         "hash" : "1255766367",
-         "idx" : 10,
+         "hash" : "648314579",
+         "idx" : 11,
          "labelAttributes" : [
             "Medicion social"
          ],
          "labelObjects" : [],
          "level" : "2",
          "parents" : [
-            "501793317"
+            "1041420184"
          ]
       },
       {
          "children" : [
-            "719285515"
+            "1255687774"
          ],
          "concept" : {
             "extent" : [
                "Ana_Medeles"
             ],
             "intent" : [
-               "Institucionalizacion de la estadistica ",
-               "Medicion social"
+               "Medicion social",
+               "Practicas estadísticas"
             ],
-            "md5" : "767495168ff4e03418d66534dfa4e1e4"
+            "md5" : "2d8a450a04757a20c2ae7571a7b5e967"
          },
-         "hash" : "2011654056",
-         "idx" : 11,
+         "hash" : "359765201",
+         "idx" : 12,
          "labelAttributes" : [
-            "Institucionalizacion de la estadistica"
+            "Practicas estadísticas"
          ],
          "labelObjects" : [
             "Ana_Medeles"
          ],
          "level" : "1",
          "parents" : [
-            "1255766367"
+            "648314579"
          ]
       },
       {
          "children" : [
-            "719285515"
+            "1255687774"
          ],
          "concept" : {
             "extent" : [
@@ -816,22 +842,22 @@
             ],
             "md5" : "8820e425ca79905265d11fff7566d4dd"
          },
-         "hash" : "1026948153",
-         "idx" : 12,
+         "hash" : "224981755",
+         "idx" : 13,
          "labelAttributes" : [],
          "labelObjects" : [
             "Nestor_Paredes"
          ],
          "level" : "1",
          "parents" : [
-            "1255766367",
-            "952494437"
+            "648314579",
+            "2009897864"
          ]
       },
       {
          "children" : [
-            "377939459",
-            "1026948153"
+            "98695495",
+            "224981755"
          ],
          "concept" : {
             "extent" : [
@@ -845,8 +871,8 @@
             ],
             "md5" : "2680880e1178ae588ee81d3dd930b13c"
          },
-         "hash" : "952494437",
-         "idx" : 13,
+         "hash" : "2009897864",
+         "idx" : 14,
          "labelAttributes" : [
             "Entidades Academicas"
          ],
@@ -855,12 +881,12 @@
          ],
          "level" : "3",
          "parents" : [
-            "501793317"
+            "1041420184"
          ]
       },
       {
          "children" : [
-            "808279948"
+            "7177090"
          ],
          "concept" : {
             "extent" : [
@@ -868,40 +894,40 @@
                "Teresa_de_Leon"
             ],
             "intent" : [
-               "Cambio climático"
+               "Cambio climatico"
             ],
-            "md5" : "ff976b9c906f2aec718395c7300f722c"
+            "md5" : "b22a64d70c27750fcd931d7e48a36b31"
          },
-         "hash" : "605794870",
-         "idx" : 14,
+         "hash" : "688889880",
+         "idx" : 15,
          "labelAttributes" : [
-            "Cambio climático"
+            "Cambio climatico"
          ],
          "labelObjects" : [
             "Teresa_de_Leon"
          ],
          "level" : "2",
          "parents" : [
-            "501793317"
+            "1041420184"
          ]
       },
       {
          "children" : [
-            "719285515"
+            "1255687774"
          ],
          "concept" : {
             "extent" : [
                "Gabriela_Sued"
             ],
             "intent" : [
-               "Cambio climático",
+               "Cambio climatico",
                "Inteligencia artificial",
                "Tecnologias digitales"
             ],
-            "md5" : "35ef67504ca92d9466b1d8e5f60acf58"
+            "md5" : "dae0a4fcfdd83b751e3163f441a9bb66"
          },
-         "hash" : "808279948",
-         "idx" : 15,
+         "hash" : "7177090",
+         "idx" : 16,
          "labelAttributes" : [
             "Tecnologias digitales",
             "Inteligencia artificial"
@@ -911,33 +937,7 @@
          ],
          "level" : "1",
          "parents" : [
-            "605794870"
-         ]
-      },
-      {
-         "children" : [
-            "719285515"
-         ],
-         "concept" : {
-            "extent" : [
-               "Mariana_Espinosa"
-            ],
-            "intent" : [
-               "Astronomia"
-            ],
-            "md5" : "e08312f5f48d93cdaf797b8645770cc3"
-         },
-         "hash" : "477774708",
-         "idx" : 16,
-         "labelAttributes" : [
-            "Astronomia"
-         ],
-         "labelObjects" : [
-            "Mariana_Espinosa"
-         ],
-         "level" : "1",
-         "parents" : [
-            "501793317"
+            "688889880"
          ]
       }
    ]

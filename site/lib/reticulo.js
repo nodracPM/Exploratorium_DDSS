@@ -295,6 +295,7 @@
 
     function infoboxClosedCB() {
       window.info_attr_id = undefined;
+      window.info_object_id = undefined;
     }
 
     function htmlIfNotEmpty(ele) {
@@ -302,6 +303,13 @@
         return "";
       }
       return ele.html();
+    }
+
+    function valueIfNotEmpty(value) {
+      if (value === undefined || value === null || value === "") {
+        return "";
+      }
+      return value;
     }
 
     function attributeClick(event, infobox) {
@@ -337,6 +345,56 @@
       infocont.append("div")
         .classed("ref", true)
         .html(htmlIfNotEmpty(d3.select(`#attr-desc-${attr_id} .attr-desc-ref`)));
+
+      infobox.style("display", "block");
+    }
+
+    function objectClick(event, infobox, objectDetails) {
+      event.stopPropagation();
+
+      const objectId = d3.select(event.currentTarget).property("objectId");
+      const infocont = infobox.select(".cont");
+
+      if (!objectDetails || !objectDetails[objectId]) {
+        return;
+      }
+
+      const objectInfo = objectDetails[objectId];
+      if (objectInfo.Label === "") {
+        return;
+      }
+
+      if (window.info_object_id != null &&
+          objectId == window.info_object_id) {
+        floatboxClose(infobox, infoboxClosedCB);
+        return;
+      }
+      window.info_attr_id = undefined;
+      window.info_object_id = objectId;
+
+      infocont.html("");
+      infocont.append("h2")
+        .html(objectInfo.Label);
+
+      const descriptionHtml = valueIfNotEmpty(objectInfo.Description);
+      const yearHtml = valueIfNotEmpty(objectInfo.Year);
+      const referenceHtml = valueIfNotEmpty(objectInfo.Reference);
+
+      if (descriptionHtml !== "") {
+        infocont.append("div")
+          .classed("exp", true)
+          .html(descriptionHtml);
+      }
+      if (yearHtml !== "") {
+        infocont.append("div")
+          .classed("year", true)
+          .html(yearHtml);
+      }
+      if (referenceHtml !== "") {
+        infocont.append("div")
+          .classed("ref", true)
+          .html(referenceHtml);
+      }
 
       infobox.style("display", "block");
     }
@@ -484,6 +542,7 @@
       const rand_str = "?r=" + Math.random().toString().substr(2);
       const defaults = {
         ATTR_DESC_SOURCE: "attr_desc.csv",
+        OBJ_DESC_SOURCE: "obj_desc.csv",
         LATTICE_SOURCE: "lattice.json",
         POS_SOURCE: "pos.json",
         ATTR_CLASS_DESC_SOURCE: "attr_class_desc.csv"
@@ -1145,8 +1204,9 @@
             .on("tick", () => forceTick(nodes, links));
 
       const attrClasses = {};
+      const objectDetails = {};
       const that = this;
-      function descCsvLoaded(data, attrDesc) {
+      function attrDescCsvLoaded(data, attrDesc) {
         const check = new Map();
         for (const desc of data) {
           const attr_id = getAttrId(desc.Attribute);
@@ -1167,6 +1227,15 @@
           attrClasses[desc.Attribute] = desc.Class;
         }
         MathJax.Hub.Queue(["Typeset", MathJax.Hub, attrDesc.node()]);
+      }
+
+      function objDescCsvLoaded(data) {
+        for (const desc of data) {
+          objectDetails[desc.Code] = desc;
+        }
+      }
+
+      function loadLattice() {
         d3.json(that.config.POS_SOURCE).then((nodePos) =>
           d3.json(that.config.LATTICE_SOURCE).then((graph) => latticeJsonLoaded(graph, nodePos)));
       }
@@ -1174,8 +1243,14 @@
       d3.dsv("|", this.config.ATTR_CLASS_DESC_SOURCE)
         .then((data) => legendSetup(legend, toolbar, data));
 
-      d3.dsv("|", this.config.ATTR_DESC_SOURCE)
-        .then((data) => descCsvLoaded(data, d3.select("#attr-desc")));
+      Promise.all([
+        d3.dsv("|", this.config.ATTR_DESC_SOURCE),
+        d3.dsv("|", this.config.OBJ_DESC_SOURCE)
+      ]).then(([attrData, objData]) => {
+        attrDescCsvLoaded(attrData, d3.select("#attr-desc"));
+        objDescCsvLoaded(objData);
+        loadLattice();
+      });
 
       function latticeJsonLoaded(graph, nodePos) {
         graph.classes = attrClasses;
@@ -1283,7 +1358,9 @@
             for (let i = 0; i < datum.labelObjects.length; i++) {
               const id = datum.labelObjects[i];
               const textBox = group.append(() => createTextBox("objects-label",
-                                                               graph.context[id].name));
+                                                               graph.context[id].name))
+                    .on("click", (event) => objectClick(event, infobox, objectDetails))
+                    .property("objectId", id);
               textBoxes.push(textBox);
             }
             nodeObjectLabelsSetPos(group, that.config);

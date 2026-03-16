@@ -1,10 +1,17 @@
 #!/bin/bash
 
+set -e
+
 source $(dirname "$0")/common.sh
 
 DBDSN=${1:-$DEFAULT_DBDSN}
 
 require_sqlite "$DBDSN"
+
+if ! sqlite3 "$DBDSN" "SELECT 1 FROM sqlite_schema WHERE type = 'view' AND name = 'v_objects'" | grep -qx 1; then
+  echo "$0: database '$DBDSN' does not include view 'v_objects'; regenerate the database with scripts/ods2db.sh before building" >&2
+  exit 1
+fi
 
 while read -r lang; do
   while IFS=\| read -r context_id context; do
@@ -32,6 +39,11 @@ while read -r lang; do
 SELECT Attribute,Class,Title,Formula,Explanation,Reference FROM v_attributes
        WHERE Lang='$lang' AND Context='$context'" |
       sqlite3 -header "$DBDSN" > "$diagram_dir"/attr_desc.csv
+
+    echo "
+SELECT Code,Label,Description,Year,Reference FROM v_objects
+       WHERE Lang='$lang' AND Context='$context'" |
+      sqlite3 -header "$DBDSN" > "$diagram_dir"/obj_desc.csv
 
     echo "
 SELECT v.Code, v.Title_$lang AS Title

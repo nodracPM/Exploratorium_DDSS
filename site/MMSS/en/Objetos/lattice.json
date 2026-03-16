@@ -26,27 +26,27 @@
             "Academic entities",
             "Agri-food networks",
             "Artificial intelligence",
-            "Astronomy",
             "Cetaceans",
             "Climate Change",
             "Collective Tasks",
-            "COVID-19",
+            "COVID 19",
             "Digital News",
             "Digital Technologies",
             "Economic System",
             "Human Vocal Interactions",
             "Information Sources",
             "Nanotechnology",
+            "Physical Theories",
             "Social Measurement",
-            "Socio-ecosystems in Yucatán",
+            "Socio-ecosystems in Yucatan",
             "Spider Monkeys",
             "Statistical Practices",
             "Studies of Scientists",
-            "Studies of technitians",
+            "Studies of technicians",
             "Tourism",
             "Trajectories of Science"
          ],
-         "md5" : "4c22306d0a3c319f048c0a77c08dd984"
+         "md5" : "cb7e55d30147fec6c9c65eced3405fa5"
       },
       {
          "extent" : [
@@ -65,10 +65,10 @@
             "Israel_Garcia"
          ],
          "intent" : [
-            "Studies of technitians",
+            "Studies of technicians",
             "Trajectories of Science"
          ],
-         "md5" : "5c6e761afe09cda990e17a009cd18483"
+         "md5" : "59a66442e0691223160e65ecc71141eb"
       },
       {
          "extent" : [
@@ -121,10 +121,10 @@
          "intent" : [
             "Collective Tasks",
             "Human Vocal Interactions",
-            "Socio-ecosystems in Yucatán",
+            "Socio-ecosystems in Yucatan",
             "Spider Monkeys"
          ],
-         "md5" : "0e041d1a677e115ec6b45ecfce12ba42"
+         "md5" : "83682361d869769eee798d36e44c3a4d"
       },
       {
          "extent" : [
@@ -169,6 +169,15 @@
       },
       {
          "extent" : [
+            "Mariana_Espinosa"
+         ],
+         "intent" : [
+            "Physical Theories"
+         ],
+         "md5" : "1f982b78bf0878f2f145f2248d30c980"
+      },
+      {
+         "extent" : [
             "Gabriela_Sued",
             "Teresa_de_Leon"
          ],
@@ -187,15 +196,6 @@
             "Digital Technologies"
          ],
          "md5" : "b6f5686e655bb21c8d56a9cb42d70e19"
-      },
-      {
-         "extent" : [
-            "Mariana_Espinosa"
-         ],
-         "intent" : [
-            "Astronomy"
-         ],
-         "md5" : "2a911f8f7d5183f9e43e1fe4913170d3"
       },
       {
          "extent" : [
@@ -246,7 +246,7 @@
          "attributes" : [
             "Collective Tasks",
             "Human Vocal Interactions",
-            "Socio-ecosystems in Yucatán",
+            "Socio-ecosystems in Yucatan",
             "Spider Monkeys"
          ],
          "id" : "Gabriel_Ramos",
@@ -263,7 +263,7 @@
       },
       "Israel_Garcia" : {
          "attributes" : [
-            "Studies of technitians",
+            "Studies of technicians",
             "Trajectories of Science"
          ],
          "id" : "Israel_Garcia",
@@ -287,7 +287,7 @@
       },
       "Mariana_Espinosa" : {
          "attributes" : [
-            "Astronomy"
+            "Physical Theories"
          ],
          "id" : "Mariana_Espinosa",
          "name" : "Mariana Espinosa"
@@ -343,7 +343,7 @@
       },
       {
          "source" : 0,
-         "target" : 15
+         "target" : 14
       },
       {
          "source" : 0,
@@ -411,11 +411,11 @@
       },
       {
          "source" : 13,
-         "target" : 14
+         "target" : 1
       },
       {
          "source" : 14,
-         "target" : 1
+         "target" : 15
       },
       {
          "source" : 15,
@@ -433,12 +433,12 @@
    "nodes" : [
       {
          "children" : [
-            "1619256952",
-            "805749328",
-            "504427948",
-            "1280092559",
-            "855848536",
-            "898725418"
+            "1797228782",
+            "1032721995",
+            "625123403",
+            "711495420",
+            "1034365863",
+            "1893092886"
          ],
          "concept" : {
             "extent" : [
@@ -460,7 +460,7 @@
             "intent" : [],
             "md5" : "b843b389c28629784b071db4c7a47383"
          },
-         "hash" : "741693601",
+         "hash" : "1076291775",
          "idx" : 0,
          "labelAttributes" : [],
          "labelObjects" : [],
@@ -475,56 +475,56 @@
                "Academic entities",
                "Agri-food networks",
                "Artificial intelligence",
-               "Astronomy",
                "Cetaceans",
                "Climate Change",
                "Collective Tasks",
-               "COVID-19",
+               "COVID 19",
                "Digital News",
                "Digital Technologies",
                "Economic System",
                "Human Vocal Interactions",
                "Information Sources",
                "Nanotechnology",
+               "Physical Theories",
                "Social Measurement",
-               "Socio-ecosystems in Yucatán",
+               "Socio-ecosystems in Yucatan",
                "Spider Monkeys",
                "Statistical Practices",
                "Studies of Scientists",
-               "Studies of technitians",
+               "Studies of technicians",
                "Tourism",
                "Trajectories of Science"
             ],
-            "md5" : "4c22306d0a3c319f048c0a77c08dd984"
+            "md5" : "cb7e55d30147fec6c9c65eced3405fa5"
          },
-         "hash" : "686253654",
+         "hash" : "1673140035",
          "idx" : 1,
          "labelAttributes" : [
             "Tourism",
             "Information Sources",
             "Economic System",
             "Digital News",
-            "COVID-19"
+            "COVID 19"
          ],
          "labelObjects" : [],
          "level" : "0",
          "parents" : [
-            "1987138458",
-            "1740401227",
-            "943600444",
-            "1424991179",
-            "687789903",
-            "739511849",
-            "1702526788",
-            "1277323739",
-            "855848536"
+            "227887687",
+            "1823952231",
+            "1836907243",
+            "939713078",
+            "526536707",
+            "1240001277",
+            "1137310345",
+            "711495420",
+            "1873524109"
          ]
       },
       {
          "children" : [
-            "1987138458",
-            "1740401227",
-            "1796174001"
+            "227887687",
+            "1823952231",
+            "1785513220"
          ],
          "concept" : {
             "extent" : [
@@ -538,7 +538,7 @@
             ],
             "md5" : "a334ebe5b8c5066dbe64fa609cbcd079"
          },
-         "hash" : "1619256952",
+         "hash" : "1797228782",
          "idx" : 2,
          "labelAttributes" : [
             "Trajectories of Science"
@@ -546,39 +546,39 @@
          "labelObjects" : [],
          "level" : "3",
          "parents" : [
-            "741693601"
+            "1076291775"
          ]
       },
       {
          "children" : [
-            "686253654"
+            "1673140035"
          ],
          "concept" : {
             "extent" : [
                "Israel_Garcia"
             ],
             "intent" : [
-               "Studies of technitians",
+               "Studies of technicians",
                "Trajectories of Science"
             ],
-            "md5" : "5c6e761afe09cda990e17a009cd18483"
+            "md5" : "59a66442e0691223160e65ecc71141eb"
          },
-         "hash" : "1987138458",
+         "hash" : "227887687",
          "idx" : 3,
          "labelAttributes" : [
-            "Studies of technitians"
+            "Studies of technicians"
          ],
          "labelObjects" : [
             "Israel_Garcia"
          ],
          "level" : "1",
          "parents" : [
-            "1619256952"
+            "1797228782"
          ]
       },
       {
          "children" : [
-            "686253654"
+            "1673140035"
          ],
          "concept" : {
             "extent" : [
@@ -590,7 +590,7 @@
             ],
             "md5" : "40aee4defe78fbc5afcc3048c7ec2eee"
          },
-         "hash" : "1740401227",
+         "hash" : "1823952231",
          "idx" : 4,
          "labelAttributes" : [
             "Studies of Scientists"
@@ -600,12 +600,12 @@
          ],
          "level" : "1",
          "parents" : [
-            "1619256952"
+            "1797228782"
          ]
       },
       {
          "children" : [
-            "943600444"
+            "1836907243"
          ],
          "concept" : {
             "extent" : [
@@ -618,7 +618,7 @@
             ],
             "md5" : "1db7d56bca48375e27785cab66674bb9"
          },
-         "hash" : "1796174001",
+         "hash" : "1785513220",
          "idx" : 5,
          "labelAttributes" : [],
          "labelObjects" : [
@@ -626,13 +626,13 @@
          ],
          "level" : "2",
          "parents" : [
-            "1619256952",
-            "898725418"
+            "1797228782",
+            "1893092886"
          ]
       },
       {
          "children" : [
-            "686253654"
+            "1673140035"
          ],
          "concept" : {
             "extent" : [
@@ -645,7 +645,7 @@
             ],
             "md5" : "f04f3b3295d1768cf37bfd91879b0294"
          },
-         "hash" : "943600444",
+         "hash" : "1836907243",
          "idx" : 6,
          "labelAttributes" : [
             "Nanotechnology"
@@ -655,13 +655,13 @@
          ],
          "level" : "1",
          "parents" : [
-            "1796174001"
+            "1785513220"
          ]
       },
       {
          "children" : [
-            "1424991179",
-            "687789903"
+            "939713078",
+            "526536707"
          ],
          "concept" : {
             "extent" : [
@@ -675,7 +675,7 @@
             ],
             "md5" : "875b42b21ca5c205ae2b0d2021dccbea"
          },
-         "hash" : "805749328",
+         "hash" : "1032721995",
          "idx" : 7,
          "labelAttributes" : [
             "Spider Monkeys"
@@ -686,12 +686,12 @@
          ],
          "level" : "2",
          "parents" : [
-            "741693601"
+            "1076291775"
          ]
       },
       {
          "children" : [
-            "686253654"
+            "1673140035"
          ],
          "concept" : {
             "extent" : [
@@ -700,15 +700,15 @@
             "intent" : [
                "Collective Tasks",
                "Human Vocal Interactions",
-               "Socio-ecosystems in Yucatán",
+               "Socio-ecosystems in Yucatan",
                "Spider Monkeys"
             ],
-            "md5" : "0e041d1a677e115ec6b45ecfce12ba42"
+            "md5" : "83682361d869769eee798d36e44c3a4d"
          },
-         "hash" : "1424991179",
+         "hash" : "939713078",
          "idx" : 8,
          "labelAttributes" : [
-            "Socio-ecosystems in Yucatán",
+            "Socio-ecosystems in Yucatan",
             "Human Vocal Interactions",
             "Collective Tasks"
          ],
@@ -717,12 +717,12 @@
          ],
          "level" : "1",
          "parents" : [
-            "805749328"
+            "1032721995"
          ]
       },
       {
          "children" : [
-            "686253654"
+            "1673140035"
          ],
          "concept" : {
             "extent" : [
@@ -735,7 +735,7 @@
             ],
             "md5" : "5dad0d93586ef63f3397e6cb1dc833de"
          },
-         "hash" : "687789903",
+         "hash" : "526536707",
          "idx" : 9,
          "labelAttributes" : [
             "Cetaceans",
@@ -746,13 +746,13 @@
          ],
          "level" : "1",
          "parents" : [
-            "805749328"
+            "1032721995"
          ]
       },
       {
          "children" : [
-            "739511849",
-            "1702526788"
+            "1240001277",
+            "1137310345"
          ],
          "concept" : {
             "extent" : [
@@ -764,7 +764,7 @@
             ],
             "md5" : "60c677e1299d8952e4e7ef3feda3df17"
          },
-         "hash" : "504427948",
+         "hash" : "625123403",
          "idx" : 10,
          "labelAttributes" : [
             "Social Measurement"
@@ -772,12 +772,12 @@
          "labelObjects" : [],
          "level" : "2",
          "parents" : [
-            "741693601"
+            "1076291775"
          ]
       },
       {
          "children" : [
-            "686253654"
+            "1673140035"
          ],
          "concept" : {
             "extent" : [
@@ -789,7 +789,7 @@
             ],
             "md5" : "de85a9011d8ed0e8adf472e303851a20"
          },
-         "hash" : "739511849",
+         "hash" : "1240001277",
          "idx" : 11,
          "labelAttributes" : [
             "Statistical Practices"
@@ -799,12 +799,12 @@
          ],
          "level" : "1",
          "parents" : [
-            "504427948"
+            "625123403"
          ]
       },
       {
          "children" : [
-            "686253654"
+            "1673140035"
          ],
          "concept" : {
             "extent" : [
@@ -816,7 +816,7 @@
             ],
             "md5" : "9de059dc78c5f55550313eee0fb60880"
          },
-         "hash" : "1702526788",
+         "hash" : "1137310345",
          "idx" : 12,
          "labelAttributes" : [],
          "labelObjects" : [
@@ -824,13 +824,39 @@
          ],
          "level" : "1",
          "parents" : [
-            "504427948",
-            "898725418"
+            "625123403",
+            "1893092886"
          ]
       },
       {
          "children" : [
-            "1277323739"
+            "1673140035"
+         ],
+         "concept" : {
+            "extent" : [
+               "Mariana_Espinosa"
+            ],
+            "intent" : [
+               "Physical Theories"
+            ],
+            "md5" : "1f982b78bf0878f2f145f2248d30c980"
+         },
+         "hash" : "711495420",
+         "idx" : 13,
+         "labelAttributes" : [
+            "Physical Theories"
+         ],
+         "labelObjects" : [
+            "Mariana_Espinosa"
+         ],
+         "level" : "1",
+         "parents" : [
+            "1076291775"
+         ]
+      },
+      {
+         "children" : [
+            "1873524109"
          ],
          "concept" : {
             "extent" : [
@@ -842,8 +868,8 @@
             ],
             "md5" : "a6266c8807320e8332cb2909c44d0f1d"
          },
-         "hash" : "1280092559",
-         "idx" : 13,
+         "hash" : "1034365863",
+         "idx" : 14,
          "labelAttributes" : [
             "Climate Change"
          ],
@@ -852,12 +878,12 @@
          ],
          "level" : "2",
          "parents" : [
-            "741693601"
+            "1076291775"
          ]
       },
       {
          "children" : [
-            "686253654"
+            "1673140035"
          ],
          "concept" : {
             "extent" : [
@@ -870,8 +896,8 @@
             ],
             "md5" : "b6f5686e655bb21c8d56a9cb42d70e19"
          },
-         "hash" : "1277323739",
-         "idx" : 14,
+         "hash" : "1873524109",
+         "idx" : 15,
          "labelAttributes" : [
             "Digital Technologies",
             "Artificial intelligence"
@@ -881,39 +907,13 @@
          ],
          "level" : "1",
          "parents" : [
-            "1280092559"
+            "1034365863"
          ]
       },
       {
          "children" : [
-            "686253654"
-         ],
-         "concept" : {
-            "extent" : [
-               "Mariana_Espinosa"
-            ],
-            "intent" : [
-               "Astronomy"
-            ],
-            "md5" : "2a911f8f7d5183f9e43e1fe4913170d3"
-         },
-         "hash" : "855848536",
-         "idx" : 15,
-         "labelAttributes" : [
-            "Astronomy"
-         ],
-         "labelObjects" : [
-            "Mariana_Espinosa"
-         ],
-         "level" : "1",
-         "parents" : [
-            "741693601"
-         ]
-      },
-      {
-         "children" : [
-            "1796174001",
-            "1702526788"
+            "1785513220",
+            "1137310345"
          ],
          "concept" : {
             "extent" : [
@@ -927,7 +927,7 @@
             ],
             "md5" : "0ae2de8cd0131595f4389950195baf78"
          },
-         "hash" : "898725418",
+         "hash" : "1893092886",
          "idx" : 16,
          "labelAttributes" : [
             "Academic entities"
@@ -937,7 +937,7 @@
          ],
          "level" : "3",
          "parents" : [
-            "741693601"
+            "1076291775"
          ]
       }
    ]
