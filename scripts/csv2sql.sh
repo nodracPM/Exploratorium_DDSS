@@ -92,6 +92,19 @@ function str_or_NULL {
     fi
 }
 
+function int_or_NULL {
+    local value=$1
+
+    if [ -z "$value" ]; then
+	echo -n NULL
+    elif [[ "$value" =~ ^[0-9]+$ ]]; then
+	echo -n "$value"
+    else
+	echo "$0: invalid integer value '$value'" >&2
+	return 1
+    fi
+}
+
 function render_attr_class {
     local reader=$1
     local table=$2
@@ -183,10 +196,14 @@ function render_lang {
 function render_object {
     local reader=$1
     local table=$2
+    local reference_sql
+    local year_sql
 
     eval "$reader" || return 1
-    printf "INSERT INTO %s VALUES(%d,%s);\n" \
-	   "$table" "$object_id" "$(esc "$object_code")"
+    reference_sql=$(str_or_NULL "$reference") || return 1
+    year_sql=$(int_or_NULL "$year") || return 1
+    printf "INSERT INTO %s VALUES(%d,%s,%s,%s);\n" \
+	   "$table" "$object_id" "$(esc "$object_code")" "$reference_sql" "$year_sql"
 }
 
 function render_object_attribute {
@@ -210,12 +227,16 @@ function render_object_context {
 function render_object_desc {
     local reader=$1
     local table=$2
+    local desc_en_sql
+    local desc_es_sql
 
     eval "$reader" || return 1
-    printf "INSERT INTO %s VALUES(%d,'en',%s);\n" \
-	   "$table" "$object_id" "$(esc "$object_label_en")"
-    printf "INSERT INTO %s VALUES(%d,'es',%s);\n" \
-	   "$table" "$object_id" "$(esc "$object_label_es")"
+    desc_en_sql=$(str_or_NULL "$object_desc_en") || return 1
+    desc_es_sql=$(str_or_NULL "$object_desc_es") || return 1
+    printf "INSERT INTO %s VALUES(%d,'en',%s,%s);\n" \
+	   "$table" "$object_id" "$(esc "$object_label_en")" "$desc_en_sql"
+    printf "INSERT INTO %s VALUES(%d,'es',%s,%s);\n" \
+	   "$table" "$object_id" "$(esc "$object_label_es")" "$desc_es_sql"
 }
 
 (
