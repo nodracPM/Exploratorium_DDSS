@@ -8,6 +8,7 @@ This update adds object-level `reference` and `year` fields, plus a localized `d
 
 - [db/ddl.sql](/home/pmcc/Desktop/social service/Exploratorium_MMSS/db/ddl.sql)
 - [scripts/csv2sql.sh](/home/pmcc/Desktop/social service/Exploratorium_MMSS/scripts/csv2sql.sh)
+- [scripts/ods2db.sh](/home/pmcc/Desktop/social service/Exploratorium_MMSS/scripts/ods2db.sh)
 - [doc/object-schema-update.md](/home/pmcc/Desktop/social service/Exploratorium_MMSS/doc/object-schema-update.md)
 
 ## Schema Changes
@@ -92,6 +93,44 @@ Implementation details:
 - Empty description cells are converted to `NULL`.
 - Non-empty descriptions remain language-specific and are inserted into the corresponding `object_desc` rows.
 
+## Import Script Bug Fix
+
+The overwrite behavior in [scripts/ods2db.sh](/home/pmcc/Desktop/social service/Exploratorium_MMSS/scripts/ods2db.sh) was corrected.
+
+### Problem
+
+The script previously rejected existing output files when `-f` was provided, which inverted the intended meaning of the force flag.
+
+Previous condition:
+
+```bash
+if [ -n "$FORCE" -a -e "$OUTPUT" ]; then
+```
+
+This caused commands such as:
+
+```bash
+scripts/ods2db.sh -f db/ods/test.ods db/test.db
+```
+
+to fail whenever `db/test.db` already existed.
+
+### Fix
+
+The condition now checks for the absence of the force flag:
+
+```bash
+if [ -z "$FORCE" -a -e "$OUTPUT" ]; then
+```
+
+### Result
+
+The script behavior is now correct:
+
+- existing output file + no `-f`: stop and warn
+- existing output file + `-f`: overwrite allowed
+- missing output file: proceed normally
+
 ## Design Notes
 
 - `reference` and `year` were placed on `object` because they describe the canonical object, not a specific translation.
@@ -120,6 +159,12 @@ provided the corresponding ODS-derived columns are present:
 - `year`
 - `object_desc_en`
 - `object_desc_es`
+
+For repeatable local testing, the import command now works as expected with overwrite semantics:
+
+```bash
+scripts/ods2db.sh -f your-file.ods db/test.db
+```
 
 ## Recommended Next Steps
 

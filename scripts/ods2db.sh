@@ -26,7 +26,7 @@ EOF
     exit 1
 fi
 
-if [ -n "$FORCE" -a -e "$OUTPUT" ]; then
+if [ -z "$FORCE" -a -e "$OUTPUT" ]; then
     {
 	echo "$0: Output file '$OUTPUT' already exists."
 	echo "	Use -f to force overwrite."
